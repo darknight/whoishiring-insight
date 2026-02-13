@@ -1,5 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import CompanyRankingChart from '../components/charts/CompanyRankingChart.svelte';
+import CompanyTypeChart from '../components/charts/CompanyTypeChart.svelte';
+import SalaryDistributionChart from '../components/charts/SalaryDistributionChart.svelte';
+import companyStats from '../data/company-stats.json';
 ---
 
 <Layout title="公司分析 - 谁在招人">
@@ -8,8 +12,29 @@ import Layout from '../layouts/Layout.astro';
       <h1 class="text-3xl font-bold tracking-tight text-(--color-text-primary)">公司分析</h1>
       <p class="mt-2 text-(--color-text-secondary)">招聘公司统计与排名</p>
     </div>
-    <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-8 text-center text-(--color-text-tertiary)">
-      图表加载中...
+
+    <div class="space-y-8">
+      <!-- 公司排名 -->
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <h3 class="mb-4 text-lg font-semibold text-(--color-text-primary)">高频招聘公司 Top 20</h3>
+        <CompanyRankingChart data={companyStats.rankings} client:visible />
+      </div>
+
+      <!-- 公司类型 + 薪资分布 -->
+      <div class="grid gap-8 lg:grid-cols-2">
+        <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+          <h3 class="mb-4 text-lg font-semibold text-(--color-text-primary)">公司类型分布</h3>
+          <CompanyTypeChart data={companyStats.byType} client:visible />
+        </div>
+
+        <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+          <h3 class="mb-4 text-lg font-semibold text-(--color-text-primary)">薪资区间分布</h3>
+          <SalaryDistributionChart data={companyStats.salaryDistribution} client:visible />
+          <p class="mt-3 text-center text-sm text-(--color-text-tertiary)">
+            基于 {companyStats.salaryValidSamples.toLocaleString()} 个有效薪资样本
+          </p>
+        </div>
+      </div>
     </div>
   </div>
 </Layout>
