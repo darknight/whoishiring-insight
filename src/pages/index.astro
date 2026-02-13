@@ -3,10 +3,30 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="谁在招人 - 招聘数据洞察">
-  <main class="mx-auto max-w-7xl px-4 py-8">
-    <h1 class="text-3xl font-bold">谁在招人 - 招聘数据洞察</h1>
-    <p class="mt-4 text-gray-600">
-      基于阮一峰周刊「谁在招人」栏目的招聘数据可视化分析
-    </p>
-  </main>
+  <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6">
+    <div class="mb-8">
+      <h1 class="text-3xl font-bold tracking-tight text-(--color-text-primary)">招聘数据洞察</h1>
+      <p class="mt-2 text-(--color-text-secondary)">
+        基于阮一峰科技爱好者周刊「谁在招人」栏目的招聘数据可视化分析
+      </p>
+    </div>
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <p class="text-sm font-medium text-(--color-text-tertiary)">总招聘条目</p>
+        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">--</p>
+      </div>
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <p class="text-sm font-medium text-(--color-text-tertiary)">涉及公司</p>
+        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">--</p>
+      </div>
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <p class="text-sm font-medium text-(--color-text-tertiary)">覆盖城市</p>
+        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">--</p>
+      </div>
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <p class="text-sm font-medium text-(--color-text-tertiary)">技术栈标签</p>
+        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">--</p>
+      </div>
+    </div>
+  </div>
 </Layout>
