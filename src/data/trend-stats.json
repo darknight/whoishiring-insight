@@ -1,0 +1,6844 @@
+{
+  "postingTrend": [
+    {
+      "yearMonth": "2019-08",
+      "count": 22
+    },
+    {
+      "yearMonth": "2019-09",
+      "count": 17
+    },
+    {
+      "yearMonth": "2019-10",
+      "count": 22
+    },
+    {
+      "yearMonth": "2019-11",
+      "count": 24
+    },
+    {
+      "yearMonth": "2019-12",
+      "count": 22
+    },
+    {
+      "yearMonth": "2020-01",
+      "count": 27
+    },
+    {
+      "yearMonth": "2020-02",
+      "count": 21
+    },
+    {
+      "yearMonth": "2020-03",
+      "count": 20
+    },
+    {
+      "yearMonth": "2020-04",
+      "count": 25
+    },
+    {
+      "yearMonth": "2020-05",
+      "count": 24
+    },
+    {
+      "yearMonth": "2020-06",
+      "count": 29
+    },
+    {
+      "yearMonth": "2020-07",
+      "count": 28
+    },
+    {
+      "yearMonth": "2020-08",
+      "count": 25
+    },
+    {
+      "yearMonth": "2020-09",
+      "count": 23
+    },
+    {
+      "yearMonth": "2020-10",
+      "count": 28
+    },
+    {
+      "yearMonth": "2020-11",
+      "count": 24
+    },
+    {
+      "yearMonth": "2020-12",
+      "count": 25
+    },
+    {
+      "yearMonth": "2021-01",
+      "count": 27
+    },
+    {
+      "yearMonth": "2021-02",
+      "count": 30
+    },
+    {
+      "yearMonth": "2021-03",
+      "count": 28
+    },
+    {
+      "yearMonth": "2021-04",
+      "count": 30
+    },
+    {
+      "yearMonth": "2021-05",
+      "count": 33
+    },
+    {
+      "yearMonth": "2021-06",
+      "count": 32
+    },
+    {
+      "yearMonth": "2021-07",
+      "count": 33
+    },
+    {
+      "yearMonth": "2021-08",
+      "count": 28
+    },
+    {
+      "yearMonth": "2021-09",
+      "count": 34
+    },
+    {
+      "yearMonth": "2021-10",
+      "count": 32
+    },
+    {
+      "yearMonth": "2021-11",
+      "count": 31
+    },
+    {
+      "yearMonth": "2021-12",
+      "count": 26
+    },
+    {
+      "yearMonth": "2022-01",
+      "count": 38
+    },
+    {
+      "yearMonth": "2022-02",
+      "count": 34
+    },
+    {
+      "yearMonth": "2022-03",
+      "count": 38
+    },
+    {
+      "yearMonth": "2022-04",
+      "count": 37
+    },
+    {
+      "yearMonth": "2022-05",
+      "count": 33
+    },
+    {
+      "yearMonth": "2022-06",
+      "count": 33
+    },
+    {
+      "yearMonth": "2022-07",
+      "count": 37
+    },
+    {
+      "yearMonth": "2022-08",
+      "count": 31
+    },
+    {
+      "yearMonth": "2022-09",
+      "count": 39
+    },
+    {
+      "yearMonth": "2022-10",
+      "count": 33
+    },
+    {
+      "yearMonth": "2022-11",
+      "count": 31
+    },
+    {
+      "yearMonth": "2022-12",
+      "count": 33
+    },
+    {
+      "yearMonth": "2023-01",
+      "count": 42
+    },
+    {
+      "yearMonth": "2023-02",
+      "count": 39
+    },
+    {
+      "yearMonth": "2023-03",
+      "count": 38
+    },
+    {
+      "yearMonth": "2023-04",
+      "count": 37
+    },
+    {
+      "yearMonth": "2023-05",
+      "count": 36
+    },
+    {
+      "yearMonth": "2023-06",
+      "count": 39
+    },
+    {
+      "yearMonth": "2023-07",
+      "count": 27
+    },
+    {
+      "yearMonth": "2023-08",
+      "count": 29
+    },
+    {
+      "yearMonth": "2023-09",
+      "count": 27
+    },
+    {
+      "yearMonth": "2023-10",
+      "count": 29
+    },
+    {
+      "yearMonth": "2023-11",
+      "count": 33
+    },
+    {
+      "yearMonth": "2023-12",
+      "count": 30
+    },
+    {
+      "yearMonth": "2024-01",
+      "count": 34
+    },
+    {
+      "yearMonth": "2024-02",
+      "count": 38
+    },
+    {
+      "yearMonth": "2024-03",
+      "count": 38
+    },
+    {
+      "yearMonth": "2024-04",
+      "count": 37
+    },
+    {
+      "yearMonth": "2024-05",
+      "count": 36
+    },
+    {
+      "yearMonth": "2024-06",
+      "count": 41
+    },
+    {
+      "yearMonth": "2024-07",
+      "count": 39
+    },
+    {
+      "yearMonth": "2024-08",
+      "count": 41
+    },
+    {
+      "yearMonth": "2024-09",
+      "count": 40
+    },
+    {
+      "yearMonth": "2024-10",
+      "count": 38
+    },
+    {
+      "yearMonth": "2024-11",
+      "count": 35
+    },
+    {
+      "yearMonth": "2024-12",
+      "count": 35
+    },
+    {
+      "yearMonth": "2025-01",
+      "count": 58
+    },
+    {
+      "yearMonth": "2025-02",
+      "count": 51
+    },
+    {
+      "yearMonth": "2025-03",
+      "count": 59
+    },
+    {
+      "yearMonth": "2025-04",
+      "count": 57
+    },
+    {
+      "yearMonth": "2025-05",
+      "count": 58
+    },
+    {
+      "yearMonth": "2025-06",
+      "count": 59
+    },
+    {
+      "yearMonth": "2025-07",
+      "count": 58
+    },
+    {
+      "yearMonth": "2025-08",
+      "count": 55
+    },
+    {
+      "yearMonth": "2025-09",
+      "count": 50
+    },
+    {
+      "yearMonth": "2025-10",
+      "count": 51
+    },
+    {
+      "yearMonth": "2025-11",
+      "count": 57
+    },
+    {
+      "yearMonth": "2025-12",
+      "count": 52
+    },
+    {
+      "yearMonth": "2026-01",
+      "count": 57
+    },
+    {
+      "yearMonth": "2026-02",
+      "count": 56
+    }
+  ],
+  "categoryTrend": {
+    "后端": [
+      {
+        "yearMonth": "2019-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 11
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 9
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 10
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 11
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 11
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 11
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 8
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 6
+      }
+    ],
+    "前端": [
+      {
+        "yearMonth": "2019-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 9
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 10
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 10
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 11
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 10
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 12
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 14
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 10
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 9
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 10
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 8
+      }
+    ],
+    "移动端": [
+      {
+        "yearMonth": "2019-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 8
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 12
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 11
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 10
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 9
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 10
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 15
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 9
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 10
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 10
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 14
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 4
+      }
+    ],
+    "测试": [
+      {
+        "yearMonth": "2019-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 3
+      }
+    ],
+    "AI/ML": [
+      {
+        "yearMonth": "2019-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 1
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 24
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 20
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 18
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 21
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 27
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 23
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 16
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 19
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 18
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 24
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 22
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 22
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 26
+      }
+    ],
+    "全栈": [
+      {
+        "yearMonth": "2019-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 1
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 1
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 1
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 5
+      }
+    ],
+    "DevOps": [
+      {
+        "yearMonth": "2019-08",
+        "count": 1
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 0
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 1
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 1
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 1
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 2
+      }
+    ],
+    "数据": [
+      {
+        "yearMonth": "2019-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 1
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 0
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 6
+      }
+    ]
+  },
+  "remoteTrend": [
+    {
+      "yearMonth": "2019-08",
+      "count": 4,
+      "percentage": 18.18
+    },
+    {
+      "yearMonth": "2019-09",
+      "count": 4,
+      "percentage": 23.53
+    },
+    {
+      "yearMonth": "2019-10",
+      "count": 8,
+      "percentage": 36.36
+    },
+    {
+      "yearMonth": "2019-11",
+      "count": 4,
+      "percentage": 16.67
+    },
+    {
+      "yearMonth": "2019-12",
+      "count": 3,
+      "percentage": 13.64
+    },
+    {
+      "yearMonth": "2020-01",
+      "count": 6,
+      "percentage": 22.22
+    },
+    {
+      "yearMonth": "2020-02",
+      "count": 2,
+      "percentage": 9.52
+    },
+    {
+      "yearMonth": "2020-03",
+      "count": 1,
+      "percentage": 5
+    },
+    {
+      "yearMonth": "2020-04",
+      "count": 8,
+      "percentage": 32
+    },
+    {
+      "yearMonth": "2020-05",
+      "count": 5,
+      "percentage": 20.83
+    },
+    {
+      "yearMonth": "2020-06",
+      "count": 7,
+      "percentage": 24.14
+    },
+    {
+      "yearMonth": "2020-07",
+      "count": 6,
+      "percentage": 21.43
+    },
+    {
+      "yearMonth": "2020-08",
+      "count": 8,
+      "percentage": 32
+    },
+    {
+      "yearMonth": "2020-09",
+      "count": 4,
+      "percentage": 17.39
+    },
+    {
+      "yearMonth": "2020-10",
+      "count": 12,
+      "percentage": 42.86
+    },
+    {
+      "yearMonth": "2020-11",
+      "count": 5,
+      "percentage": 20.83
+    },
+    {
+      "yearMonth": "2020-12",
+      "count": 4,
+      "percentage": 16
+    },
+    {
+      "yearMonth": "2021-01",
+      "count": 10,
+      "percentage": 37.04
+    },
+    {
+      "yearMonth": "2021-02",
+      "count": 8,
+      "percentage": 26.67
+    },
+    {
+      "yearMonth": "2021-03",
+      "count": 11,
+      "percentage": 39.29
+    },
+    {
+      "yearMonth": "2021-04",
+      "count": 7,
+      "percentage": 23.33
+    },
+    {
+      "yearMonth": "2021-05",
+      "count": 11,
+      "percentage": 33.33
+    },
+    {
+      "yearMonth": "2021-06",
+      "count": 9,
+      "percentage": 28.13
+    },
+    {
+      "yearMonth": "2021-07",
+      "count": 12,
+      "percentage": 36.36
+    },
+    {
+      "yearMonth": "2021-08",
+      "count": 8,
+      "percentage": 28.57
+    },
+    {
+      "yearMonth": "2021-09",
+      "count": 10,
+      "percentage": 29.41
+    },
+    {
+      "yearMonth": "2021-10",
+      "count": 10,
+      "percentage": 31.25
+    },
+    {
+      "yearMonth": "2021-11",
+      "count": 13,
+      "percentage": 41.94
+    },
+    {
+      "yearMonth": "2021-12",
+      "count": 7,
+      "percentage": 26.92
+    },
+    {
+      "yearMonth": "2022-01",
+      "count": 11,
+      "percentage": 28.95
+    },
+    {
+      "yearMonth": "2022-02",
+      "count": 7,
+      "percentage": 20.59
+    },
+    {
+      "yearMonth": "2022-03",
+      "count": 6,
+      "percentage": 15.79
+    },
+    {
+      "yearMonth": "2022-04",
+      "count": 7,
+      "percentage": 18.92
+    },
+    {
+      "yearMonth": "2022-05",
+      "count": 8,
+      "percentage": 24.24
+    },
+    {
+      "yearMonth": "2022-06",
+      "count": 5,
+      "percentage": 15.15
+    },
+    {
+      "yearMonth": "2022-07",
+      "count": 6,
+      "percentage": 16.22
+    },
+    {
+      "yearMonth": "2022-08",
+      "count": 5,
+      "percentage": 16.13
+    },
+    {
+      "yearMonth": "2022-09",
+      "count": 9,
+      "percentage": 23.08
+    },
+    {
+      "yearMonth": "2022-10",
+      "count": 5,
+      "percentage": 15.15
+    },
+    {
+      "yearMonth": "2022-11",
+      "count": 6,
+      "percentage": 19.35
+    },
+    {
+      "yearMonth": "2022-12",
+      "count": 7,
+      "percentage": 21.21
+    },
+    {
+      "yearMonth": "2023-01",
+      "count": 7,
+      "percentage": 16.67
+    },
+    {
+      "yearMonth": "2023-02",
+      "count": 9,
+      "percentage": 23.08
+    },
+    {
+      "yearMonth": "2023-03",
+      "count": 14,
+      "percentage": 36.84
+    },
+    {
+      "yearMonth": "2023-04",
+      "count": 8,
+      "percentage": 21.62
+    },
+    {
+      "yearMonth": "2023-05",
+      "count": 8,
+      "percentage": 22.22
+    },
+    {
+      "yearMonth": "2023-06",
+      "count": 11,
+      "percentage": 28.21
+    },
+    {
+      "yearMonth": "2023-07",
+      "count": 3,
+      "percentage": 11.11
+    },
+    {
+      "yearMonth": "2023-08",
+      "count": 6,
+      "percentage": 20.69
+    },
+    {
+      "yearMonth": "2023-09",
+      "count": 9,
+      "percentage": 33.33
+    },
+    {
+      "yearMonth": "2023-10",
+      "count": 8,
+      "percentage": 27.59
+    },
+    {
+      "yearMonth": "2023-11",
+      "count": 6,
+      "percentage": 18.18
+    },
+    {
+      "yearMonth": "2023-12",
+      "count": 8,
+      "percentage": 26.67
+    },
+    {
+      "yearMonth": "2024-01",
+      "count": 9,
+      "percentage": 26.47
+    },
+    {
+      "yearMonth": "2024-02",
+      "count": 8,
+      "percentage": 21.05
+    },
+    {
+      "yearMonth": "2024-03",
+      "count": 7,
+      "percentage": 18.42
+    },
+    {
+      "yearMonth": "2024-04",
+      "count": 10,
+      "percentage": 27.03
+    },
+    {
+      "yearMonth": "2024-05",
+      "count": 6,
+      "percentage": 16.67
+    },
+    {
+      "yearMonth": "2024-06",
+      "count": 11,
+      "percentage": 26.83
+    },
+    {
+      "yearMonth": "2024-07",
+      "count": 8,
+      "percentage": 20.51
+    },
+    {
+      "yearMonth": "2024-08",
+      "count": 10,
+      "percentage": 24.39
+    },
+    {
+      "yearMonth": "2024-09",
+      "count": 10,
+      "percentage": 25
+    },
+    {
+      "yearMonth": "2024-10",
+      "count": 9,
+      "percentage": 23.68
+    },
+    {
+      "yearMonth": "2024-11",
+      "count": 8,
+      "percentage": 22.86
+    },
+    {
+      "yearMonth": "2024-12",
+      "count": 7,
+      "percentage": 20
+    },
+    {
+      "yearMonth": "2025-01",
+      "count": 16,
+      "percentage": 27.59
+    },
+    {
+      "yearMonth": "2025-02",
+      "count": 13,
+      "percentage": 25.49
+    },
+    {
+      "yearMonth": "2025-03",
+      "count": 15,
+      "percentage": 25.42
+    },
+    {
+      "yearMonth": "2025-04",
+      "count": 13,
+      "percentage": 22.81
+    },
+    {
+      "yearMonth": "2025-05",
+      "count": 17,
+      "percentage": 29.31
+    },
+    {
+      "yearMonth": "2025-06",
+      "count": 13,
+      "percentage": 22.03
+    },
+    {
+      "yearMonth": "2025-07",
+      "count": 14,
+      "percentage": 24.14
+    },
+    {
+      "yearMonth": "2025-08",
+      "count": 13,
+      "percentage": 23.64
+    },
+    {
+      "yearMonth": "2025-09",
+      "count": 9,
+      "percentage": 18
+    },
+    {
+      "yearMonth": "2025-10",
+      "count": 9,
+      "percentage": 17.65
+    },
+    {
+      "yearMonth": "2025-11",
+      "count": 18,
+      "percentage": 31.58
+    },
+    {
+      "yearMonth": "2025-12",
+      "count": 12,
+      "percentage": 23.08
+    },
+    {
+      "yearMonth": "2026-01",
+      "count": 14,
+      "percentage": 24.56
+    },
+    {
+      "yearMonth": "2026-02",
+      "count": 18,
+      "percentage": 32.14
+    }
+  ],
+  "overseasTrend": [
+    {
+      "yearMonth": "2019-08",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2019-09",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2019-10",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2019-11",
+      "count": 2,
+      "percentage": 8.33
+    },
+    {
+      "yearMonth": "2019-12",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2020-01",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2020-02",
+      "count": 2,
+      "percentage": 9.52
+    },
+    {
+      "yearMonth": "2020-03",
+      "count": 3,
+      "percentage": 15
+    },
+    {
+      "yearMonth": "2020-04",
+      "count": 1,
+      "percentage": 4
+    },
+    {
+      "yearMonth": "2020-05",
+      "count": 3,
+      "percentage": 12.5
+    },
+    {
+      "yearMonth": "2020-06",
+      "count": 2,
+      "percentage": 6.9
+    },
+    {
+      "yearMonth": "2020-07",
+      "count": 4,
+      "percentage": 14.29
+    },
+    {
+      "yearMonth": "2020-08",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2020-09",
+      "count": 1,
+      "percentage": 4.35
+    },
+    {
+      "yearMonth": "2020-10",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2020-11",
+      "count": 1,
+      "percentage": 4.17
+    },
+    {
+      "yearMonth": "2020-12",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2021-01",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2021-02",
+      "count": 1,
+      "percentage": 3.33
+    },
+    {
+      "yearMonth": "2021-03",
+      "count": 1,
+      "percentage": 3.57
+    },
+    {
+      "yearMonth": "2021-04",
+      "count": 1,
+      "percentage": 3.33
+    },
+    {
+      "yearMonth": "2021-05",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2021-06",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2021-07",
+      "count": 2,
+      "percentage": 6.06
+    },
+    {
+      "yearMonth": "2021-08",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2021-09",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2021-10",
+      "count": 1,
+      "percentage": 3.13
+    },
+    {
+      "yearMonth": "2021-11",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2021-12",
+      "count": 1,
+      "percentage": 3.85
+    },
+    {
+      "yearMonth": "2022-01",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2022-02",
+      "count": 2,
+      "percentage": 5.88
+    },
+    {
+      "yearMonth": "2022-03",
+      "count": 1,
+      "percentage": 2.63
+    },
+    {
+      "yearMonth": "2022-04",
+      "count": 1,
+      "percentage": 2.7
+    },
+    {
+      "yearMonth": "2022-05",
+      "count": 2,
+      "percentage": 6.06
+    },
+    {
+      "yearMonth": "2022-06",
+      "count": 2,
+      "percentage": 6.06
+    },
+    {
+      "yearMonth": "2022-07",
+      "count": 2,
+      "percentage": 5.41
+    },
+    {
+      "yearMonth": "2022-08",
+      "count": 1,
+      "percentage": 3.23
+    },
+    {
+      "yearMonth": "2022-09",
+      "count": 3,
+      "percentage": 7.69
+    },
+    {
+      "yearMonth": "2022-10",
+      "count": 1,
+      "percentage": 3.03
+    },
+    {
+      "yearMonth": "2022-11",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2022-12",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2023-01",
+      "count": 1,
+      "percentage": 2.38
+    },
+    {
+      "yearMonth": "2023-02",
+      "count": 1,
+      "percentage": 2.56
+    },
+    {
+      "yearMonth": "2023-03",
+      "count": 3,
+      "percentage": 7.89
+    },
+    {
+      "yearMonth": "2023-04",
+      "count": 4,
+      "percentage": 10.81
+    },
+    {
+      "yearMonth": "2023-05",
+      "count": 3,
+      "percentage": 8.33
+    },
+    {
+      "yearMonth": "2023-06",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2023-07",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2023-08",
+      "count": 1,
+      "percentage": 3.45
+    },
+    {
+      "yearMonth": "2023-09",
+      "count": 2,
+      "percentage": 7.41
+    },
+    {
+      "yearMonth": "2023-10",
+      "count": 2,
+      "percentage": 6.9
+    },
+    {
+      "yearMonth": "2023-11",
+      "count": 1,
+      "percentage": 3.03
+    },
+    {
+      "yearMonth": "2023-12",
+      "count": 1,
+      "percentage": 3.33
+    },
+    {
+      "yearMonth": "2024-01",
+      "count": 4,
+      "percentage": 11.76
+    },
+    {
+      "yearMonth": "2024-02",
+      "count": 1,
+      "percentage": 2.63
+    },
+    {
+      "yearMonth": "2024-03",
+      "count": 2,
+      "percentage": 5.26
+    },
+    {
+      "yearMonth": "2024-04",
+      "count": 3,
+      "percentage": 8.11
+    },
+    {
+      "yearMonth": "2024-05",
+      "count": 1,
+      "percentage": 2.78
+    },
+    {
+      "yearMonth": "2024-06",
+      "count": 3,
+      "percentage": 7.32
+    },
+    {
+      "yearMonth": "2024-07",
+      "count": 2,
+      "percentage": 5.13
+    },
+    {
+      "yearMonth": "2024-08",
+      "count": 2,
+      "percentage": 4.88
+    },
+    {
+      "yearMonth": "2024-09",
+      "count": 2,
+      "percentage": 5
+    },
+    {
+      "yearMonth": "2024-10",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2024-11",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2024-12",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2025-01",
+      "count": 1,
+      "percentage": 1.72
+    },
+    {
+      "yearMonth": "2025-02",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2025-03",
+      "count": 2,
+      "percentage": 3.39
+    },
+    {
+      "yearMonth": "2025-04",
+      "count": 1,
+      "percentage": 1.75
+    },
+    {
+      "yearMonth": "2025-05",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2025-06",
+      "count": 1,
+      "percentage": 1.69
+    },
+    {
+      "yearMonth": "2025-07",
+      "count": 2,
+      "percentage": 3.45
+    },
+    {
+      "yearMonth": "2025-08",
+      "count": 1,
+      "percentage": 1.82
+    },
+    {
+      "yearMonth": "2025-09",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "yearMonth": "2025-10",
+      "count": 1,
+      "percentage": 1.96
+    },
+    {
+      "yearMonth": "2025-11",
+      "count": 3,
+      "percentage": 5.26
+    },
+    {
+      "yearMonth": "2025-12",
+      "count": 1,
+      "percentage": 1.92
+    },
+    {
+      "yearMonth": "2026-01",
+      "count": 3,
+      "percentage": 5.26
+    },
+    {
+      "yearMonth": "2026-02",
+      "count": 3,
+      "percentage": 5.36
+    }
+  ],
+  "experienceTrend": {
+    "1年以上": [
+      {
+        "yearMonth": "2019-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 9
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 9
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 1
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 1
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 14
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 8
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 9
+      }
+    ],
+    "不限": [
+      {
+        "yearMonth": "2019-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 9
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 10
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 9
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 9
+      }
+    ],
+    "3-5年": [
+      {
+        "yearMonth": "2019-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 8
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 9
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 10
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 5
+      }
+    ],
+    "5年以上": [
+      {
+        "yearMonth": "2019-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 14
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 8
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 10
+      }
+    ],
+    "2-4年": [
+      {
+        "yearMonth": "2019-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 9
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 11
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 9
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 11
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 9
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 7
+      }
+    ],
+    "1-3年": [
+      {
+        "yearMonth": "2019-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 2
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 10
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 5
+      }
+    ]
+  },
+  "educationTrend": {
+    "本科": [
+      {
+        "yearMonth": "2019-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 9
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 8
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 10
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 9
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 11
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 11
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 9
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 9
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 10
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 10
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 11
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 16
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 10
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 10
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 15
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 14
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 18
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 15
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 16
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 8
+      }
+    ],
+    "不限": [
+      {
+        "yearMonth": "2019-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 1
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 9
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 15
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 10
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 10
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 10
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 9
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 12
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 10
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 10
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 13
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 15
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 15
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 15
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 8
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 12
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 16
+      }
+    ],
+    "本科及以上": [
+      {
+        "yearMonth": "2019-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 9
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 1
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 8
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 3
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 11
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 9
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 9
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 11
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 11
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 11
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 11
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 11
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 11
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 3
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 8
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 14
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 10
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 10
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 16
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 14
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 17
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 9
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 12
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 8
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 12
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 12
+      }
+    ],
+    "硕士": [
+      {
+        "yearMonth": "2019-08",
+        "count": 4
+      },
+      {
+        "yearMonth": "2019-09",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2019-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-01",
+        "count": 2
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2020-07",
+        "count": 4
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 5
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-10",
+        "count": 6
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 8
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 7
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 5
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 8
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 10
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 4
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 1
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 10
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 8
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 10
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 5
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-02",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 14
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 6
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 7
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 10
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 4
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 7
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 9
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 5
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 6
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 8
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 11
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 3
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 4
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 13
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 6
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 11
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 8
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 15
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 10
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 7
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 8
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 7
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 11
+      }
+    ]
+  }
+}

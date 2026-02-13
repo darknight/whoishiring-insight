@@ -1,0 +1,132 @@
+{
+  "totalPostings": 2823,
+  "totalMonths": 79,
+  "dateRange": {
+    "start": "2019-08",
+    "end": "2026-02"
+  },
+  "topCities": [
+    {
+      "name": "上海",
+      "count": 506
+    },
+    {
+      "name": "北京",
+      "count": 497
+    },
+    {
+      "name": "远程",
+      "count": 379
+    },
+    {
+      "name": "广州",
+      "count": 327
+    },
+    {
+      "name": "成都",
+      "count": 324
+    },
+    {
+      "name": "深圳",
+      "count": 288
+    },
+    {
+      "name": "杭州",
+      "count": 286
+    },
+    {
+      "name": "南京",
+      "count": 110
+    },
+    {
+      "name": "武汉",
+      "count": 106
+    }
+  ],
+  "topTechStack": [
+    {
+      "name": "TypeScript",
+      "count": 1270
+    },
+    {
+      "name": "Python",
+      "count": 946
+    },
+    {
+      "name": "PostgreSQL",
+      "count": 696
+    },
+    {
+      "name": "Docker",
+      "count": 665
+    },
+    {
+      "name": "React",
+      "count": 533
+    },
+    {
+      "name": "MySQL",
+      "count": 513
+    },
+    {
+      "name": "Node.js",
+      "count": 503
+    },
+    {
+      "name": "Redis",
+      "count": 493
+    },
+    {
+      "name": "Go",
+      "count": 492
+    },
+    {
+      "name": "PyTorch",
+      "count": 429
+    }
+  ],
+  "topCompanies": [
+    {
+      "name": "极氪",
+      "count": 144
+    },
+    {
+      "name": "美团",
+      "count": 140
+    },
+    {
+      "name": "拼多多",
+      "count": 140
+    },
+    {
+      "name": "智谱AI",
+      "count": 135
+    },
+    {
+      "name": "Microsoft",
+      "count": 135
+    },
+    {
+      "name": "声网",
+      "count": 134
+    },
+    {
+      "name": "中国银行软件中心",
+      "count": 134
+    },
+    {
+      "name": "字节跳动",
+      "count": 133
+    },
+    {
+      "name": "飞书深诺",
+      "count": 132
+    },
+    {
+      "name": "Google",
+      "count": 131
+    }
+  ],
+  "remotePercentage": 24.19,
+  "overseasPercentage": 3.51
+}
