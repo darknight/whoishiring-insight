@@ -1,31 +1,97 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import OverviewTrendSection from '../components/OverviewTrendSection.svelte';
+import overview from '../data/overview.json';
+import trendStats from '../data/trend-stats.json';
+
+const { totalPostings, totalMonths, remotePercentage, overseasPercentage, topCities, topTechStack, topCompanies, dateRange } = overview;
+const { postingTrend } = trendStats;
+
+const metrics = [
+  { label: '总招聘帖数', value: totalPostings.toLocaleString(), sub: `${dateRange.start} ~ ${dateRange.end}` },
+  { label: '覆盖月份', value: totalMonths, sub: '持续追踪中' },
+  { label: '远程岗位占比', value: `${remotePercentage}%`, sub: '支持远程办公' },
+  { label: '海外岗位占比', value: `${overseasPercentage}%`, sub: '全球化机会' },
+];
 ---
 
 <Layout title="谁在招人 - 招聘数据洞察">
   <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6">
-    <div class="mb-8">
+    <!-- Header -->
+    <div class="mb-10">
       <h1 class="text-3xl font-bold tracking-tight text-(--color-text-primary)">招聘数据洞察</h1>
       <p class="mt-2 text-(--color-text-secondary)">
         基于阮一峰科技爱好者周刊「谁在招人」栏目的招聘数据可视化分析
       </p>
     </div>
-    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+
+    <!-- Metric Cards -->
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+      {metrics.map((m) => (
+        <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+          <p class="text-sm font-medium text-(--color-text-tertiary)">{m.label}</p>
+          <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">{m.value}</p>
+          <p class="mt-1 text-xs text-(--color-text-tertiary)">{m.sub}</p>
+        </div>
+      ))}
+    </div>
+
+    <!-- Posting Trend Chart -->
+    <div class="mt-10">
+      <OverviewTrendSection data={postingTrend} client:load />
+    </div>
+
+    <!-- Top Lists -->
+    <div class="mt-10 grid gap-6 lg:grid-cols-3">
+      <!-- Top Cities -->
       <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
-        <p class="text-sm font-medium text-(--color-text-tertiary)">总招聘条目</p>
-        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">--</p>
+        <h3 class="text-sm font-semibold text-(--color-text-primary)">热门城市</h3>
+        <p class="mt-0.5 text-xs text-(--color-text-tertiary)">招聘帖数量 Top 5</p>
+        <ul class="mt-4 space-y-3">
+          {topCities.slice(0, 5).map((city, i) => (
+            <li class="flex items-center justify-between">
+              <div class="flex items-center gap-2.5">
+                <span class="flex h-5 w-5 items-center justify-center rounded text-xs font-medium tabular-nums bg-(--color-surface-tertiary) text-(--color-text-tertiary)">{i + 1}</span>
+                <span class="text-sm text-(--color-text-primary)">{city.name}</span>
+              </div>
+              <span class="text-sm tabular-nums text-(--color-text-secondary)">{city.count}</span>
+            </li>
+          ))}
+        </ul>
       </div>
+
+      <!-- Top Tech Stack -->
       <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
-        <p class="text-sm font-medium text-(--color-text-tertiary)">涉及公司</p>
-        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">--</p>
+        <h3 class="text-sm font-semibold text-(--color-text-primary)">热门技术栈</h3>
+        <p class="mt-0.5 text-xs text-(--color-text-tertiary)">出现频率 Top 5</p>
+        <ul class="mt-4 space-y-3">
+          {topTechStack.slice(0, 5).map((tech, i) => (
+            <li class="flex items-center justify-between">
+              <div class="flex items-center gap-2.5">
+                <span class="flex h-5 w-5 items-center justify-center rounded text-xs font-medium tabular-nums bg-(--color-surface-tertiary) text-(--color-text-tertiary)">{i + 1}</span>
+                <span class="text-sm text-(--color-text-primary)">{tech.name}</span>
+              </div>
+              <span class="text-sm tabular-nums text-(--color-text-secondary)">{tech.count}</span>
+            </li>
+          ))}
+        </ul>
       </div>
+
+      <!-- Top Companies -->
       <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
-        <p class="text-sm font-medium text-(--color-text-tertiary)">覆盖城市</p>
-        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">--</p>
-      </div>
-      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
-        <p class="text-sm font-medium text-(--color-text-tertiary)">技术栈标签</p>
-        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">--</p>
+        <h3 class="text-sm font-semibold text-(--color-text-primary)">热门公司</h3>
+        <p class="mt-0.5 text-xs text-(--color-text-tertiary)">招聘次数 Top 5</p>
+        <ul class="mt-4 space-y-3">
+          {topCompanies.slice(0, 5).map((company, i) => (
+            <li class="flex items-center justify-between">
+              <div class="flex items-center gap-2.5">
+                <span class="flex h-5 w-5 items-center justify-center rounded text-xs font-medium tabular-nums bg-(--color-surface-tertiary) text-(--color-text-tertiary)">{i + 1}</span>
+                <span class="text-sm text-(--color-text-primary)">{company.name}</span>
+              </div>
+              <span class="text-sm tabular-nums text-(--color-text-secondary)">{company.count}</span>
+            </li>
+          ))}
+        </ul>
       </div>
     </div>
   </div>
