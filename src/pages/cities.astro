@@ -1,5 +1,15 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import TimeRangeFilter from '../components/TimeRangeFilter.svelte';
+import CityRankingChart from '../components/charts/CityRankingChart.svelte';
+import CityTrendChart from '../components/charts/CityTrendChart.svelte';
+import cityStats from '../data/city-stats.json';
+
+const { rankings, trends } = cityStats;
+const totalCities = rankings.length;
+const top3 = rankings.slice(0, 3);
+const totalPostings = rankings.reduce((sum, c) => sum + c.count, 0);
+const topTrendCities = rankings.slice(0, 6).map((c) => c.name);
 ---
 
 <Layout title="地域分析 - 谁在招人">
@@ -8,8 +18,68 @@ import Layout from '../layouts/Layout.astro';
       <h1 class="text-3xl font-bold tracking-tight text-(--color-text-primary)">地域分析</h1>
       <p class="mt-2 text-(--color-text-secondary)">各城市招聘分布与变化</p>
     </div>
-    <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-8 text-center text-(--color-text-tertiary)">
-      图表加载中...
+
+    <!-- Summary Stats -->
+    <div class="mb-6 grid gap-4 sm:grid-cols-3">
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <p class="text-sm font-medium text-(--color-text-tertiary)">总覆盖城市</p>
+        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">{totalCities}</p>
+      </div>
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <p class="text-sm font-medium text-(--color-text-tertiary)">招聘总量</p>
+        <p class="mt-1 text-3xl font-semibold tabular-nums text-(--color-text-primary)">{totalPostings.toLocaleString()}</p>
+      </div>
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <p class="text-sm font-medium text-(--color-text-tertiary)">Top 3 城市</p>
+        <p class="mt-1 text-lg font-semibold text-(--color-text-primary)">
+          {top3.map((c) => c.name).join(' / ')}
+        </p>
+      </div>
+    </div>
+
+    <!-- Time Range Filter -->
+    <div class="mb-6" id="filter-container">
+      <TimeRangeFilter client:load onchange={(range: { start: string; end: string } | null) => {
+        const event = new CustomEvent('timerange-change', { detail: range });
+        document.dispatchEvent(event);
+      }} />
+    </div>
+
+    <!-- Charts -->
+    <div class="grid gap-6 lg:grid-cols-2">
+      <!-- City Ranking -->
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <h2 class="mb-4 text-lg font-semibold text-(--color-text-primary)">城市招聘排名</h2>
+        <CityRankingChart data={rankings} topN={15} client:load />
+      </div>
+
+      <!-- City Trend -->
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <h2 class="mb-4 text-lg font-semibold text-(--color-text-primary)">热门城市趋势对比</h2>
+        <CityTrendChart trends={trends} cities={topTrendCities} client:load />
+      </div>
+    </div>
+
+    <!-- All Cities Table -->
+    <div class="mt-6 rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+      <h2 class="mb-4 text-lg font-semibold text-(--color-text-primary)">全部城市招聘分布</h2>
+      <div class="grid gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        {rankings.map((city, index) => (
+          <div class="flex items-center justify-between rounded-lg border border-(--color-border) px-4 py-2.5">
+            <div class="flex items-center gap-2.5">
+              <span class={`flex h-5 w-5 items-center justify-center rounded text-xs font-bold ${
+                index < 3
+                  ? 'bg-blue-500/10 text-blue-500'
+                  : 'bg-(--color-surface-secondary) text-(--color-text-tertiary)'
+              }`}>
+                {index + 1}
+              </span>
+              <span class="text-sm font-medium text-(--color-text-primary)">{city.name}</span>
+            </div>
+            <span class="text-sm tabular-nums text-(--color-text-secondary)">{city.count}</span>
+          </div>
+        ))}
+      </div>
     </div>
   </div>
 </Layout>
