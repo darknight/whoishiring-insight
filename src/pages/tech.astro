@@ -1,15 +1,90 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import TechRankingChart from '../components/charts/TechRankingChart.svelte';
+import TechTrendChart from '../components/charts/TechTrendChart.svelte';
+import TechWordCloud from '../components/charts/TechWordCloud.svelte';
+import TimeRangeFilter from '../components/TimeRangeFilter.svelte';
+import techStats from '../data/tech-stats.json';
+
+const { rankings, trends, byCategory } = techStats;
+
+const categoryIcons: Record<string, string> = {
+  '语言': '#3b82f6',
+  '前端框架': '#10b981',
+  '后端框架': '#f59e0b',
+  '数据库': '#ef4444',
+  '云/DevOps': '#8b5cf6',
+  'AI/ML': '#ec4899',
+  '中间件': '#06b6d4',
+};
 ---
 
 <Layout title="技术栈分析 - 谁在招人">
   <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6">
-    <div class="mb-8">
+    <!-- Header -->
+    <div class="mb-10">
       <h1 class="text-3xl font-bold tracking-tight text-(--color-text-primary)">技术栈分析</h1>
       <p class="mt-2 text-(--color-text-secondary)">热门技术栈分布与趋势</p>
     </div>
-    <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-8 text-center text-(--color-text-tertiary)">
-      图表加载中...
+
+    <!-- Top section: Ranking + Word Cloud -->
+    <div class="grid gap-6 lg:grid-cols-2">
+      <!-- Tech Ranking Chart -->
+      <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+        <h2 class="text-lg font-semibold text-(--color-text-primary)">技术栈排名 Top 20</h2>
+        <p class="mt-0.5 text-sm text-(--color-text-tertiary)">累计提及次数排行</p>
+        <TechRankingChart data={rankings} client:load />
+      </div>
+
+      <!-- Word Cloud + Trend Chart -->
+      <div class="flex flex-col gap-6">
+        <!-- Word Cloud -->
+        <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+          <h2 class="text-lg font-semibold text-(--color-text-primary)">技术栈词云</h2>
+          <p class="mt-0.5 text-sm text-(--color-text-tertiary)">字体大小反映提及频率</p>
+          <TechWordCloud data={rankings} client:load />
+        </div>
+
+        <!-- Trend Chart -->
+        <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
+          <div class="mb-4 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+            <div>
+              <h2 class="text-lg font-semibold text-(--color-text-primary)">趋势对比</h2>
+              <p class="mt-0.5 text-sm text-(--color-text-tertiary)">Top 8 技术栈月度变化</p>
+            </div>
+            <TimeRangeFilter client:load />
+          </div>
+          <TechTrendChart trends={trends} client:load />
+        </div>
+      </div>
+    </div>
+
+    <!-- Category Section -->
+    <div class="mt-10">
+      <h2 class="text-lg font-semibold text-(--color-text-primary)">技术栈分类</h2>
+      <p class="mt-0.5 text-sm text-(--color-text-tertiary)">按技术领域分类统计</p>
+
+      <div class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {Object.entries(byCategory).map(([category, items]) => (
+          <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-5">
+            <div class="flex items-center gap-2">
+              <span class="h-2 w-2 rounded-full" style={`background:${categoryIcons[category] || '#6b7280'}`}></span>
+              <h3 class="text-sm font-semibold text-(--color-text-primary)">{category}</h3>
+            </div>
+            <ul class="mt-3 space-y-2">
+              {(items as { name: string; count: number }[]).slice(0, 5).map((item, i) => (
+                <li class="flex items-center justify-between">
+                  <div class="flex items-center gap-2">
+                    <span class="flex h-5 w-5 items-center justify-center rounded text-xs font-medium tabular-nums bg-(--color-surface-tertiary) text-(--color-text-tertiary)">{i + 1}</span>
+                    <span class="text-sm text-(--color-text-primary)">{item.name}</span>
+                  </div>
+                  <span class="text-sm tabular-nums text-(--color-text-secondary)">{item.count}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
     </div>
   </div>
 </Layout>
