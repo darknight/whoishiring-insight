@@ -26,6 +26,7 @@ const OUT_DIR = join(ROOT, "src/data");
 // ── 技术栈同义词映射（全小写 key → 标准名称）────────
 
 const TECH_SYNONYMS: Record<string, string> = {
+  // ── 前端框架 & 库 ──
   "react.js": "React",
   "reactjs": "React",
   "react": "React",
@@ -44,19 +45,61 @@ const TECH_SYNONYMS: Record<string, string> = {
   "nuxt.js": "Nuxt.js",
   "nuxtjs": "Nuxt.js",
   "nuxt": "Nuxt.js",
-  "node.js": "Node.js",
-  "nodejs": "Node.js",
-  "node": "Node.js",
-  "express.js": "Express",
-  "expressjs": "Express",
-  "express": "Express",
-  "nestjs": "NestJS",
-  "nest.js": "NestJS",
-  "nest": "NestJS",
+  "jquery": "jQuery",
+  "antd": "Ant Design",
+  "antdesign": "Ant Design",
+  "ant design": "Ant Design",
+  "ant-design": "Ant Design",
+  "element-ui": "Element UI",
+  "elementui": "Element UI",
+  "element ui": "Element UI",
+  "element": "Element UI",
+  "bootstrap": "Bootstrap",
+  "rxjs": "RxJS",
+  "mobx": "MobX",
+  "redux": "Redux",
+  "vuex": "Vuex",
+  "pinia": "Pinia",
+  "d3.js": "D3.js",
+  "d3js": "D3.js",
+  "d3": "D3.js",
+  "echarts": "ECharts",
+  "three.js": "Three.js",
+  "threejs": "Three.js",
+  "sass": "SASS/SCSS",
+  "scss": "SASS/SCSS",
+  "less": "Less",
+  "canvas": "Canvas",
+  "webgl": "WebGL",
+  "svg": "SVG",
+
+  // ── 构建工具 ──
+  "webpack": "Webpack",
+  "vite": "Vite",
+  "gulp": "Gulp",
+  "rollup": "Rollup",
+  "babel": "Babel",
+  "esbuild": "esbuild",
+  "tailwindcss": "Tailwind CSS",
+  "tailwind css": "Tailwind CSS",
+  "tailwind": "Tailwind CSS",
+
+  // ── 语言 ──
   "typescript": "TypeScript",
   "ts": "TypeScript",
   "javascript": "JavaScript",
   "js": "JavaScript",
+  "html5": "HTML",
+  "html": "HTML",
+  "h5": "HTML",
+  "css3": "CSS",
+  "css": "CSS",
+  "es5": "ES6+",
+  "es6": "ES6+",
+  "es6+": "ES6+",
+  "es7": "ES6+",
+  "es2015": "ES6+",
+  "ecmascript": "ES6+",
   "python": "Python",
   "py": "Python",
   "golang": "Go",
@@ -65,6 +108,7 @@ const TECH_SYNONYMS: Record<string, string> = {
   "rust": "Rust",
   "c++": "C++",
   "cpp": "C++",
+  "c/c++": "C++",
   "c#": "C#",
   "csharp": "C#",
   "php": "PHP",
@@ -76,17 +120,74 @@ const TECH_SYNONYMS: Record<string, string> = {
   "elixir": "Elixir",
   "lua": "Lua",
   "r": "R",
+  "c": "C",
+  "objective-c": "Objective-C",
+  "objectivec": "Objective-C",
+  "objc": "Objective-C",
+  "oc": "Objective-C",
+  "perl": "Perl",
+  "haskell": "Haskell",
+  "ocaml": "OCaml",
+  "shell": "Shell",
+  "bash": "Shell",
+  "groovy": "Groovy",
+  "clojure": "Clojure",
+  "erlang": "Erlang",
+
+  // ── Node.js & 后端框架 ──
+  "node.js": "Node.js",
+  "nodejs": "Node.js",
+  "node": "Node.js",
+  "express.js": "Express",
+  "expressjs": "Express",
+  "express": "Express",
+  "nestjs": "NestJS",
+  "nest.js": "NestJS",
+  "nest": "NestJS",
+  "koa": "Koa",
+  "koa2": "Koa",
+  "koa.js": "Koa",
+  "egg.js": "Egg.js",
+  "eggjs": "Egg.js",
+  "egg": "Egg.js",
+  "midway": "Midway",
+  "midway.js": "Midway",
+
+  // ── Java 生态 ──
   "spring": "Spring",
   "spring boot": "Spring Boot",
   "springboot": "Spring Boot",
+  "spring cloud": "Spring Cloud",
+  "springcloud": "Spring Cloud",
+  "spring mvc": "Spring MVC",
+  "springmvc": "Spring MVC",
+  "mybatis": "MyBatis",
+  "mybatis-plus": "MyBatis",
+  "ibatis": "MyBatis",
+  "hibernate": "Hibernate",
+  "netty": "Netty",
+  "dubbo": "Dubbo",
+  "maven": "Maven",
+  "gradle": "Gradle",
+
+  // ── Python 生态 ──
   "django": "Django",
   "fastapi": "FastAPI",
   "flask": "Flask",
+
+  // ── Go 生态 ──
   "gin": "Gin",
   "fiber": "Fiber",
+
+  // ── 其他后端 ──
   "laravel": "Laravel",
   "rails": "Rails",
   "ruby on rails": "Rails",
+  ".net": ".NET",
+  "dotnet": ".NET",
+  "asp.net": ".NET",
+
+  // ── 数据库 ──
   "mysql": "MySQL",
   "postgresql": "PostgreSQL",
   "postgres": "PostgreSQL",
@@ -100,6 +201,19 @@ const TECH_SYNONYMS: Record<string, string> = {
   "cassandra": "Cassandra",
   "clickhouse": "ClickHouse",
   "tidb": "TiDB",
+  "oracle": "Oracle",
+  "hbase": "HBase",
+  "hive": "Hive",
+  "sql server": "SQL Server",
+  "sqlserver": "SQL Server",
+  "mssql": "SQL Server",
+  "neo4j": "Neo4j",
+  "memcached": "Memcached",
+  "memcache": "Memcached",
+  "zookeeper": "ZooKeeper",
+  "zk": "ZooKeeper",
+
+  // ── 云 & DevOps ──
   "aws": "AWS",
   "docker": "Docker",
   "kubernetes": "Kubernetes",
@@ -111,10 +225,28 @@ const TECH_SYNONYMS: Record<string, string> = {
   "terraform": "Terraform",
   "ansible": "Ansible",
   "nginx": "Nginx",
+  "azure": "Azure",
+  "gcp": "GCP",
+  "google cloud": "GCP",
+  "prometheus": "Prometheus",
+  "grafana": "Grafana",
+  "helm": "Helm",
+  "istio": "Istio",
+  "elk": "ELK",
+  "git": "Git",
+  "gitlab": "GitLab",
+  "github": "GitHub",
+
+  // ── 中间件 & 通信 ──
   "graphql": "GraphQL",
   "grpc": "gRPC",
   "kafka": "Kafka",
   "rabbitmq": "RabbitMQ",
+  "rocketmq": "RocketMQ",
+  "thrift": "Thrift",
+  "websocket": "WebSocket",
+
+  // ── AI/ML ──
   "pytorch": "PyTorch",
   "tensorflow": "TensorFlow",
   "llm": "LLM",
@@ -122,16 +254,82 @@ const TECH_SYNONYMS: Record<string, string> = {
   "大模型": "LLM",
   "机器学习": "ML",
   "深度学习": "Deep Learning",
+  "bert": "BERT",
+  "cuda": "CUDA",
+  "opencv": "OpenCV",
+  "transformer": "Transformer",
+  "rag": "RAG",
+  "langchain": "LangChain",
+  "aigc": "AIGC",
+  "cnn": "CNN",
+  "rnn": "RNN",
+  "lstm": "LSTM",
+  "gpt": "GPT",
+  "caffe": "Caffe",
+  "mxnet": "MXNet",
+  "scikit-learn": "Scikit-learn",
+  "sklearn": "Scikit-learn",
+  "pandas": "Pandas",
+  "numpy": "NumPy",
+
+  // ── 移动端 ──
   "react native": "React Native",
+  "reactnative": "React Native",
+  "rn": "React Native",
   "flutter": "Flutter",
   "electron": "Electron",
-  "webpack": "Webpack",
-  "vite": "Vite",
-  "tailwindcss": "Tailwind CSS",
-  "tailwind css": "Tailwind CSS",
-  "tailwind": "Tailwind CSS",
-  "three.js": "Three.js",
-  "threejs": "Three.js",
+  "android": "Android",
+  "ios": "iOS",
+  "小程序": "小程序",
+  "微信小程序": "小程序",
+  "weex": "Weex",
+  "taro": "Taro",
+  "swiftui": "SwiftUI",
+  "harmonyos": "HarmonyOS",
+  "鸿蒙": "HarmonyOS",
+  "uni-app": "uni-app",
+  "uniapp": "uni-app",
+
+  // ── 大数据 ──
+  "hadoop": "Hadoop",
+  "spark": "Spark",
+  "flink": "Flink",
+  "hdfs": "HDFS",
+  "presto": "Presto",
+  "storm": "Storm",
+  "etl": "ETL",
+
+  // ── 测试 ──
+  "jest": "Jest",
+  "cypress": "Cypress",
+  "selenium": "Selenium",
+
+  // ── 其他有价值映射 ──
+  "serverless": "Serverless",
+  "webassembly": "WebAssembly",
+  "wasm": "WebAssembly",
+  "微前端": "微前端",
+  "jvm": "JVM",
+  "区块链": "区块链",
+  "blockchain": "区块链",
+  "计算机视觉": "计算机视觉",
+  "cv": "计算机视觉",
+  "windows": "Windows",
+  "macos": "macOS",
+  "mpi": "MPI",
+  "opencl": "OpenCL",
+  "opengl": "OpenGL",
+  "unix": "Unix",
+  "自然语言处理": "NLP",
+  "gpu": "GPU",
+  "pwa": "PWA",
+  "webrtc": "WebRTC",
+  "yarn": "Yarn",
+  "npm": "npm",
+  "pnpm": "pnpm",
+  "grunt": "Grunt",
+  "puppet": "Puppet",
+  "rpa": "RPA",
 };
 
 // ── 技术栈分类 ────────────────────────────────────────
@@ -140,29 +338,54 @@ const TECH_CATEGORIES: Record<string, string[]> = {
   "语言": [
     "TypeScript", "JavaScript", "Python", "Go", "Java", "Rust", "C++", "C#",
     "PHP", "Ruby", "Kotlin", "Swift", "Dart", "Scala", "Elixir", "Lua", "R",
+    "C", "Objective-C", "Perl", "Haskell", "OCaml", "Shell", "Groovy",
+    "Clojure", "Erlang",
   ],
-  "前端框架": [
+  "前端": [
     "React", "Vue", "Angular", "Svelte", "Next.js", "Nuxt.js",
-    "React Native", "Flutter", "Electron", "Webpack", "Vite", "Tailwind CSS",
-    "Three.js",
+    "HTML", "CSS", "jQuery", "SASS/SCSS", "Less", "Ant Design", "Element UI",
+    "Bootstrap", "ES6+", "Redux", "Vuex", "Pinia", "MobX", "RxJS",
+    "Canvas", "WebGL", "SVG", "D3.js", "ECharts", "Three.js",
+    "Webpack", "Vite", "Tailwind CSS", "Electron", "Gulp", "Rollup",
+    "Babel", "esbuild", "微前端", "WebAssembly", "PWA", "WebRTC",
+    "Grunt", "Yarn", "npm", "pnpm",
   ],
-  "后端框架": [
+  "后端": [
     "Node.js", "Spring", "Spring Boot", "Django", "FastAPI", "Flask",
     "Express", "Gin", "Fiber", "NestJS", "Laravel", "Rails",
+    "Spring Cloud", "Spring MVC", "MyBatis", "Hibernate", "Koa", "Egg.js",
+    "Midway", ".NET", "Dubbo", "Maven", "Gradle", "JVM",
   ],
   "数据库": [
     "MySQL", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "SQLite",
-    "Cassandra", "ClickHouse", "TiDB",
+    "Cassandra", "ClickHouse", "TiDB", "Oracle", "HBase", "Hive",
+    "SQL Server", "Neo4j", "Memcached", "ZooKeeper",
   ],
   "云/DevOps": [
     "AWS", "Docker", "Kubernetes", "Linux", "CI/CD", "Jenkins",
-    "Terraform", "Ansible", "Nginx",
+    "Terraform", "Ansible", "Nginx", "Azure", "GCP", "Prometheus",
+    "Grafana", "Helm", "Istio", "ELK", "Git", "GitLab", "GitHub",
+    "Serverless", "Windows", "macOS", "Unix", "Puppet",
   ],
   "AI/ML": [
     "PyTorch", "TensorFlow", "LLM", "NLP", "ML", "Deep Learning",
+    "BERT", "CUDA", "OpenCV", "Transformer", "RAG", "LangChain", "AIGC",
+    "CNN", "RNN", "LSTM", "GPT", "Caffe", "MXNet", "Scikit-learn",
+    "Pandas", "NumPy", "计算机视觉", "GPU", "OpenCL", "MPI",
+  ],
+  "移动端": [
+    "Android", "iOS", "小程序", "React Native", "Flutter", "Weex", "Taro",
+    "SwiftUI", "HarmonyOS", "uni-app",
+  ],
+  "大数据": [
+    "Hadoop", "Spark", "Flink", "Hive", "HDFS", "Presto", "Storm", "ETL",
   ],
   "中间件": [
-    "GraphQL", "gRPC", "Kafka", "RabbitMQ",
+    "GraphQL", "gRPC", "Kafka", "RabbitMQ", "RocketMQ", "Dubbo", "Netty",
+    "ZooKeeper", "Thrift", "WebSocket",
+  ],
+  "测试": [
+    "Jest", "Cypress", "Selenium",
   ],
 };
 
@@ -242,11 +465,305 @@ const SALARY_BUCKET_ORDER = [
   "25k-30k", "30k-40k", "40k-50k", "50k+",
 ];
 
+// ── 城市归一化 ───────────────────────────────────────
+
+/** 主要城市及其区域/地标关键词 */
+const CITY_DISTRICTS: Record<string, string[]> = {
+  "北京": ["海淀", "朝阳", "望京", "三里屯", "大悦城", "银科", "福码", "中青大厦"],
+  "上海": ["浦东", "徐汇", "长宁", "杨浦", "张江", "闵行", "五角场", "唐镇", "世纪大道"],
+  "深圳": ["南山", "宝安", "福田", "车公庙", "NEO"],
+  "杭州": ["滨江", "余杭", "未来科技城", "未来 Park"],
+  "广州": ["天河", "番禺", "白云", "增槎", "科学城", "大学城"],
+  "南京": ["江宁", "九龙湖"],
+  "武汉": ["武昌", "光谷"],
+  "成都": [],
+  "西安": [],
+  "重庆": [],
+  "长沙": ["开福"],
+  "天津": ["南开"],
+  "合肥": [],
+  "苏州": [],
+};
+
+/** 省份→省会映射（对只写了省名的情况） */
+const PROVINCE_TO_CITY: Record<string, string> = {
+  "广东": "广州", "浙江": "杭州", "江苏": "南京", "湖北": "武汉",
+  "安徽": "合肥", "河北": "石家庄", "河南": "郑州", "湖南": "长沙",
+  "四川": "成都", "陕西": "西安",
+};
+
+/** 多城市缩写拆分 */
+const MULTI_CITY_ABBRS: Record<string, string[]> = {
+  "北上广深杭": ["北京", "上海", "广州", "深圳", "杭州"],
+  "北上广深": ["北京", "上海", "广州", "深圳"],
+  "北上深杭": ["北京", "上海", "深圳", "杭州"],
+  "北/上/深/杭": ["北京", "上海", "深圳", "杭州"],
+};
+
+/** 无效/无意义的城市值 */
+const INVALID_CITIES = new Set([
+  "城市1", "城市2", "未知", "未提及", "未提供", "未提供具体城市",
+  "无", "不限", "全国", "全球", "中国",
+]);
+
+/**
+ * 将原始 location 字符串归一化为城市列表。
+ * 返回空数组表示应该丢弃。
+ */
+function normalizeCity(raw: string): string[] {
+  const s = raw.trim();
+  if (!s) return [];
+
+  // 无效值
+  if (INVALID_CITIES.has(s)) return [];
+
+  // 多城市缩写
+  if (MULTI_CITY_ABBRS[s]) return MULTI_CITY_ABBRS[s];
+
+  // 用 / 分隔的多城市："北京/上海"、"深圳/北京"
+  if (s.includes("/") && !s.includes("远程")) {
+    return s.split("/").flatMap((part) => normalizeCity(part.trim()));
+  }
+
+  // "远程 / 混合办公" → "远程"
+  if (/远程|remote/i.test(s)) return ["远程"];
+
+  // 尝试前缀匹配主要城市（处理 "上海长宁区"、"北京市朝阳区..." 等）
+  for (const city of Object.keys(CITY_DISTRICTS)) {
+    if (s.startsWith(city) || s.startsWith(city + "市")) return [city];
+  }
+
+  // 独立区名匹配（"海淀"、"望京"、"张江"）
+  for (const [city, districts] of Object.entries(CITY_DISTRICTS)) {
+    if (districts.some((d) => s.includes(d))) return [city];
+  }
+
+  // "安徽省合肥市" → "合肥"，"江苏 南通" → "南通"
+  for (const [province, capital] of Object.entries(PROVINCE_TO_CITY)) {
+    if (s.startsWith(province)) {
+      // 如果省名后面跟了具体城市，尝试提取
+      const afterProvince = s.replace(new RegExp(`^${province}[省\\s]*`), "");
+      if (afterProvince) {
+        const cityMatch = normalizeCity(afterProvince);
+        if (cityMatch.length > 0) return cityMatch;
+      }
+      return [capital];
+    }
+  }
+
+  // "X市" → "X"（去掉"市"后缀）
+  const cityMatch = s.match(/^(.{2,4})市/);
+  if (cityMatch) return [cityMatch[1]];
+
+  // 海外城市标准化
+  if (/迪拜/.test(s)) return ["迪拜"];
+  if (/新加坡/.test(s)) return ["新加坡"];
+  if (/大[坂阪]/.test(s)) return ["大阪"];
+
+  // 其他保持原样
+  return [s];
+}
+
+// ── 经验要求归类 ─────────────────────────────────────
+
+function normalizeExperience(raw: unknown): string {
+  if (typeof raw !== "string" || !raw) return "其他";
+  const s = raw.trim();
+
+  // 不限 / 无要求
+  if (/不限|无要求|均可|皆可|没有硬性|无硬性|^无$/.test(s)) return "不限";
+
+  // 应届 / 实习 / 校招
+  if (/应届|实习|校招|毕业生|在校/.test(s)) return "应届/实习";
+
+  // 提取年限数字
+  const yearMatch = s.match(/(\d+)\s*[-~至到以]\s*(\d+)\s*年/);
+  if (yearMatch) {
+    const avg = (Number(yearMatch[1]) + Number(yearMatch[2])) / 2;
+    if (avg <= 2) return "1-3年";
+    if (avg <= 4) return "3-5年";
+    if (avg <= 7) return "5-10年";
+    return "10年+";
+  }
+
+  // "N年以上" / "N年+" / "至少N年"
+  const minMatch = s.match(/(\d+)\s*年/);
+  if (minMatch) {
+    const n = Number(minMatch[1]);
+    if (n <= 1) return "1-3年";
+    if (n <= 3) return "1-3年";
+    if (n <= 5) return "3-5年";
+    if (n <= 10) return "5-10年";
+    return "10年+";
+  }
+
+  // P6/P7 等级别映射
+  if (/P[4-5]|T[3-4]|初级|junior/i.test(s)) return "1-3年";
+  if (/P[6-7]|T[5-6]|高级|senior/i.test(s)) return "3-5年";
+  if (/P[8-9]|T[7-9]|专家|staff|principal/i.test(s)) return "5-10年";
+
+  // 社招（通常 3 年+）
+  if (/社招/.test(s)) return "3-5年";
+
+  return "其他";
+}
+
+// ── 学历要求归类 ─────────────────────────────────────
+
+function normalizeEducation(raw: unknown): string {
+  if (typeof raw !== "string" || !raw) return "其他";
+  const s = raw.trim();
+
+  if (/不限|无要求|均可/.test(s)) return "不限";
+  if (/博士/.test(s)) return "博士";
+  if (/硕士|研究生/.test(s)) return "硕士及以上";
+  if (/本科|学士|统招|全日制|985|211|双一流/.test(s)) return "本科及以上";
+  if (/大专|专科/.test(s)) return "大专及以上";
+
+  return "其他";
+}
+
 // ── 辅助函数 ──────────────────────────────────────────
 
-function normalizeTech(raw: string): string {
-  const key = raw.trim().toLowerCase();
-  return TECH_SYNONYMS[key] ?? raw.trim();
+/** 应被过滤掉的非技术词（岗位名、软技能、方法论等） */
+const NOISE_TERMS = new Set([
+  // 岗位/角色名
+  "前端", "后端", "测试", "运维", "产品", "设计", "数据", "安全", "架构", "算法",
+  "全栈", "开发", "工程师", "程序员", "技术经理", "技术总监", "CTO", "项目经理",
+  "leader", "tech lead",
+  // 方法论 & 软技能
+  "英语", "软件工程", "面向对象", "敏捷开发", "架构设计", "设计模式",
+  "数据结构", "算法", "性能优化", "高并发", "微服务", "分布式系统",
+  "高负载", "产品迭代", "逻辑思维", "互联网思维", "需求分析",
+  "代码审查", "code review", "技术方案", "系统设计", "领域驱动",
+  "高可用", "高性能", "负载均衡", "容灾", "异地多活",
+  // 行业/业务词
+  "物流", "仓储", "电商", "金融", "教育", "医疗", "游戏", "社交",
+  "直播", "短视频", "支付", "广告", "搜索", "推荐",
+  // 无效值
+  "未知", "无", "岗位信息", "其他", "不限", "N/A", "n/a", "无要求",
+  // 过于宽泛的技术/协议词
+  "Web", "web", "API", "api", "SDK", "sdk", "HTTP", "http", "TCP", "tcp",
+  "RESTful", "restful", "REST", "rest", "MVC", "mvc", "OOP", "oop",
+  "SQL", "sql", "NoSQL", "nosql", "RPC", "rpc",
+  "TCP/IP", "UDP", "HTTPS", "JSON", "XML", "YAML",
+  "RESTful API", "Ajax", "DOM", "Native", "Hybrid",
+  // 通用概念词
+  "消息队列", "缓存", "数据库", "云计算", "云原生", "虚拟化", "容器化",
+  "网络", "网络编程", "并发编程", "多线程", "异步",
+  "MVVM", "MVP", "MVI", "Flux",
+  "DevOps", "SRE", "DBA",
+  "AI", "大数据", "3D", "IoT", "SaaS", "PaaS", "IaaS", "CDN",
+  "中间件", "框架", "组件", "工具", "脚手架", "脚本",
+  "ARM", "X86", "嵌入式",
+  // 架构/模式词
+  "分布式", "分布式存储", "分布式计算", "SOA", "CommonJS", "ESM",
+  "Cloud Computing", "cloud computing",
+  // 更多角色/方向词
+  "移动端", "客户端", "服务端", "桌面端", "小游戏",
+  // 硬件/平台词
+  "Mac", "PC",
+]);
+
+function normalizeTech(raw: string): string | null {
+  const trimmed = raw.trim();
+  if (!trimmed || trimmed.length > 30) return null;  // 过长的大概率是描述性短语
+  const key = trimmed.toLowerCase();
+  if (NOISE_TERMS.has(trimmed) || NOISE_TERMS.has(key)) return null;
+  return TECH_SYNONYMS[key] ?? trimmed;
+}
+
+// ── 岗位分类归一化 ──────────────────────────────────
+
+/** 标准岗位分类（AI 输出的 category 会被归一化到这些值） */
+const CANONICAL_CATEGORIES: string[] = [
+  "前端", "后端", "全栈", "移动端", "AI/ML", "数据",
+  "测试", "DevOps", "安全", "游戏开发",
+  "设计", "产品", "运营", "管理",
+];
+
+const CATEGORY_SYNONYMS: Record<string, string> = {
+  // 前端变体
+  "Web前端": "前端",
+  "前端开发": "前端",
+  "H5": "前端",
+  // 后端变体
+  "后端开发": "后端",
+  "服务端": "后端",
+  "服务端开发": "后端",
+  "基础架构": "后端",
+  "基础设施": "后端",
+  "系统开发": "后端",
+  "系统": "后端",
+  "中间件": "后端",
+  "网关": "后端",
+  "存储": "后端",
+  "云原生": "后端",
+  "云": "后端",
+  "软件": "后端",
+  "开发": "后端",
+  "研发": "后端",
+  // 组合分类 → 取第一个
+  "前端/后端": "全栈",
+  "前端,后端": "全栈",
+  "后端,前端": "全栈",
+  "全栈,后端": "全栈",
+  "后端, 移动端, 前端, 测试": "全栈",
+  "移动端,后端": "全栈",
+  // AI/ML
+  "AI": "AI/ML",
+  "机器学习": "AI/ML",
+  "算法": "AI/ML",
+  "AI应用开发": "AI/ML",
+  // 数据
+  "大数据": "数据",
+  "数据库": "数据",
+  "数据分析": "数据",
+  "数据传输": "数据",
+  "消息队列": "数据",
+  "分析": "数据",
+  // DevOps
+  "运维": "DevOps",
+  "SRE": "DevOps",
+  "监控": "DevOps",
+  "网络": "DevOps",
+  "研发效能": "DevOps",
+  // 安全
+  "区块链": "安全",
+  // 管理
+  "项目管理": "管理",
+  "技术经理": "管理",
+  // 产品
+  "产品经理": "产品",
+  // 非技术岗 → null
+  "人事": null as unknown as string,
+  "人力资源": null as unknown as string,
+  "法务": null as unknown as string,
+  "财务": null as unknown as string,
+  "行政": null as unknown as string,
+  "销售": null as unknown as string,
+  "咨询": null as unknown as string,
+  "金融": null as unknown as string,
+  "交易": null as unknown as string,
+  "增长设计": null as unknown as string,
+  "技术支持": null as unknown as string,
+  "硬件": null as unknown as string,
+  "研究": null as unknown as string,
+  "RPA": null as unknown as string,
+};
+
+/** 归一化岗位分类，返回 null 表示应跳过 */
+function normalizeCategory(raw: unknown): string | null {
+  if (typeof raw !== "string" || !raw) return null;
+  const trimmed = raw.trim();
+  if (!trimmed) return null;
+  // 直接匹配标准分类
+  if (CANONICAL_CATEGORIES.includes(trimmed)) return trimmed;
+  // 同义词映射
+  if (trimmed in CATEGORY_SYNONYMS) {
+    return CATEGORY_SYNONYMS[trimmed];
+  }
+  return "其他";
 }
 
 function incrementMap(map: Record<string, number>, key: string, amount = 1): void {
@@ -323,15 +840,21 @@ function aggregate(postings: JobPosting[]) {
     for (const p of posts) {
       // 城市
       for (const loc of p.location ?? []) {
-        incrementMap(byCity, loc);
+        for (const city of normalizeCity(loc)) {
+          incrementMap(byCity, city);
+        }
       }
       // 技术栈
       for (const tech of p.techStack ?? []) {
-        incrementMap(byTechStack, normalizeTech(tech));
+        const normalized = normalizeTech(tech);
+        if (normalized) incrementMap(byTechStack, normalized);
       }
       // 岗位分类
       for (const pos of p.positions ?? []) {
-        if (pos.category) incrementMap(byCategory, pos.category);
+        if (pos.category) {
+          const cat = normalizeCategory(pos.category);
+          if (cat) incrementMap(byCategory, cat);
+        }
       }
       // 公司类型
       if (p.companyType) incrementMap(byCompanyType, p.companyType);
@@ -368,17 +891,25 @@ function aggregate(postings: JobPosting[]) {
   let salaryValidCount = 0;
 
   for (const p of postings) {
-    for (const loc of p.location ?? []) incrementMap(globalCity, loc);
-    for (const tech of p.techStack ?? []) incrementMap(globalTech, normalizeTech(tech));
+    for (const loc of p.location ?? []) {
+      for (const city of normalizeCity(loc)) incrementMap(globalCity, city);
+    }
+    for (const tech of p.techStack ?? []) {
+      const normalized = normalizeTech(tech);
+      if (normalized) incrementMap(globalTech, normalized);
+    }
     for (const pos of p.positions ?? []) {
-      if (pos.category) incrementMap(globalCategory, pos.category);
+      if (pos.category) {
+        const cat = normalizeCategory(pos.category);
+        if (cat) incrementMap(globalCategory, cat);
+      }
     }
     if (p.companyType) incrementMap(globalCompanyType, p.companyType);
     if (p.company) incrementMap(globalCompany, p.company);
     if (p.isRemote) totalRemote++;
     if (p.isOverseas) totalOverseas++;
-    if (p.experienceReq) incrementMap(globalExperience, p.experienceReq);
-    if (p.educationReq) incrementMap(globalEducation, p.educationReq);
+    if (p.experienceReq) incrementMap(globalExperience, normalizeExperience(p.experienceReq));
+    if (p.educationReq) incrementMap(globalEducation, normalizeEducation(p.educationReq));
 
     // 薪资
     if (p.salaryRange) {
@@ -419,7 +950,7 @@ function aggregate(postings: JobPosting[]) {
   for (const name of topCityNames) {
     cityTrends[name] = sortedMonths.map((ym) => ({
       yearMonth: ym,
-      count: byMonth.get(ym)!.filter((p) => (p.location ?? []).includes(name)).length,
+      count: byMonth.get(ym)!.filter((p) => (p.location ?? []).some((loc) => normalizeCity(loc).includes(name))).length,
     }));
   }
 
@@ -427,7 +958,8 @@ function aggregate(postings: JobPosting[]) {
 
   // ── 4) tech-stats ──
 
-  const techRankings = sortedEntries(globalTech);
+  // 过滤掉 count < 3 的长尾技术，减少词云噪音
+  const techRankings = sortedEntries(globalTech).filter((t) => t.count >= 3);
 
   // 技术趋势: top 20 技术的月度趋势
   const topTechNames = new Set(techRankings.slice(0, 20).map((t) => t.name));
@@ -474,14 +1006,29 @@ function aggregate(postings: JobPosting[]) {
     count: byMonth.get(ym)!.length,
   }));
 
-  // 岗位分类趋势
-  const allCategories = [...new Set(postings.flatMap((p) => (p.positions ?? []).map((pos) => pos.category)).filter(Boolean))];
+  // 岗位分类趋势（使用归一化后的分类，过滤掉总计 < 5 的分类）
+  const categoryCountMap: Record<string, number> = {};
+  for (const p of postings) {
+    for (const pos of p.positions ?? []) {
+      if (pos.category) {
+        const cat = normalizeCategory(pos.category);
+        if (cat) incrementMap(categoryCountMap, cat);
+      }
+    }
+  }
+  const significantCategories = Object.entries(categoryCountMap)
+    .filter(([, count]) => count >= 5)
+    .map(([name]) => name);
+
   const categoryTrend: Record<string, Array<{ yearMonth: string; count: number }>> = {};
-  for (const cat of allCategories) {
+  for (const cat of significantCategories) {
     categoryTrend[cat] = sortedMonths.map((ym) => ({
       yearMonth: ym,
       count: byMonth.get(ym)!.filter((p) =>
-        (p.positions ?? []).some((pos) => pos.category === cat),
+        (p.positions ?? []).some((pos) => {
+          if (!pos.category) return false;
+          return normalizeCategory(pos.category) === cat;
+        }),
       ).length,
     }));
   }
@@ -508,23 +1055,23 @@ function aggregate(postings: JobPosting[]) {
     };
   });
 
-  // 经验要求趋势
-  const allExpReqs = [...new Set(postings.map((p) => p.experienceReq).filter(Boolean))] as string[];
+  // 经验要求趋势（归类后）
+  const EXP_CATEGORIES = ["不限", "应届/实习", "1-3年", "3-5年", "5-10年", "10年+", "其他"];
   const experienceTrend: Record<string, Array<{ yearMonth: string; count: number }>> = {};
-  for (const exp of allExpReqs) {
-    experienceTrend[exp] = sortedMonths.map((ym) => ({
+  for (const cat of EXP_CATEGORIES) {
+    experienceTrend[cat] = sortedMonths.map((ym) => ({
       yearMonth: ym,
-      count: byMonth.get(ym)!.filter((p) => p.experienceReq === exp).length,
+      count: byMonth.get(ym)!.filter((p) => p.experienceReq && normalizeExperience(p.experienceReq) === cat).length,
     }));
   }
 
-  // 学历要求趋势
-  const allEduReqs = [...new Set(postings.map((p) => p.educationReq).filter(Boolean))] as string[];
+  // 学历要求趋势（归类后）
+  const EDU_CATEGORIES = ["不限", "大专及以上", "本科及以上", "硕士及以上", "博士", "其他"];
   const educationTrend: Record<string, Array<{ yearMonth: string; count: number }>> = {};
-  for (const edu of allEduReqs) {
-    educationTrend[edu] = sortedMonths.map((ym) => ({
+  for (const cat of EDU_CATEGORIES) {
+    educationTrend[cat] = sortedMonths.map((ym) => ({
       yearMonth: ym,
-      count: byMonth.get(ym)!.filter((p) => p.educationReq === edu).length,
+      count: byMonth.get(ym)!.filter((p) => p.educationReq && normalizeEducation(p.educationReq) === cat).length,
     }));
   }
 

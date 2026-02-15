@@ -2,27 +2,27 @@
   "rankings": [
     {
       "name": "北京",
-      "count": 506
+      "count": 524
     },
     {
       "name": "上海",
-      "count": 480
+      "count": 501
     },
     {
       "name": "杭州",
-      "count": 372
+      "count": 379
     },
     {
       "name": "深圳",
-      "count": 305
+      "count": 318
     },
     {
       "name": "广州",
-      "count": 162
+      "count": 171
     },
     {
       "name": "南京",
-      "count": 133
+      "count": 140
     },
     {
       "name": "成都",
@@ -30,15 +30,15 @@
     },
     {
       "name": "西安",
-      "count": 72
+      "count": 73
     },
     {
       "name": "远程",
-      "count": 66
+      "count": 67
     },
     {
       "name": "武汉",
-      "count": 49
+      "count": 53
     },
     {
       "name": "新加坡",
@@ -54,7 +54,7 @@
     },
     {
       "name": "长沙",
-      "count": 25
+      "count": 26
     },
     {
       "name": "无锡",
@@ -62,15 +62,11 @@
     },
     {
       "name": "天津",
-      "count": 20
+      "count": 21
     },
     {
       "name": "合肥",
-      "count": 15
-    },
-    {
-      "name": "未知",
-      "count": 13
+      "count": 18
     },
     {
       "name": "大连",
@@ -78,6 +74,10 @@
     },
     {
       "name": "香港",
+      "count": 10
+    },
+    {
+      "name": "迪拜",
       "count": 10
     },
     {
@@ -89,11 +89,7 @@
       "count": 7
     },
     {
-      "name": "城市1",
-      "count": 7
-    },
-    {
-      "name": "城市2",
+      "name": "郑州",
       "count": 7
     },
     {
@@ -101,27 +97,7 @@
       "count": 6
     },
     {
-      "name": "未提及",
-      "count": 6
-    },
-    {
-      "name": "深圳南山",
-      "count": 6
-    },
-    {
-      "name": "全国",
-      "count": 5
-    },
-    {
-      "name": "郑州",
-      "count": 5
-    },
-    {
       "name": "青岛",
-      "count": 5
-    },
-    {
-      "name": "阿联酋迪拜",
       "count": 5
     },
     {
@@ -137,23 +113,11 @@
       "count": 3
     },
     {
+      "name": "石家庄",
+      "count": 3
+    },
+    {
       "name": "美国",
-      "count": 3
-    },
-    {
-      "name": "中国",
-      "count": 3
-    },
-    {
-      "name": "南京市江宁区",
-      "count": 3
-    },
-    {
-      "name": "上海长宁区",
-      "count": 3
-    },
-    {
-      "name": "未提供",
       "count": 3
     },
     {
@@ -181,27 +145,15 @@
       "count": 2
     },
     {
-      "name": "河南",
-      "count": 2
-    },
-    {
-      "name": "河北",
-      "count": 2
-    },
-    {
-      "name": "江苏",
-      "count": 2
-    },
-    {
-      "name": "安徽",
-      "count": 2
-    },
-    {
       "name": "唐山",
       "count": 2
     },
     {
       "name": "台北",
+      "count": 2
+    },
+    {
+      "name": "南通",
       "count": 2
     },
     {
@@ -225,35 +177,7 @@
       "count": 2
     },
     {
-      "name": "杭州滨江",
-      "count": 2
-    },
-    {
-      "name": "上海张江",
-      "count": 2
-    },
-    {
-      "name": "日本 大坂",
-      "count": 2
-    },
-    {
-      "name": "无",
-      "count": 2
-    },
-    {
-      "name": "全球",
-      "count": 2
-    },
-    {
-      "name": "武昌区",
-      "count": 2
-    },
-    {
-      "name": "阿联酋迪拜市中心",
-      "count": 2
-    },
-    {
-      "name": "迪拜",
+      "name": "大阪",
       "count": 2
     },
     {
@@ -263,22 +187,6 @@
     {
       "name": "印度",
       "count": 2
-    },
-    {
-      "name": "北上广深杭",
-      "count": 2
-    },
-    {
-      "name": "不限",
-      "count": 2
-    },
-    {
-      "name": "广东",
-      "count": 1
-    },
-    {
-      "name": "广州大学城",
-      "count": 1
     },
     {
       "name": "贵阳",
@@ -297,15 +205,7 @@
       "count": 1
     },
     {
-      "name": "石家庄",
-      "count": 1
-    },
-    {
       "name": "廊坊",
-      "count": 1
-    },
-    {
-      "name": "南通",
       "count": 1
     },
     {
@@ -329,151 +229,7 @@
       "count": 1
     },
     {
-      "name": "广州市番禺区",
-      "count": 1
-    },
-    {
-      "name": "广州市",
-      "count": 1
-    },
-    {
-      "name": "西安市",
-      "count": 1
-    },
-    {
-      "name": "南京市",
-      "count": 1
-    },
-    {
-      "name": "天津市南开区",
-      "count": 1
-    },
-    {
-      "name": "广州市天河区",
-      "count": 1
-    },
-    {
-      "name": "上海长宁",
-      "count": 1
-    },
-    {
-      "name": "上海-徐汇区-西岸国际人工智能中心",
-      "count": 1
-    },
-    {
-      "name": "上海杨浦五角场",
-      "count": 1
-    },
-    {
-      "name": "杭州-余杭-未来 Park",
-      "count": 1
-    },
-    {
       "name": "宁波",
-      "count": 1
-    },
-    {
-      "name": "长沙市开福区",
-      "count": 1
-    },
-    {
-      "name": "五角场",
-      "count": 1
-    },
-    {
-      "name": "安徽省合肥市",
-      "count": 1
-    },
-    {
-      "name": "江苏 南通",
-      "count": 1
-    },
-    {
-      "name": "徐汇滨江",
-      "count": 1
-    },
-    {
-      "name": "张江",
-      "count": 1
-    },
-    {
-      "name": "北京市朝阳区三里屯附近中青大厦",
-      "count": 1
-    },
-    {
-      "name": "南京市江宁区九龙湖国际企业总部园C３栋",
-      "count": 1
-    },
-    {
-      "name": "杭州未来科技城",
-      "count": 1
-    },
-    {
-      "name": "北京市朝阳区朝阳大悦城",
-      "count": 1
-    },
-    {
-      "name": "广州市-白云区-增槎路-江南市场内",
-      "count": 1
-    },
-    {
-      "name": "深圳宝安",
-      "count": 1
-    },
-    {
-      "name": "北京市-海淀区",
-      "count": 1
-    },
-    {
-      "name": "北京市",
-      "count": 1
-    },
-    {
-      "name": "深圳市宝安区",
-      "count": 1
-    },
-    {
-      "name": "北京市朝阳区",
-      "count": 1
-    },
-    {
-      "name": "北京市海淀区",
-      "count": 1
-    },
-    {
-      "name": "上海市长宁区",
-      "count": 1
-    },
-    {
-      "name": "上海/杨浦区",
-      "count": 1
-    },
-    {
-      "name": "北京望京",
-      "count": 1
-    },
-    {
-      "name": "北京·朝阳·三里屯 中青大厦",
-      "count": 1
-    },
-    {
-      "name": "海淀",
-      "count": 1
-    },
-    {
-      "name": "朝阳区",
-      "count": 1
-    },
-    {
-      "name": "福码大厦",
-      "count": 1
-    },
-    {
-      "name": "望京",
-      "count": 1
-    },
-    {
-      "name": "银科大厦",
       "count": 1
     },
     {
@@ -481,63 +237,11 @@
       "count": 1
     },
     {
-      "name": "上海浦东世纪大道地铁站附近",
-      "count": 1
-    },
-    {
-      "name": "深圳市福田区车公庙 NEO 大厦",
-      "count": 1
-    },
-    {
-      "name": "上海闵行区",
-      "count": 1
-    },
-    {
-      "name": "中国银联股份有限公司（唐镇园区）",
-      "count": 1
-    },
-    {
-      "name": "北/上/深/杭",
-      "count": 1
-    },
-    {
       "name": "阿联酋",
       "count": 1
     },
     {
-      "name": "远程 / 混合办公",
-      "count": 1
-    },
-    {
-      "name": "浙江盐官",
-      "count": 1
-    },
-    {
-      "name": "湖北武汉",
-      "count": 1
-    },
-    {
-      "name": "迪拜国际金融中心",
-      "count": 1
-    },
-    {
-      "name": "武汉光谷",
-      "count": 1
-    },
-    {
-      "name": "未提供具体城市",
-      "count": 1
-    },
-    {
-      "name": "北京/上海",
-      "count": 1
-    },
-    {
-      "name": "广州科学城",
-      "count": 1
-    },
-    {
-      "name": "深圳/北京",
+      "name": "盐官",
       "count": 1
     }
   ],
@@ -545,7 +249,7 @@
     "北京": [
       {
         "yearMonth": "2019-08",
-        "count": 10
+        "count": 15
       },
       {
         "yearMonth": "2019-11",
@@ -553,7 +257,7 @@
       },
       {
         "yearMonth": "2020-02",
-        "count": 6
+        "count": 8
       },
       {
         "yearMonth": "2020-03",
@@ -781,7 +485,7 @@
       },
       {
         "yearMonth": "2025-03",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2025-04",
@@ -801,7 +505,7 @@
       },
       {
         "yearMonth": "2025-08",
-        "count": 17
+        "count": 19
       },
       {
         "yearMonth": "2025-09",
@@ -809,15 +513,15 @@
       },
       {
         "yearMonth": "2025-10",
-        "count": 3
+        "count": 4
       },
       {
         "yearMonth": "2025-11",
-        "count": 2
+        "count": 3
       },
       {
         "yearMonth": "2025-12",
-        "count": 3
+        "count": 4
       },
       {
         "yearMonth": "2026-01",
@@ -831,15 +535,15 @@
     "上海": [
       {
         "yearMonth": "2019-08",
-        "count": 8
+        "count": 10
       },
       {
         "yearMonth": "2019-11",
-        "count": 6
+        "count": 8
       },
       {
         "yearMonth": "2020-02",
-        "count": 4
+        "count": 5
       },
       {
         "yearMonth": "2020-03",
@@ -995,7 +699,7 @@
       },
       {
         "yearMonth": "2023-09",
-        "count": 2
+        "count": 6
       },
       {
         "yearMonth": "2023-10",
@@ -1007,7 +711,7 @@
       },
       {
         "yearMonth": "2023-12",
-        "count": 9
+        "count": 11
       },
       {
         "yearMonth": "2024-01",
@@ -1051,11 +755,11 @@
       },
       {
         "yearMonth": "2024-11",
-        "count": 6
+        "count": 7
       },
       {
         "yearMonth": "2024-12",
-        "count": 4
+        "count": 5
       },
       {
         "yearMonth": "2025-01",
@@ -1063,11 +767,11 @@
       },
       {
         "yearMonth": "2025-02",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2025-03",
-        "count": 5
+        "count": 6
       },
       {
         "yearMonth": "2025-04",
@@ -1095,15 +799,15 @@
       },
       {
         "yearMonth": "2025-10",
-        "count": 7
+        "count": 8
       },
       {
         "yearMonth": "2025-11",
-        "count": 6
+        "count": 8
       },
       {
         "yearMonth": "2025-12",
-        "count": 6
+        "count": 7
       },
       {
         "yearMonth": "2026-01",
@@ -1281,11 +985,11 @@
       },
       {
         "yearMonth": "2023-09",
-        "count": 3
+        "count": 4
       },
       {
         "yearMonth": "2023-10",
-        "count": 2
+        "count": 3
       },
       {
         "yearMonth": "2023-11",
@@ -1349,7 +1053,7 @@
       },
       {
         "yearMonth": "2025-02",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2025-03",
@@ -1361,7 +1065,7 @@
       },
       {
         "yearMonth": "2025-05",
-        "count": 2
+        "count": 3
       },
       {
         "yearMonth": "2025-06",
@@ -1381,15 +1085,15 @@
       },
       {
         "yearMonth": "2025-10",
-        "count": 2
-      },
-      {
-        "yearMonth": "2025-11",
         "count": 3
       },
       {
+        "yearMonth": "2025-11",
+        "count": 4
+      },
+      {
         "yearMonth": "2025-12",
-        "count": 2
+        "count": 3
       },
       {
         "yearMonth": "2026-01",
@@ -1403,15 +1107,15 @@
     "深圳": [
       {
         "yearMonth": "2019-08",
-        "count": 8
+        "count": 11
       },
       {
         "yearMonth": "2019-11",
-        "count": 6
+        "count": 7
       },
       {
         "yearMonth": "2020-02",
-        "count": 4
+        "count": 5
       },
       {
         "yearMonth": "2020-03",
@@ -1627,15 +1331,15 @@
       },
       {
         "yearMonth": "2024-12",
-        "count": 3
+        "count": 5
       },
       {
         "yearMonth": "2025-01",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2025-02",
-        "count": 5
+        "count": 6
       },
       {
         "yearMonth": "2025-03",
@@ -1663,19 +1367,19 @@
       },
       {
         "yearMonth": "2025-09",
-        "count": 3
+        "count": 4
       },
       {
         "yearMonth": "2025-10",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2025-11",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2025-12",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2026-01",
@@ -1689,7 +1393,7 @@
     "广州": [
       {
         "yearMonth": "2019-08",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2019-11",
@@ -1697,7 +1401,7 @@
       },
       {
         "yearMonth": "2020-02",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2020-03",
@@ -1717,7 +1421,7 @@
       },
       {
         "yearMonth": "2020-09",
-        "count": 2
+        "count": 3
       },
       {
         "yearMonth": "2020-11",
@@ -1845,7 +1549,7 @@
       },
       {
         "yearMonth": "2023-07",
-        "count": 0
+        "count": 2
       },
       {
         "yearMonth": "2023-08",
@@ -1853,7 +1557,7 @@
       },
       {
         "yearMonth": "2023-09",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2023-10",
@@ -1953,11 +1657,11 @@
       },
       {
         "yearMonth": "2025-10",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2025-11",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2025-12",
@@ -1975,7 +1679,7 @@
     "南京": [
       {
         "yearMonth": "2019-08",
-        "count": 2
+        "count": 3
       },
       {
         "yearMonth": "2019-11",
@@ -2035,7 +1739,7 @@
       },
       {
         "yearMonth": "2021-06",
-        "count": 2
+        "count": 3
       },
       {
         "yearMonth": "2021-07",
@@ -2051,7 +1755,7 @@
       },
       {
         "yearMonth": "2021-10",
-        "count": 3
+        "count": 4
       },
       {
         "yearMonth": "2021-11",
@@ -2131,7 +1835,7 @@
       },
       {
         "yearMonth": "2023-07",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2023-08",
@@ -2139,7 +1843,7 @@
       },
       {
         "yearMonth": "2023-09",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2023-10",
@@ -2211,7 +1915,7 @@
       },
       {
         "yearMonth": "2025-03",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2025-04",
@@ -2255,7 +1959,7 @@
       },
       {
         "yearMonth": "2026-02",
-        "count": 0
+        "count": 1
       }
     ],
     "成都": [
@@ -2703,7 +2407,7 @@
       },
       {
         "yearMonth": "2023-07",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2023-08",
@@ -3109,7 +2813,7 @@
       },
       {
         "yearMonth": "2026-01",
-        "count": 2
+        "count": 3
       },
       {
         "yearMonth": "2026-02",
@@ -3127,7 +2831,7 @@
       },
       {
         "yearMonth": "2020-02",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2020-03",
@@ -3395,7 +3099,7 @@
       },
       {
         "yearMonth": "2026-01",
-        "count": 1
+        "count": 2
       },
       {
         "yearMonth": "2026-02",
@@ -4451,7 +4155,7 @@
       },
       {
         "yearMonth": "2024-03",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2024-04",
@@ -4995,7 +4699,7 @@
       },
       {
         "yearMonth": "2023-08",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2023-09",
@@ -5181,7 +4885,7 @@
       },
       {
         "yearMonth": "2021-06",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2021-07",
@@ -5197,7 +4901,7 @@
       },
       {
         "yearMonth": "2021-10",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2021-11",
@@ -5325,7 +5029,7 @@
       },
       {
         "yearMonth": "2024-07",
-        "count": 0
+        "count": 1
       },
       {
         "yearMonth": "2024-08",
@@ -5374,292 +5078,6 @@
       {
         "yearMonth": "2025-07",
         "count": 0
-      },
-      {
-        "yearMonth": "2025-08",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-09",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-10",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-11",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-12",
-        "count": 0
-      },
-      {
-        "yearMonth": "2026-01",
-        "count": 0
-      },
-      {
-        "yearMonth": "2026-02",
-        "count": 0
-      }
-    ],
-    "未知": [
-      {
-        "yearMonth": "2019-08",
-        "count": 3
-      },
-      {
-        "yearMonth": "2019-11",
-        "count": 0
-      },
-      {
-        "yearMonth": "2020-02",
-        "count": 0
-      },
-      {
-        "yearMonth": "2020-03",
-        "count": 0
-      },
-      {
-        "yearMonth": "2020-04",
-        "count": 0
-      },
-      {
-        "yearMonth": "2020-06",
-        "count": 1
-      },
-      {
-        "yearMonth": "2020-08",
-        "count": 0
-      },
-      {
-        "yearMonth": "2020-09",
-        "count": 0
-      },
-      {
-        "yearMonth": "2020-11",
-        "count": 0
-      },
-      {
-        "yearMonth": "2020-12",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-01",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-02",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-03",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-04",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-05",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-06",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-07",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-08",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-09",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-10",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-11",
-        "count": 0
-      },
-      {
-        "yearMonth": "2021-12",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-01",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-02",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-03",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-04",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-05",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-06",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-07",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-08",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-09",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-10",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-11",
-        "count": 0
-      },
-      {
-        "yearMonth": "2022-12",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-01",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-03",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-04",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-05",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-06",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-07",
-        "count": 3
-      },
-      {
-        "yearMonth": "2023-08",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-09",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-10",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-11",
-        "count": 0
-      },
-      {
-        "yearMonth": "2023-12",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-01",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-02",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-03",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-04",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-05",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-06",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-07",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-08",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-09",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-10",
-        "count": 0
-      },
-      {
-        "yearMonth": "2024-11",
-        "count": 2
-      },
-      {
-        "yearMonth": "2024-12",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-01",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-02",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-03",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-04",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-05",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-06",
-        "count": 0
-      },
-      {
-        "yearMonth": "2025-07",
-        "count": 4
       },
       {
         "yearMonth": "2025-08",
@@ -6260,6 +5678,292 @@
       {
         "yearMonth": "2026-02",
         "count": 0
+      }
+    ],
+    "迪拜": [
+      {
+        "yearMonth": "2019-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2019-11",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-03",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-04",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-06",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-09",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-11",
+        "count": 0
+      },
+      {
+        "yearMonth": "2020-12",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-01",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-03",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-04",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-05",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-06",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-07",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-09",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-10",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-11",
+        "count": 0
+      },
+      {
+        "yearMonth": "2021-12",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-01",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-03",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-04",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-05",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-06",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-07",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-09",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-10",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-11",
+        "count": 0
+      },
+      {
+        "yearMonth": "2022-12",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-01",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-03",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-04",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-05",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-06",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-07",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-09",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-10",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-11",
+        "count": 0
+      },
+      {
+        "yearMonth": "2023-12",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-01",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-03",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-04",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-05",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-06",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-07",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-08",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-09",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-10",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-11",
+        "count": 0
+      },
+      {
+        "yearMonth": "2024-12",
+        "count": 0
+      },
+      {
+        "yearMonth": "2025-01",
+        "count": 0
+      },
+      {
+        "yearMonth": "2025-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2025-03",
+        "count": 0
+      },
+      {
+        "yearMonth": "2025-04",
+        "count": 0
+      },
+      {
+        "yearMonth": "2025-05",
+        "count": 0
+      },
+      {
+        "yearMonth": "2025-06",
+        "count": 1
+      },
+      {
+        "yearMonth": "2025-07",
+        "count": 0
+      },
+      {
+        "yearMonth": "2025-08",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-09",
+        "count": 1
+      },
+      {
+        "yearMonth": "2025-10",
+        "count": 1
+      },
+      {
+        "yearMonth": "2025-11",
+        "count": 2
+      },
+      {
+        "yearMonth": "2025-12",
+        "count": 1
+      },
+      {
+        "yearMonth": "2026-01",
+        "count": 1
+      },
+      {
+        "yearMonth": "2026-02",
+        "count": 1
       }
     ]
   }

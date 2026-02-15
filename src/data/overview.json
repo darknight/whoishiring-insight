@@ -8,27 +8,27 @@
   "topCities": [
     {
       "name": "北京",
-      "count": 506
+      "count": 524
     },
     {
       "name": "上海",
-      "count": 480
+      "count": 501
     },
     {
       "name": "杭州",
-      "count": 372
+      "count": 379
     },
     {
       "name": "深圳",
-      "count": 305
+      "count": 318
     },
     {
       "name": "广州",
-      "count": 162
+      "count": 171
     },
     {
       "name": "南京",
-      "count": 133
+      "count": 140
     },
     {
       "name": "成都",
@@ -36,15 +36,15 @@
     },
     {
       "name": "西安",
-      "count": 72
+      "count": 73
     },
     {
       "name": "远程",
-      "count": 66
+      "count": 67
     },
     {
       "name": "武汉",
-      "count": 49
+      "count": 53
     }
   ],
   "topTechStack": [
@@ -69,24 +69,24 @@
       "count": 453
     },
     {
+      "name": "HTML",
+      "count": 450
+    },
+    {
+      "name": "CSS",
+      "count": 429
+    },
+    {
+      "name": "C++",
+      "count": 411
+    },
+    {
       "name": "Go",
       "count": 391
     },
     {
       "name": "Node.js",
       "count": 380
-    },
-    {
-      "name": "C++",
-      "count": 309
-    },
-    {
-      "name": "CSS",
-      "count": 286
-    },
-    {
-      "name": "MySQL",
-      "count": 282
     }
   ],
   "topCompanies": [
