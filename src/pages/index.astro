@@ -229,7 +229,7 @@ const categoryIcons: Record<string, string> = {
           <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">
             <h3 class="text-lg font-semibold text-(--color-text-primary)">技术栈词云</h3>
             <p class="mt-0.5 text-sm text-(--color-text-tertiary)">字体大小反映提及频率</p>
-            <TechWordCloud data={techRankings} client:visible />
+            <TechWordCloud data={techRankings.slice(0, 80)} client:visible />
           </div>
 
           <div class="rounded-xl border border-(--color-border) bg-(--color-surface) p-6">

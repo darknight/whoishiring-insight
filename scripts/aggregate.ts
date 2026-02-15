@@ -68,8 +68,10 @@ const TECH_SYNONYMS: Record<string, string> = {
   "threejs": "Three.js",
   "sass": "SASS/SCSS",
   "scss": "SASS/SCSS",
+  "sass/scss": "SASS/SCSS",
   "less": "Less",
   "canvas": "Canvas",
+  "canvas 2d": "Canvas",
   "webgl": "WebGL",
   "svg": "SVG",
 
@@ -100,6 +102,7 @@ const TECH_SYNONYMS: Record<string, string> = {
   "es7": "ES6+",
   "es2015": "ES6+",
   "ecmascript": "ES6+",
+  "es5/6": "ES6+",
   "python": "Python",
   "py": "Python",
   "golang": "Go",
@@ -186,6 +189,9 @@ const TECH_SYNONYMS: Record<string, string> = {
   ".net": ".NET",
   "dotnet": ".NET",
   "asp.net": ".NET",
+  ".net framework": ".NET",
+  ".net core": ".NET",
+  "asp.net core": ".NET",
 
   // ── 数据库 ──
   "mysql": "MySQL",
@@ -195,8 +201,11 @@ const TECH_SYNONYMS: Record<string, string> = {
   "mongodb": "MongoDB",
   "mongo": "MongoDB",
   "redis": "Redis",
+  "redis/redisson": "Redis",
+  "redisson": "Redis",
   "elasticsearch": "Elasticsearch",
   "es": "Elasticsearch",
+  "elastic search": "Elasticsearch",
   "sqlite": "SQLite",
   "cassandra": "Cassandra",
   "clickhouse": "ClickHouse",
@@ -210,12 +219,14 @@ const TECH_SYNONYMS: Record<string, string> = {
   "neo4j": "Neo4j",
   "memcached": "Memcached",
   "memcache": "Memcached",
+  "pgsql": "PostgreSQL",
   "zookeeper": "ZooKeeper",
   "zk": "ZooKeeper",
 
   // ── 云 & DevOps ──
   "aws": "AWS",
   "docker": "Docker",
+  "docker-compose": "Docker",
   "kubernetes": "Kubernetes",
   "k8s": "Kubernetes",
   "linux": "Linux",
@@ -241,6 +252,7 @@ const TECH_SYNONYMS: Record<string, string> = {
   "graphql": "GraphQL",
   "grpc": "gRPC",
   "kafka": "Kafka",
+  "kafka/scst": "Kafka",
   "rabbitmq": "RabbitMQ",
   "rocketmq": "RocketMQ",
   "thrift": "Thrift",
@@ -251,6 +263,7 @@ const TECH_SYNONYMS: Record<string, string> = {
   "tensorflow": "TensorFlow",
   "llm": "LLM",
   "nlp": "NLP",
+  "nlp/nlg": "NLP",
   "大模型": "LLM",
   "机器学习": "ML",
   "深度学习": "Deep Learning",
@@ -289,6 +302,9 @@ const TECH_SYNONYMS: Record<string, string> = {
   "鸿蒙": "HarmonyOS",
   "uni-app": "uni-app",
   "uniapp": "uni-app",
+  "安卓": "Android",
+  "android sdk": "Android",
+  "android studio": "Android",
 
   // ── 大数据 ──
   "hadoop": "Hadoop",
@@ -303,6 +319,30 @@ const TECH_SYNONYMS: Record<string, string> = {
   "jest": "Jest",
   "cypress": "Cypress",
   "selenium": "Selenium",
+  "appium": "Appium",
+  "loadrunner": "LoadRunner",
+
+  // ── 大小写 & 变体去重 ──
+  "mesos": "Mesos",
+  "qemu": "QEMU",
+  "jmeter": "JMeter",
+  "zabbix": "Zabbix",
+  "shader": "Shader",
+  "unity3d": "Unity",
+  "unity": "Unity",
+  "winform": "WinForm",
+  "xcode": "Xcode",
+  "vb.net": "VB.NET",
+  "matlab": "MATLAB",
+  "cocos2d": "Cocos2d",
+  "qt": "Qt",
+  "loki": "Loki",
+  "traefik": "Traefik",
+  "ebpf": "eBPF",
+  "以太坊": "Ethereum",
+  "ethereum": "Ethereum",
+  "spring cloud alibaba": "Spring Cloud",
+  "springcloud alibaba": "Spring Cloud",
 
   // ── 其他有价值映射 ──
   "serverless": "Serverless",
@@ -663,13 +703,54 @@ const NOISE_TERMS = new Set([
   "移动端", "客户端", "服务端", "桌面端", "小游戏",
   // 硬件/平台词
   "Mac", "PC",
+  // 描述性技术方向词（中文）
+  "音视频", "操作系统", "数据分析", "数据可视化", "网络协议", "云安全",
+  "自动化", "实时通信", "数据仓库", "微服务架构", "关系型数据库",
+  "分布式事务", "边缘计算", "前端技术", "前端工程化", "前端框架",
+  "人工智能", "自动化测试", "单元测试", "系统性能调优", "系统架构设计",
+  "图像处理", "音频处理", "视频处理", "数据挖掘", "游戏开发",
+  "模块化", "工程化", "组件化", "动态化", "低代码", "量化交易", "量化",
+  "云平台", "云服务", "公有云", "对象存储", "存储", "新硬件", "开源项目",
+  "语音", "视觉", "语音识别", "文本", "数据库设计", "OS编程",
+  "日志", "监控告警", "推荐系统", "强化学习", "网络安全", "虚拟现实",
+  "容器", "容器技术", "容器化技术", "富文本编辑器", "Web语义化",
+  "Web应用", "Web框架", "Web性能优化", "Web安全", "Web 安全",
+  "算法设计", "大数据处理技术", "数据科学", "服务端语言", "Node服务",
+  "资源运营", "财务ops", "运营", "自动驾驶",
+  "性能调优", "移动端跨端技术", "桌面端技术", "零信任",
+  "IM", "SEO", "Web前端", "Mobile",
+  // 描述性技术方向词（英文）
+  "Distributed System", "Microservices", "Data Structure", "Algorithm",
+  "Performance Optimization", "Machine Learning", "Product Management",
+  "Test Management",
+  // 过于通用的编程概念
+  "async/await", "Async", "Hooks", "Promise", "JSP", "J2EE",
+  // 复合条目（不应作为单独技术栈）
+  "C/C++/Golang/Java", "React/Vue/Angular", "React/Vue", "Webpack/Vite",
+  "H.264/H.265", "HTML/CSS/JavaScript", "Mac/iOS 系统级编程",
+  "React/Vue/Angular", "分布式架构", "高可用架构", "API网关",
+  // 蚂蚁/字节等大厂内部项目/方向描述词
+  "平台化通用IM能力建设", "离线混布", "容量托管", "安全容器",
+  "Serverless基础设施", "Serverless平台",
+  "分布式图数据库", "分布式通用KV/缓存系统", "表格存储", "存储管控平台",
+  "大数据应用开发平台", "分布式文件系统", "分析型数据库",
+  "数据服务查询引擎", "数据传输平台", "DAL数据库访问中间件",
+  "图机器学习算法平台",
+  // 视频编解码细节
+  "H.264", "H.265", "RTMP", "HLS",
+  // AI/ML 架构细节
+  "DNN",
+  // 杂项噪音
+  "AI/ML", "BFF", "OLAP",
 ]);
 
 function normalizeTech(raw: string): string | null {
   const trimmed = raw.trim();
-  if (!trimmed || trimmed.length > 30) return null;  // 过长的大概率是描述性短语
+  if (!trimmed || trimmed.length > 25) return null;  // 过长的大概率是描述性短语
   const key = trimmed.toLowerCase();
   if (NOISE_TERMS.has(trimmed) || NOISE_TERMS.has(key)) return null;
+  // 过滤包含中文的长描述词（>= 4 个中文字符且非已知映射）
+  if (!TECH_SYNONYMS[key] && /[\u4e00-\u9fa5]{4,}/.test(trimmed)) return null;
   return TECH_SYNONYMS[key] ?? trimmed;
 }
 
@@ -958,8 +1039,8 @@ function aggregate(postings: JobPosting[]) {
 
   // ── 4) tech-stats ──
 
-  // 过滤掉 count < 3 的长尾技术，减少词云噪音
-  const techRankings = sortedEntries(globalTech).filter((t) => t.count >= 3);
+  // 过滤掉 count < 5 的长尾技术，减少词云噪音
+  const techRankings = sortedEntries(globalTech).filter((t) => t.count >= 5);
 
   // 技术趋势: top 20 技术的月度趋势
   const topTechNames = new Set(techRankings.slice(0, 20).map((t) => t.name));
