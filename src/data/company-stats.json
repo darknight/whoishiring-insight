@@ -1,129 +1,2950 @@
 {
   "rankings": [
     {
-      "name": "极氪",
-      "count": 144
-    },
-    {
-      "name": "美团",
-      "count": 140
+      "name": "字节跳动",
+      "count": 124
     },
     {
       "name": "拼多多",
-      "count": 140
-    },
-    {
-      "name": "智谱AI",
-      "count": 135
-    },
-    {
-      "name": "Microsoft",
-      "count": 135
-    },
-    {
-      "name": "声网",
-      "count": 134
-    },
-    {
-      "name": "中国银行软件中心",
-      "count": 134
-    },
-    {
-      "name": "字节跳动",
-      "count": 133
-    },
-    {
-      "name": "飞书深诺",
-      "count": 132
-    },
-    {
-      "name": "Google",
-      "count": 131
-    },
-    {
-      "name": "Shopify",
-      "count": 131
-    },
-    {
-      "name": "涛思数据",
-      "count": 129
-    },
-    {
-      "name": "Amazon",
-      "count": 127
-    },
-    {
-      "name": "腾讯",
-      "count": 127
-    },
-    {
-      "name": "零一万物",
-      "count": 126
+      "count": 61
     },
     {
       "name": "阿里巴巴",
-      "count": 126
+      "count": 39
     },
     {
-      "name": "月之暗面",
-      "count": 125
+      "name": "Apifox",
+      "count": 32
+    },
+    {
+      "name": "无码科技（杭州）有限公司",
+      "count": 23
     },
     {
       "name": "蚂蚁集团",
-      "count": 123
+      "count": 20
     },
     {
-      "name": "小红书",
-      "count": 120
+      "name": "美团",
+      "count": 19
     },
     {
-      "name": "PingCAP",
-      "count": 113
+      "name": "多家公司招聘汇总",
+      "count": 16
     },
     {
-      "name": "中兴通讯",
-      "count": 112
+      "name": "深圳保诚科技有限公司",
+      "count": 14
+    },
+    {
+      "name": "腾讯",
+      "count": 13
+    },
+    {
+      "name": "慧算账（北京公瑾科技有限公司）",
+      "count": 13
+    },
+    {
+      "name": "网易云音乐",
+      "count": 13
+    },
+    {
+      "name": "Conflux",
+      "count": 13
+    },
+    {
+      "name": "坚果云",
+      "count": 12
+    },
+    {
+      "name": "西安葡萄城信息技术有限公司",
+      "count": 12
+    },
+    {
+      "name": "蚂蚁金服",
+      "count": 11
+    },
+    {
+      "name": "SmartX",
+      "count": 11
+    },
+    {
+      "name": "翼辉信息",
+      "count": 10
+    },
+    {
+      "name": "海光信息技术股份有限公司",
+      "count": 10
+    },
+    {
+      "name": "思杰",
+      "count": 10
     },
     {
       "name": "快手",
-      "count": 106
+      "count": 9
+    },
+    {
+      "name": "Shopee",
+      "count": 9
+    },
+    {
+      "name": "京东零售",
+      "count": 9
+    },
+    {
+      "name": "携程",
+      "count": 9
+    },
+    {
+      "name": "Flexport",
+      "count": 9
+    },
+    {
+      "name": "MiniMax",
+      "count": 9
+    },
+    {
+      "name": "泽鹿视界",
+      "count": 9
+    },
+    {
+      "name": "趋势科技",
+      "count": 8
+    },
+    {
+      "name": "Airwallex",
+      "count": 8
+    },
+    {
+      "name": "小米",
+      "count": 7
+    },
+    {
+      "name": "秘猿科技",
+      "count": 7
+    },
+    {
+      "name": "WiseTech Global（慧咨环球）",
+      "count": 7
+    },
+    {
+      "name": "阿里云",
+      "count": 6
+    },
+    {
+      "name": "支付宝",
+      "count": 6
+    },
+    {
+      "name": "京东",
+      "count": 6
+    },
+    {
+      "name": "京东物流",
+      "count": 6
+    },
+    {
+      "name": "HYPERS",
+      "count": 6
+    },
+    {
+      "name": "Citrix（思杰）",
+      "count": 6
+    },
+    {
+      "name": "Tubi 比图科技",
+      "count": 6
+    },
+    {
+      "name": "固胜智能",
+      "count": 6
+    },
+    {
+      "name": "滴滴出行",
+      "count": 5
+    },
+    {
+      "name": "猿辅导",
+      "count": 5
+    },
+    {
+      "name": "多家公司招聘信息汇总",
+      "count": 5
+    },
+    {
+      "name": "深圳保诚科技",
+      "count": 5
+    },
+    {
+      "name": "AppLovin",
+      "count": 5
+    },
+    {
+      "name": "Cloud Software Group - CITRIX（思杰）",
+      "count": 5
+    },
+    {
+      "name": "WiseTech Global",
+      "count": 5
+    },
+    {
+      "name": "上海万芸网络科技有限公司",
+      "count": 5
+    },
+    {
+      "name": "RightCapital",
+      "count": 5
+    },
+    {
+      "name": "Cryptape",
+      "count": 5
+    },
+    {
+      "name": "网易严选",
+      "count": 4
+    },
+    {
+      "name": "滴滴",
+      "count": 4
+    },
+    {
+      "name": "百度",
+      "count": 4
+    },
+    {
+      "name": "抖音电商（字节跳动）",
+      "count": 4
+    },
+    {
+      "name": "Booking.com",
+      "count": 4
+    },
+    {
+      "name": "阿里巴巴-Lazada",
+      "count": 4
+    },
+    {
+      "name": "Klook",
+      "count": 4
+    },
+    {
+      "name": "数数科技",
+      "count": 4
+    },
+    {
+      "name": "上海九思信源智能科技有限公司",
+      "count": 4
+    },
+    {
+      "name": "无码科技",
+      "count": 4
+    },
+    {
+      "name": "中煤科工集团西安研究院",
+      "count": 4
+    },
+    {
+      "name": "小红书",
+      "count": 4
+    },
+    {
+      "name": "金数据",
+      "count": 4
+    },
+    {
+      "name": "小波微粒",
+      "count": 4
+    },
+    {
+      "name": "iMile",
+      "count": 4
+    },
+    {
+      "name": "卓拙科技",
+      "count": 4
+    },
+    {
+      "name": "博续科技",
+      "count": 4
+    },
+    {
+      "name": "深势科技",
+      "count": 4
+    },
+    {
+      "name": "Talkdesk",
+      "count": 4
+    },
+    {
+      "name": "天演资本",
+      "count": 4
+    },
+    {
+      "name": "袋鼠云",
+      "count": 3
+    },
+    {
+      "name": "华为",
+      "count": 3
+    },
+    {
+      "name": "腾讯云",
+      "count": 3
+    },
+    {
+      "name": "君逸",
+      "count": 3
+    },
+    {
+      "name": "鸿芯微纳",
+      "count": 3
+    },
+    {
+      "name": "北京元心科技有限公司",
+      "count": 3
+    },
+    {
+      "name": "安恒信息",
+      "count": 3
+    },
+    {
+      "name": "网易",
+      "count": 3
+    },
+    {
+      "name": "OPPO",
+      "count": 3
+    },
+    {
+      "name": "神策数据",
+      "count": 3
+    },
+    {
+      "name": "富途",
+      "count": 3
+    },
+    {
+      "name": "字节跳动-懂车帝",
+      "count": 3
+    },
+    {
+      "name": "PwC",
+      "count": 3
+    },
+    {
+      "name": "ONES",
+      "count": 3
+    },
+    {
+      "name": "中国电信天翼云",
+      "count": 3
+    },
+    {
+      "name": "传鼎软件技术(上海)有限公司",
+      "count": 3
+    },
+    {
+      "name": "涂鸦智能",
+      "count": 3
+    },
+    {
+      "name": "天眼查",
+      "count": 3
+    },
+    {
+      "name": "彩云科技",
+      "count": 3
+    },
+    {
+      "name": "华泰证券",
+      "count": 3
+    },
+    {
+      "name": "腾讯游戏",
+      "count": 3
+    },
+    {
+      "name": "imToken",
+      "count": 3
+    },
+    {
+      "name": "秘猿科技（Cryptape）",
+      "count": 3
+    },
+    {
+      "name": "抖音",
+      "count": 3
+    },
+    {
+      "name": "Airwallex（空中云汇）",
+      "count": 3
+    },
+    {
+      "name": "字节跳动飞书",
+      "count": 3
+    },
+    {
+      "name": "CITRIX（思杰）",
+      "count": 3
+    },
+    {
+      "name": "数坤科技",
+      "count": 3
+    },
+    {
+      "name": "万达信息",
+      "count": 3
+    },
+    {
+      "name": "逸思长天（南京）数字智能科技有限公司",
+      "count": 3
+    },
+    {
+      "name": "Tubi（比图科技）",
+      "count": 3
+    },
+    {
+      "name": "Tubi",
+      "count": 3
+    },
+    {
+      "name": "EOLINK",
+      "count": 3
+    },
+    {
+      "name": "帆软软件",
+      "count": 3
+    },
+    {
+      "name": "MoeGo",
+      "count": 3
+    },
+    {
+      "name": "华光软件",
+      "count": 3
+    },
+    {
+      "name": "深圳小波微粒科技有限公司",
+      "count": 3
+    },
+    {
+      "name": "未知公司",
+      "count": 3
+    },
+    {
+      "name": "乐天创研（Rakuten）",
+      "count": 3
+    },
+    {
+      "name": "聚水潭",
+      "count": 3
+    },
+    {
+      "name": "ecad",
+      "count": 3
+    },
+    {
+      "name": "易路软件",
+      "count": 3
+    },
+    {
+      "name": "米连集团",
+      "count": 3
+    },
+    {
+      "name": "集换社",
+      "count": 3
+    },
+    {
+      "name": "微众银行",
+      "count": 2
+    },
+    {
+      "name": "盛立金融软件开发（杭州）有限公司",
+      "count": 2
+    },
+    {
+      "name": "华为云",
+      "count": 2
+    },
+    {
+      "name": "饿了么",
+      "count": 2
+    },
+    {
+      "name": "青云QingCloud",
+      "count": 2
+    },
+    {
+      "name": "众安保险",
+      "count": 2
+    },
+    {
+      "name": "阿里巴巴企业智能事业部",
+      "count": 2
+    },
+    {
+      "name": "米哈游",
+      "count": 2
+    },
+    {
+      "name": "三七互娱",
+      "count": 2
+    },
+    {
+      "name": "有赞",
+      "count": 2
+    },
+    {
+      "name": "阿里巴巴集团",
+      "count": 2
+    },
+    {
+      "name": "猎豹移动/豹趣科技",
+      "count": 2
+    },
+    {
+      "name": "甄云科技",
+      "count": 2
+    },
+    {
+      "name": "vivo互联网大数据中心",
+      "count": 2
+    },
+    {
+      "name": "深信服科技",
+      "count": 2
+    },
+    {
+      "name": "iHerb",
+      "count": 2
+    },
+    {
+      "name": "千丁互联",
+      "count": 2
+    },
+    {
+      "name": "趋势科技中国研发中心",
+      "count": 2
+    },
+    {
+      "name": "库珀科技",
+      "count": 2
+    },
+    {
+      "name": "黑帕云",
+      "count": 2
+    },
+    {
+      "name": "车好多（瓜子二手车）",
+      "count": 2
+    },
+    {
+      "name": "蚂蚁",
+      "count": 2
+    },
+    {
+      "name": "上海嗨普智能信息科技有限公司",
+      "count": 2
+    },
+    {
+      "name": "美团优选",
+      "count": 2
+    },
+    {
+      "name": "GrowingIO",
+      "count": 2
+    },
+    {
+      "name": "声网/Agora",
+      "count": 2
+    },
+    {
+      "name": "元气扭蛋",
+      "count": 2
+    },
+    {
+      "name": "默安科技",
+      "count": 2
+    },
+    {
+      "name": "满帮集团",
+      "count": 2
+    },
+    {
+      "name": "字节医疗健康",
+      "count": 2
+    },
+    {
+      "name": "PwC（普华永道）",
+      "count": 2
+    },
+    {
+      "name": "中移物联网有限公司",
+      "count": 2
+    },
+    {
+      "name": "TideSwing",
+      "count": 2
+    },
+    {
+      "name": "微软",
+      "count": 2
+    },
+    {
+      "name": "南京领鹊科技有限公司",
+      "count": 2
+    },
+    {
+      "name": "仙工智能",
+      "count": 2
+    },
+    {
+      "name": "酷狗音乐",
+      "count": 2
+    },
+    {
+      "name": "Moka（北京希瑞亚斯科技有限公司）",
+      "count": 2
+    },
+    {
+      "name": "初生科技",
+      "count": 2
+    },
+    {
+      "name": "杭州秘猿科技有限公司（Cryptape）",
+      "count": 2
+    },
+    {
+      "name": "Zenlayer",
+      "count": 2
+    },
+    {
+      "name": "阿里-Lazada",
+      "count": 2
+    },
+    {
+      "name": "小鱼易连",
+      "count": 2
+    },
+    {
+      "name": "Kong",
+      "count": 2
+    },
+    {
+      "name": "Jina AI",
+      "count": 2
+    },
+    {
+      "name": "太初(无锡)电子科技公司",
+      "count": 2
+    },
+    {
+      "name": "维信金科",
+      "count": 2
+    },
+    {
+      "name": "未提及",
+      "count": 2
+    },
+    {
+      "name": "万兴科技",
+      "count": 2
+    },
+    {
+      "name": "希沃（seewo）",
+      "count": 2
+    },
+    {
+      "name": "SHEIN",
+      "count": 2
+    },
+    {
+      "name": "达观数据",
+      "count": 2
+    },
+    {
+      "name": "Greptime",
+      "count": 2
+    },
+    {
+      "name": "Covariant.AI",
+      "count": 2
+    },
+    {
+      "name": "思杰（CITRIX）南京研发中心",
+      "count": 2
+    },
+    {
+      "name": "Ku",
+      "count": 2
+    },
+    {
+      "name": "哈啰出行",
+      "count": 2
+    },
+    {
+      "name": "中国移动",
+      "count": 2
+    },
+    {
+      "name": "峥研软件",
+      "count": 2
+    },
+    {
+      "name": "KLOOK",
+      "count": 2
+    },
+    {
+      "name": "京东科技",
+      "count": 2
+    },
+    {
+      "name": "南方科技大学设计学院材料学研究组",
+      "count": 2
+    },
+    {
+      "name": "南京宝马诚迈",
+      "count": 2
+    },
+    {
+      "name": "上海人工智能实验室",
+      "count": 2
+    },
+    {
+      "name": "TikTok",
+      "count": 2
+    },
+    {
+      "name": "Makeblock",
+      "count": 2
+    },
+    {
+      "name": "全球 TOP10 老牌交易所",
+      "count": 2
+    },
+    {
+      "name": "国企",
+      "count": 2
+    },
+    {
+      "name": "宝马诚迈",
+      "count": 2
+    },
+    {
+      "name": "temu",
+      "count": 2
+    },
+    {
+      "name": "阿里集团",
+      "count": 2
+    },
+    {
+      "name": "客路旅行",
+      "count": 2
+    },
+    {
+      "name": "字节跳动互娱研发",
+      "count": 2
+    },
+    {
+      "name": "一触即通数码科技",
+      "count": 2
+    },
+    {
+      "name": "奥尔特云（深圳）智慧科技有限公司",
+      "count": 2
+    },
+    {
+      "name": "杭州铭师堂",
+      "count": 2
+    },
+    {
+      "name": "拼多多集团",
+      "count": 2
+    },
+    {
+      "name": "淘天集团交易终端团队",
+      "count": 2
+    },
+    {
+      "name": "淘天集团",
+      "count": 2
+    },
+    {
+      "name": "得物信息集团有限公司",
+      "count": 2
+    },
+    {
+      "name": "中国银联",
+      "count": 2
+    },
+    {
+      "name": "优帆远扬",
+      "count": 2
+    },
+    {
+      "name": "鹰角网络",
+      "count": 2
+    },
+    {
+      "name": "360",
+      "count": 1
+    },
+    {
+      "name": "好智信息",
+      "count": 1
+    },
+    {
+      "name": "360商業化線",
+      "count": 1
+    },
+    {
+      "name": "Webeye",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴本地生活技术部",
+      "count": 1
+    },
+    {
+      "name": "腾讯微信支付",
+      "count": 1
+    },
+    {
+      "name": "华为CloudBU",
+      "count": 1
+    },
+    {
+      "name": "好智学",
+      "count": 1
+    },
+    {
+      "name": "Authing",
+      "count": 1
+    },
+    {
+      "name": "360（广州奇虎）",
+      "count": 1
+    },
+    {
+      "name": "微保",
+      "count": 1
+    },
+    {
+      "name": "腾讯/网易/字节跳动外派团队",
+      "count": 1
+    },
+    {
+      "name": "光年实验室",
+      "count": 1
+    },
+    {
+      "name": "harbor school",
+      "count": 1
+    },
+    {
+      "name": "上海弘连网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "广州奇虎（360）",
+      "count": 1
+    },
+    {
+      "name": "硅谷初创科技公司",
+      "count": 1
+    },
+    {
+      "name": "新萌网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴新零售事业群CCO技术部",
+      "count": 1
+    },
+    {
+      "name": "网易游戏互动娱乐事业群-效率工程部",
+      "count": 1
+    },
+    {
+      "name": "Atlas",
+      "count": 1
+    },
+    {
+      "name": "爱因互动",
+      "count": 1
+    },
+    {
+      "name": "阿里本地生活饿了么",
+      "count": 1
+    },
+    {
+      "name": "支付宝-流量运营技术部",
+      "count": 1
+    },
+    {
+      "name": "高榕资本",
+      "count": 1
+    },
+    {
+      "name": "滴滴-小桔车服",
+      "count": 1
+    },
+    {
+      "name": "循环智能（Recurrent AI）",
+      "count": 1
+    },
+    {
+      "name": "腾讯TEG安全平台部",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴菜鸟网络",
+      "count": 1
+    },
+    {
+      "name": "51社保（北京众合天下管理咨询有限公司）",
+      "count": 1
+    },
+    {
+      "name": "多家量化私募机构及AI芯片初创",
+      "count": 1
+    },
+    {
+      "name": "支流科技",
+      "count": 1
+    },
+    {
+      "name": "360未来安全研究院",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴钉钉",
+      "count": 1
+    },
+    {
+      "name": "杭州微洱网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "杭州有朋网络技术有限公司",
+      "count": 1
+    },
+    {
+      "name": "foxundermoon",
+      "count": 1
+    },
+    {
+      "name": "HYPERS 宏路数据",
+      "count": 1
+    },
+    {
+      "name": "新义互联",
+      "count": 1
+    },
+    {
+      "name": "京东零售-商业提升事业部",
+      "count": 1
+    },
+    {
+      "name": "北京风行在线技术有限公司",
+      "count": 1
+    },
+    {
+      "name": "南京银行消费金融中心",
+      "count": 1
+    },
+    {
+      "name": "Agora.io",
+      "count": 1
+    },
+    {
+      "name": "唱吧",
+      "count": 1
+    },
+    {
+      "name": "吉利集团",
+      "count": 1
+    },
+    {
+      "name": "斗鱼",
+      "count": 1
+    },
+    {
+      "name": "南京安元科技",
+      "count": 1
+    },
+    {
+      "name": "1药网/111集团",
+      "count": 1
+    },
+    {
+      "name": "宜家",
+      "count": 1
+    },
+    {
+      "name": "序言泽网络",
+      "count": 1
+    },
+    {
+      "name": "京东数科",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴淘宝特价版",
+      "count": 1
+    },
+    {
+      "name": "西安纽扣软件科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "量化交易行业（多家公司）",
+      "count": 1
+    },
+    {
+      "name": "支付宝（蚂蚁集团）",
+      "count": 1
+    },
+    {
+      "name": "钉钉(DingTalk)",
+      "count": 1
+    },
+    {
+      "name": "阿里云智能事业群",
+      "count": 1
+    },
+    {
+      "name": "广州奇虎",
+      "count": 1
+    },
+    {
+      "name": "浙江顺睿科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴 - 淘系技术部",
+      "count": 1
+    },
+    {
+      "name": "腾讯互娱",
+      "count": 1
+    },
+    {
+      "name": "广州易方信息科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "元保保险",
+      "count": 1
+    },
+    {
+      "name": "阿里高德",
+      "count": 1
+    },
+    {
+      "name": "九号机器人（Segway-Ninebot）",
+      "count": 1
+    },
+    {
+      "name": "京东7FRESH",
+      "count": 1
+    },
+    {
+      "name": "云览科技",
+      "count": 1
+    },
+    {
+      "name": "北京上元信安技术有限公司",
+      "count": 1
+    },
+    {
+      "name": "GrowingIO（北京易数科技有限公司）",
+      "count": 1
+    },
+    {
+      "name": "字节跳动/抖音电商",
+      "count": 1
+    },
+    {
+      "name": "阿里云IoT事业部",
+      "count": 1
+    },
+    {
+      "name": "深圳传音控股股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "PingCAP",
+      "count": 1
+    },
+    {
+      "name": "上海泰砥科技",
+      "count": 1
+    },
+    {
+      "name": "开源数据科学平台",
+      "count": 1
+    },
+    {
+      "name": "松果出行",
+      "count": 1
+    },
+    {
+      "name": "甄云",
+      "count": 1
+    },
+    {
+      "name": "RingCentral",
+      "count": 1
+    },
+    {
+      "name": "才到云（上海云武华科技有限公司）",
+      "count": 1
+    },
+    {
+      "name": "飞书",
+      "count": 1
+    },
+    {
+      "name": "腾讯看点",
+      "count": 1
+    },
+    {
+      "name": "浩鲸云计算",
+      "count": 1
+    },
+    {
+      "name": "蚂蚁集团-语雀",
+      "count": 1
+    },
+    {
+      "name": "杭州天谷(E签宝)",
+      "count": 1
+    },
+    {
+      "name": "Arkie",
+      "count": 1
+    },
+    {
+      "name": "汽车之家",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴国际站（ICBU）",
+      "count": 1
+    },
+    {
+      "name": "多抓鱼",
+      "count": 1
+    },
+    {
+      "name": "lumint",
+      "count": 1
+    },
+    {
+      "name": "数睿科技（深圳）有限公司",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴钉钉文档团队",
+      "count": 1
+    },
+    {
+      "name": "EasyStack",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴盒马",
+      "count": 1
+    },
+    {
+      "name": "编程猫（Codemao）",
+      "count": 1
+    },
+    {
+      "name": "京东零售-技术与数据中心",
+      "count": 1
+    },
+    {
+      "name": "好未来·北京世纪好未来教育科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "中山大学软件工程学院",
+      "count": 1
+    },
+    {
+      "name": "伴鱼",
+      "count": 1
+    },
+    {
+      "name": "RingCentral（厦门铃盛软件）",
+      "count": 1
+    },
+    {
+      "name": "杭州硅基互联科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "鸿萌娱乐",
+      "count": 1
+    },
+    {
+      "name": "REinvent Studio",
+      "count": 1
+    },
+    {
+      "name": "罗布乐思(Roblox China)",
+      "count": 1
+    },
+    {
+      "name": "恒生电子",
+      "count": 1
+    },
+    {
+      "name": "北京瓴岳信息技术有限公司（洋钱罐）",
+      "count": 1
+    },
+    {
+      "name": "Bybit",
+      "count": 1
+    },
+    {
+      "name": "节点互动",
+      "count": 1
+    },
+    {
+      "name": "Bilibili",
+      "count": 1
+    },
+    {
+      "name": "青云科技",
+      "count": 1
+    },
+    {
+      "name": "Authing（北京蒸汽记忆科技有限公司）",
+      "count": 1
+    },
+    {
+      "name": "招商拓扑银行",
+      "count": 1
+    },
+    {
+      "name": "鹰图软件（Hexagon PPM）",
+      "count": 1
+    },
+    {
+      "name": "科大讯飞-工业智能业务部",
+      "count": 1
+    },
+    {
+      "name": "长亭科技",
+      "count": 1
+    },
+    {
+      "name": "蚂蚁财富",
+      "count": 1
+    },
+    {
+      "name": "阿里本地生活",
+      "count": 1
+    },
+    {
+      "name": "上海米哈游网络科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "三一重工",
+      "count": 1
+    },
+    {
+      "name": "Citrix思杰",
+      "count": 1
+    },
+    {
+      "name": "地平线机器人",
+      "count": 1
+    },
+    {
+      "name": "蓝厂",
+      "count": 1
+    },
+    {
+      "name": "Student.com学旅家",
+      "count": 1
+    },
+    {
+      "name": "翼方健数（BaseBit.ai）",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴 - 阿里拍卖",
+      "count": 1
+    },
+    {
+      "name": "BitMart",
+      "count": 1
+    },
+    {
+      "name": "赢时胜",
+      "count": 1
+    },
+    {
+      "name": "字节跳动 - WebInfra 团队",
+      "count": 1
+    },
+    {
+      "name": "聚蜂智能",
+      "count": 1
+    },
+    {
+      "name": "芒果TV",
+      "count": 1
+    },
+    {
+      "name": "龙湖数科",
+      "count": 1
+    },
+    {
+      "name": "途家民宿",
+      "count": 1
+    },
+    {
+      "name": "作业帮",
+      "count": 1
+    },
+    {
+      "name": "成都摩斯智联",
+      "count": 1
+    },
+    {
+      "name": "字节跳动教育",
+      "count": 1
+    },
+    {
+      "name": "蚂蚁金服支付宝",
+      "count": 1
+    },
+    {
+      "name": "中国知网",
+      "count": 1
+    },
+    {
+      "name": "奇虎360奇舞团",
+      "count": 1
+    },
+    {
+      "name": "杭州映云科技（EMQ）",
+      "count": 1
+    },
+    {
+      "name": "青藤云",
+      "count": 1
+    },
+    {
+      "name": "奇安信科技集团股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "字节跳动 - 懂车帝",
+      "count": 1
+    },
+    {
+      "name": "贝壳找房",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴淘系技术部",
+      "count": 1
+    },
+    {
+      "name": "奇虎360",
+      "count": 1
+    },
+    {
+      "name": "深圳市追星文化有限公司",
+      "count": 1
+    },
+    {
+      "name": "大疆（DJI）",
+      "count": 1
+    },
+    {
+      "name": "蚂蚁金服体验技术部云凤蝶团队",
+      "count": 1
+    },
+    {
+      "name": "京东物流集团",
+      "count": 1
+    },
+    {
+      "name": "小雨伞",
+      "count": 1
+    },
+    {
+      "name": "多公司招聘汇总",
+      "count": 1
+    },
+    {
+      "name": "上海亦存网络科技有限公司（坚果云）",
+      "count": 1
+    },
+    {
+      "name": "Skyscanner 天巡旅行网",
+      "count": 1
+    },
+    {
+      "name": "Airwallex空中云汇",
+      "count": 1
+    },
+    {
+      "name": "猩星科技",
+      "count": 1
+    },
+    {
+      "name": "同程旅行",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴集团 - Lazada",
+      "count": 1
+    },
+    {
+      "name": "Coupang",
+      "count": 1
+    },
+    {
+      "name": "联合互娱",
+      "count": 1
+    },
+    {
+      "name": "搜狐视频",
+      "count": 1
+    },
+    {
+      "name": "微步在线",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴-高德地图",
+      "count": 1
+    },
+    {
+      "name": "Shopee（虾皮）",
+      "count": 1
+    },
+    {
+      "name": "端点科技",
+      "count": 1
+    },
+    {
+      "name": "Skyscanner（天巡旅行网）",
+      "count": 1
+    },
+    {
+      "name": "北京蒸汽记忆科技有限公司 (Authing)",
+      "count": 1
+    },
+    {
+      "name": "广州爱范儿科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "上海吉世代网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "多邻国(Duolingo)",
+      "count": 1
+    },
+    {
+      "name": "阿里淘系技术部",
+      "count": 1
+    },
+    {
+      "name": "北京家帮帮科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "Merck默克集团",
+      "count": 1
+    },
+    {
+      "name": "图森未来",
+      "count": 1
+    },
+    {
+      "name": "宇泛智能",
+      "count": 1
+    },
+    {
+      "name": "上海亦存网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "贝壳",
+      "count": 1
+    },
+    {
+      "name": "雪浪云",
+      "count": 1
+    },
+    {
+      "name": "杭州端点网络科技",
+      "count": 1
+    },
+    {
+      "name": "金连连科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "无花果大冒险(北京)科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "万采互联",
+      "count": 1
+    },
+    {
+      "name": "字节跳动幸福里",
+      "count": 1
+    },
+    {
+      "name": "酷狗音乐（腾讯音乐娱乐集团）",
+      "count": 1
+    },
+    {
+      "name": "抖音电商",
+      "count": 1
+    },
+    {
+      "name": "北京得到 APP",
+      "count": 1
+    },
+    {
+      "name": "广州好智信息技术有限公司",
+      "count": 1
+    },
+    {
+      "name": "端点Terminus",
+      "count": 1
+    },
+    {
+      "name": "Opera",
+      "count": 1
+    },
+    {
+      "name": "北京灵汐科技",
+      "count": 1
+    },
+    {
+      "name": "zoom",
+      "count": 1
+    },
+    {
+      "name": "唐山启奥科技",
+      "count": 1
+    },
+    {
+      "name": "云智慧（北京）科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "字节医疗健康团队",
+      "count": 1
+    },
+    {
+      "name": "tideswing(带动热潮)",
+      "count": 1
+    },
+    {
+      "name": "AQUMON",
+      "count": 1
+    },
+    {
+      "name": "执楠科技",
+      "count": 1
+    },
+    {
+      "name": "麻辣数据（MolarData）",
+      "count": 1
+    },
+    {
+      "name": "钟鼎资本",
+      "count": 1
+    },
+    {
+      "name": "京东零售集团",
+      "count": 1
+    },
+    {
+      "name": "快看世界",
+      "count": 1
+    },
+    {
+      "name": "深圳瓴码云计算有限公司",
+      "count": 1
+    },
+    {
+      "name": "Crypto.com",
+      "count": 1
+    },
+    {
+      "name": "Wish",
+      "count": 1
+    },
+    {
+      "name": "广州趣丸网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "阅文集团",
+      "count": 1
+    },
+    {
+      "name": "普华永道（PwC）",
+      "count": 1
+    },
+    {
+      "name": "句子互动",
+      "count": 1
+    },
+    {
+      "name": "长桥",
+      "count": 1
+    },
+    {
+      "name": "字节跳动（医疗健康事业部）",
+      "count": 1
+    },
+    {
+      "name": "杭州洋驼网络科技有限公司（海拍客）",
+      "count": 1
+    },
+    {
+      "name": "Dora",
+      "count": 1
+    },
+    {
+      "name": "字节跳动-抖音",
+      "count": 1
+    },
+    {
+      "name": "旷视研究院",
+      "count": 1
+    },
+    {
+      "name": "星汉未来",
+      "count": 1
+    },
+    {
+      "name": "工银瑞信基金",
+      "count": 1
+    },
+    {
+      "name": "花旗集团",
+      "count": 1
+    },
+    {
+      "name": "StubHub",
+      "count": 1
+    },
+    {
+      "name": "Heartly Lab",
+      "count": 1
+    },
+    {
+      "name": "蚂蚁金服-网商银行",
+      "count": 1
+    },
+    {
+      "name": "安克创新科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "count": 1
+    },
+    {
+      "name": "everFinance",
+      "count": 1
+    },
+    {
+      "name": "安徽无攸科技公司",
+      "count": 1
+    },
+    {
+      "name": "人英网络（The NetCircle）",
+      "count": 1
+    },
+    {
+      "name": "碳衡科技（CarbonNewture）",
+      "count": 1
+    },
+    {
+      "name": "华为集团",
+      "count": 1
+    },
+    {
+      "name": "DJI大疆创新",
+      "count": 1
+    },
+    {
+      "name": "Supercell",
+      "count": 1
+    },
+    {
+      "name": "腾讯云（CSIG全资子公司）",
+      "count": 1
+    },
+    {
+      "name": "奕斯伟",
+      "count": 1
+    },
+    {
+      "name": "上海碳衡科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "腾讯微信搜索团队",
+      "count": 1
+    },
+    {
+      "name": "Nervina Labs",
+      "count": 1
+    },
+    {
+      "name": "5EPLAY 杭州赛凡科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "Nolibox",
+      "count": 1
+    },
+    {
+      "name": "腾讯TEG计费平台部门",
+      "count": 1
+    },
+    {
+      "name": "用友网络科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "Wiredcraft",
+      "count": 1
+    },
+    {
+      "name": "一汽（南京）人工智能研究院",
+      "count": 1
+    },
+    {
+      "name": "eyoungcapital",
+      "count": 1
+    },
+    {
+      "name": "数坤(北京)网络科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "中煤科工集团西安研究院有限公司",
+      "count": 1
+    },
+    {
+      "name": "角马科技（大连）有限公司",
+      "count": 1
+    },
+    {
+      "name": "广州乐创互动娱乐有限公司",
+      "count": 1
+    },
+    {
+      "name": "广州砺行网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "本体（Ontology）",
+      "count": 1
+    },
+    {
+      "name": "西安卓派信息科技有限公司(NextTrucking)",
+      "count": 1
+    },
+    {
+      "name": "趋快联",
+      "count": 1
+    },
+    {
+      "name": "身份云平台公司",
+      "count": 1
+    },
+    {
+      "name": "神策网络科技（北京）有限公司",
+      "count": 1
+    },
+    {
+      "name": "Zoom Video Communications",
+      "count": 1
+    },
+    {
+      "name": "阿里钉钉",
+      "count": 1
+    },
+    {
+      "name": "杭州云霁科技",
+      "count": 1
+    },
+    {
+      "name": "北京格瑞拉科技",
+      "count": 1
+    },
+    {
+      "name": "多个公司招聘汇总",
+      "count": 1
+    },
+    {
+      "name": "百腾教育",
+      "count": 1
+    },
+    {
+      "name": "宝洁科技创新有限公司",
+      "count": 1
+    },
+    {
+      "name": "华为消费者云服务",
+      "count": 1
+    },
+    {
+      "name": "SynFutures",
+      "count": 1
+    },
+    {
+      "name": "DLive (BitTorrent/TRON生态)",
+      "count": 1
+    },
+    {
+      "name": "远算科技",
+      "count": 1
+    },
+    {
+      "name": "速石科技",
+      "count": 1
+    },
+    {
+      "name": "Rocket Software",
+      "count": 1
+    },
+    {
+      "name": "网易-智慧企业事业部",
+      "count": 1
+    },
+    {
+      "name": "商汤科技",
+      "count": 1
+    },
+    {
+      "name": "四川万益能源科技",
+      "count": 1
+    },
+    {
+      "name": "西门子（深圳）磁共振有限公司",
+      "count": 1
+    },
+    {
+      "name": "字节跳动飞书（Lark）",
+      "count": 1
+    },
+    {
+      "name": "炎凰数据",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴 - Lazada",
+      "count": 1
+    },
+    {
+      "name": "Applovin",
+      "count": 1
+    },
+    {
+      "name": "上海捷策创电子科技有限公司（Testrong）",
+      "count": 1
+    },
+    {
+      "name": "好未来/学而思网校",
+      "count": 1
+    },
+    {
+      "name": "PwC AC Shanghai",
+      "count": 1
+    },
+    {
+      "name": "字节跳动飞书文档团队",
+      "count": 1
+    },
+    {
+      "name": "Oxygen Security",
+      "count": 1
+    },
+    {
+      "name": "问卷星",
+      "count": 1
+    },
+    {
+      "name": "北京奕斯伟科技集团有限公司（ESWIN）",
+      "count": 1
+    },
+    {
+      "name": "安恒信息技术股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "Dreamspace XR",
+      "count": 1
+    },
+    {
+      "name": "秘猿科技(Cryptape)",
+      "count": 1
+    },
+    {
+      "name": "虾皮信息科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "Kong China",
+      "count": 1
+    },
+    {
+      "name": "CVTE",
+      "count": 1
+    },
+    {
+      "name": "SF轻小说",
+      "count": 1
+    },
+    {
+      "name": "造浪元宇宙",
+      "count": 1
+    },
+    {
+      "name": "Demonware",
+      "count": 1
+    },
+    {
+      "name": "StreamNative",
+      "count": 1
+    },
+    {
+      "name": "上海必有回响智能科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "沐曦半导体",
+      "count": 1
+    },
+    {
+      "name": "Web 3.0创业公司",
+      "count": 1
+    },
+    {
+      "name": "蔚来汽车",
+      "count": 1
+    },
+    {
+      "name": "秘猿科技 Cryptape",
+      "count": 1
+    },
+    {
+      "name": "深圳虾皮信息科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "Micro Focus",
+      "count": 1
+    },
+    {
+      "name": "Bang Labs",
+      "count": 1
+    },
+    {
+      "name": "望繁信科技",
+      "count": 1
+    },
+    {
+      "name": "北京中亦安图科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "光大银行总行信息科技部青岛科技研发中心",
+      "count": 1
+    },
+    {
+      "name": "亚马逊",
+      "count": 1
+    },
+    {
+      "name": "字节跳动 - TikTok商业化技术创意部门",
+      "count": 1
+    },
+    {
+      "name": "广州易方信息科技股份有限公司（保利威）",
+      "count": 1
+    },
+    {
+      "name": "整数智能",
+      "count": 1
+    },
+    {
+      "name": "蚂蚁集团-OceanBase",
+      "count": 1
+    },
+    {
+      "name": "阿维塔科技",
+      "count": 1
+    },
+    {
+      "name": "Ensoul Labs",
+      "count": 1
+    },
+    {
+      "name": "奇安信",
+      "count": 1
+    },
+    {
+      "name": "火线安全",
+      "count": 1
+    },
+    {
+      "name": "品览数据",
+      "count": 1
+    },
+    {
+      "name": "知乎",
+      "count": 1
+    },
+    {
+      "name": "MetaSearch",
+      "count": 1
+    },
+    {
+      "name": "Cryptape (秘猿科技)",
+      "count": 1
+    },
+    {
+      "name": "广域铭岛数字科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "阿里云智能",
+      "count": 1
+    },
+    {
+      "name": "杭州安恒信息技术股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "环保科技企业（草创期）",
+      "count": 1
+    },
+    {
+      "name": "锐捷网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "义乌晶澳太阳能科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "联新移动医疗集团",
+      "count": 1
+    },
+    {
+      "name": "潞晨科技",
+      "count": 1
+    },
+    {
+      "name": "分一分科技",
+      "count": 1
+    },
+    {
+      "name": "美登科技",
+      "count": 1
+    },
+    {
+      "name": "上海人才大数据科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "中国科学院自动化研究所",
+      "count": 1
+    },
+    {
+      "name": "Orthogonal 上海奥梭格纳科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "元象科技XVERSE",
+      "count": 1
+    },
+    {
+      "name": "思维巡航",
+      "count": 1
+    },
+    {
+      "name": "PLM",
+      "count": 1
+    },
+    {
+      "name": "中国移动云能力中心",
+      "count": 1
+    },
+    {
+      "name": "北京外企德科人力资源服务上海有限公司",
+      "count": 1
+    },
+    {
+      "name": "Cloud Software Group - CITRIX",
+      "count": 1
+    },
+    {
+      "name": "耀终端有限公司",
+      "count": 1
+    },
+    {
+      "name": "百姓AI",
+      "count": 1
+    },
+    {
+      "name": "荣耀终端有限公司",
+      "count": 1
+    },
+    {
+      "name": "浙商证券研究所",
+      "count": 1
+    },
+    {
+      "name": "新目标电子商务",
+      "count": 1
+    },
+    {
+      "name": "北京升宇科技有限公司（成都）",
+      "count": 1
+    },
+    {
+      "name": "DJI 大疆创新",
+      "count": 1
+    },
+    {
+      "name": "IFLYTEK 科大讯飞",
+      "count": 1
+    },
+    {
+      "name": "营信房地产有限公司",
+      "count": 1
+    },
+    {
+      "name": "字节跳动・生活服务",
+      "count": 1
+    },
+    {
+      "name": "LBS游戏+AI Agent项目",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴-1688技术部",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴控股集团",
+      "count": 1
+    },
+    {
+      "name": "喜运达",
+      "count": 1
+    },
+    {
+      "name": "云智研发",
+      "count": 1
+    },
+    {
+      "name": "感易智能",
+      "count": 1
+    },
+    {
+      "name": "腾讯云智研",
+      "count": 1
+    },
+    {
+      "name": "阿里 Lazada",
+      "count": 1
+    },
+    {
+      "name": "CITRIX（思杰）南京研发中心",
+      "count": 1
+    },
+    {
+      "name": "timeplus",
+      "count": 1
+    },
+    {
+      "name": "比特大陆",
+      "count": 1
+    },
+    {
+      "name": "钉钉",
+      "count": 1
+    },
+    {
+      "name": "三六零",
+      "count": 1
+    },
+    {
+      "name": "猫眼娱乐",
+      "count": 1
+    },
+    {
+      "name": "GreptimeDB",
+      "count": 1
+    },
+    {
+      "name": "上海猫眼",
+      "count": 1
+    },
+    {
+      "name": "上海菲咪宠物服务有限公司",
+      "count": 1
+    },
+    {
+      "name": "思杰（CITRIX）",
+      "count": 1
+    },
+    {
+      "name": "飞猪",
+      "count": 1
+    },
+    {
+      "name": "北京领雁科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "Magickbase",
+      "count": 1
+    },
+    {
+      "name": "广州某公司",
+      "count": 1
+    },
+    {
+      "name": "长沙国防科大研究所",
+      "count": 1
+    },
+    {
+      "name": "深圳创维数字",
+      "count": 1
+    },
+    {
+      "name": "深圳 MoeGo",
+      "count": 1
+    },
+    {
+      "name": "Zoom",
+      "count": 1
+    },
+    {
+      "name": "长沙某公司",
+      "count": 1
+    },
+    {
+      "name": "AI大模型后端研发实习生",
+      "count": 1
+    },
+    {
+      "name": "AI大模型后端工程师",
+      "count": 1
+    },
+    {
+      "name": "ZK协议",
+      "count": 1
+    },
+    {
+      "name": "阿里大文娱",
+      "count": 1
+    },
+    {
+      "name": "淘宝",
+      "count": 1
+    },
+    {
+      "name": "方田医创（成都）科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "CodeFit",
+      "count": 1
+    },
+    {
+      "name": "华侨银行",
+      "count": 1
+    },
+    {
+      "name": "思核云",
+      "count": 1
+    },
+    {
+      "name": "外研在线",
+      "count": 1
+    },
+    {
+      "name": "快达",
+      "count": 1
+    },
+    {
+      "name": "天数智芯",
+      "count": 1
+    },
+    {
+      "name": "七牛云",
+      "count": 1
+    },
+    {
+      "name": "嘉立创科技集团",
+      "count": 1
+    },
+    {
+      "name": "字节",
+      "count": 1
+    },
+    {
+      "name": "Temu",
+      "count": 1
+    },
+    {
+      "name": "Denser AI",
+      "count": 1
+    },
+    {
+      "name": "比特鹰",
+      "count": 1
+    },
+    {
+      "name": "iTech",
+      "count": 1
+    },
+    {
+      "name": "识货APP",
+      "count": 1
+    },
+    {
+      "name": "腾讯金融科技",
+      "count": 1
+    },
+    {
+      "name": "讯飞耳机团队",
+      "count": 1
+    },
+    {
+      "name": "方田医创",
+      "count": 1
+    },
+    {
+      "name": "TEMU",
+      "count": 1
+    },
+    {
+      "name": "一起练琴",
+      "count": 1
+    },
+    {
+      "name": "淘天集团-1688事业部",
+      "count": 1
+    },
+    {
+      "name": "北京船讲科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "上海任意子智能科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "童心制物Makeblock",
+      "count": 1
+    },
+    {
+      "name": "华米科技",
+      "count": 1
+    },
+    {
+      "name": "海仓科技",
+      "count": 1
+    },
+    {
+      "name": "ATLASV",
+      "count": 1
+    },
+    {
+      "name": "GanCao",
+      "count": 1
+    },
+    {
+      "name": "Software Engineer / Rust Developer - Cryptape",
+      "count": 1
+    },
+    {
+      "name": "图虫",
+      "count": 1
+    },
+    {
+      "name": "F烯月",
+      "count": 1
+    },
+    {
+      "name": "北京国企",
+      "count": 1
+    },
+    {
+      "name": "深圳南山",
+      "count": 1
+    },
+    {
+      "name": "Vibe Inc",
+      "count": 1
+    },
+    {
+      "name": "抖音集团",
+      "count": 1
+    },
+    {
+      "name": "腾讯音乐-酷狗",
+      "count": 1
+    },
+    {
+      "name": "字节跳动-业务中台-信息服务中台",
+      "count": 1
+    },
+    {
+      "name": "帆软",
+      "count": 1
+    },
+    {
+      "name": "temu 搜广推",
+      "count": 1
+    },
+    {
+      "name": "自研互联网公司",
+      "count": 1
+    },
+    {
+      "name": "垣象科技",
+      "count": 1
+    },
+    {
+      "name": "深圳",
+      "count": 1
+    },
+    {
+      "name": "洋钱罐",
+      "count": 1
+    },
+    {
+      "name": "LinkCode",
+      "count": 1
+    },
+    {
+      "name": "群核科技",
+      "count": 1
+    },
+    {
+      "name": "ArenCore",
+      "count": 1
+    },
+    {
+      "name": "CITRIX",
+      "count": 1
+    },
+    {
+      "name": "字节国际电商",
+      "count": 1
+    },
+    {
+      "name": "Linkcode Tech",
+      "count": 1
+    },
+    {
+      "name": "夏猫科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "Arencore",
+      "count": 1
+    },
+    {
+      "name": "Skiff Energy",
+      "count": 1
+    },
+    {
+      "name": "DeepSeek",
+      "count": 1
+    },
+    {
+      "name": "南京芯传汇",
+      "count": 1
+    },
+    {
+      "name": "字节跳动互娱",
+      "count": 1
+    },
+    {
+      "name": "美团外卖",
+      "count": 1
+    },
+    {
+      "name": "美团点评",
+      "count": 1
+    },
+    {
+      "name": "简道云",
+      "count": 1
+    },
+    {
+      "name": "英迪瑞讯",
+      "count": 1
+    },
+    {
+      "name": "广州新亦源供应链管理有限公司",
+      "count": 1
+    },
+    {
+      "name": "杭州美登科技",
+      "count": 1
+    },
+    {
+      "name": "瑞鹏宠物医疗集团",
+      "count": 1
+    },
+    {
+      "name": "奇志科技",
+      "count": 1
+    },
+    {
+      "name": "量江湖",
+      "count": 1
+    },
+    {
+      "name": "Nebulas",
+      "count": 1
+    },
+    {
+      "name": "江楠鲜品",
+      "count": 1
+    },
+    {
+      "name": "软星科技",
+      "count": 1
+    },
+    {
+      "name": "虎牙直播",
+      "count": 1
+    },
+    {
+      "name": "广发证券（深圳）",
+      "count": 1
+    },
+    {
+      "name": "阿里巴巴新零售供应链平台事业部",
+      "count": 1
+    },
+    {
+      "name": "西瓜视频",
+      "count": 1
+    },
+    {
+      "name": "某独角兽大数据金融AI公司",
+      "count": 1
+    },
+    {
+      "name": "初创公司",
+      "count": 1
+    },
+    {
+      "name": "杭州游卡网络有限公司",
+      "count": 1
+    },
+    {
+      "name": "旷视",
+      "count": 1
+    },
+    {
+      "name": "蚂蚁金服-数据平台",
+      "count": 1
+    },
+    {
+      "name": "蚂蚁金服 商家与开放技术部",
+      "count": 1
+    },
+    {
+      "name": "比特安",
+      "count": 1
+    },
+    {
+      "name": "北京国际音乐节文化传播有限公司",
+      "count": 1
+    },
+    {
+      "name": "驭势科技UISEE",
+      "count": 1
+    },
+    {
+      "name": "1Token",
+      "count": 1
+    },
+    {
+      "name": "AfterShip",
+      "count": 1
+    },
+    {
+      "name": "微丰启科技",
+      "count": 1
+    },
+    {
+      "name": "阿联酋迪拜Center技术中心",
+      "count": 1
+    },
+    {
+      "name": "教育行业",
+      "count": 1
+    },
+    {
+      "name": "LAZADA",
+      "count": 1
+    },
+    {
+      "name": "Web3币圈",
+      "count": 1
+    },
+    {
+      "name": "iMile ( China ) - 深圳市华灵云科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "Kong Inc.",
+      "count": 1
+    },
+    {
+      "name": "重庆侠猫科技",
+      "count": 1
+    },
+    {
+      "name": "i-uas.com",
+      "count": 1
+    },
+    {
+      "name": "逐际动力",
+      "count": 1
+    },
+    {
+      "name": "fenyue-sz.com",
+      "count": 1
+    },
+    {
+      "name": "得物",
+      "count": 1
+    },
+    {
+      "name": "SoulApp",
+      "count": 1
+    },
+    {
+      "name": "亚马逊云科技 (AWS GCR)",
+      "count": 1
+    },
+    {
+      "name": "宇树科技（unitree）",
+      "count": 1
+    },
+    {
+      "name": "上海得物信息集团有限公司",
+      "count": 1
+    },
+    {
+      "name": "义乌一家从事服饰相关业创业公司",
+      "count": 1
+    },
+    {
+      "name": "深圳市启灵云创智能科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "迪拜技术中心",
+      "count": 1
+    },
+    {
+      "name": "懂车帝",
+      "count": 1
+    },
+    {
+      "name": "南方仕通",
+      "count": 1
+    },
+    {
+      "name": "WorkMagic",
+      "count": 1
+    },
+    {
+      "name": "UPAYHR",
+      "count": 1
+    },
+    {
+      "name": "Rakuten",
+      "count": 1
+    },
+    {
+      "name": "深圳氛悦科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "拼多多跨境（temu）",
+      "count": 1
+    },
+    {
+      "name": "杭州元狲科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "固胜智能科技",
+      "count": 1
+    },
+    {
+      "name": "字节跳动-抖音激励",
+      "count": 1
+    },
+    {
+      "name": "阿联酋迪拜Saas5.0技术服务中心",
+      "count": 1
+    },
+    {
+      "name": "Cloud Software Group - CITRIX（思杰）南京研发中心",
+      "count": 1
+    },
+    {
+      "name": "Pallas AI",
+      "count": 1
+    },
+    {
+      "name": "上海二三四五网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "嘉云数据",
+      "count": 1
+    },
+    {
+      "name": "广通信达软件股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "小雨伞保险",
+      "count": 1
+    },
+    {
+      "name": "exinone.com",
+      "count": 1
+    },
+    {
+      "name": "微软中国",
+      "count": 1
+    },
+    {
+      "name": "杭州某初创公司",
+      "count": 1
+    },
+    {
+      "name": "advance.ai",
+      "count": 1
+    },
+    {
+      "name": "核桃编程",
+      "count": 1
+    },
+    {
+      "name": "启奥科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "宇信科技",
+      "count": 1
+    },
+    {
+      "name": "Klook客路旅行",
+      "count": 1
+    },
+    {
+      "name": "哈曼(中国)",
+      "count": 1
+    },
+    {
+      "name": "薄荷健康",
+      "count": 1
+    },
+    {
+      "name": "ExinOne",
+      "count": 1
+    },
+    {
+      "name": "熵简科技",
+      "count": 1
+    },
+    {
+      "name": "上海某私募小巨头",
+      "count": 1
+    },
+    {
+      "name": "中望CAD",
+      "count": 1
+    },
+    {
+      "name": "大疆创新",
+      "count": 1
+    },
+    {
+      "name": "银联",
+      "count": 1
+    },
+    {
+      "name": "天闻数媒",
+      "count": 1
+    },
+    {
+      "name": "瓴岳科技",
+      "count": 1
+    },
+    {
+      "name": "Saas5.0技术服务中心",
+      "count": 1
+    },
+    {
+      "name": "未提及公司名称",
+      "count": 1
+    },
+    {
+      "name": "Share Creators",
+      "count": 1
+    },
+    {
+      "name": "智驾大陆",
+      "count": 1
+    },
+    {
+      "name": "浙江精准学科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "Dureach",
+      "count": 1
+    },
+    {
+      "name": "CTMC",
+      "count": 1
+    },
+    {
+      "name": "九州文化",
+      "count": 1
+    },
+    {
+      "name": "智驾大陆(上海)智能科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "UPay Technology., Ltd",
+      "count": 1
+    },
+    {
+      "name": "CamusAI",
+      "count": 1
+    },
+    {
+      "name": "小米武汉生态链（音箱团队）",
+      "count": 1
+    },
+    {
+      "name": "shopee",
+      "count": 1
+    },
+    {
+      "name": "POP",
+      "count": 1
+    },
+    {
+      "name": "VR 商用设备公司",
+      "count": 1
+    },
+    {
+      "name": "异乡好居",
+      "count": 1
+    },
+    {
+      "name": "菜鸟",
+      "count": 1
+    },
+    {
+      "name": "成都探码科技",
+      "count": 1
+    },
+    {
+      "name": "Mokahr",
+      "count": 1
+    },
+    {
+      "name": "华为技术有限公司",
+      "count": 1
     }
   ],
   "byType": {
-    "创业": 1038,
-    "大厂": 1015,
-    "国企": 246,
-    "外企": 524
+    "创业": 658,
+    "大厂": 571,
+    "国企": 53,
+    "大厚": 1,
+    "外企": 215,
+    "远程": 3,
+    "其他": 3,
+    "合资": 2,
+    "合资企业": 1
   },
   "salaryDistribution": [
     {
+      "range": "<10k",
+      "count": 8
+    },
+    {
       "range": "10k-15k",
-      "count": 259
+      "count": 10
     },
     {
       "range": "15k-20k",
-      "count": 255
+      "count": 55
     },
     {
       "range": "20k-25k",
-      "count": 267
+      "count": 63
     },
     {
       "range": "25k-30k",
-      "count": 512
+      "count": 25
     },
     {
       "range": "30k-40k",
-      "count": 252
+      "count": 60
     },
     {
       "range": "40k-50k",
-      "count": 251
+      "count": 18
     },
     {
       "range": "50k+",
-      "count": 278
+      "count": 23
     }
   ],
-  "salaryValidSamples": 2074
+  "salaryValidSamples": 262
 }

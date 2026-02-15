@@ -322,15 +322,15 @@ function aggregate(postings: JobPosting[]) {
 
     for (const p of posts) {
       // 城市
-      for (const loc of p.location) {
+      for (const loc of p.location ?? []) {
         incrementMap(byCity, loc);
       }
       // 技术栈
-      for (const tech of p.techStack) {
+      for (const tech of p.techStack ?? []) {
         incrementMap(byTechStack, normalizeTech(tech));
       }
       // 岗位分类
-      for (const pos of p.positions) {
+      for (const pos of p.positions ?? []) {
         if (pos.category) incrementMap(byCategory, pos.category);
       }
       // 公司类型
@@ -368,9 +368,9 @@ function aggregate(postings: JobPosting[]) {
   let salaryValidCount = 0;
 
   for (const p of postings) {
-    for (const loc of p.location) incrementMap(globalCity, loc);
-    for (const tech of p.techStack) incrementMap(globalTech, normalizeTech(tech));
-    for (const pos of p.positions) {
+    for (const loc of p.location ?? []) incrementMap(globalCity, loc);
+    for (const tech of p.techStack ?? []) incrementMap(globalTech, normalizeTech(tech));
+    for (const pos of p.positions ?? []) {
       if (pos.category) incrementMap(globalCategory, pos.category);
     }
     if (p.companyType) incrementMap(globalCompanyType, p.companyType);
@@ -419,7 +419,7 @@ function aggregate(postings: JobPosting[]) {
   for (const name of topCityNames) {
     cityTrends[name] = sortedMonths.map((ym) => ({
       yearMonth: ym,
-      count: byMonth.get(ym)!.filter((p) => p.location.includes(name)).length,
+      count: byMonth.get(ym)!.filter((p) => (p.location ?? []).includes(name)).length,
     }));
   }
 
@@ -436,7 +436,7 @@ function aggregate(postings: JobPosting[]) {
     techTrends[name] = sortedMonths.map((ym) => ({
       yearMonth: ym,
       count: byMonth.get(ym)!.filter((p) =>
-        p.techStack.some((t) => normalizeTech(t) === name),
+        (p.techStack ?? []).some((t) => normalizeTech(t) === name),
       ).length,
     }));
   }
@@ -475,13 +475,13 @@ function aggregate(postings: JobPosting[]) {
   }));
 
   // 岗位分类趋势
-  const allCategories = [...new Set(postings.flatMap((p) => p.positions.map((pos) => pos.category)).filter(Boolean))];
+  const allCategories = [...new Set(postings.flatMap((p) => (p.positions ?? []).map((pos) => pos.category)).filter(Boolean))];
   const categoryTrend: Record<string, Array<{ yearMonth: string; count: number }>> = {};
   for (const cat of allCategories) {
     categoryTrend[cat] = sortedMonths.map((ym) => ({
       yearMonth: ym,
       count: byMonth.get(ym)!.filter((p) =>
-        p.positions.some((pos) => pos.category === cat),
+        (p.positions ?? []).some((pos) => pos.category === cat),
       ).length,
     }));
   }

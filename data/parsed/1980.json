@@ -1,0 +1,1677 @@
+{
+  "issueNumber": 1980,
+  "yearMonth": "2021-10",
+  "postings": [
+    {
+      "id": "1980-930912595",
+      "issueNumber": 1980,
+      "commentId": 930912595,
+      "yearMonth": "2021-10",
+      "author": "liluo",
+      "rawContent": "【北京/上海】彩云科技\r\n\r\n**公司简介**\r\n\r\n我们是一家专注于做人工智能相关业务的公司，当前的业务有：\r\n- 彩云天气 分钟级天气预报，多次获得应用商店推荐\r\n- 彩云小译 文档网页语音翻译，兼具中日英同声传译\r\n- 彩云小梦 AI 续写 · 平行世界（当前 iOS App Store 9 月最佳 App）\r\n\r\n了解更多 https://caiyunapp.com/\r\n\r\n**招聘职位**\r\n\r\n工程团队：后端工程师、前端工程师、iOS 工程师、Flutter 工程师、QA 测试工程师\r\n业务团队：产品经理、产品总监\r\n\r\n考虑到职位较多，大段的文字描述可能会影响阅读体验，具体职位信息放到了[飞书文档](https://colorfulclouds.feishu.cn/docs/doccnc7ySaEpIdAFJspqeRTPE2f)\r\n\r\n**工作地点**\r\n\r\n- 北京：海淀-六道口-768 园区\r\n- 上海：筹备选址中\r\n\r\n**简历投递**\r\n\r\n为了提高沟通效率，请遵循邮件标题格式：职位-姓名\r\n工程团队 liluo@caiyunapp.com\r\n业务团队 xtao@caiyunapp.com\r\n或者可以 hr@caiyunapp.com\r\n\r\n\r\n![we-are-hiring](https://user-images.githubusercontent.com/741755/135405896-5070c6b6-6501-4f73-860a-a40f7c4237c3.jpg)\r\n\r\n\r\n",
+      "company": "彩云科技",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "后端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "iOS工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "Flutter工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "QA测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "产品总监",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "人工智能",
+        "后端",
+        "前端",
+        "iOS",
+        "Flutter"
+      ],
+      "contact": "liluo@caiyunapp.com, xtao@caiyunapp.com, hr@caiyunapp.com"
+    },
+    {
+      "id": "1980-930306887",
+      "issueNumber": 1980,
+      "commentId": 930306887,
+      "yearMonth": "2021-10",
+      "author": "keenwon",
+      "rawContent": "![image](https://user-images.githubusercontent.com/5516478/131304431-4bfdcd6f-943c-4954-95ae-10e68b2f1078.png)\r\n\r\n\r\n# 【杭州】网易云音乐【长期】\r\n\r\n有意向的同学可联系 semanwmj@gmail.com\r\n\r\n## 高级/资深前端开发工程师、前端开发专家\r\n\r\n### 职位描述\r\n\r\n1. 负责云音乐的前端开发工作；\r\n2. 参与各类型项目（Web&Webview、中后台系统、混合应用、小程序、创意活动及游戏）的前端开发工作，完成系统设计、技术选型、模块开发工作；\r\n3. 以不断提升质量、效率、体验为目的，封装组件、沉淀文档、生产工具、搭建系统, 享受工程师的日常；\r\n4. 分享自己日常的所见所想，引导同事共同成长，营造积极健康的技术氛围。\r\n\r\n### 职位要求\r\n\r\n1. 精通各种Web前端技术和标准(Javascript、HTML、CSS)，熟悉页面布局常用解决方案，对表现与数据分离、Web语义化等有深刻理解；\r\n2. 熟练掌握一个数据驱动视图的框架（ React，Angular，Vue…）；\r\n3. 熟练掌握常用的前端构建工具（webpack等），并具有成熟的模块化开发思维；\r\n4. 熟悉常用前端数据管理的解决方案（如Redux、Mobx、Rxjs等），并清楚它们的优劣和应用场景；\r\n5. 熟悉HTTP协议，并掌握相关网络调试工具，有服务端开发的背景常识；\r\n6. 对重复性或不规范的工作容忍度低，能自发通过沟通或技术手段解决。\r\n\r\n加分项：\r\n\r\n1. 对至少一个较大型前端框架有超越文档指南的原理性了解，能在更高层面分析框架的内在技术选型；\r\n2. 扎实的Node基础，对 Node 异步编程、进程管理通信、Stream应用等有自己的实践经验，有大规模高可用的 Node 生产环境落地经验；\r\n3. 丰富的跨端（PC&iOS&Android）开发经验，有实际跨端技术融合的实践经验；\r\n4. 基于Web的爆款创意活动&游戏实践经验，有相关框架或解决方案的产出；\r\n5. 有大厂成熟大前端团队的工作经验，参与开发或熟练应用内部沉淀的基础设施，能清楚它们的改进点更好；\r\n6. 主导或以核心贡献者角色参与过优质开源项目，对技术社区运营有深入的思考见解；\r\n7. 有音视频相关开发经验。\r\n\r\n## 高级/资深Java开发工程师\r\n\r\n### 职位描述\r\n\r\n网易云音乐创新业务服务端团队，服务于音街业务，同时支持云音乐基础平台、业务中台等建设。我们保持将最新技术引入提升开发效率，带给用户更好的体验（其他团队也在招聘）\r\n\r\n1. 根据产品需求完成模块设计、编码、测试以及文档编写等工作；\r\n2. 负责后端系统的架构设计、开发和维护，系统具有可扩展性，并能够支持大量并发用户；  \r\n3. 持续优化系统性能，保证线上服务的高可用及稳定性。\r\n\r\n### 职位要求\r\n\r\n1. 计算机相关专业，本科及以上学历，5年以上java开发经验；\r\n2. 精通互联网常用中间件的应用，并深入了解其原理，如Kafka、RocketMQ、ZooKeeper等；\r\n3. 高并发、高可用等相关的架构设计经验者优先考虑；\r\n4. 有较强的学习与沟通能力，有创新力和责任感；\r\n5. 有中大型项目经验或者项目管理经验者优先考虑；\r\n\r\n## 高级/资深Android开发工程师\r\n\r\n### 职位描述\r\n\r\n网易云音乐Android团队，服务于云音乐主体，LOOK直播，以及新兴业务等多APP矩阵。支持中台业务，大前端协同的基础设施建设以及开发流程标准化、体系平台搭建。团队活跃于行业开源，大会交流，技术分享，希望将云音乐的实践经验带给大家，真正服务于产品。我们也积极与Android官方团队保持紧密交流，将最新技术引入提升开发效率，带给用户更好的体验\r\n\r\n加入后您的工作内容包括不仅限于：\r\n\r\n1. 负责网易云音乐客户端的开发和维护工作；\r\n2. 参与网易云音乐模块技术分析，设计，代码优化和各种规范制定。\r\n\r\n### 职位要求\r\n\r\n1. 本科或以上学历，计算机软件或相关专业；\r\n2. 三年以上客户端开发经验，熟悉Android平台，优秀者可以放宽年限；\r\n3. 熟悉至少一种主流编程语言（Java，Python，C），对新技术有关注；\r\n4. 熟悉http协议，常用数据库使用，常见shell命令；\r\n5. 对技术有激情，喜欢钻研，具有有较强的独立工作能力和解决问题的能力。\r\n\r\n## 高级/资深iOS开发工程师\r\n\r\n### 职位描述\r\n\r\n网易云音乐iOS团队，服务于云音乐主体，LOOK直播，以及新兴业务等多APP矩阵。支持中台业务，大前端协同的基础设施建设以及开发流程标准化、体系平台搭建。团队活跃于行业开源，大会交流，技术分享，希望将云音乐的实践经验带给大家，真正服务于产品。我们保持将最新技术引入提升开发效率，带给用户更好的体验\r\n\r\n1. 负责云音乐iOS平台的客户端开发和维护；\r\n2. 优化客户端的模块结构和流程逻辑；\r\n3. 研究前沿技术，提升用户体验，满足产品需求；\r\n\r\n### 职位要求\r\n\r\n1. 计算机相关专业，本科及以上学历；\r\n2. 3-5年iOS开发经验；\r\n3. 较强的发现、分析和解决技术问题的能力；\r\n4. 深刻理解iOS平台，精通ObjC/C/C++语言；\r\n5. 有较好的学习与沟通能力，有创新力和责任感；\r\n",
+      "company": "网易云音乐",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "高级/资深前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "前端开发专家",
+          "category": "前端"
+        },
+        {
+          "title": "高级/资深Java开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "高级/资深Android开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "高级/资深iOS开发工程师",
+          "category": "移动端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Angular",
+        "Vue",
+        "Redux",
+        "Mobx",
+        "RxJS",
+        "Webpack",
+        "Node.js",
+        "Java",
+        "Kafka",
+        "RocketMQ",
+        "ZooKeeper",
+        "Android",
+        "iOS",
+        "Objective-C",
+        "C",
+        "C++",
+        "Python"
+      ],
+      "experienceReq": "前端：不限；Java：5年以上；Android：3年以上；iOS：3-5年",
+      "educationReq": "本科及以上",
+      "contact": "semanwmj@gmail.com"
+    },
+    {
+      "id": "1980-930904725",
+      "issueNumber": 1980,
+      "commentId": 930904725,
+      "yearMonth": "2021-10",
+      "author": "RedTeamExp",
+      "rawContent": "# 杭州默安科技[正式岗/实习生]\r\n\r\n默安科技成立于2016年，是一家云计算时代的新兴网络安全公司，致力于成为客户信赖的安全伙伴。默安科技推出贯穿完整业务生命周期的左移开发安全DevSecOps与智慧运营安全AISecOps的下一代企业安全体系。凭借完整“平台+工具+服务”的SDL/DevSecOps全流程解决方案，抓源头、治漏洞、灭风险，为政企数字化业务安全赋能；以在国内率先发布并落地的欺骗防御为突破口，智能化整合安全数据与防御能力，形成集检测、响应和决策于一体的安全运营体系。凭借领先的技术优势、卓越的产品理念和丰富的实战经验，默安科技作为唯一中国厂商入选Gartner软件成分分析市场指南，荣获2020德勤高科技高成长50强、IDC中国威胁情报安全服务市场创新者、中国网络安全能力百强、杭州准独角兽企业、数字中国推动者TOP100、未来银行科技服务商TOP100、最具投资价值企业TOP50、中国网络安全产业发展及投资价值60强，以及浙江省十佳网络安全优秀产品、最具投资价值产品、“互联网+政务服务”创新案例、电子政务优秀案例、企业服务案例TOP50等多项荣誉。\r\n岗位简介：\r\n默安坐落于杭州，分布全国各地，在北京、天津、河南、河北、上海、广州、深圳、江苏、成都、长沙、武汉、安徽等地都设有办事处，员工目前有470+，目前融资是到C轮，有计划在上市，发展前景还是很不错的，如果有机会来实习的话，双休不打卡，技术氛围好，欢迎大家来～\r\n\r\n官网地址:https://www.moresec.cn\r\n\r\n## 正式岗🍪\r\n\r\n### Golang工程师       \r\n岗位要求：\r\n1. 本科以上学历，计算机相关专业，英语良好\r\n2. 熟悉go/c/c++等至少一门语言\r\n3. 数据结构&算法基础良好\r\n4. 熟练使用linux，有系统问题解决能力、调优能力优先\r\n5. 熟悉mysql, nginx, redis等中间件，有相关建模经验优先\r\n6. 了解微服务，分布式系统等相关知识\r\n7. 对设计模式、网络编程、并发编程等后端服务话题熟悉\r\n8. 良好的代码风格，能独立完成文档撰写\r\n9. 团队合作能力，沟通能力，严谨和品控态度，良好抗压能力\r\n加分项：\r\n1. 熟悉2到7层网络理论\r\n2. 对虚网设备tun/tap/linux-bridge/ovs等有相关经验\r\n3. 对包收取如pcap/netmap/pf_ring/dpdk有相关经验，尤其dpdk\r\n4. 对单机性能挖掘如hugepages，缓存命中优化，numa有相关经验\r\n5. 熟悉openstack和k8s优先\r\n6. 对入侵检测系统熟悉，优化过snort, zeek, suricata优先\r\n7. waf或slb开发经验优先\r\n工作职责：\r\n1. 平台型安全业务开发（防火墙、防篡改等）\r\n2. 为安全业务建模，设计并开发能稳定检出威胁事件的组件或模块\r\n3. 开发分布式流还原和流安全检测算法开发\r\n4. 改良增强产品的技术和业务架构\r\n5. 构建产品的ci/cd流程\r\n\r\n\r\n### 资深golang工程师   \r\n岗位要求：\r\n1. 计算机相关专业本科及以上学历，三年及以上工作经历；\r\n2. 熟练掌握c/c++/go语言任意一种，擅长linux下后端软件设计开发。\r\n3. 熟练掌握常见的数据结构、算法、设计模式，熟悉tcp/ip协议，\r\n4. 具备良好的架构设计能力、程序设计思维\r\n5. 熟悉redis/mysql/mongo/leveldb等常见的存储中间件，\r\n6. 熟悉rabbitMQ/kafka/nsq等常见的队列服务中间件\r\n7. 良好的沟通表达、团队合作、攻关创新能力\r\n8. 能抗压，热爱技术，具备快速学习、快速切换能力\r\n加分项：\r\n1. 具备高性能、高可用、分布式&集群等服务设计经验者优先\r\n2. 具备项目管理、团队管理经验者优先\r\n工作职责：\r\n1. 负责linux下后端功能的设计、研发工作\r\n2. 解决项目开展过程中的架构设计、技术攻关、落地实现等\r\n3. 负责现有代码的架构优化、重构、维护等工作\r\n4. 配合质量团队做好质量保障\r\n\r\n\r\n## 实习岗🍔\r\n每个实习岗位招聘数量5人；\r\n实习待遇税后到手5100+/月，双休，上下班不打卡；\r\n招聘对象：22届同学，如果实习期表现优秀，可以留下来转正；\r\n\r\n### 研发实习生（杭州）\r\n任职资格：\r\n1.2022届在校大学生，计算机相关专业背景，本科及以上学历；\r\n2.专业基础扎实，熟练掌握常见的数据结构和算法；\r\n3.熟悉C/C++/Go/Python/Java等任意一门语言；\r\n4.熟悉TCP/IP协议及互联网常见应用和协议的原理；\r\n5.熟悉linux操作系统；\r\n6.认真负责，有激情，成长意愿强烈；\r\n7.具备较强的学习能力，自律能力，责任性强；\r\n8.良好的沟通能力和团体合作精神；\r\n加分项：\r\n1.具备相关的实习经历；\r\n2.具备一定的项目实战经验；\r\n岗位描述：\r\n1.全程参与公司的产品开发，专业导师，全程指导；\r\n2.参与项目的各个环节，和产品、测试、运维同学相互配合，开展好项目；\r\n3.表现突出者，可提前确认offer意向。\r\n\r\n\r\n### 测试实习生（杭州）\r\n任职资格：\r\n1.2022届在校大学生，实习时间在4个月以上\r\n2.有shell和python等脚本使用经验者优先\r\n3.熟悉Linux操作系统环境\r\n4.对测试工作有兴趣，掌握基本软件工程知识，了解软件测试流程和测试方法\r\n5.具备很强的学习能力、分析能力和解决问题的能力\r\n6.工作细心认真、责任心强、有良好的表达和沟通能力\r\n加分项：有实际项目的测试经验者优先、有实习经历者优先\r\n工作职责：\r\n1.参与公司产品的测试工作，负责项目内的功能测试，用例执行\r\n2.在测试工程师指导下，进行用例设计\r\n3.进行缺陷管理\r\n4.对所测功能模块进行回归测试，并且进行跟踪上线\r\n\r\n### 前端实习生（杭州）\r\n岗位要求：\r\n1.2021年本科及以上学历应届毕业生，计算机或者软件工程等相关专业;\r\n2.扎实的计算机以及网络基础，HTML、CSS、JavaScript基础扎实，了解HTTP\r\n协议以及浏览器原理；\r\n3.有用过React/Vue/Angular等框架；\r\n4.一周保证4天及以上的出勤天数，能连续实习6个月及以上。\r\n岗位职责\r\n1.参与公司产品线的开发，有导师带，主要是PC端，兼容现代浏览器即可；\r\n2.参与公司内部系统建设等其他前端项目。\r\n\r\n\r\n#### 邮箱投递\r\nzhoutaotao@moresec.cn\r\n\r\n_Originally posted by @RedTeamExp in https://github.com/ruanyf/weekly/issues/1784#issuecomment-851761906_",
+      "company": "默安科技",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Golang工程师",
+          "category": "后端"
+        },
+        {
+          "title": "资深Golang工程师",
+          "category": "后端"
+        },
+        {
+          "title": "研发实习生",
+          "category": "后端"
+        },
+        {
+          "title": "测试实习生",
+          "category": "测试"
+        },
+        {
+          "title": "前端实习生",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州",
+        "北京",
+        "天津",
+        "河南",
+        "河北",
+        "上海",
+        "广州",
+        "深圳",
+        "江苏",
+        "成都",
+        "长沙",
+        "武汉",
+        "安徽"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "实习生5100+元/月（税后）",
+      "techStack": [
+        "Go",
+        "C",
+        "C++",
+        "Python",
+        "Java",
+        "Linux",
+        "MySQL",
+        "Redis",
+        "Nginx",
+        "MongoDB",
+        "LevelDB",
+        "RabbitMQ",
+        "Kafka",
+        "NSQ",
+        "TCP/IP",
+        "React",
+        "Vue",
+        "Angular",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Docker",
+        "Kubernetes",
+        "OpenStack",
+        "Snort",
+        "Zeek",
+        "Suricata"
+      ],
+      "experienceReq": "Golang工程师：本科以上；资深Golang工程师：3年及以上工作经历；实习生：2022届在校大学生",
+      "educationReq": "本科及以上",
+      "contact": "zhoutaotao@moresec.cn"
+    },
+    {
+      "id": "1980-930284022",
+      "issueNumber": 1980,
+      "commentId": 930284022,
+      "yearMonth": "2021-10",
+      "author": "ruanyf",
+      "rawContent": "以下是上个月的招聘信息汇总，继续有效。详细信息请访问 #1913  。\r\n\r\n<table class=\"waffle\" cellspacing=\"0\" cellpadding=\"0\"><thead><tr><th class=\"row-header freezebar-origin-ltr header-shim row-header-shim\"></th><th id=\"1683181263C0\" style=\"width:177px;\" class=\"header-shim\"></th><th id=\"1683181263C1\" style=\"width:123px;\" class=\"header-shim\"></th><th id=\"1683181263C2\" style=\"width:263px;\" class=\"header-shim\"></th></tr></thead><tbody><tr style=\"height: 20px\"><th id=\"1683181263R0\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">1</div></th><td class=\"s0\" dir=\"ltr\">公司</td><td class=\"s0\" dir=\"ltr\">地点</td><td class=\"s1\" dir=\"ltr\">岗位</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R1\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">2</div></th><td class=\"s2\" dir=\"ltr\">Airwallex</td><td class=\"s2\" dir=\"ltr\">上海</td><td class=\"s2\" dir=\"ltr\">内推，包括 DevOps/Java/前端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R2\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">3</div></th><td class=\"s3\" dir=\"ltr\">klook</td><td class=\"s3\" dir=\"ltr\">深圳</td><td class=\"s3\" dir=\"ltr\">前端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R3\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">4</div></th><td class=\"s4\" dir=\"ltr\">Crypto.com</td><td class=\"s2\" dir=\"ltr\">深圳</td><td class=\"s2\" dir=\"ltr\">区块链/Java/Python 工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R4\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">5</div></th><td class=\"s3\" dir=\"ltr\">GrowingIO</td><td class=\"s3\" dir=\"ltr\">北京/杭州</td><td class=\"s3\" dir=\"ltr\">校招</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R5\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">6</div></th><td class=\"s2\" dir=\"ltr\">趣丸 TT</td><td class=\"s2\" dir=\"ltr\">广州</td><td class=\"s2\" dir=\"ltr\">社招和校招，大量岗位</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R6\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">7</div></th><td class=\"s3\" dir=\"ltr\">Wish</td><td class=\"s3\" dir=\"ltr\">上海</td><td class=\"s3\" dir=\"ltr\">数据工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R7\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">8</div></th><td class=\"s2\" dir=\"ltr\">葡萄城</td><td class=\"s2\" dir=\"ltr\">西安</td><td class=\"s2\" dir=\"ltr\">前端/.Net/安全/销售顾问</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R8\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">9</div></th><td class=\"s3\" dir=\"ltr\">网易云音乐</td><td class=\"s3\" dir=\"ltr\">杭州</td><td class=\"s3\" dir=\"ltr\">前端/Java/Android/iOS 工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R9\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">10</div></th><td class=\"s2\" dir=\"ltr\">HYPERS 技术中心</td><td class=\"s2\" dir=\"ltr\">上海、北京、深圳</td><td class=\"s2\" dir=\"ltr\">大数据/机器学习/测试/Python/Java/前端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R10\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">11</div></th><td class=\"s3\" dir=\"ltr\">彩云科技</td><td class=\"s3\" dir=\"ltr\">北京</td><td class=\"s3\" dir=\"ltr\">前端/后端/客户端/SRE/QA</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R11\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">12</div></th><td class=\"s2\" dir=\"ltr\">ONES</td><td class=\"s2\" dir=\"ltr\">深圳南山</td><td class=\"s2\" dir=\"ltr\">前端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R12\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">13</div></th><td class=\"s3\" dir=\"ltr\">有赞</td><td class=\"s3\" dir=\"ltr\">杭州</td><td class=\"s3\" dir=\"ltr\">前端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R13\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">14</div></th><td class=\"s2\" dir=\"ltr\">中国移动物联网</td><td class=\"s2\" dir=\"ltr\">重庆</td><td class=\"s2\" dir=\"ltr\">Java/前端/软件测试工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R14\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">15</div></th><td class=\"s3\" dir=\"ltr\">慧算账</td><td class=\"s3\" dir=\"ltr\">广州</td><td class=\"s3\" dir=\"ltr\">Java/前端/DBA/Python/C# 工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R15\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">16</div></th><td class=\"s2\" dir=\"ltr\">Conflux</td><td class=\"s2\" dir=\"ltr\">北京、上海</td><td class=\"s2\" dir=\"ltr\">区块链/前端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R16\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">17</div></th><td class=\"s3\" dir=\"ltr\">天眼查</td><td class=\"s3\" dir=\"ltr\">北京</td><td class=\"s3\" dir=\"ltr\">Java 工程师（搜索方向）</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R17\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">18</div></th><td class=\"s2\" dir=\"ltr\">无码科技</td><td class=\"s2\" dir=\"ltr\">杭州滨江</td><td class=\"s2\" dir=\"ltr\">Java 工程师/产品经理</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R18\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">19</div></th><td class=\"s3\" dir=\"ltr\">蚂蚁金服 支付宝高可用架构组</td><td class=\"s3\" dir=\"ltr\">杭州</td><td class=\"s3\" dir=\"ltr\">测试/Go 工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R19\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">20</div></th><td class=\"s2\" dir=\"ltr\">iHerb</td><td class=\"s2\" dir=\"ltr\">上海</td><td class=\"s2\" dir=\"ltr\">安全工程师/产品经理</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R20\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">21</div></th><td class=\"s3\" dir=\"ltr\">坚果云</td><td class=\"s3\" dir=\"ltr\">上海</td><td class=\"s3\" dir=\"ltr\">前端/后端/Devops 工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R21\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">22</div></th><td class=\"s2\" dir=\"ltr\">深圳保诚科技</td><td class=\"s2\" dir=\"ltr\">深圳</td><td class=\"s2\" dir=\"ltr\">前端/Java/测试/设计师/架构师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R22\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">23</div></th><td class=\"s3\" dir=\"ltr\">拼多多 商家前端团队</td><td class=\"s3\" dir=\"ltr\">上海</td><td class=\"s3\" dir=\"ltr\">前端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R23\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">24</div></th><td class=\"s2\" dir=\"ltr\">阅文集团</td><td class=\"s2\" dir=\"ltr\">上海</td><td class=\"s2\" dir=\"ltr\">前端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R24\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">25</div></th><td class=\"s3\" dir=\"ltr\">普华永道</td><td class=\"s3\" dir=\"ltr\">上海 / 远程</td><td class=\"s3\" dir=\"ltr\">大量岗位</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R25\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">26</div></th><td class=\"s2\" dir=\"ltr\">句子互动</td><td class=\"s2\" dir=\"ltr\">北京</td><td class=\"s2\" dir=\"ltr\">全栈/后端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R26\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">27</div></th><td class=\"s3\" dir=\"ltr\">飞书</td><td class=\"s3\" dir=\"ltr\">杭州</td><td class=\"s3\" dir=\"ltr\">后端工程师</td></tr><tr style=\"height: 20px\"><th id=\"1683181263R27\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">28</div></th><td class=\"s2\" dir=\"ltr\">长桥</td><td class=\"s2\" dir=\"ltr\">杭州/成都</td><td class=\"s2\" dir=\"ltr\">Go/iOS/前端工程师/产品经理</td></tr></tbody></table>",
+      "company": "多家公司招聘汇总",
+      "positions": [
+        {
+          "title": "DevOps工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "Java工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "区块链工程师",
+          "category": "其他"
+        },
+        {
+          "title": "Python工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Android工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "iOS工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "大数据工程师",
+          "category": "数据"
+        },
+        {
+          "title": "机器学习工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "客户端工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "SRE工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "QA工程师",
+          "category": "测试"
+        },
+        {
+          "title": "DBA工程师",
+          "category": "后端"
+        },
+        {
+          "title": "C#工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Go工程师",
+          "category": "后端"
+        },
+        {
+          "title": "安全工程师",
+          "category": "安全"
+        },
+        {
+          "title": ".Net工程师",
+          "category": "后端"
+        },
+        {
+          "title": "销售顾问",
+          "category": "运营"
+        },
+        {
+          "title": "产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "设计师",
+          "category": "设计"
+        },
+        {
+          "title": "架构师",
+          "category": "后端"
+        },
+        {
+          "title": "全栈工程师",
+          "category": "全栈"
+        }
+      ],
+      "location": [
+        "上海",
+        "深圳",
+        "北京",
+        "杭州",
+        "广州",
+        "西安",
+        "重庆",
+        "成都"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "Python",
+        "Go",
+        "C#",
+        ".Net",
+        "区块链",
+        "Android",
+        "iOS",
+        "前端",
+        "DevOps"
+      ]
+    },
+    {
+      "id": "1980-930958955",
+      "issueNumber": 1980,
+      "commentId": 930958955,
+      "yearMonth": "2021-10",
+      "author": "JerryYuanJ",
+      "rawContent": "## PwC \r\n\r\n\r\n=====>>>> https://jerryyuanj.github.io/jobs/\r\n\r\n写在前面：由于我们是外企，所以我们对英文有一定的要求，各轮面试都会有英文。\r\n\r\n岗位咨询，简历指导，英文面试指导，可以加我微信 A610819267，也可以交个朋友 :)。添加请备注 来自阮一峰老师博客-内推。谢谢。如果不需要，可以直接发我公司邮箱 jerry.y.yuan@pwc.com，我会直接转发给 HR，ta会给你匹配合适的岗位。\r\n\r\n- 公司地址：上海。2号线金科路地铁站出来五分钟的路程。\r\n\r\n- 关于远程：目前公司大部分都是remote的状态，不过有一些团队因为项目原因，每周需要来办公室一到两次。\r\n\r\n- 公司福利:\r\n\r\n    - 五险一金全额缴纳，还有企业年金，妥妥的福利。\r\n    - 15天年假，每月一天带薪病假。今年新增了一项福利，一次休假天数>=5天，公司会给你一笔奖金，150刀。也就是说，公司给钱 给你休假—— https://mp.weixin.qq.com/s/878I6PN1VpwOgw0z6zLTVg. 我们的病假也是非常人性化的，每个月一天，不需要假条之类的，甚至你带家人看病都是可以请的。还有圣诞假和一些额外的假期，比如前不久的年会宣布的今年会多放四天假。而且每年的圣诞节我们一般都是和元旦一起连放的...\r\n    - 外企氛围浓厚，没有PUA，妥妥 Work Life Balance\r\n    - 我们提倡 remote work，每周你可以大部分时间在家办公，不需要来公司坐班，我没看过哪一个办公室坐满过人...\r\n    - 各种俱乐部：桌游、篮球、羽毛球 ... 你甚至可以下班时间在公司打麻将 (桌游)🤦\r\n    - 考证费用全报销，考过了还有额外奖金\r\n- 关于薪资：可以参考我们在各大招聘平台的信息，比如 https://www.liepin.com/company-jobs/7856575/\r\n\r\n职位列表: (由于岗位实在太多，jd我就不一一列举了。你可以挑选自己中意的发给我，我给你发详细的jd).\r\n\r\n![https://user-images.githubusercontent.com/26586458/124462700-8a62ee80-ddc4-11eb-8a8c-e7d591466b77.png](https://user-images.githubusercontent.com/26586458/124462700-8a62ee80-ddc4-11eb-8a8c-e7d591466b77.png)",
+      "company": "PwC",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "Java开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Python开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "全栈开发工程师",
+          "category": "全栈"
+        },
+        {
+          "title": "数据分析工程师",
+          "category": "数据"
+        },
+        {
+          "title": "云计算工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "安全工程师",
+          "category": "安全"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "Python",
+        "前端技术",
+        "云计算"
+      ],
+      "contact": "微信: A610819267, 邮箱: jerry.y.yuan@pwc.com"
+    },
+    {
+      "id": "1980-930986336",
+      "issueNumber": 1980,
+      "commentId": 930986336,
+      "yearMonth": "2021-10",
+      "author": "lili21",
+      "rawContent": "## 字节游戏中台 - 前端\r\n\r\n### 团队介绍\r\n我们是一个年轻、热爱技术、热爱分享、热爱开源的团队，喜欢用工程化手段赋能业务并提升效率。游戏前端技术栈以React和NodeJS为关键，全面覆盖用户侧、后台侧、基础效率工程、Node在线服务、ReactNative跨端、小程序等前端领域关键技术场景。除常规业务项目外，团队内提供各类技术自驱项目，全面培养和锻炼成员的设计、合作、协调、项目管理等软实力。\r\n\r\n### 职位描述\r\n1、负责字节跳动游戏中台建设、游戏发行运营相关业务中的PC端、移动端等web前端开发工作；\r\n2、负责与产品、UI和后端沟通协作，对产品提供持续不断的体验优化建议；\r\n3、参与前端框架维护和基础工程项目开发，进行前沿技术研究，承担重难点技术攻坚任务。\r\n\r\n### 职位要求\r\n1、本科及以上学历，计算机、软件工程等相关专业；\r\n2、具有扎实的编程功底，良好的设计能力和编程习惯，熟练掌握JavaScript、CSS、HTML；\r\n3、掌握React和Vue等前端流行框架的基础原理，并有一定的使用经验；\r\n4、熟练掌握ES6标准，熟练使用Webpack、Babel、ESLint等前端工程工具；\r\n5、有NodeJS、TypeScript相关经验者优先，包括并不限于脚手架、组件库、BFF框架等；\r\n6、有服务器端、客户端、跨多端(Flutter/Weex/ReactNative)、小程序等开发经验者优先；\r\n7、热爱游戏、有游戏行业经验者、有开源项目维护经验者优先。\r\n\r\n### 工作地点\r\n* 深圳太子广场\r\n* 上海利丰广场\r\n\r\n### 简历投递\r\n\r\n邮箱 [lili.21](mailto:lili.21@bytedance.com)",
+      "company": "字节跳动",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "深圳",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React",
+        "NodeJS",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Vue",
+        "ES6",
+        "Webpack",
+        "Babel",
+        "ESLint",
+        "TypeScript",
+        "ReactNative",
+        "Weex",
+        "Flutter",
+        "小程序"
+      ],
+      "experienceReq": "有NodeJS、TypeScript、服务器端、客户端、跨端开发、小程序、开源项目维护经验优先；热爱游戏、有游戏行业经验优先",
+      "educationReq": "本科及以上学历，计算机、软件工程等相关专业",
+      "contact": "lili.21@bytedance.com"
+    },
+    {
+      "id": "1980-930663137",
+      "issueNumber": 1980,
+      "commentId": 930663137,
+      "yearMonth": "2021-10",
+      "author": "shifeiluo",
+      "rawContent": "# 慧算账研发广州平台\r\n慧算账隶属于北京公瑾科技有限公司，成立于2015年4月，是中国起步较早的互联网企业财税服务平台，为中小微企业提供包括代理记账、工商服务、税务审计、税务筹划、出口退税等专业高效的一体化财税服务。基于用户的认可与信赖，截至2020年1月，慧算账已在北京、上海、广州、深圳、重庆、天津等多地设立36家分公司，实现中国大陆区域业务网络的全面覆盖，拥有500余家区域服务机构，为超过80万家企业客户提供财税服务。\r\n\r\n**公司研发中心分布在广州和北京。研发广州平台的技术氛围特别好，我们非常注重个人的成长（良好的晋升机制），比如为每位新人指派Mentor、新人入职后CTO会分享《创新驱动未来》、每周有一场专业的技术分享、全员参与创作《慧眼内刊》半年刊、长期举行《与CTO面对面》活动等。**\r\n\r\n公司官网：https://www.huisuanzhang.com/\r\n研发广州平台地址：广州市天河区车陂大岗路12号“联合社区”西区6栋1楼全层和2楼全层\r\n投递邮箱：hr@kungeek.com\r\n联系号码：张小姐，020-85269180\r\n\r\n# 薪资福利待遇\r\n1、薪资范围：15K - 30K，季度绩效奖金5K-10K，年终奖3 - 6个月；\r\n2、五天工作制，每天工作7小时（9:00-12:00，14:00-18:00），人性化考勤制度；\r\n3、入职购买七险一金（生育保险，养老保险，医疗保险，工伤保险，失业保险，商业险，意外险）；\r\n4、年假5~20天，按照国家法定节假日放假；\r\n5、餐费补贴、结婚礼金、节日礼品或礼金；\r\n6、每月团建经费+年度旅游+年度体检；\r\n7、每周康体活动（每周五下午有游泳、羽毛球、篮球等活动任君选择）。\r\n\r\n# 招聘岗位\r\n慧算账研发广州平台接近200人，设立在广州天河车陂，我司常招岗位：1、Java开发工程师（架构师）；2、前端开发工程师（架构师）；3、DBA；4、Python开发工程师（架构师）；5、C#开发工程师（架构师）；6、测试工程师（测试经理）；7、大数据开发工程师；8、自然语言工程师；9、机器学习工程师；10、BI开发工程师；11、数据分析师；12、数据产品经理；13、知识图谱工程师；14、运维工程师；15、前端Java开发工程师等。以下是部分岗位详情。\r\n\r\n## Java开发工程师（架构师）\r\n岗位职责：\r\n1、 熟悉公司各生产业务线，了解公司业务流程、相关系统架构；\r\n2、 负责业务平台后台功能研发及维护等各项工作；\r\n3、 能按时、独立、高质量地完成工作，对自己的代码要求严格；\r\n4、 参与系统设计讨论，负责编写概要设计文档、详细设计文档等相关技术文档。\r\n岗位要求：\r\n1、 正规院校本科及以上学历，软件、计算机、通信、信息安全、网络工程、财税等相关专业；；\r\n2、 熟悉Spring生态、MyBatis等框架体系，并有实际开发经验和设计理念，有独到见解者更佳；\r\n3、 熟悉了解Memcached、Redis等缓存的特性，熟悉RabbitMQ等异步处理机制，具有相关实际项目经验者更佳；\r\n4、 熟悉接口技术，有RESTful API开发经验者更佳；\r\n5、 熟悉MySQL数据库，有RPA或Selenium开发经验者优先。\r\n\r\n## 前端开发工程师（架构师）\r\n岗位职责：\r\n1、完成前端的日常需求；\r\n2、根据视觉和交互原型的要求，实现HTML Demo和交互效果；\r\n3、完成公司产品的前端开发任务。\r\n岗位要求：\r\n1、熟悉HTML5，CSS3效果；\r\n2、熟悉Ajax开发，对基本的数据传输协议有一定了解；\r\n3、具备SASS/SCSS开发经验，能熟练地使用主流的前端框架（Vue，Angular等），熟悉TypeScript/JavaScript（ES5/ES6）语言新特性，熟悉Gulp及webpack；\r\n4、代码工整，有明晰的结构，可读性强，可维护性强，有一定的文档编写能力，有规范的代码注释风格。\r\n\r\n## DBA\r\n岗位职责：\r\n1、针对MySQL数据库进行容量规划、架构设计，提高业务高可用性和容灾能力；\r\n2、主动与研发团队协作，为产品研发提供数据库设计、逻辑实现、SQL调优等数据库方面的支持；\r\n3、参与制定数据库设计规范、编码规范等规范，并对研发团队进行相关培训；\r\n4、参与数据库的监控、性能优化、管理与维护，建设数据库运维体系，将个人能力平台化；\r\n5、负责MySQL数据库的备份恢复、迁移及故障排除，保证公司产品数据安全；\r\n6、掌握数据库领域主流开源技术及行业动态。\r\n岗位要求：\r\n1、正规院校本科及以上学历，软件、计算机、通信、信息安全、网络工程等相关专业；\r\n2、熟悉MySQL数据库的体系结构和工作原理，熟悉常用存储引擎的功能和特点；\r\n3、熟悉MySQL高可用架构方案的部署维护，有实际维护经验并对相关技术有一定的前瞻性；\r\n4、熟悉数据库的性能优化、SQL调优技术、SQL审计；\r\n5、熟悉常用的数据库备份方法，理解其工作原理，故障时能够迅速恢复数据库。\r\n\r\n## Python开发工程师（架构师）\r\n岗位职责：\r\n1、根据产品需求独立开发或参与产品的需求分析、模块设计、编码等工作；\r\n2、根据开发过程中的体验对产品提出建议，积极参与产品、功能与技术改进；\r\n3、根据工作表现，调整岗位参与OCR及NLP方面的研发工作。\r\n岗位要求：\r\n1、正规院校本科及以上学历，软件、计算机、通信、信息安全、网络工程、财税等相关专业，至少3年以上Python开发经验；\r\n2、熟练使用Python开发及相关原理机制, 具有良好的编码风格, 能够编写基本的技术文档；\r\n3、熟练使用一种Web框架开发 (Flask、Django)、熟悉RESTful API；\r\n4、掌握Python多进程、多线程、协程、网络编程；\r\n5、熟悉各个不同版本Python的特点、差异，对软件性能优化、内存优化有一定的了解；\r\n6、优先考虑熟悉CNN、RNN、LSTM、BERT等算法，或具有OCR或NLP项目经验者；\r\n7、熟悉MySQL关系数据库。\r\n\r\n## C#开发工程师（架构师）\r\n岗位职责：\r\n1、负责Windows平台的C#和.Net软件日常开发；\r\n2、参与互联网财税相关产品研发；\r\n3、参与产品需求的分析，设计评审，负责技术文档的编写。\r\n任职资格：\r\n1、正规院校本科及以上学历，软件、计算机、通信、信息安全、网络工程、财税等相关专业；\r\n2、3年以上C#开发工作经验，熟悉C#开发和.Net相关平台的开发技术；\r\n3、了解客户端或Web端自动化技术，如UIAutomation、MSAA、MSHTML、Selenium、WebDriver、DevTools、BHO等；\r\n4、具备浏览器、自动化开发经验优先。\r\n\r\n## 测试工程师（测试经理）\r\n岗位职责：\r\n1、负责公司产品的功能、性能、安全、兼容性、易用性等测试工作，带领团队进行测试和质量控制工作包括分析需求、制定测试计划、设计测试用例、分配测试任务、跟踪工作进度、测试总结等；\r\n2、实施高效的测试活动，对测试过程中发现的问题进行跟踪分析和报告，推动发现的问题及时合理的解决；\r\n3、有效使用测试工具，对测试方法进行创新；\r\n4、有较强的质量保证意识，对产品生命周期中的质量问题有洞察力；定期对软件测试流程进行评估并提出改进方案；\r\n5、对团队内新成员进行技能、业务培训，并在执行过程中予以指导，协助提升团队整体技能水平，提高工作效率；\r\n6、与项目组内成员就进度与发现的问题或风险进行有效沟通，促使项目顺利上线。\r\n任职资格：\r\n1、本科或以上学历，计算机相关相关专业，5年以上测试工作经验，有财税行业工作经验优先和自动化测试项目经验优先；\r\n2、主导过3个或以上大型测试项目的测试过程，至少有1年3人以上测试团队管理经验；\r\n3、熟悉软件工程理论，软件测试流程及其各项规范，精通测试用例设计；\r\n4、至少熟悉一门主流编程语言，如Java/ .NET等；至少熟悉一门主流数据库。如Oracle、MySQL等。",
+      "company": "慧算账（北京公瑾科技有限公司）",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Java开发工程师（架构师）",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师（架构师）",
+          "category": "前端"
+        },
+        {
+          "title": "DBA",
+          "category": "DevOps"
+        },
+        {
+          "title": "Python开发工程师（架构师）",
+          "category": "后端"
+        },
+        {
+          "title": "C#开发工程师（架构师）",
+          "category": "后端"
+        },
+        {
+          "title": "测试工程师（测试经理）",
+          "category": "测试"
+        },
+        {
+          "title": "大数据开发工程师",
+          "category": "数据"
+        },
+        {
+          "title": "自然语言工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "机器学习工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "BI开发工程师",
+          "category": "数据"
+        },
+        {
+          "title": "数据分析师",
+          "category": "数据"
+        },
+        {
+          "title": "数据产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "知识图谱工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "运维工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "前端Java开发工程师",
+          "category": "全栈"
+        }
+      ],
+      "location": [
+        "广州",
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "15K - 30K，季度绩效奖金5K-10K，年终奖3-6个月",
+      "techStack": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Memcached",
+        "Redis",
+        "RabbitMQ",
+        "RESTful API",
+        "MySQL",
+        "RPA",
+        "Selenium",
+        "HTML5",
+        "CSS3",
+        "Ajax",
+        "SASS",
+        "SCSS",
+        "Vue",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "ES5",
+        "ES6",
+        "Gulp",
+        "Webpack",
+        "Python",
+        "Flask",
+        "Django",
+        "CNN",
+        "RNN",
+        "LSTM",
+        "BERT",
+        "OCR",
+        "NLP",
+        "C#",
+        ".Net",
+        "UIAutomation",
+        "MSAA",
+        "MSHTML",
+        "WebDriver",
+        "DevTools",
+        "BHO",
+        "Oracle"
+      ],
+      "experienceReq": "Java开发工程师、前端工程师、Python工程师（3年以上）、C#工程师（3年以上）、测试工程师（5年以上，3个大型项目主导经验）",
+      "educationReq": "本科及以上学历，计算机、软件、通信、信息安全、网络工程、财税等相关专业",
+      "contact": "hr@kungeek.com，020-85269180（张小姐），https://www.huisuanzhang.com/"
+    },
+    {
+      "id": "1980-932296458",
+      "issueNumber": 1980,
+      "commentId": 932296458,
+      "yearMonth": "2021-10",
+      "author": "able8",
+      "rawContent": "# 【外企内推】全球领先的金融科技公司 Airwallex\r\n全球最大的研发中心 （上海）扩招到300 人~~~~ （目前全球900人+）\r\n\r\n人才密度极高，众多来自于 Google、LinkedIn、Facebook、eBay、Paypal 等国际知名互联网企业，毕业于哈佛、MIT，耶鲁、剑桥、牛津、帝国理工、CMU，清北，上交复旦，浙大等一流名校。\r\n\r\n- 薪资：非常有竞争力的薪酬，可以跟国内大厂竞争。有机会获得激励期权。\r\n- 程序员标配：**电动升降桌、Macbook Pro 顶配、戴尔4K显示器（27寸, 42寸都有）、按摩椅(公用的)** \r\n- 英语：日常中文，英语读写、能听得懂，简单表达即可。\r\n- 地点：上海新天地附近，黄浦区中海国际中心。 9 和 13 号线马当路地铁站。\r\n\r\n### 有意向微信: ab0518，备注:Github 内推\r\n\r\n### [资深 DevOps ](https://www.zhipin.com/job_detail/0b0b364d25d5d3631nVz3tq4FVZT.html?ka=comp_joblist_5)40-60K·15薪\r\n\r\n### [资深前端工程师](https://www.zhipin.com/job_detail/6a0f1769dbfc0b7a1nVz3tq5F1ZX.html?ka=comp_joblist_12) 40-60K·15薪\r\n\r\n### [资深Java 后端工程师](https://www.zhipin.com/job_detail/5cb6af90dc0897f40nVy3Nm5GVU~.html?ka=comp_joblist_5) 35-60K·15薪\r\n\r\n### [Engineering Director](https://www.zhipin.com/job_detail/260ed84094652c2d3nx52di1GVc~.html?ka=comp_joblist_14) 70-100K·15薪\r\n---\r\n##  [ 全球领先的金融科技公司 Airwallex 简介](https://www.zhipin.com/gongsi/2d3b517523410a29031829u4FQ~~.html)\r\n- 为**企业**提供数字化的金融科技产品， 业务覆盖130多个国家，包括 全球收款、货币兑换、和国际支付等\r\n- 在上海(研发)，香港，墨尔本(研发)，新加坡，伦敦，旧金山等多个城市设立办公室\r\n\r\n",
+      "company": "Airwallex",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "资深 DevOps",
+          "category": "DevOps"
+        },
+        {
+          "title": "资深前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "资深Java 后端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Engineering Director",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "资深DevOps 40-60K·15薪；资深前端工程师 40-60K·15薪；资深Java后端工程师 35-60K·15薪；Engineering Director 70-100K·15薪",
+      "techStack": [
+        "Java",
+        "DevOps"
+      ],
+      "experienceReq": "资深级别",
+      "contact": "ab0518（微信，备注Github内推）"
+    },
+    {
+      "id": "1980-932904065",
+      "issueNumber": 1980,
+      "commentId": 932904065,
+      "yearMonth": "2021-10",
+      "author": "ishenli",
+      "rawContent": "## [北京/杭州/重庆] [急招] 2021 蚂蚁集团前端社招和校招（P5-P7）\r\n\r\n简历、笔试、面试指导一条龙服务\r\n\r\n#### 加微信号 ishenli\r\n\r\n<img width=\"200\"  src=\"https://cdn.nlark.com/yuque/0/2019/png/85165/1567138468870-9c1ed143-4089-4430-b812-47f33fa02a0b.png\" />\r\n\r\n### 团队介绍\r\n\r\n我们团队来自 蚂蚁集团-数字金融 -RichLab团队，目前业务战略重大升级，急切需要大量前端人才加入，P5-P7 不限！\r\n\r\n我们的业务明星产品线有：花呗、借呗。\r\n\r\n团队在大力招聘移动H5和小程序开发，中后台工程和搭建体系，3d互动技术（蚂蚁集团Oasis3d互动引擎），node服务端（基于egg的全栈开发）都缺，团队目前人员70+，北京，重庆和杭州都有职位（后续工作地调动也是方便的）。\r\n\r\n\r\n#### 完整介绍可以查看：https://www.yuque.com/ishenli/vvduk4/bgz32q\r\n\r\n#### 团队视频宣传片：https://www.bilibili.com/video/BV1er4y1N7Nu?from=search&seid=15576139706306443205&spm_id_from=333.337.0.0\r\n\r\n\r\n![CY21-社会招聘](https://user-images.githubusercontent.com/2113885/135749120-93b86de4-caec-4578-8fbb-db08a7dde85a.jpeg)\r\n\r\n",
+      "company": "蚂蚁集团",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端开发",
+          "category": "前端"
+        },
+        {
+          "title": "移动H5开发",
+          "category": "前端"
+        },
+        {
+          "title": "小程序开发",
+          "category": "前端"
+        },
+        {
+          "title": "中后台工程",
+          "category": "前端"
+        },
+        {
+          "title": "3D互动技术",
+          "category": "前端"
+        },
+        {
+          "title": "Node服务端",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "北京",
+        "杭州",
+        "重庆"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "JavaScript",
+        "H5",
+        "小程序",
+        "Oasis3d",
+        "Node.js",
+        "Egg"
+      ],
+      "experienceReq": "P5-P7级别，社招和校招均可",
+      "contact": "微信号: ishenli, https://www.yuque.com/ishenli/vvduk4/bgz32q"
+    },
+    {
+      "id": "1980-932851001",
+      "issueNumber": 1980,
+      "commentId": 932851001,
+      "yearMonth": "2021-10",
+      "author": "simonguo",
+      "rawContent": "# [上海/北京/深圳] HYPERS 技术中心多岗位招聘（社招、实习）\r\n\r\n## 关于 HYPERS ❤️\r\n\r\nHYPERS 是中国领先的数据·智能公司，为企业提供营销云产品及相关服务。利用前沿科技，HYPERS 帮助品牌深度洞察消费者，实现智能化的用户资产管理和运营，最终驱动业务快速增长。\r\n\r\n在 2020 年福布斯最具价值品牌榜单中，HYPERS 已经长期服务其中近 20% 的品牌，助力企业加速数字化转型，赋能全域营销链路的消费者数据激活与数字化运营。\r\n\r\nHYPERS 自主研发的全链路营销云产品体系 Hypers Marketing Cloud，从数据采集、分析、融合，到消费者洞察与价值激活，灵活高效地推动以数字化为驱动的商业决策，赋能商业与消费者的连接升级，帮助品牌实现真正意义上的全链路营销；同时，HYPERS 为企业一站式打通广告与业务数据，将最终留资、购买、注册等转化行为与营销效果准确归因，实现真正意义上的营销闭环。\r\n\r\n公司网站: https://www.hypers.com/\r\n\r\n## 办公地点 🏢\r\n\r\n- 上海市黄浦区黄陂北路 227 号，中区广场 3 楼 [总部]\r\n- 北京市朝阳区阜通东大街 1 号院，望京 SOHO\r\n- 深圳市南山区 TCL 大厦 B 座 9-187 楼\r\n\r\n## 工作时间: 📅\r\n\r\n周一到周五 9:30 - 6:30 （弹性），重效率，轻加班，彼此爱护，共同成长。\r\n\r\n## 岗位与要求 👩‍💻👨‍💻\r\n\r\n### 大数据开发工程师 💻\r\n\r\n**岗位职责：**\r\n\r\n- 1、参与分布式服务设计及开发。\r\n- 2、参与项目研发，针对海量数据开发具有数据收集、统计、分析和挖掘能力的创新型产品。\r\n- 3、参与实时计算平台的架构设计、开发、发布等工作。\r\n- 4、学习并研究大数据技术、最新动向以满足项目的迭代需求。\r\n\r\n\r\n**任职要求：**\r\n\r\n- 1、扎实的计算机基础，1-3年大数据开发经验，掌握基本设计理念，熟练应用一门以上开发语言。\r\n- 2、数据结构基础良好，掌握常见算法。\r\n- 3、熟悉分布式计算系统的工作机制和设计思想。\r\n- 4、熟悉 Hadoop 生态圈技术栈，Hdfs、Hive、HBase、Spark 等，具有调优经验优先。\r\n- 5、具备 AWS, Azure, 阿里云，腾讯云等公有云平台部署经验者优先考虑。\r\n- 6、拥有大型项目开发经验者优先考虑。\r\n- 7、具有较强的执行能力、学习能力、沟通能力、适应能力，责任心。\r\n\r\n\r\n### 机器学习算法工程师 💻\r\n\r\n**岗位职责：**\r\n\r\n- 1、参与用户推荐和广告预测算法的设计与开发；\r\n- 2、参与机器学习/数据挖掘等算法相关的代码库、工具库的封装、发布和相关产品研发；\r\n- 3、参与性能优化和工程环境部署。\r\n\r\n**任职要求：**\r\n\r\n- 1、本科学历，计算机、数据挖掘、机器学习、数学等相关专业，能熟练阅读英文专业文献，机器学习相关专业的硕士或博士优先；\r\n- 2、扎实的算法基础，熟悉数据挖掘和机器学习的基本理论和算法相关原理，具备扎实良好的数学基础，并且具备实际的项目开发经验；\r\n- 3、独立解决基于业务场景的实际问题，优秀的自我驱动和学习能力，良好的沟通和团队合作能力；\r\n- 4、熟练掌握 Linux 平台的脚本编程环境和 Python 编程语言及其主流机器学习工具包；\r\n- 5、掌握传统机器学习算法和实践，包括但不限于逻辑回归，FM，GBDT，XGBoost；有实际代码经验或者项目经验的最好；\r\n- 6、掌握数据工程和特征工程的算法和实践，包括但不限于特征选择和特征交叉的实践；\r\n- 7、精通 Pyhon 和相关的机器学习库，例如，scikit-learn，tensorflow，pytorch 等；\r\n- 8、掌握机器学习训练、调参和优化，以及处理过拟合等实际问题；\r\n\r\n**加分项:**\r\n\r\n- 1、一年以上机器学习应用经验者优先；\r\n- 2、对最新技术趋势保持追踪，了解最近 2 年内机器学习领域的最新研究成果；\r\n- 3、一年以上零售行业背景的经验者优先：预测，定价，促销，定向广告；\r\n- 4、具备大数据相关技术的实践经验者优先；\r\n\r\n### 测试工程师 💻\r\n\r\n**岗位职责：**\r\n\r\n- 1、参与我司 Web 项目和大数据端的测试任务，进行需求分析和评审，协助制定测试方案和测试计划；\r\n- 2、参与设计和执行测试用例；\r\n- 3、进行缺陷跟踪与分析，协助开发工程师分析和解决问题；\r\n- 4、协助产品/项目经理推动进度、评估风险；\r\n- 5、编写测试报告，对测试结果进行分析总结。\r\n\r\n**任职要求：**\r\n\r\n- 1、计算机相关专业，软件测试经验 1~3 年；\r\n- 2、熟悉软件测试流程，掌握测试用例设计方法、测试报告等；\r\n- 3、熟悉软件测试常用方法和工具，如 Postman、Jira、SQL 与 Linux 命令等；\r\n- 4、具备较强的业务理解能力、学习总结能力、文档编辑能力；\r\n- 5、做事仔细认真，善于团队合作，自我驱动力强，热爱软件测试行业，有清晰的职业规划；\r\n- 6、能编写简单的自动化测试脚本，python 语言优先；\r\n- 7、有尝试提高测试效率的经历优先；\r\n- 8、具备数据类功能测试优先。\r\n\r\n### Python 开发工程师 💻\r\n\r\n**岗位职责：**\r\n\r\n- 1、参与 Web 系统的设计、开发和维护;\r\n- 2、按照规范及设计文档完成编码工作，对代码质量负责，并按照规定提交相应的开发文档要求;\r\n- 3、持续关注某开源领域相关技术及其发展;\r\n- 4、关注代码/系统性能或服务架构设计。\r\n\r\n**任职要求：**\r\n\r\n- 1、扎实的计算机基础，掌握基本设计模式和原理；\r\n- 2、熟悉至少一种 linux 发行版，并熟悉常用 shell 命令；\r\n- 3、熟悉 SQL 语言，熟悉 MySQL 的使用，能够分析 SQL 语句的性能；\r\n- 4、熟悉 Python 语言及 Django 框架；\r\n- 5、负责相关 Web 系统的设计与开发；\r\n- 6、熟悉 WEB 标准和 RESTFUL 规范。\r\n\r\n### Java 开发工程师 💻\r\n\r\n**岗位职责：**\r\n\r\n- 1、按照规范及设计文档完成编码工作，并对代码质量负责；\r\n- 2、对产品进行测试，按照规定提交相应的开发文档。\r\n\r\n**任职要求：**\r\n\r\n- 1、本科及以上学历，计算机或相关专业,扎实的计算机专业基础，包括算法和数据结构、操作系统、计算机网络、计算机体系结构、数据库等；\r\n- 2、具有扎实的 Java 编程基础，熟练应用 Spring Cloud ,Spring Boot , Mybatis 等开源框架；熟悉 MySql 等数据库；\r\n- 3、了解并能使用 Git , Maven，Docker,Redis，RabbitMQ,Jenkins 等相关技术并熟练使用 IDEA 开发工具；\r\n- 4、具备良好的人际交往、语言表达和沟通能力；\r\n- 5、具备高度的责任心、诚信的工作作风、优秀沟通能力及团队精神；\r\n- 6、愿意接受挑战性的工作，能够高效及时完成工作。\r\n- 7、了解 Hadoop 等分布式开发技术者优先。\r\n\r\n### 前端开发工程师 💻\r\n\r\n**前端团队**\r\n\r\nHYPERS 前端团队目前人数有 20+， 分布在 Analytics、DSP、Insight 等多个产品。公司及团队工程师氛围浓厚、是一个以“学习、分享、成长、开源”的理念，以高效协作不加班为目标的快乐团队。目前团队主要技术栈是 TypeScript + React，并与 UX 团队孵化开源 UI 库 [React Suite](https://rsuitejs、com/)。\r\n\r\n**岗位职责：**\r\n\r\n- 1、负责广告及大数据分析相关产品的前端开发；\r\n- 2、参与 UX 团队产品相关的设计；\r\n- 3、参与开源项目 React Suite 迭代维护；\r\n- 4、配合后台开发人员实现产品功能；\r\n- 5、不用兼容 IE10 以下浏览器。\r\n\r\n**任职要求：**\r\n\r\n- 1、对 Web 技术发展有强烈兴趣，有良好的学习能力和强烈的进取心；\r\n- 2、熟练掌握 Javascript、CSS、HTML 等 WEB 相关技术；\r\n- 3、熟练使用 Git 等版本控制工具；\r\n- 4、熟悉 HTTP 协议；\r\n\r\n**具有以下技能优先考虑：**\r\n\r\n- 1、计算机或相关专业；\r\n- 2、熟练使用 React ；\r\n- 3、熟练使用 Typescript；\r\n- 4、熟悉 ECMAScript 最新标准；\r\n- 5、掌握 Node, Python, PHP 等一种语言；\r\n- 6、有 Github 开源代码、个人作品。\r\n\r\n## 面试流程 ☎️\r\n\r\n技术面试一般有两轮（支持在线面试），最后一轮人事面。 合理安排现场面试的时间，一天搞定，不浪费面试者时间。\r\n\r\n## 如何申请？📩\r\n\r\n- 简历请发至邮箱: simon.guo@hypers.com 并抄送给 lin.zhang@hypers.com\r\n- 邮件主题请备注: 意向岗位 + 姓名 + 渠道。 (例如: 大数据开发工程师-张三-ruanyf)\r\n",
+      "company": "HYPERS",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "大数据开发工程师",
+          "category": "数据"
+        },
+        {
+          "title": "机器学习算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "Python开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Java开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "上海",
+        "北京",
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Hadoop",
+        "HDFS",
+        "Hive",
+        "HBase",
+        "Spark",
+        "AWS",
+        "Azure",
+        "Python",
+        "Linux",
+        "scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "Postman",
+        "Jira",
+        "SQL",
+        "MySQL",
+        "Django",
+        "Java",
+        "Spring Cloud",
+        "Spring Boot",
+        "Mybatis",
+        "Git",
+        "Maven",
+        "Docker",
+        "Redis",
+        "RabbitMQ",
+        "Jenkins",
+        "IDEA",
+        "TypeScript",
+        "React",
+        "React Suite",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Node",
+        "PHP"
+      ],
+      "experienceReq": "大数据开发工程师1-3年，测试工程师1-3年，其他岗位要求不限或1-3年",
+      "educationReq": "本科及以上（机器学习算法工程师要求计算机、数据挖掘、机器学习、数学等相关专业，硕士或博士优先）",
+      "contact": "simon.guo@hypers.com, lin.zhang@hypers.com"
+    },
+    {
+      "id": "1980-935179229",
+      "issueNumber": 1980,
+      "commentId": 935179229,
+      "yearMonth": "2021-10",
+      "author": "czsigma",
+      "rawContent": "# Conflux 的故事\r\n缘起清华大学。\r\n\r\n• 区块链‘’不可能三角‘’的最优解：树图（ Tree-Graph ）共识机制，有效平衡了安全性、延展性和去中心化程度。\r\n\r\n• 2018 年，Conflux 基金会成立并完成融资。2018 年第二季度，Conflux 测试网上线。\r\n\r\n• 作为中国区块链基础设施的先行者，Conflux 网络始终坚持推动区块链开发及教育等相关工作。2020 年 1 月 9 日，上海树图区块链研究院正式揭牌。2020 年 8 月 19 日，湖南湘江树图区块链创新中心暨区块链底层技术及应用湖南省重点实验室揭牌。\r\n\r\n• Conflux 网络团队由来自四个大洲的超过 50 名成员构成，不同化的文化让 Conflux 始终保持多元化，我们的办公室设立在加拿大多伦多、尼日利亚拉各斯等地。\r\n\r\n# Conflux 团队\r\n• Conflux 网络的核心团队源于清华“姚班”及麻省理工、卡内基梅隆大学、清华大学、多伦多大学、上海交大等知名学府。其中多名成员曾斩获国际信息学奥林匹克竞赛（ IOI ）金牌及 ACM-ICPC 程序设计竞赛金牌等殊荣。\r\n\r\n• 团队成员涵盖分布式系统、计算机科学、网络安全、密码学、博弈论、经济学、金融学等领域。\r\n\r\n\r\n# 资深研发工程师\r\n### 岗位职责\r\n1.负责区块链生态产品的后端技术研发，测试，维护以及升级；\r\n\r\n2.负责区块链智能合约（ solidity ）的开发；\r\n\r\n3.参与产品技术设计，并解决开发过程中的关键技术问题；\r\n\r\n4.编写必要的技术文档。\r\n\r\n### 任职要求\r\n1.本科及以上学历，计算机相关专业，5 年以上后端开发工作经验；\r\n\r\n2.精通 golang 或 Java，熟悉 Solidity 智能合约开发；\r\n\r\n3.熟悉至少一种数据库，有项目实践经验，对性能优化有一定的认知；\r\n\r\n4.熟悉缓存技术及常用的工具（例如，redis )；\r\n\r\n5.熟悉软件设计范式，熟悉分布式架构 /网络 /数据结构。\r\n\r\n### 薪资\r\n薪资: 25-50K(可谈)\r\n\r\n\r\n# 企业福利\r\n1. 创立三年的年轻化公司，公司技术大牛比较多，整体氛围年轻化；\r\n2. 周末双休，节假日全部按法定休息；\r\n3. 日常零食咖啡无限量供应，每日水果供应；\r\n4. 公司配有午餐补助，加班餐补，加班企业打车；\r\n5. 全额五险一金，还有额外补充保险；\r\n6. 扁平化管理，可以在这里找到适合自己的发展路径；\r\n7. 配备MAC电脑办公，喜欢Windows也可以选，人体工学座椅；\r\n8. 符合条件的员工将会有机会被赠予期权。\r\n\r\nPS：上海办公室独有 坐拥无敌江景、艺术走廊、配有小健身房\r\n\r\n# 联系方式\r\n\r\n邮箱: hr@confluxnetwork.org (备注:from 阮老师)\r\n\r\n公司官网： https://confluxnetwork.org/zh/\r\n\r\n地点: 北京-海淀区-清华同方科技广场/ 上海-徐汇区-西岸国际人工智能中心\r\n\r\n\r\n\r\n",
+      "company": "Conflux",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "资深研发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "25-50K(可谈)",
+      "techStack": [
+        "Golang",
+        "Java",
+        "Solidity",
+        "Redis",
+        "分布式系统"
+      ],
+      "experienceReq": "5年以上后端开发工作经验",
+      "educationReq": "本科及以上学历，计算机相关专业",
+      "contact": "hr@confluxnetwork.org"
+    },
+    {
+      "id": "1980-938284368",
+      "issueNumber": 1980,
+      "commentId": 938284368,
+      "yearMonth": "2021-10",
+      "author": "terryatgithub",
+      "rawContent": "深圳保诚科技内推\r\n欧美外企, 500强，base深圳，海景办公，965, 入职即享15天年假, 顶配Mac\r\n快速扩张期，大量前端/后端/测试/运维/设计/运营/产品/架构岗位\r\n\r\n> \r\n> 意向简历请投递到 115705151@qq.com\r\n> 有投必回 有问必答\r\n\r\n前端开发工程师/高级工程师\r\n全日制本科以上学历，计算机相关专业；\r\n两年以上前端开发经验，熟悉React Native, React或者Vue JavaScript。\r\n面试时会要求简单的英语自我介绍，然后都是中文交流；平时工作主要用中文\r\n\r\n后端开发工程师/ 高级工程师 (Java)\r\n全日制本科以上学历，计算机相关专业；\r\n两年以上后端开发经验，熟悉Java，Sprint Boot, Spring Cloud，微服务架构。\r\n面试时会要求简单的英语自我介绍，然后都是中文交流；平时工作主要用中文\r\n\r\n软件测试工程师/ 高级工程师\r\n全日制本科以上学历，计算机相关专业；\r\n两年以上APP，Web端软件测试经验。\r\n面试时会要求简单的英语自我介绍，然后都是中文交流；平时工作主要用中文\r\n\r\nUI/UX Designer\r\n全日制本科以上学历，设计类相关专业；\r\n两年以上互联网或者金融产品APP UI/UX设计经验；\r\n英文口语流利\r\n\r\nArchitect\r\n全日制本科以上学历，计算机相关专业；\r\n8年以上后端开发及软件架构设计经验；\r\nJava技术栈，熟知Cloud服务及最新的开源软件技术方案；\r\n英文口语流利，全英文面试\r\n\r\nProject Delivery Manager\r\n全日制本科以上学历，计算机相关专业；\r\n8年以上软件开发及互联网或金融纯软件产品交付经验；\r\n熟知敏捷项目管理；\r\n英文口语流利，全英文面试\r\n\r\n公司简介\r\n\r\n英国保诚\r\n英国保诚集团（简称“保诚集团”）于1848年在伦敦成立，是一家国际金融集团, 目前业务遍及亚洲、美国和非洲，在伦敦 (PRU.L)、\r\n纽约 (PUK.N)、香港(2378.HK)和新加坡(K6S.SG) 股票交易所上市。集团在全球拥有超过2000万客户，《财富》世界500强企业排\r\n名第50位。\r\n\r\n深圳保诚科技\r\n深圳保诚科技是英国保诚集团亚洲金融科技中心。\r\n保险科技(InsurTech)是金融科技(FinTech)一个重要分支领域，随着科技的不断进步，保险行业已经逐步入由科技撬动发展的新阶段。\r\n保诚集团以外商独资的形式在粤港澳大湾区的核心城市深圳，设立独立法人机构保诚亚洲金融科技研发中心（注册名称为“深圳保诚 科技有限公司”），建立保诚集团在亚洲的区域性科技生态系统。研发中心将成为保诚集团在中国大陆长期发展战略的重要一步，以 此为基础组建保诚中国的团队和人才库，并借此提升保诚集团在中国大陆地区的品牌知名度。\r\n\r\nTotal Reward\r\n公司提供包括具有竞争力的薪酬和福利、广阔的职业发展空间、Work-Life良性平衡等在内的整体薪酬体系\r\n1 薪酬\r\n具有行业竞争力的薪酬体系\r\n基本保障薪酬\r\n固定补贴\r\n倡导卓越的奖金体系\r\n年度定期薪酬回顾与不定期回顾相结合\r\n2 福利\r\n五险一金\r\n高额补充商业保险\r\n年度体检\r\n节假日慰问\r\n生日庆祝\r\n15天起的年假、带薪病假等各类丰厚假期\r\n3 职业发展\r\n全球化的技术团队合作和交流\r\n职业教育支持\r\n在线学习和教育",
+      "company": "深圳保诚科技",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "前端开发工程师/高级工程师",
+          "category": "前端"
+        },
+        {
+          "title": "后端开发工程师/高级工程师 (Java)",
+          "category": "后端"
+        },
+        {
+          "title": "软件测试工程师/高级工程师",
+          "category": "测试"
+        },
+        {
+          "title": "UI/UX Designer",
+          "category": "设计"
+        },
+        {
+          "title": "Architect",
+          "category": "后端"
+        },
+        {
+          "title": "Project Delivery Manager",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React Native",
+        "React",
+        "Vue",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "Spring Cloud",
+        "微服务"
+      ],
+      "experienceReq": "前端/后端/测试：2年以上；架构师/项目经理：8年以上",
+      "educationReq": "全日制本科以上学历，计算机相关专业（设计岗为设计类相关专业）",
+      "contact": "115705151@qq.com"
+    },
+    {
+      "id": "1980-938390544",
+      "issueNumber": 1980,
+      "commentId": 938390544,
+      "yearMonth": "2021-10",
+      "author": "vebuqi",
+      "rawContent": "## 【北京】【字节-医疗健康】基础平台研发\r\n\r\n### 团队快速扩张阶段，及时反馈，极速安排面试，流程快！\r\n### 初级、中级、高级都有坑位，Golang/Java 等语言不限，1年以上工作经验即可！\r\n### 另有移动端开发、前端开发、数据挖掘等岗位均在急招，可以帮忙内推\r\n\r\n\r\n## 【简历投递】\r\n简历请发送至邮箱：tracywmo@gmail.com \r\n\r\n有问题可随时沟通\r\n\r\n\r\n## 【团队介绍】\r\n我们是字节医疗健康事业部，成立于2020年，希望帮助每一个人更好地认知健康、获取健康。产品有「小荷APP」、「小荷医生APP」等，也有线下的「小荷门诊」\r\n\r\n### 【小组介绍】\r\n我们小组是字节医疗健康的基础技术团队，主要负责医疗健康研发团队的基础中间件、基础公共服务等，为业务研发、业务中台同学提供可靠、稳定的基础技术支持，如分布式事务平台、流程编排引擎、状态机等，未来也会有更多方向一起来探索。\r\n\r\n## 【福利待遇】\r\n高竞争力的薪酬，六险一金\r\n\r\n免费三餐+下午茶，无限量零食\r\n\r\n每月1.5k的租房补贴，加班打车免费\r\n\r\n免费健身房\r\n\r\n体检福利，医疗福利，生育礼品\r\n\r\n个人综合消费贷款，低价享受英语在线课程等\r\n\r\n------\r\n\r\n*以下为基础平台研发职位的JD，如需其他职位信息，可发邮件进一步沟通*\r\n\r\n## 【岗位职责】\r\n1. 负责基础中间件、基础公共服务的研发落地和推广\r\n2. 负责服务性能优化、稳定性建设\r\n\r\n## 【岗位要求】\r\n1. 计算机及相关专业本科及以上学历\r\n2. 熟悉linux，掌握常用数据结构、算法、设计模式，至少熟练掌握一门服务端编程语言，如 Golang、Java、C++、PHP 等\r\n3. 熟练掌握服务端相关技术，对缓存、消息队列、负载均衡、分布式存储、分布式事务等有一定了解 \r\n4. 有良好的编码习惯，能编写干净整洁、可复用性高、可维护的代码\r\n5. 具备良好的沟通合作技巧，较强的责任心及团队合作精神；有较强的抗压能力，乐于接受新事物\r\n\r\n### 【加分项】（有的话更好，没有也可以，不强求）\r\n1. 有过 Golang 实际使用经验 1 年以上者优先\r\n2. 有过基础中间件、基础平台研发经验者优先\r\n\r\n\r\n## 【简历投递】\r\n简历请发送至邮箱：tracywmo@gmail.com \r\n\r\n有问题可随时沟通",
+      "company": "字节跳动（医疗健康事业部）",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "基础平台研发",
+          "category": "后端"
+        },
+        {
+          "title": "移动端开发",
+          "category": "移动端"
+        },
+        {
+          "title": "前端开发",
+          "category": "前端"
+        },
+        {
+          "title": "数据挖掘",
+          "category": "数据"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Golang",
+        "Java",
+        "C++",
+        "PHP",
+        "Linux",
+        "缓存",
+        "消息队列",
+        "负载均衡",
+        "分布式存储",
+        "分布式事务"
+      ],
+      "experienceReq": "1年以上工作经验（初级、中级、高级都有坑位）",
+      "educationReq": "计算机及相关专业本科及以上学历",
+      "contact": "tracywmo@gmail.com"
+    },
+    {
+      "id": "1980-940790881",
+      "issueNumber": 1980,
+      "commentId": 940790881,
+      "yearMonth": "2021-10",
+      "author": "landaozhu",
+      "rawContent": "## 携程招人（上海、北京）\r\n这里只是部分贴出来，基本上岗位都有，前端后端安卓iOS测试产品运营等，要求：全日制本科\r\n有意向发送邮箱至：wplan@trip.com\r\n### 全栈-上海\r\n招聘类别：\r\n社会招聘\r\n工作性质：\r\n全职\r\n薪资范围：\r\n15001-25000\r\n需求部门：\r\n酒店研发部\r\n工作地点：\r\n长宁区\r\n职位类型：\r\n技术研发类\r\n所属BU：\r\nBG-大住宿事业群\r\n工作职责：\r\n1.负责内部系统的开发和维护工作。包括服务端的开发，web端程序的架构设计，开发和运维工作。\r\n2.负责酒店业务线的事件和问题管理，能够及时响应处理线上问题和故障，对相关的系统和模块进行日常支持；包括响应，处理，善后，提炼总结。\r\n任职资格：\r\n1.大学本科以上学历，计算机、软件工程及相关专业毕业；\r\n2.熟悉运维工作内容，如有运维工作经验则优先考虑；\r\n3.3年以上前端或服务端开发经验；\r\n4.深入了解后端框架和技术，精通Java开发及应用框架，基本功扎实，\r\n5.或熟悉前端框架和技术，精通JavaScript，css,html开发，熟悉react或vue框架；\r\n6.精通 MySQL或SQL Server，数据库SQL性能优化有实际开发经验；\r\n7.善于学习新的软件方法和技术，并带领技术团队共同进步与分享，有团队合作意识；\r\n8.英文读写熟练/口语优秀者优先。\r\n\r\n### 高级前端 上海\r\n招聘类别：\r\n社会招聘\r\n工作性质：\r\n全职\r\n薪资范围：\r\n25000-30000\r\n需求部门：\r\n酒店研发部\r\n工作地点：\r\n长宁区\r\n职位类型：\r\n技术研发类\r\n所属BU：\r\nBG-大住宿事业群\r\n工作职责：\r\n1、负责携程酒店事业部产品研发工作，并保证多平台兼容性。\r\n2、负责前端技术方案选型、架构设计，针对技术难点做技术攻坚。\r\n3、持续提升项目的质量、性能与架构合理性，并落地相关优化工作。\r\n4、参与前端技术体系建设，沉淀公共组件、工具和文档，参与技术分享。\r\n任职资格：\r\n1、计算机相关专业，2年以上相关工作经验。\r\n2、熟练掌握JavaScript/TypeScript，熟练运用ES6/7。\r\n3、对React、Vue等主流前端框架中至少一种有深入使用经验并了解其实现原理。\r\n4、拥有良好的编码风格和规范的研发工作流程，具备产出高质量的设计与代码能力。\r\n5、关注前端前沿技术，并具备较强学习能力。\r\n6、较好的产品意识，良好的服务意识，较强的项目推动能力。\r\n\r\n加分项\r\n拥有较高质量个人开源作品。\r\n具备中大型项目架构设计经验或性能质量优化经验。\r\n具有React Native/Flutter相关开发经验。\r\n### 高级ios逆向开发工程师 上海\r\n招聘类别：\r\n社会招聘\r\n工作性质：\r\n全职\r\n薪资范围：\r\n25000-30000\r\n需求部门：\r\n酒店研发部\r\n工作地点：\r\n上海市\r\n职位类型：\r\n技术研发类\r\n所属BU：\r\nBG-大住宿事业群\r\n工作职责：\r\n1、负责酒店爬虫部门iOS上爬虫开发和维护工作；\r\n2、承担并独立完成开发主管分配的设计和开发任务，并对交付质量负责；\r\n3、配合开发主管，参与iOS应用架构的设计和规范化工作。\r\n任职资格：\r\n1、三年及以上研发经验，两年及以上iOS研发经验；\r\n2、具备扎实的Objective-C编程基础；\r\n3、熟悉 iOS系统及常用framework，对内存管理、对象生命周期有清晰的认识；\r\n4、至少熟练掌握Java/Python/JS其中一种语言\r\n5、熟悉目前主流爬虫框架，以及目前主流的越狱技术\r\n6、有解决复杂的反爬限制实践经验，能解决如账号限制/IP限制等问题\r\n7、熟悉各类反爬策略，有丰富的反反爬虫实战经验\r\n8、具备很好的学习和技术研究应用的能力；\r\n加分项：\r\n1、 有过app数据爬取经验\r\n2、 有逆行汇编经验，熟练使用ida/hopper等逆向工具，熟练使用各种hook框架\r\n\r\n### 高级Android逆向开发工程师 上海\r\n招聘类别：\r\n社会招聘\r\n工作性质：\r\n全职\r\n薪资范围：\r\n25000-30000\r\n需求部门：\r\n酒店研发部\r\n工作地点：\r\n上海市\r\n职位类型：\r\n技术研发类\r\n所属BU：\r\nBG-大住宿事业群\r\n工作职责：\r\n1、负责Android客户端各产品的爬虫业务需求开发；\r\n2、负责公司相关平台爬虫系统的部署与优化工作；\r\n3、及时跟进竞品版本迭代，发现并解决爬虫框架存在的缺陷\r\n任职资格：\r\n1、3年及以上软件开发经验，2年及以上的Android平台开发经验；\r\n2、熟悉Android移动终端开发技术，对 Framework 有一定理解；\r\n3、了解Android App相关逆向分析、安全策略和攻防对抗手段；\r\n4、掌握扎实的Java编程语言基础，拥有良好的编码能力；\r\n5、对爬虫/反爬技术非常感兴趣，有相关问题处理经验；\r\n6、善于使用逆向工具发现和定位分析问题，勇于面对挑战性难题；\r\n7、熟悉python\\c++\\ndk开发经验的人员优先考虑\r\n###  高级测试 上海\r\n招聘类别：\r\n社会招聘\r\n工作性质：\r\n全职\r\n薪资范围：\r\n15001-25000\r\n需求部门：\r\n酒店研发部\r\n工作地点：\r\n上海市\r\n职位类型：\r\n技术研发类\r\n所属BU：\r\nBG-大住宿事业群\r\n工作职责：\r\n1、负责测试工具的设计和开发；\r\n2、负责API，UI自动化测试框架的研发和推动自动化测试的落地；\r\n3、为测试团队提供高效的测试工具和服务；\r\n4、学习和研究新技术以提高测试效率和质量；\r\n任职资格：\r\n1、计算机相关专业本科及以上学历，熟悉软件工程；\r\n2、2年及以上测试开发经验；\r\n3、熟练掌握java，C#其中一种开发语言；\r\n4、熟悉springmvc,jquery, bootstrap；\r\n5、熟悉sqlserver/mysql等至少一种数据库管理系统；\r\n6、具备较强的思考总结能力，自我驱动能力和一定的技术创新意识；\r\n7、做过1年开发的优先；\r\n8、能独立开发小平台的优先；",
+      "company": "携程",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "全栈",
+          "category": "全栈"
+        },
+        {
+          "title": "高级前端",
+          "category": "前端"
+        },
+        {
+          "title": "高级iOS逆向开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "高级Android逆向开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "高级测试",
+          "category": "测试"
+        }
+      ],
+      "location": [
+        "上海",
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "15001-30000",
+      "techStack": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Vue",
+        "MySQL",
+        "SQL Server",
+        "HTML",
+        "CSS",
+        "Objective-C",
+        "Python",
+        "Android",
+        "iOS",
+        "C#",
+        "C++",
+        "NDK"
+      ],
+      "experienceReq": "2-3年及以上",
+      "educationReq": "全日制本科及以上",
+      "contact": "wplan@trip.com"
+    },
+    {
+      "id": "1980-939426222",
+      "issueNumber": 1980,
+      "commentId": 939426222,
+      "yearMonth": "2021-10",
+      "author": "vincentha766",
+      "rawContent": "# 带动热潮 TideSwing(北京)\r\n\r\n### 关于产品\r\n\r\n产品在此不多介绍，可移步知乎高赞答案：[有哪些高品质的交友软件推荐? - 知乎](https://www.zhihu.com/answer/1596592783)。\r\n\r\n### 一家什么样的公司？\r\n\r\n我们专注于社交领域，致力于探索人工智能与社交之间的各种可能；希望通过 AI 与产品创新，打造极富想象力、有温度的社交产品，帮助用户更自然的表达自我并获得认同。目前已获得多家顶级美元基金联合投资。\r\n\r\n### 一个什么样的团队？\r\n\r\n我们拥抱开放、扁平、创新的 Maker 氛围。创始人曾从 0 到 1 打造过社交免费榜第一的现象级产品，对创新型社交产品有独到见解；CTO 为前腾讯高级技术专家，具备全栈架构以及 AI 经验，是国内外多个开源项目的贡献者；团队成员即有来自腾讯、字节、百度、网易以及剑桥等名企名校的小伙伴，也有来自创业公司自学成才的 Hacker，我们相互学习，共同成长。\r\n\r\n### 你关心的福利\r\n\r\n舒适的办公环境（人体工学椅、带鱼屏显示器、机械键盘、最新款 iMac），我们极其注重你的创作效率，极具竞争力的薪酬和激励体系，细致入微的员工福利（包括但不限于：每日三餐、定期推拿、每年两次调薪机会、早期员工期权等）。期待与你共同创造～\r\n\r\n### 在招岗位\r\n\r\n算法工程师、ios/Android工程师、后端工程师、用户/后台产品经理、产品运营......\r\n详见 https://www.tideswing.fun/jobs/\r\n\r\n### 算法工程师\r\n\r\n你将会负责：\r\n1、实时推荐算法的研究实现及用户画像的构建\r\n2、研究机器学习、NLP、推荐算法的前沿进展，在内容挖掘、推荐、App 用户增长方面进行创新应\r\n3、通过数据分析洞察用户需求，并制定可扩展的产品技术解决方案\r\n4、参与和推动机器学习、人工智能等技术落地到产品\r\n我们希望你：\r\n1、本科以上学历，硕士优先\r\n2、有推荐系统经验、NLP 经验，2 年或以上机器学习经验优先\r\n3、熟悉 Tensorflow、Pytorch 等机器学习框架及用户分群模型、主流推荐模型的构建及原理\r\n4、必须掌握 Python，有工程经验\r\n5、精通 NLP 领域或推荐领域的相关技术，对数据结构和算法设计有深刻的理解\r\n6、熟悉 Hadoop、Hive、Spark、Storm 等分布式计算架构优先\r\n\r\n### 高级ios工程师\r\n\r\n你将会负责：\r\n1、负责 iOS 产品的需求开发及维护、高质量完成迭代工作\r\n2、配合产品经理、设计师完成客户端的需求评审工作\r\n3、能够自主思考，对产品的用户体验提供优化建议\r\n4、优化软件性能，分析及解决重大疑难问题，排除各类潜在技术风险；降低产品崩溃率\r\n5、承担关键攻关任务的同时，乐于技术分享，促进团队成员共同进步\r\n6、建立团队技术规范、提升技术团队整体效率\r\n我们希望你：\r\n1、2 年工作经验以上\r\n2、具有多个 iOS 项目经验，熟悉 iOS APP 性能优化技巧。可以独立承担架构设计，并主导项目\r\n3、扎实的计算机基础、算法基础。能够熟练使用 Git\r\n4、熟练各种 UI 组件并了解其内部原理，了解基本的交互知识\r\n5、能够高效率实现设计师提出的动效方案的优先\r\n6、对 iOS 底层机制（Runtime/多线程/内存模型）有较深入的了解\r\n\r\n### 高级Android工程师\r\n\r\n你将会负责\r\n1、负责 Android 产品的需求开发及维护、高质量完成迭代工作\r\n2、配合产品经理、设计师完成客户端的需求评审工作\r\n3、能够自主思考，对产品的用户体验提供优化建议\r\n4、优化软件性能，分析及解决重大疑难问题，排除各类潜在技术风险；降低产品崩溃率\r\n5、承担关键攻关任务的同时，乐于技术分享，促进团队成员共同进步\r\n6、建立团队技术规范，提升技术团队整体效率\r\n我们希望你：\r\n1、计算机或相关专业，2 年工作经验以上。优秀的可以放宽\r\n2、具有多个 Android 项目经验，熟悉 Android APP 性能优化技巧。可以独立承担架构设计，并主导项目\r\n3、具有扎实的计算机基础、算法基础。能够熟练使用 Git\r\n4、熟练掌握 Retroﬁt+Rxjava 框架， 熟悉 Dagger, Glider，EventBus 等 框架， 熟练掌握 Android Studio\r\n5、能够高效率实现设计师提出的动效方案的优先\r\n\r\n### 后端工程师\r\n\r\n你将会负责：\r\n1、负责社交产品业务的服务端 API 设计和开发工作\r\n2、负责 App 后端平台的规划、部署、监控、系统优化\r\n3、参与 AI 的研发、深度学习等相关工作\r\n4、参与云平台（如 阿里云、AWS 等）最新进展及解决方案，参与云平台架构设计\r\n我们希望你：\r\n1、计算机或相关专业，2 年工作经验以上\r\n2、具有多个 Python 或 Java 项目经验，熟练掌握 Flask 等 web 框架、熟悉 Restful、微服务等设计理念\r\n3、熟悉 MYSQL、Redis 等数据库及缓存的使用\r\n4、了解容器技术，熟悉 Docker 的相关操作。有自己部署容器的经验\r\n5、有业务敏感性，有大数据开源系统（Hadoop，Spark，Kafka，Presto 等）使用经验的优先\r\n6、有开源图数据库（neo4j、orientdb）使用经验的优先\r\n7、必须擅长至少 2 门开发语言\r\n8、有开源深度学习框架（TensorFlow、Pytorch）项目经验优先\r\n9、熟悉 Kotlin 或 Java 的优先\r\n\r\n公司地址：北京市海淀区知春路\r\n更多职位热招中 https://www.tideswing.fun/jobs/\r\n\r\n请发送至邮箱 [wuhuanan@tideswing.fun](mailto:wuhuanan@tideswing.fun)\r\n或微信扫描下方二维码\r\n\r\n![image](https://user-images.githubusercontent.com/4026219/127955112-6bf2df07-87b9-4f7b-964a-43b7c26ca0e8.png)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "company": "TideSwing",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "高级iOS工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "高级Android工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "后端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "用户/后台产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "产品运营",
+          "category": "运营"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Python",
+        "Java",
+        "Kotlin",
+        "TensorFlow",
+        "PyTorch",
+        "NLP",
+        "Hadoop",
+        "Hive",
+        "Spark",
+        "Storm",
+        "iOS",
+        "Android",
+        "Git",
+        "Retrofit",
+        "RxJava",
+        "Dagger",
+        "Glide",
+        "EventBus",
+        "Android Studio",
+        "Flask",
+        "Restful",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "Kafka",
+        "Presto",
+        "Neo4j",
+        "OrientDB"
+      ],
+      "experienceReq": "2年以上工作经验（优秀可放宽）；算法工程师需2年或以上机器学习经验优先",
+      "educationReq": "本科以上学历；算法工程师硕士优先；Android工程师计算机或相关专业；后端工程师计算机或相关专业",
+      "contact": "wuhuanan@tideswing.fun, 微信二维码"
+    },
+    {
+      "id": "1980-938291578",
+      "issueNumber": 1980,
+      "commentId": 938291578,
+      "yearMonth": "2021-10",
+      "author": "NoCode-Tech",
+      "rawContent": "# 无码科技（杭州）有限公司 @杭州滨江\r\n\r\n无码科技团队于 2016 年在杭州成立，是一家技术驱动的互联网医疗科技公司。\r\n\r\n我们致力于通过数据及算法解决医疗领域信息不对称的问题。现已陆续出品多款医疗相关领域的产品。\r\n\r\n公司官网：[www.nocode.com](url)\r\n\r\n简历投递：recruit@nocode.com，如果有任何对岗位的问题，也欢迎来邮咨询。\r\n\r\n微信/电话：13615814021\r\n\r\n# 团队福利\r\n* 考勤及节假日：弹性办公、不打卡；双休、法定节假日、带薪休假。\r\n* 社险配置：五险一金，全额缴纳。\r\n* 健康福利：年度体检 及 洁牙。\r\n* 团建福利：定期聚餐打球小团建、每年集体旅游；不虚头巴脑、不喊口号，团建旅游只走自由行。近几年分别去了日本京都、泰国清迈及云南西双版纳。\r\n* 其他：节日福利 / 生日福利 / 全天候免费零食及饮料 / 人体工学办公椅 / Mac 电脑等。\r\n\r\n# Java 后端开发工程师\r\n工作职责：\r\n1. 根据产品需求，完成后端项目设计与开发，保证产品交付。\r\n2. 参与现有系统的优化工作，定位系统瓶颈，提高系统性能和稳定性。\r\n\r\n任职要求：\r\n1. 具有 2 年以上后端开发经验，有良好的编码习惯。\r\n2. 熟悉至少一种后端开发语言，包括但不限于 Java/Node.js/Golang。\r\n3. 良好的计算机相关基础知识，熟悉常用数据结构、算法、设计模式。\r\n4. 熟悉至少一种关系型数据库，如 PostgreSQL、MySQL，熟悉缓存数据库 Redis。\r\n5. 熟悉 HTTP、TCP/IP 等网络协议，并了解 RESTful API 设计规范。\r\n6. 了解 Linux 操作系统，熟悉常见 Shell 指令，熟悉 Git 版本控制。\r\n7. 熟悉至少一种消息队列系统，包括但不限于 RabbitMQ/RocketMQ/Kafka。\r\n\r\n加分项：\r\n* 有大规模高可用的服务端服务研发经验者优先。\r\n* 熟练 Egg.js 框架者优先。\r\n* 熟悉 Kubernates、Docker 等容器技术者优先。\r\n* 活跃的开源社区贡献者优先。\r\n\r\n\r\n# 产品经理\r\n职位描述\r\n\r\n1. 负责产品创意、规划和需求分析，可要负责项目管理和功能测试，以及参与运营策略规划和商务决策。\r\n2. 团队有多条产品线，可能会根据业务需求负责面向消费者的工具产品或面向企业的商业产品，主要产品端是微信小程序。\r\n3. 会根据你的特点和偏好，以及团队的规划进行阶段性任务分配，你会有机会接触、参与甚至负责各类产品线。\r\n\r\n岗位要求\r\n\r\n1. 有产品经理相关的工作经验，基本功扎实，能高效描述用户流程和产品逻辑，最好曾经担任过任何产品线的主要产品负责人。\r\n2. 敏锐的用户理解和体验设计能力，复杂系统抽象和建模能力，对技术的理解能力。\r\n3. 团队产品经理对接开发的平均数量较多，而且流程比较弹性，所以需要你有自驱力，以及协调和推动同事的能力。\r\n4. 望你善于合作，能够与不同性格的人共事。具备出色的学习能力和学习欲望，能保持自省和沉淀的习惯。\r\n5. 创业团队不像大公司那样按部就班，希望你能够情绪稳定，心态豁达，有一定抗压能力，积极向上。\r\n\r\n加分项：\r\n* 有技术背景的优先；\r\n* 有自己项目的优先；\r\n* 有写作习惯的优先。",
+      "company": "无码科技",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Java后端开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "产品经理",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "Node.js",
+        "Golang",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "RabbitMQ",
+        "RocketMQ",
+        "Kafka",
+        "HTTP",
+        "TCP/IP",
+        "RESTful API",
+        "Linux",
+        "Git",
+        "Egg.js",
+        "Kubernetes",
+        "Docker",
+        "微信小程序"
+      ],
+      "experienceReq": "后端开发工程师：2年以上后端开发经验；产品经理：有产品经理相关的工作经验",
+      "contact": "recruit@nocode.com, 13615814021"
+    },
+    {
+      "id": "1980-942101360",
+      "issueNumber": 1980,
+      "commentId": 942101360,
+      "yearMonth": "2021-10",
+      "author": "Cryptape1005",
+      "rawContent": "### **[杭州 可远程] 秘猿科技 招聘全栈工程师/开发者关系/前端开发工程师**\r\n\r\n\r\n### **关于秘猿**\r\n杭州秘猿科技有限公司（Cryptape Co.,Ltd.）的使命是用技术创造信任，为未来数字世界构建新的基础设施和服务。秘猿科技成立于 2016 年 ，2017 年获得招银国际战略投资，是一家以纯研究与工程为导向的技术公司，在区块链领域实力深厚。\r\n\r\n我们具有丰富的区块链生态实践经验。从 2011 年开始参与或主导各种区块链项目，包括世界第一个开源的数字资产交易平台貔貅 Peatio；星火矿池 Spark pool； 以太坊 Ethereum；以太坊爱好者社区 Ethfans； 开源区块链底层内核 CITA ；与招商银行等主流金融机构进行的金融+区块链合作；以及现在正在开发的 Nervos CKB 和 Muta 等等，涵盖了区块链生态的各个方面。\r\n\r\n我们具有深厚的区块链技术研发和工程实力。首席架构师谢晗剑曾是由 Vitalik Buterin 所领导的以太坊 (Ethereum) 研究团队中唯一的中国成员，参与设计了包括 Casper 在内的以太坊下一代核心算法，后带领团队设计并实现了中国第一个开源高性能区块链 CITA 及新一代公有链 Nervos CKB，撰写了多篇区块链研究及技术文章并提出了“公有许可链”（又称“开放联盟链”）的概念。首席科学家张韧博士毕业于鲁汶大学 COSIC 实验室，长期专注于区块链共识协议、安全和隐私研究，在国际顶级密码学及区块链会议上发表过多篇论文，曾在 Blockstream 与 Pieter Wuillie 和 Gregory Maxwell 共同工作。首席产品官王博为原中钞区块链研究院产品总监，曾设计参与多个重大区块链项目。\r\n\r\n我们一直奉行开放和开源的精神，坚信透明是信任的基础，开源是区块链的基石，所有项目代码均在 Github 开源。我们与国内外多家研究机构及团队建立了长期的合作关系和良好的交流通道，无条件的与合作伙伴分享研究成果。\r\n\r\n公司官网：https://www.cryptape.com\r\n招聘地址：https://www.cryptape.com/join\r\n我们的代码：https://www.cryptape.com/code\r\n\r\n### **招聘岗位**\r\n\r\n**【全栈工程师】**\r\n\r\n工作内容\r\n* 在 Nervos CKB 生态系统中设计和构建新的 dapp\r\n* 探索 Nervos CKB dapp 的最佳实践方案\r\n* 与内部开发团队合作，以增强工具以及整个 Nervos 生态系统\r\n\r\n最低要求\r\n* 1-2 年的软件开发经验\r\n* 精通至少一种编程语言，例如 JavaScript / TypeScript，Go，Java，Rust 等\r\n* 虽然不是必需的技能，但您需要在工作时使用 JavaScript / TypeScript 进行编码\r\n* 良好的团队合作和沟通能力\r\n\r\n加分项\r\n* 有开源项目的经验\r\n* 有区块链相关经验\r\n* 开源库维护者优先\r\n\r\n\r\n**【高级运维工程师】**\r\n\r\n工作内容\r\n* 负责开发及维护区块链系统的 CI/CD、部署等自动化运维体系\r\n* 负责开发及维护区块链的监控报警、日志、追踪等系统\r\n* 负责区块链系统CKB、Godwoken、Force Bridge 服务器运维，版本迭代升级\r\n\r\n任职要求\r\n* 熟悉 Ubuntu/CentOS/Gentoo 等 Linux 发行版\r\n* 熟悉 Python/Go/Javascript 等任意一门开发语言，可以开发相关自动化工具，热衷自动化运维\r\n* 熟悉 Git/Github，参与过开源项目或了解开源项目的 CI/CD\r\n* 有云原生开发与运维经验，具备 Kubernetes 集群运维经验, 熟悉常用的云原生组件如: Prometheus\r\n* 对 DevOps、GitOps 有所实践，能打通研发过程中的自动化运维流程\r\n* 有较好的系统分析设计能力、文档撰写能力、流程意识与标准化思维\r\n* 有 Aliyun/AWS 等云平台服务运维经验\r\n\r\n加分项\r\n* 熟悉区块链系统\r\n\r\n\r\n**【前端开发工程师】**\r\n\r\n工作内容\r\n* 负责相关产品的前端技术方案设计选型\r\n* 负责将服务端数据与表现层交互渲染\r\n* 负责区块链周边工具开发\r\n\r\n任职要求\r\n* 至少三年程序开发经验\r\n* 熟悉 React 技术栈，以及周边 Redux (or MobX) / Ant Design (or Material-UI)\r\n* 熟悉 GraphQL，了解相关的最佳实践 (如 Relay pagination / connection 等)\r\n* 熟悉 TypeScript，了解如何编写易于类型推断的代码，并熟悉 tsc 的一系列相关配置\r\n* 拥有良好的工程能力，有一定的模块化开发经验，熟悉 Webpack / Babel 配置，或熟悉 Lerna / Yarn workspace 相关的 monorepo 开发模式\r\n* 有一定后端开发经验，熟悉 Express (or Koa / NestJS) + 数据库的 HTTP API 开发过程\r\n\r\n加分项\r\n* 熟悉区块链技术原理，或者有 Dapp 开发经验\r\n* 有浏览器插件或桌面应用开发经验\r\n* 了解 Rust 语言\r\n* 为开源社区有过贡献项或者拥有自己的个人博客\r\n\r\n\r\n**【高级测试工程师】**\r\n\r\n工作内容\r\n* 搭建区块链自动化测试框架，负责接口测试、集成测试等工作\r\n* 识别可测试性问题并建立正确的质量流程\r\n* 在没有详细领域知识的情况下提供有价值的测试策略审查\r\n* 向开发团队教授和解释测试技术和原则，使他们能够以最少的支持为中低风险项目承担这项工作\r\n\r\n\r\n任职要求\r\n* 熟悉分布式系统，有分布式软件测试经验\r\n* 有测试框架开发经验\r\n* 了解比特币、以太坊等开源区块链系统的设计。\r\n\r\n\r\n加分项\r\n* 能够阅读 Rust 或熟悉系统编程语言\r\n* 熟悉网络抓包\r\n\r\n\r\n**团队福利**\r\n----------------------------------------------------------------------------------------------------------------------------\r\n远程办公:无论你在哪里,我们都可以并肩奋斗!\r\n弹性工作:无论你是早睡早起的好孩子还是不怕黑眼圈的夜猫子，我们都可以并肩奋斗！\r\n商业保险:除五险一金外,额外购买商业保险为你提供更多保障！\r\n成长机会:我们关注你的个人成长，线上学习平台线下活动交流都在碗里！\r\n\r\n更多招聘信息可查看官网招聘地址： https://www.cryptape.com/join\r\n\r\n简历投递邮箱 join@cryptape.com ，投递简历请备注来自github\r\n\r\n",
+      "company": "秘猿科技",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "全栈工程师",
+          "category": "全栈"
+        },
+        {
+          "title": "高级运维工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "高级测试工程师",
+          "category": "测试"
+        }
+      ],
+      "location": [
+        "杭州",
+        "远程"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "Java",
+        "Rust",
+        "Python",
+        "React",
+        "Redux",
+        "MobX",
+        "Ant Design",
+        "Material-UI",
+        "GraphQL",
+        "Webpack",
+        "Babel",
+        "Lerna",
+        "Yarn",
+        "Express",
+        "Koa",
+        "NestJS",
+        "Git",
+        "Github",
+        "Kubernetes",
+        "Prometheus",
+        "Linux",
+        "Ubuntu",
+        "CentOS"
+      ],
+      "experienceReq": "全栈工程师1-2年；前端工程师至少3年；其他岗位未明确说明",
+      "contact": "join@cryptape.com"
+    },
+    {
+      "id": "1980-943927019",
+      "issueNumber": 1980,
+      "commentId": 943927019,
+      "yearMonth": "2021-10",
+      "author": "ugaxm",
+      "rawContent": "# 【杭州-西湖区】海拍客 [前端]\r\n\r\n杭州洋驼网络科技有限公司（海拍客）是国内领先的母婴产业B2B2C平台，通过产业赋能，将品牌、知识、消费理念带给下沉市场的消费者，成为汇聚品牌方、经销商、实体店和消费者于一体的中国首家母婴产业互联网平台，目前，海拍客在全国已拥有近20万家母婴实体店，合作超过8000个国内外知名母婴品牌。\r\n\r\n公司官网：https://www.hipac.cn\r\n\r\n研发部博客：https://tech.hipac.cn\r\n\r\n杭州总部地址：杭州西湖区西投创智中心5号楼\r\n\r\n有意向的同学可联系：jun.ma@hipac.cn\r\n\r\n## 薪资和福利待遇\r\n\r\n1、薪资：15-20K 14薪\r\n\r\n2、双休、五险一金、定期体检股票期权\r\n\r\n3、法定年假和节假日放假\r\n\r\n4、餐补、结婚礼金、节日礼品\r\n\r\n\r\n\r\n## 团队介绍\r\n\r\n海拍客前端团队负责公司对外和对内的各业务线产品。用户界面部分主要使用React/antd/微信小程序，服务端涉及EggJS/Dubbo/函数计算/数据库。\r\n\r\n研发部门有完善的自研DevOps系统，使用Typescript管理前后端接口模型。\r\n\r\n\r\n\r\n## 招聘岗位\r\n\r\n### 前端开发工程师\r\n\r\n1-3年工作经验 | 大专学历\r\n\r\n\r\n\r\n### 职位描述\r\n\r\n1. 依据产品需求完成高质量的Web前端开发和维护\r\n2. 对产品进行性能优化，实现极致的Web加载、执行和渲染时间\r\n3. 结合前端实际建立或优化提升工作效率的工具\r\n4. 在理解产品业务的基础上，结合前端技术建立或优化Web的交互方式、\r\n\r\n\r\n\r\n### 任职要求\r\n\r\n1. 扎实掌握计算机专业领域基础知识\r\n2. 熟悉各种Web前端技术，包括HTML/CSS/Javascript 并保持各种技术的前沿视野。\r\n3. 个性乐观开朗，逻辑性强，善于和各种背景的人合作，抗压能力强。\r\n\r\n\r\n\r\n\r\n",
+      "company": "杭州洋驼网络科技有限公司（海拍客）",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "15-20K 14薪",
+      "techStack": [
+        "React",
+        "antd",
+        "微信小程序",
+        "EggJS",
+        "Dubbo",
+        "函数计算",
+        "Typescript",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ],
+      "experienceReq": "1-3年工作经验",
+      "educationReq": "大专学历",
+      "contact": "jun.ma@hipac.cn"
+    },
+    {
+      "id": "1980-943162369",
+      "issueNumber": 1980,
+      "commentId": 943162369,
+      "yearMonth": "2021-10",
+      "author": "KayFFeng",
+      "rawContent": "🛰：这是一个来自太空的项目电话，感谢您的接听。我是卓泉，Dora 的产品技术合伙人，很高兴认识你！\r\n**我们是谁**\r\nDora 是一个整合了 UI 设计与应用开发的一站式设计开发协作平台。它带来了第三代的开发协作流程，彻底解决了设计师与程序员间大量的重复工作和巨大的沟通成本。\r\n同时，做为一款先进的无代码工具，Dora 也能帮助创意人士摆脱对代码的束缚，将想法快速转化为真实产品。不同于其他无代码工具，Dora 实现了完全自由度的 UI 和逻辑控制，可以满足任意复杂度的应用场景需求。让我们一同打造一个创意驱动的世界！\r\n创始人曾是张一鸣的创业合伙人，也是趣店集团的技术负责人，从0加入，3年时间帮助公司完成上市，上市市值百亿美金。稀缺创业者，不轻易出手，出手成功率极高，新项目 Dora 的市值将瞄准千亿美金！\r\n**项目优势**\r\n1. 成功率高：团队、产品、技术、同轮次估值、现金流、投资方等皆为赛道顶配\r\n2. 天花板高：千亿美金估值赛道。助力数字化转型，国家级大风口、史诗级大转型。\r\n3. 丰厚回报：成为 Dora 核心成员，获得原始股份，个人能力和经济收益与公司一同指数增长！\r\n\r\n我们在招聘\r\n资深后端架构师（对标阿里P7-P8)\r\n**职位职责：**\r\n1、负责无代码SaaS应用产品等后台业务的产品调研/讨论以及整体的架构设计；\r\n2、承担业务重点、业内难点的技术攻坚，主导核心组件/服务的编码和上线；\r\n3、分析和深入发掘现有系统的不足，定位系统瓶颈，提高系统性能/稳定性以及业务扩展性；\r\n4、在产品意识，技术广度/深度，职业素养，本质思考能力/习惯等方面对团队持续输出影响力。\r\n**职位要求：**\r\n1、本科及以上学历，5年及以上工作经验；\r\n2、优秀的设计和编码品味，扎实的落地编码能力 - 包括速度和整体品质；\r\n3、良好的产品意识，能够做到技术和产品相结合，从设计到实现始终对齐业内一流产品水准；\r\n4、在一个或者多个方面（产品，技术，工程）有业内一流专家级别的技术和认知/思维水准；有中长期的产品/技术视野；\r\n5、如果主导或参与过大型的开源项目，有技术文章输出，有社区影响力为加分项。\r\n\r\n另外有前端，后端岗位长期开放招聘\r\n请发履历至：kaixin@dora.run，我将逐一回复。\r\n如果你对自己的能力自信到不屑于发履历，那就直接加我微信聊吧！\r\nWechat: jobs1990（请备注信息来源）",
+      "company": "Dora",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "资深后端架构师",
+          "category": "后端"
+        },
+        {
+          "title": "前端",
+          "category": "前端"
+        },
+        {
+          "title": "后端",
+          "category": "后端"
+        }
+      ],
+      "location": null,
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "experienceReq": "5年及以上工作经验",
+      "educationReq": "本科及以上学历",
+      "contact": "kaixin@dora.run, jobs1990"
+    },
+    {
+      "id": "1980-942241831",
+      "issueNumber": 1980,
+      "commentId": 942241831,
+      "yearMonth": "2021-10",
+      "author": "chenliu9",
+      "rawContent": "## 【上海】上海九思信源智能科技有限公司【全栈工程师/Full-Stack Engineer】🚀\r\n\r\n---\r\n\r\n我们在努力寻找全栈工程师，加入我们一起创建模块化的工业大数据平台 🏭，将先进的数据湖技术、数据虚拟化技术、人工智能技术，应用到传统的工业领域，助力传统企业高效地实现数字化升级，成就一番伟大的事业 🔥\r\n\r\n公司官网：https://www.txz.tech\r\n公司地址：上海市闵行区虹莘路3999-5号\r\n联系邮箱：chen@txz.tech\r\n联系微信：liuchen8158\r\n\r\n----------\r\n\r\n### What we're about\r\n> Data becomes the new software. As AI replaces and supplements traditional programming in the enterprise, the rise of a data development toolchain as comprehensive as the software development toolchain is perhaps the most underrated and significant trend in enterprise — Ben Horowitz (https://twitter.com/bhorowitz), a16z cofounder and general partner\r\n\r\n上海九思信源智能科技有限公司成立于2021年上半年，为客户提供企业级的大数据与人工智能解决方案（SaaS + PaaS），我们的使命是赋能企业实现生产经营的智慧决策与优化。\r\n\r\n我们的解决方案，落地于工业大数据开发与应用的三个方面，\r\n\r\n1️⃣ 数据治理与融合：以模型驱动架构与数据虚拟化技术为核心，支持各种物联套件、广泛数据类型的数据治理与数据融合，包括数据清洗、数据映射、数据集成、数据规范化等。\r\n2️⃣ 数据分析与可视化：将隐藏在大数据中的商业信息进行萃取和提炼，实现对生产、业务问题的洞察，并应用统计表、统计图等可视化方法，将其转换为可看、可理解、可解释的情报，帮助企业经营者和管理者进行有效的判断与决策。\r\n3️⃣ 数据智能化：运用机器学习、知识图谱、神经网络等人工智能技术，分析当前数据和历史数据，对未来的事件做出预测，帮助企业识别趋势、行为、未来结果和商机，并为企业提供业务需求或解决运营问题所需的最佳解决方案。\r\n\r\n---\r\n\r\n### Perks\r\n* Work life balance：我们坚信，生活是第一位的，我们努力工作；我们也要有精彩的生活，work hard, play hard。\r\n* Competitive salary and equity：对于软件工程师，都会有有竞争性的工资和股权。\r\n* Paid sick leave & Paid time off：在法定节假日之外，我们提供10天的带薪年假以及病假（大于法定年假）。\r\n* Continuous learning reimbursement：我们会鼓励并支持员工持续学习，并为其报销相关费用，例如参加学术会议、参加Coursera课程等。\r\n\r\n---\r\n\r\n### The Ideal Candidate 👧 👦 \r\n\r\n计算机相关专业的教育背景是加分项，但不是必须的。一个好的个性与工作态度（例如[manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one)）是我们非常看重的，也是我们一起合作、达成目标的关键。\r\n\r\n下面是我们期望的背景。如果你正好符合其中的几个或者一些，请不要吝啬与我们联系，let's have a talk.\r\n\r\n* Strong hands-on experience and understanding of object-oriented programming, data structures, algorithms, and web application development\r\n* Experience working JavaScript frameworks such as React, Redux, Vue, Backbone, or Angular\r\n* Experience with Docker or K8S\r\n* Experience in building scalable web applications\r\n* Knowledge of distributed systems, test-driven development, SQL and NoSQL databases, and performance optimization tools\r\n* Knowledge of Agile development methodology\r\n* Experience in building scalable web applications\r\n* Thrive in a dynamic, rapidly changing environment and value end-to-end ownership of projects\r\n* Experience with Continuous Integration and Continuous Delivery\r\n* Passionate about quality software\r\n* Experience building cloud native products\r\n* Curious, driven and motivated to learn\r\n* Entrepreneurial and scrappy",
+      "company": "上海九思信源智能科技有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "全栈工程师/Full-Stack Engineer",
+          "category": "全栈"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "JavaScript",
+        "React",
+        "Redux",
+        "Vue",
+        "Backbone",
+        "Angular",
+        "Docker",
+        "Kubernetes",
+        "SQL",
+        "NoSQL",
+        "CI/CD"
+      ],
+      "experienceReq": "对面向对象编程、数据结构、算法、Web应用开发有强实践经验；有JavaScript框架开发经验；了解分布式系统、测试驱动开发、性能优化",
+      "educationReq": "计算机相关专业背景加分，但非必须",
+      "contact": "chen@txz.tech, liuchen8158"
+    },
+    {
+      "id": "1980-948182670",
+      "issueNumber": 1980,
+      "commentId": 948182670,
+      "yearMonth": "2021-10",
+      "author": "muzihuowei",
+      "rawContent": "### [华泰证券] Web 前端招聘，机会少有，欢迎关注！ \r\r**基本情况：** \r1. 双休，WLB ； \r2. 顶配六险二金（全额工资 12%）； \r3. 食堂三餐，办公室免费零食肥宅水； \r4. 不用补班，如国庆假期 9 月 26 日，10 月 9 日不用上班； \r5. 福田 CBD 交通方便； \r6. 团队技术氛围浓厚； \r7. 薪资月 base20K-40K，年终与个人绩效、公司绩效挂钩，近几年券商业绩好，懂的都懂 \r\r**基本要求：** \r211 本科或硕士以上学历（硕士或有一线互联网经验可不要求 211 ）； \r\r### [ Web 开发工程师-平台研发] \r**职位描述** \r● 参与或主导华泰 Web 前端的平台级基础设施建设和研发体系建设，包括但不限于 工程框架、工具库、组件库、搭建平台、IDE 、Serverless 平台 等领域的建设 \r● 参与和推动、优化前端基础架构、组件抽象，通过工程化手段提升前端开发效率和应用性能 \r● 参与前沿技术研究，承担重点、难点技术攻坚 \r● Base 上海、深圳、南京、北京 \r**职位要求** \r● 211 本科或硕士以上学历，计算机、通信和电子信息科学等相关专业优先； \r● 前端技术扎实，技术专研能力强，对新事物和技术热情高，熟悉主流的思想； \r● 熟练运用 JavaScript 、HTML 、CSS 、Node.js 、ES6 、TypeScript 等前端技术； \r● 至少精通一款流行前端框架，如 React/Vue，具备中大型复杂网站架构设计能力； \r● 熟悉 Webpack/Rollup/Babel/Eslint 等前端常用工具链的功能与原理，了解 Esbuild/Vite 等新兴构建工具者为佳 \r● 熟悉前端工程化体系，在开发效率、性能优化、稳定性、自动化测试等方面有一定的认知和实践； \r● 具备良好的团队协作精神，能利用自身技术能力提升团队整体研发效率，提高团队影响力； \r● 加分项：具备系统性能 /异常监控平台、Node 开发或运维经验、微前端技术、有自己的技术产品、开源作品或活跃的开源社区贡献； \r\r### [ Web 开发工程师-产品研发] \r**职位描述** \r● 负责 Web 前端、小程序、管理端相关功能设计、研发及优化 \r● 主导项目前端开发，完成前端项目技术选型、框架搭建和日常需求迭代 \r● 梳理复杂业务逻辑，完善开发流程 \r● 理解业务和产品的技术上，提升用户体验，优化前端性能 \r● Base 上海、深圳、南京、北京 \r**职位要求** \r● 211 本科或硕士以上学历，计算机、通信和电子信息科学等相关专业优先； \r● 熟悉至少一款流行前端框架，如 React/Vue 等，具备中大型复杂网站架构设计能力； \r● 熟练运用 JavaScript 、HTML 、CSS 、ES6 、TypeScript 等前端技术； \r● 熟悉前端常用工程化组件如 Webpack 、Babel 、Eslint 的功能和使用，了解其技术原理 \r● 熟悉 Web 性能优化常用策略与原理，有丰富实践经验者优先 \r● 对前后端的协作模式、产品和项目流程有深入理解； \r● 乐于分享和沟通，有团队协作的精神 \r● 熟悉复杂样式实现，有数据可视化经验优先 \r\r\r简历投递方式： leeaalto@163.com",
+      "company": "华泰证券",
+      "companyType": "国企",
+      "positions": [
+        {
+          "title": "Web开发工程师-平台研发",
+          "category": "前端"
+        },
+        {
+          "title": "Web开发工程师-产品研发",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "上海",
+        "深圳",
+        "南京",
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "月base 20K-40K，年终与个人绩效、公司绩效挂钩",
+      "techStack": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "ES6",
+        "TypeScript",
+        "React",
+        "Vue",
+        "Webpack",
+        "Rollup",
+        "Babel",
+        "Eslint",
+        "Esbuild",
+        "Vite",
+        "微前端"
+      ],
+      "experienceReq": "硕士或有一线互联网经验可不要求211本科",
+      "educationReq": "211本科或硕士以上学历（计算机、通信和电子信息科学等相关专业优先）",
+      "contact": "leeaalto@163.com"
+    },
+    {
+      "id": "1980-948283972",
+      "issueNumber": 1980,
+      "commentId": 948283972,
+      "yearMonth": "2021-10",
+      "author": "daxiazilong",
+      "rawContent": "> ### [华泰证券] Web 前端招聘，机会少有，欢迎关注！ \n> \n> **基本情况：** \n> 1. 双休，WLB ； \n> 2. 顶配六险二金（全额工资 12%）； \n> 3. 食堂三餐，办公室免费零食肥宅水； \n> 4. 不用补班，如国庆假期 9 月 26 日，10 月 9 日不用上班； \n> 5. 福田 CBD 交通方便； \n> 6. 团队技术氛围浓厚； \n> 7. 薪资月 base20K-40K，年终与个人绩效、公司绩效挂钩，近几年券商业绩好，懂的都懂 \n> \n> **基本要求：** \n> 211 本科或硕士以上学历（硕士或有一线互联网经验可不要求 211 ）； \n> \n> ### [ Web 开发工程师-平台研发] \n> **职位描述** \n> ● 参与或主导华泰 Web 前端的平台级基础设施建设和研发体系建设，包括但不限于 工程框架、工具库、组件库、搭建平台、IDE 、Serverless 平台 等领域的建设 \n> ● 参与和推动、优化前端基础架构、组件抽象，通过工程化手段提升前端开发效率和应用性能 \n> ● 参与前沿技术研究，承担重点、难点技术攻坚 \n> ● Base 上海、深圳、南京、北京 \n> **职位要求** \n> ● 211 本科或硕士以上学历，计算机、通信和电子信息科学等相关专业优先； \n> ● 前端技术扎实，技术专研能力强，对新事物和技术热情高，熟悉主流的思想； \n> ● 熟练运用 JavaScript 、HTML 、CSS 、Node.js 、ES6 、TypeScript 等前端技术； \n> ● 至少精通一款流行前端框架，如 React/Vue，具备中大型复杂网站架构设计能力； \n> ● 熟悉 Webpack/Rollup/Babel/Eslint 等前端常用工具链的功能与原理，了解 Esbuild/Vite 等新兴构建工具者为佳 \n> ● 熟悉前端工程化体系，在开发效率、性能优化、稳定性、自动化测试等方面有一定的认知和实践； \n> ● 具备良好的团队协作精神，能利用自身技术能力提升团队整体研发效率，提高团队影响力； \n> ● 加分项：具备系统性能 /异常监控平台、Node 开发或运维经验、微前端技术、有自己的技术产品、开源作品或活跃的开源社区贡献； \n> \n> ### [ Web 开发工程师-产品研发] \n> **职位描述** \n> ● 负责 Web 前端、小程序、管理端相关功能设计、研发及优化 \n> ● 主导项目前端开发，完成前端项目技术选型、框架搭建和日常需求迭代 \n> ● 梳理复杂业务逻辑，完善开发流程 \n> ● 理解业务和产品的技术上，提升用户体验，优化前端性能 \n> ● Base 上海、深圳、南京、北京 \n> **职位要求** \n> ● 211 本科或硕士以上学历，计算机、通信和电子信息科学等相关专业优先； \n> ● 熟悉至少一款流行前端框架，如 React/Vue 等，具备中大型复杂网站架构设计能力； \n> ● 熟练运用 JavaScript 、HTML 、CSS 、ES6 、TypeScript 等前端技术； \n> ● 熟悉前端常用工程化组件如 Webpack 、Babel 、Eslint 的功能和使用，了解其技术原理 \n> ● 熟悉 Web 性能优化常用策略与原理，有丰富实践经验者优先 \n> ● 对前后端的协作模式、产品和项目流程有深入理解； \n> ● 乐于分享和沟通，有团队协作的精神 \n> ● 熟悉复杂样式实现，有数据可视化经验优先 \n> \n> \n> 简历投递方式： leeaalto@163.com\n\n你这个硕士有无全日制要求",
+      "company": "华泰证券",
+      "companyType": "国企",
+      "positions": [
+        {
+          "title": "Web开发工程师-平台研发",
+          "category": "前端"
+        },
+        {
+          "title": "Web开发工程师-产品研发",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "上海",
+        "深圳",
+        "南京",
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "月base 20K-40K，年终与个人绩效、公司绩效挂钩",
+      "techStack": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "ES6",
+        "TypeScript",
+        "React",
+        "Vue",
+        "Webpack",
+        "Rollup",
+        "Babel",
+        "Eslint",
+        "Esbuild",
+        "Vite",
+        "微前端"
+      ],
+      "experienceReq": "硕士或有一线互联网经验可不要求211本科",
+      "educationReq": "211本科或硕士以上学历（计算机、通信和电子信息科学等相关专业优先）",
+      "contact": "leeaalto@163.com"
+    },
+    {
+      "id": "1980-951507084",
+      "issueNumber": 1980,
+      "commentId": 951507084,
+      "yearMonth": "2021-10",
+      "author": "Alingwww",
+      "rawContent": "西安葡萄城信息技术有限公司\r\n葡萄城成立于1980年，是全球领先的软件开发技术提供商，采用国际领先的管理体系，与不同国家的优秀程序员一起合作，建立起一套先进的技术与管理体系。葡萄城一贯秉承开放、人性的管理思想，最大程度的尊重开发人员的个性及职业规划，在这里，您可以随时了解到最为先进的前沿技术，与全球不同国家的优秀程序员一起进行思想碰撞，还可以实现您的个人创意，并最近距离的聆听客户声音。西安葡萄城是一个平台，助您攀登事业的高峰。\r\n欢迎【了解我们】https://www.grapecity.com.cn\r\n![微信图片_20211026101120](https://user-images.githubusercontent.com/78411362/138800121-cf103990-3bf5-47e5-99d7-eabc56f81b4f.jpg)\r\n\r\n还有校园招聘、产品运营等职位等你来，详情点击https://www.grapecity.com.cn/career\r\n****联系方式：QQ 2876915063\r\n邮箱career.xa@grapecity.com",
+      "company": "西安葡萄城信息技术有限公司",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "校园招聘",
+          "category": "其他"
+        },
+        {
+          "title": "产品运营",
+          "category": "运营"
+        }
+      ],
+      "location": [
+        "西安"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "contact": "QQ: 2876915063, career.xa@grapecity.com, https://www.grapecity.com.cn/career"
+    },
+    {
+      "id": "1980-949356637",
+      "issueNumber": 1980,
+      "commentId": 949356637,
+      "yearMonth": "2021-10",
+      "author": "wallezen",
+      "rawContent": "## 腾讯游戏流量中台后台开发工程师\r\n\r\n### 工作地点：深圳\r\n\r\n### 岗位要求：\r\n- 本科及以上学历，计算机或相关专业，热爱互联网和互联网相关技术；\r\n- 3年以上Linux/Unix后台开发工作经验；\r\n- 精通Go/C/C++，Python/Shell/lua其中一门编译和解释性开发语言；\r\n- 熟悉Unix/Linux操作系统原理、常用工具，有开源社区贡献经验更佳；\r\n- 熟悉Mysql及no-sql数据库原理，及基于此的开发和优化；\r\n- 熟悉TCP/IP协议，socket编程，多进程多线程编程，熟悉Unix/Linux下常用架构设计方法；\r\n- 有大数据、高并发、大容量后台服务系统设计经验优先；\r\n- 良好的学习、沟通、团队协作、分析解决问题能力，责任心，主动性强优先；\r\n### 加分项：\r\n有广告行业，商业化变现等方向，特别是SSP/ADX/DSP系统构建经验者优先；\r\n有机器学习在线推理工程实践和工程优化经验者优先；\r\n有带领小团队意愿且愿意主动承担更多责任，敢于自我挑战者优先。\r\n\r\n### 岗位职责：\r\n- 负责腾讯游戏流量池SSP/DSP/广告竞价引擎后台架构设计、开发和优化工作；\r\n- 负责腾讯游戏流量池广告算法工程召回/精排/推断优化等架构设计、开发和优化工作；\r\n- 负责腾讯游戏买量系统投放端的架构设计、开发和优化工作；\r\n- 负责腾讯游戏流量培育体系的后台架构设计、开发和优化工作；\r\n\r\n### 简历投递\r\n请扫描图中二维码，投递简历！\r\n![mmexport2ea8140f1723ef6113501f3ca6188637_1634886923092](https://user-images.githubusercontent.com/44355444/138410559-8e6c9255-405d-41d7-a0d2-4f9566a96233.png)\r\n\r\n\r\n",
+      "company": "腾讯游戏",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "流量中台后台开发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Go",
+        "C",
+        "C++",
+        "Python",
+        "Shell",
+        "Lua",
+        "Linux",
+        "Unix",
+        "MySQL",
+        "NoSQL",
+        "TCP/IP",
+        "Socket编程"
+      ],
+      "experienceReq": "3年以上Linux/Unix后台开发工作经验",
+      "educationReq": "本科及以上学历，计算机或相关专业"
+    },
+    {
+      "id": "1980-955246556",
+      "issueNumber": 1980,
+      "commentId": 955246556,
+      "yearMonth": "2021-10",
+      "author": "jiujiujiujiujiuaia",
+      "rawContent": "## 联系方式\r\n微信 jiujiuaia\r\n邮箱 chunwyu@microsoft.com\r\n\r\n## 招各个level（Junior/SDE2/Senior/Pricipal）的工程师\r\n\r\n1. 微软公司招聘软件开发工程师，前端、后端、客户端、算法、ML、NLP等均需要。\r\n2. 北京 上海 苏州 M365 Sharepoint Teams Bing Azure等部门均有大量hc\r\n3. 微软面试无编程语言要求，基本都考察算法，可能还有系统设计。\r\n4. 一年以上工作经验即可，其他加微信私聊，并联系HR推荐最适合候选的岗位和部门。\r\n5. 可私聊了解内部部门和岗位情况，面试经验分享。",
+      "company": "微软",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "软件开发工程师（前端）",
+          "category": "前端"
+        },
+        {
+          "title": "软件开发工程师（后端）",
+          "category": "后端"
+        },
+        {
+          "title": "软件开发工程师（客户端）",
+          "category": "移动端"
+        },
+        {
+          "title": "算法工程师",
+          "category": "其他"
+        },
+        {
+          "title": "ML工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "NLP工程师",
+          "category": "AI/ML"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海",
+        "苏州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "M365",
+        "Sharepoint",
+        "Teams",
+        "Bing",
+        "Azure"
+      ],
+      "experienceReq": "一年以上工作经验",
+      "contact": "微信: jiujiuaia, 邮箱: chunwyu@microsoft.com"
+    },
+    {
+      "id": "1980-950283958",
+      "issueNumber": 1980,
+      "commentId": 950283958,
+      "yearMonth": "2021-10",
+      "author": "stefanJi",
+      "rawContent": "# Base 成都 字节跳动-抖音 长期有效\r\n\r\n邮箱：jiyang.jy@bytedance.com\r\n\r\n## 前端开发工程师 - 抖音\r\n\r\n职位描述\r\n1、负责抖音社交、本地生活前端开发工作，包括产品端核心功能、活动等开发；\r\n2、落实和推进产品规划及需求，保障产品功能高效高质迭代；\r\n3、关注产品流程和产品体验，创造极致的用户体验；\r\n4、参与制定技术规划，并保障开发体验、研发效率、系统性能和安全。\r\n\r\n职位要求\r\n1、本科及以上学历，计算机、通信和电子信息科学、数学等相关专业优先；\r\n2、具备扎实的计算机和前端基础，具有良好的逻辑理解能力和学习能力；\r\n3、熟练前端基础技术以及常用的开发框架；\r\n4、拥有较好的交互设计及用户体验意识；\r\n5、积极乐观，责任心强，具备良好的服务意识及沟通协作能力；\r\n\r\n## 蓝军安全工程师/技术专家-抖音质量保障方向\r\n\r\n> 团队介绍：我们是字节跳动互娱研发蓝军安全团队，希望组建强有力的安全队伍并建设行业顶尖的安全攻防体系，挖掘相关产品的安全与合规问题并主导解决！在这里，你需要面对亿级日活产品的挑战，需要搭建高效且覆盖产品线的安全蓝军体系，欢迎志在挑战亿级规模产品安全与合规建设的同学加入我们。\r\n\r\n工作内容包括但不限于：\r\n1、对内部产品以及研发内部流程进行漏洞挖掘与合规测试；\r\n2、参与业务安全与合规流程建设和改造工作，对日常项目进行风险评估、脆弱点分析与PoC实现；\r\n3、负责组建业务安全蓝军体系，负责安全攻击能力与工具平台建设；\r\n4、负责业务驱动下的前沿安全技术研究与规划，提升团队安全技术能力。\r\n职位要求\r\n1、有漏洞挖掘、渗透测试、隐私合规检测等客户端安全技术相关领域经验优先；\r\n2、有Android/iOS平台动态/静态分析经验，二进制程序分析、协议分析等方面技能，或者持续关注国内外前沿攻防技术并能够转化为对内业务能力优先；\r\n3、熟悉掌握1-2门主要开发语言（Java、Object-C、Golang、Python等）；\r\n4、对安全技术有浓厚的兴趣，良好的逻辑思维、团队协作、分析和解决复杂问题的能力等。\r\n\r\n## 测试开发工程师 — 抖音/抖音火山版\r\n\r\n职位描述\r\n1、设计合理的技术方案，开发、测试、部署与改进内部平台框架，包括但不限于抖音、抖音火山版、轻颜、Faceu等产品；\r\n2、改进现有工具或开源项目的效率、扩展性与稳定性；\r\n3、新技术研究和应用，并推动适合的技术应用于生产;\r\n4、指导并带领初级工程师共同完成研发任务。\r\n职位要求\r\n1、经验3-5年学历本科及以上，计算机、通信等相关专业；\r\n2、熟练掌握Linux环境下的C/C++/Go/Python/NodeJS/Shell等1至2种以上语言；\r\n3、熟悉行业常见的架构和分布式系统实现方案；能实现生产级别的后端服务；\r\n4、有全栈开发能力，熟悉常用的服务后端与web前端框架，了解移动端（iOS/Android)的应用开发；\r\n5、积极乐观，责任心强，工作认真细致，具备良好的服务意识，具有良好的团队沟通与协作能力；\r\n6、热爱编程，有较强的学习能力和抽象能力，有强烈的求知欲、好奇心和进取心，能及时关注和学习业界最新技术。\r\n\r\n具备以下条件之一者优先:\r\n1、具有编程语言、Redis、NSQ、Zero-MQ、OpenSTF等开源项目的贡献或源码分析经验优先；\r\n2、具有分布式平台研发经历者优先。\r\n\r\n## 服务端技术负责人 — 抖音\r\n\r\n职位描述\r\n1、负责抖音相关业务的后台研发及管理工作；\r\n2、负责在线大流量高并发系统的设计和实施；\r\n3、技术团队搭建、业务把控、团队管理和人员培养。\r\n职位要求\r\n1、5年以上工作经验；\r\n2、有扎实的编程能力，有优秀的设计和代码品位；\r\n3、深刻理解计算机原理,有良好的数据结构和算法基础；\r\n4、熟悉Mysql 、Memcache、Redis、消息队列等常用WEB组件，并有能力进行定制化改进；\r\n5、有高并发服务设计和实现经验优先；\r\n6、有较好的产品意识优先；\r\n7、有团队管理经验优先。\r\n\r\n## 前端开发工程师-抖音\r\n\r\n职位描述\r\n1、负责前端技术选型和开发工作；\r\n2、通过技术手段，提升用户体验并满足高性能要求；。\r\n职位要求\r\n1、本科及以上学历，计算机相关专业；\r\n2、精通HTML、CSS、JS，熟悉页面架构和布局，熟悉HTML5/CSS3等常用技术；\r\n3、精通JavaScript、AJAX、DOM、jQuery等技术；\r\n4、具备MVVM框架开发经验，如React、VueJS、AngularJS等。\r\n\r\n## 全栈工程师 — 抖音移动平台\r\n\r\n职位描述\r\n负责抖音短视频 App研发提效的内部工具平台相关开发工作。包括且不限于：\r\n1、核心基础平台系统设计、落地和维护；\r\n2、全权负责核心Feature系统研发和规划；\r\n3、为上下游和最终用户提供标准化服务，保证优质体验。\r\n职位要求\r\n1、深刻理解计算机原理，有良好的数据结构和算法基础，扎实的编程能力；\r\n2、相关技术能力。以下两个任意一种即可：\r\n熟悉 Golang / Python 及相应框架环境，了解 MySQL、Redis、消息队列等基本组件；\r\n熟悉 HTML、CSS、JS，理解浏览器渲染机制，熟悉 React等大型前端框架；\r\n3、理解前后端全链路流程，或者有全栈项目经历优先；\r\n4、有移动端相关开发经验优先；\r\n5、热爱编程，有较强的学习能力，有强烈的求知欲、好奇心和进取心，能及时关注和学习业界最新技术；\r\n6、积极乐观，责任心强，工作认真细致，有良好的团队沟通和协作能力。\r\n\r\n## Android（高级）研发工程师 - 抖音\r\n\r\n职位描述\r\n1、负责公司移动产品的抖音短视频研发,编写高质量的代码；\r\n2、和产品经理配合,深度参与手机产品需求讨论,功能定义等；\r\n3、设计良好的代码结构,不断迭代重构。\r\n4、承担重点、难点的技术攻坚和新技术预研；\r\n5、进行技术分享，带领新人成长。\r\n职位要求\r\n1、智能手机爱好者和使用者, 追求良好的用户体验；\r\n2、热爱移动产品研发, 愿意在移动开发领域深入钻研, 并成为专家；\r\n3、有良好的编程习惯, 代码结构清晰, 命名规范；\r\n4、熟练掌握JAVA, 熟悉Android SDK, 熟悉Android的UI/网络/数据库框架；\r\n5、具备Android开发经验, 能独立开发Android App；\r\n6、对软件产品有强烈的责任心, 具备良好的沟通能力和优秀的团队协作能力。\r\n\r\n## iOS（高级）研发工程师 - 抖音\r\n\r\n职位描述\r\n1、负责公司移动产品抖音短视频iOS端主力研发，编写高质量代码；\r\n2、和产品经理配合，深度参与手机产品需求讨论，功能定义等；\r\n3、设计良好的代码结构，对程序进行优化，满足产品体验；\r\n4、承担重点、难点的技术攻坚和新技术预研；\r\n5、进行技术分享，带领新人成长。\r\n职位要求\r\n1、智能手机爱好者和使用者, 追求良好的用户体验；\r\n2、热爱移动产品研发, 愿意在移动开发领域深入钻研, 并成为专家；\r\n3、良好的编程习惯, 代码结构清晰, 命名规范；\r\n4、熟练掌握 Objective-C,熟悉App开发的主流框架和开发模式；\r\n5、3年以上 iOS 开发经验,能独立开发 iPhone App 者优先；\r\n6、对软件产品有强烈的责任心, 具备良好的沟通能力和优秀的团队协作能力。\r\n\r\n## 服务端架构师 — 抖音短视频\r\n\r\n职位描述\r\n1、负责参与和指导一个或多个子领域的服务器端业务研发工作；\r\n2、负责团队服务质量、稳定性，从工具、系统上提升团队开发效率，对重点及有难度的技术攻坚；\r\n3、根据业务实际需求，为团队引入新技术和新方案；\r\n4、以自身良好的项目管理与协调沟通能力，负责跨团队的重点项目的推进工作。\r\n职位要求\r\n1、有扎实的编程能力和良好的编码风格；\r\n2、具备丰富的架构设计经验，能够准确、全面的理解业务，并根据业务发展设计合理的架构方案；\r\n3、 对业界数据库中间件、消息中间件及其他大规模分布式系统的基础架构组件有深入理解，能够结合业务做出合理的技术选型；\r\n4、具备良好的基本功，在计算机领域具有较完整的知识体系，并能结合到实际工作中；\r\n5、具备良好的技术判断力、组织协调能力和强大的自驱力。\r\n\r\n## 前端研发Leader-抖音\r\n\r\n职位描述\r\n1、负责抖音市场业务研发；\r\n2、对平台产品、技术目标负责；\r\n3、深入发掘和分析业务需求，撰写技术方案和系统设计；\r\n4、负责技术团队搭建、人才培养和团队管理。\r\n职位要求\r\n1、5年及以上开发经验，具备扎实的系统架构设计能力 ；\r\n2、了解后端技术栈，熟悉至少一门后端语言（Node/Python/GO等）;\r\n3、有优秀的逻辑分析能力，能够对业务逻辑进行合理抽象和拆分 ；\r\n4、积极乐观、责任心强、工作认真细致，具有良好的团队沟通与协作能力；\r\n5、有强烈的求知欲、好奇心和进取心 ，能及时关注和学习业界最新技术；\r\n6、有平台类系统研发经验优先。\r\n\r\n## Android研发负责人 - 抖音（成都）\r\n\r\n职位描述\r\n1、负责字节跳动核心产品抖音短视频Android端的研发及管理工作；\r\n2、负责Android团队搭建和管理，对Android团队产出的质量和效率负责；\r\n3、和产品经理配合，深度参与产品需求讨论，功能定义等。\r\n职位要求\r\n1、有良好的编程习惯，设计良好的代码结构，不断迭代重构；\r\n2、六年以上Android开发经验，对Android底层技术有深入理解，对技术和用户体验充分重视，对性能追求极致；\r\n3、对软件开发有较深理解，能够产出较好设计；\r\n4、优秀的沟通及表达能力，有一定的产品和业务sense；\r\n5、能够快速的学习新的知识并应用到产品者优先，有良好的抗压能力。\r\n\r\n## iOS架构师 - 抖音（成都）\r\n\r\n职位描述\r\n1、负责字节跳动互娱抖音短视频iOS App 技术预研，架构设计，包括但不限于抖音等产品的研发；\r\n2、抽象平台化技术组件;\r\n3、项目重构，代码review，性能优化，质量把控；\r\n4、新技术方向调研，技术难点攻克，新员工培养。\r\n职位要求\r\n1、计算机或相关专业本科及以上学历；\r\n2、3年以上iOS开发经验；\r\n3、深入理解Objective-C Runtime运行机制和内存管理机制；\r\n4、深入了解各个不同iOS版本的特性与差异并有丰富适配经验；\r\n5、熟悉网络通信机制及常用数据传输协议，并有成熟的弱网优化方案；\r\n6、负责过客户端通用底层库和SDK封装；\r\n7、具有强大的代码驾驭能力与技术设计能力，有成功商用产品开发经验；\r\n8、良好的沟通表达能力和团队合作精神，抗压能力强；\r\n9、有IM，社交产品，音视频产品开发经验者优先;\r\n10、有成功特效案例或热部署方案开发经验者优先;\r\n11、有开源开发经验者优先。\r\n\r\n## 移动端leader - 抖音（成都）**急招**\r\n\r\n职位描述\r\n1、负责互娱研发短视频产品的移动端Android、iOS成都团队的搭建和管理；\r\n2、负责短视频产品的App 技术预研，性能优化；\r\n3、项目重构，代码review，性能优化，质量把控；\r\n4、新技术方向调研，技术难点攻克。\r\n职位要求\r\n1、本科及以上学历，7年以上移动端开发经验，3年以上团队管理经验；\r\n2、负责过百万日活以上用户规模或者较高复杂度App的完整开发过程；\r\n3、扎实的编程基本功，移动端端技术能力优秀，如果有跨平台经验加分；\r\n4、善于带领团队，能够充分调动成员的积极性，能培养成员的能力；\r\n5、优秀的跨团队沟通能力，善于项目管理，能够将技术的价值最大化。\r\n\r\n## Android架构师 - 抖音（成都）\r\n\r\n职位描述\r\n1、负责抖音短视频客户端架构的设计与优化；\r\n2、负责抖音短视频 Android客户端的性能优化、稳定性优化和体验优化；\r\n3、负责基础库、框架、关键模块的技术选型、开发和改进；\r\n4、负责性能监控、静态代码分析、自动化测试等效率工具的开发，提升客户端的问题排查效率；\r\n5、调研新技术，将新技术分享并应用到现有产品开发中，提高客户端的技术能力；\r\n6、优化 Android 团队的开发方式和流程、规范，提高团队效率。\r\n职位要求\r\n1、3年以上Android客户端实际开发经验，有大型客户端 app 架构经验；\r\n2、精通多线程和网络编程，对高性能程序设计、架构设计有较多经验，能快速搭建、调试或重构大规模软件代码；\r\n3、有足够的软件安全意识，掌握数据加密、代码混淆、防破解、性能优化等技术；\r\n4、熟悉Android系统体系结构、framework、底层库；\r\n5、熟悉Android系统打包编译、插件化、热修复等主流技术原理并有独特见解，对Android系统框架、对客户端稳定性和性能优化有体系化思考。\r\n\r\n## iOS研发负责人 - 抖音（成都）\r\n\r\n职位描述\r\n1、负责互娱研发短视频产品的iOS成都团队的搭建和管理；\r\n2、负责短视频产品的iOS App 技术预研，性能优化；\r\n3、项目重构，代码review，性能优化，质量把控；\r\n4、新技术方向调研，技术难点攻克。\r\n职位要求\r\n1、计算机或相关专业本科及以上学历，六年以上iOS开发经验；\r\n2、深入理解Objective-C Runtime运行机制和内存管理机制；\r\n3、深入了解各个不同iOS版本的特性与差异并有丰富适配经验；\r\n4、熟悉网络通信机制及常用数据传输协议，并有成熟的弱网优化方案；\r\n5、负责过客户端通用底层库和SDK封装；\r\n6、具有强大的代码驾驭能力与技术设计能力，有成功商用产品开发经验；\r\n7、有跨平台或Android经验为佳；\r\n8、有团队管理经验为佳。\r\n\r\n## 后台核心研发工程师 — 抖音短视频\r\n\r\n职位描述\r\n1、参与系统架构设计、优化，提升系统性能和开发效率，保证高并发高可靠；\r\n2、通过不断的技术研究和创新，推动业务的快速发展和高效迭代。\r\n职位要求\r\n1、有扎实的编程能力，有优秀的设计能力和代码品位，热爱编程；\r\n2、深刻理解计算机原理，有良好的数据结构和算法基础；\r\n3、有高并发服务设计和实现经验，对分布式系统有自己的理解；\r\n4、对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力。",
+      "company": "字节跳动-抖音",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "蓝军安全工程师/技术专家",
+          "category": "安全"
+        },
+        {
+          "title": "测试开发工程师",
+          "category": "测试"
+        },
+        {
+          "title": "服务端技术负责人",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "全栈工程师",
+          "category": "全栈"
+        },
+        {
+          "title": "Android(高级)研发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "iOS(高级)研发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "服务端架构师",
+          "category": "后端"
+        },
+        {
+          "title": "前端研发Leader",
+          "category": "前端"
+        },
+        {
+          "title": "Android研发负责人",
+          "category": "移动端"
+        },
+        {
+          "title": "iOS架构师",
+          "category": "移动端"
+        },
+        {
+          "title": "移动端Leader",
+          "category": "移动端"
+        },
+        {
+          "title": "Android架构师",
+          "category": "移动端"
+        },
+        {
+          "title": "iOS研发负责人",
+          "category": "移动端"
+        },
+        {
+          "title": "后台核心研发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "成都"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Vue",
+        "Angular",
+        "Java",
+        "Objective-C",
+        "Python",
+        "Golang",
+        "C/C++",
+        "NodeJS",
+        "Shell",
+        "Linux",
+        "MySQL",
+        "Redis",
+        "Memcache",
+        "消息队列",
+        "NSQ",
+        "Zero-MQ",
+        "Android SDK",
+        "iOS",
+        "AJAX",
+        "DOM",
+        "jQuery",
+        "MVVM"
+      ],
+      "experienceReq": "各岗位不同，从3年到7年以上",
+      "educationReq": "本科及以上，计算机相关专业优先",
+      "contact": "jiyang.jy@bytedance.com"
+    },
+    {
+      "id": "1980-954572930",
+      "issueNumber": 1980,
+      "commentId": 954572930,
+      "yearMonth": "2021-10",
+      "author": "atalia",
+      "rawContent": "【内推】【上海腾讯游戏】Golang、 Java 、C++、Scala 后台开发\r\n\r\n【岗位职责】\r\n负责 Linux 环境下游戏服务器架构设计、游戏业务逻辑开发、监控和数据分析等支撑工具开发；\r\n负责技术方案设计、系统监控与跟踪、问题定位处理；\r\n负责游戏大数据处理和用户行为分析处理。\r\n【岗位要求】\r\n本科以上学历，计算机相关专业；\r\n2 年以上类 Unix 下 C/C++/golang/Java/Scala 开发经验，熟练掌握常用数据结构和算法；\r\n熟悉类 Unix 操作系统原理以及 Bash 应用；\r\n熟悉 MySql/Redis/Mongodb 等数据存储场景；\r\n熟悉 TCP/IP ，对负载均衡、容灾扩容、高并发有较为深刻的认识；\r\n熟悉设计模式、RPC 机制、数据序列化与反序列化以及线程、协程、多进程的使用和原理；\r\n有 Spark 开发经验者优先；熟悉分布式系统、消息中间件者优先；\r\n对游戏后台技术充满热忱，愿意积极学习新技术，责任心强，逻辑思维严谨，表达能力强；\r\n需要较强的沟通能力，善于团队协作；\r\n【联系方式】\r\nNTI5NjQzMjU2QHFxLmNvbQ==",
+      "company": "腾讯游戏",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "后台开发",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Golang",
+        "Java",
+        "C++",
+        "Scala",
+        "Linux",
+        "Bash",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "TCP/IP",
+        "RPC",
+        "Spark",
+        "分布式系统",
+        "消息中间件"
+      ],
+      "experienceReq": "2年以上类Unix下C/C++/golang/Java/Scala开发经验",
+      "educationReq": "本科以上学历，计算机相关专业",
+      "contact": "NTI5NjQzMjU2QHFxLmNvbQ=="
+    },
+    {
+      "id": "1980-953743694",
+      "issueNumber": 1980,
+      "commentId": 953743694,
+      "yearMonth": "2021-10",
+      "author": "hialoha",
+      "rawContent": "【内推】【实习】旷视研究院算法实习生内推，base北京上海南京成都\r\n\r\n长期有效\r\n\r\n旷视研究院算法实习生招聘\r\n【工作职责】\r\n推进计算机视觉和深度学习领域的核心算法\r\n构建计算机视觉或深度学习领域的关键应用\r\n将最好的算法在有趣有用的商业场景中落地\r\n岗位方向：视频分析、面部识别、基础检测模型、模型设计、3D、机械臂、屏下指纹、人脸防伪、图像处理、AI计算等\r\n\r\n【岗位方向简介】\r\n视频分析：包括图片/视频流中的车辆、车牌以及一般目标的检测；多目标跟踪（MOT）& 单目标跟踪（SOT）；行人/车辆重识别（ReID）以及Metric Learning；多视几何；小样本学习\r\n面部识别：包括通用物体检测、few-shot learning、图像分类、多目标跟踪、单目标跟踪\r\n基础检测模型：包括物体检测、分割以及相关问题；高效模型设计；自监督、半监督、长尾、小样本\r\n模型设计：通用模型、图像模型、视频模型、ML与分布式等\r\n3D：视觉/激光 SLAM、室内外高精地图、多传感器融合、AR、移动端三维重建、导航与控制、基于深度学习的深度估计/补全/Stereo/Local Feature/3D物体检测等\r\n机械臂：针对机械臂场景的视觉感知和决策规划，包括检测、分割、6D位姿估计、抓点选取、路径规划、机械臂系统等\r\n屏下指纹：基于深度学习的屏下指纹解锁方案，包括关键点提取，特征匹配，指纹信号增强与分割，图像拼接等\r\n端上云上人脸防伪：分类网络、模型量化压缩、多光谱图像增强、metric learning等\r\n图像处理：针对移动平台的图像处理和理解：降噪、超分辨率、HDR、图像增强、多摄场景理解、语义分割、实例分割、移动端模型量化压缩蒸馏等\r\nAI 计算：量化模型AR、VR及手势识别；编译器；ISP量化网络\r\n\r\n【岗位要求】\r\n扎实的数学基础\r\n基本的编程能力\r\n充满技术热情，有较强的自驱力和学习能力\r\n加分项：熟悉机器学习或计算机视觉领域的最新研究成果和相关的开源系统\r\n加分项：熟悉Pytorch/TensorFlow/天元MegEngine等开源深度学习框架\r\n实习时长3个月及以上\r\n\r\n【工作地点】\r\n以上岗位北京、上海、南京、成都均可加入\r\n\r\n【内推链接】\r\nhttps://jinshuju.net/f/RGN8kO?x_field_1=kol-%E5%88%98%E4%BF%A1%E7%AD%91\r\n",
+      "company": "旷视研究院",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "算法实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "视频分析算法实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "面部识别算法实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "基础检测模型实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "模型设计实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "3D算法实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "机械臂视觉算法实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "屏下指纹算法实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "人脸防伪算法实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "图像处理算法实习生",
+          "category": "AI/ML"
+        },
+        {
+          "title": "AI计算实习生",
+          "category": "AI/ML"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海",
+        "南京",
+        "成都"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "计算机视觉",
+        "深度学习",
+        "PyTorch",
+        "TensorFlow",
+        "MegEngine",
+        "SLAM",
+        "图像分类",
+        "目标检测",
+        "实例分割",
+        "语义分割",
+        "ReID",
+        "Metric Learning",
+        "few-shot learning",
+        "自监督学习",
+        "半监督学习",
+        "模型量化",
+        "模型压缩",
+        "知识蒸馏"
+      ],
+      "experienceReq": "实习时长3个月及以上",
+      "contact": "https://jinshuju.net/f/RGN8kO?x_field_1=kol-%E5%88%98%E4%BF%A1%E7%AD%91"
+    }
+  ],
+  "skipped": [
+    {
+      "commentId": 955741272,
+      "author": "ruanyf",
+      "reason": "[other] 这是一条版主/管理员的公告性评论，不是招聘帖或求职帖。内容是关闭当前讨论并引导用户前往新的讨论帖，不包含任何招聘或求职信息。"
+    }
+  ],
+  "errors": []
+}

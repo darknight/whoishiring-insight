@@ -1,0 +1,152 @@
+{
+  "issueNumber": 8882,
+  "yearMonth": "2026-02",
+  "postings": [],
+  "skipped": [],
+  "errors": [
+    {
+      "commentId": 3834031633,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZa7udofm6aaMkB6V\"}"
+    },
+    {
+      "commentId": 3830534127,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZbMkKeYTbYMkieC9\"}"
+    },
+    {
+      "commentId": 3838165719,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZb7kKaexmYm9H6Xh\"}"
+    },
+    {
+      "commentId": 3833055618,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZbrv4qnQmJVN9q3M\"}"
+    },
+    {
+      "commentId": 3830130799,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZbN4iMub7EX4K9ds\"}"
+    },
+    {
+      "commentId": 3867177476,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Cab7tbLK8L2CRHaixa\"}"
+    },
+    {
+      "commentId": 3857631892,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Cab7eC97UqovHHUfr9\"}"
+    },
+    {
+      "commentId": 3845606783,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Cab9d6AtVde8F532pK\"}"
+    },
+    {
+      "commentId": 3882245393,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Cab9sgMHGWrMG2hnnG\"}"
+    },
+    {
+      "commentId": 3845606783,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3857631892,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3867177476,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3882245393,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3830130799,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3830534127,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3833055618,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3834031633,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3838165719,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3845606783,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3857631892,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3867177476,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3882245393,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3830130799,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3830534127,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3833055618,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3834031633,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3838165719,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3830130799,
+      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+    },
+    {
+      "commentId": 3830534127,
+      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+    },
+    {
+      "commentId": 3833055618,
+      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+    },
+    {
+      "commentId": 3834031633,
+      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+    },
+    {
+      "commentId": 3838165719,
+      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+    },
+    {
+      "commentId": 3845606783,
+      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+    },
+    {
+      "commentId": 3857631892,
+      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+    },
+    {
+      "commentId": 3867177476,
+      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+    },
+    {
+      "commentId": 3882245393,
+      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "issueNumber": 2771,
+  "yearMonth": "2022-12",
+  "postings": [
+    {
+      "id": "2771-1333078257",
+      "issueNumber": 2771,
+      "commentId": 1333078257,
+      "yearMonth": "2022-12",
+      "author": "NoCode-Tech",
+      "rawContent": "# 无码科技（杭州）有限公司 @杭州滨江\r\n无码科技团队于 2016 年在杭州成立，是一家技术驱动的互联网医疗科技公司。\r\n\r\n我们致力于通过数据及算法解决医疗领域信息不对称的问题。现已陆续出品多款医疗相关领域的产品。\r\n\r\n公司官网：www.nocode.com\r\n\r\n简历投递：recruit@nocode.com，如果有任何对岗位的问题，也欢迎来邮咨询。\r\n\r\n微信/电话：13615814021\r\n\r\n# 团队福利\r\n* 考勤及节假日：弹性办公、不打卡；双休、法定节假日、带薪休假。\r\n* 社险配置：五险一金，全额缴纳。\r\n* 健康福利：年度体检 及 洁牙。\r\n* 团建福利：定期聚餐打球小团建、每年集体旅游；不虚头巴脑、不喊口号，团建旅游只走自由行。近几年分别去了日本京都、泰国清迈及云南西双版纳。\r\n* 其他：节日福利 / 生日福利 / 全天候免费零食及饮料 / 人体工学办公椅 / Mac 电脑等。\r\n\r\n# 前端开发工程师\r\n工作职责:\r\n1. 负责公司产品 PC 端、移动端、小程序的前端开发。\r\n2. 负责产品易用性改进和产品性能优化。\r\n3. 参与公司前端业务的工程化、流程化并持续推进。\r\n\r\n任职要求：\r\n1. 2 年以上前端经验，有大型互联网公司前端工作经验者优先。\r\n2. 具有良好的编码风格，有较强的独立工作能力和团队合作精神。\r\n3. 熟悉 React、CommonJS，并深入理解其设计原理，了解组件化和模块化的开发方式，具备较好的抽象能力。\r\n4. 熟悉 webpack/gulp/Grunt 等前端构建工具。\r\n5. 熟悉 ES6/ES7 语法，有 TypeScript 使用经验者优先。\r\n6. 熟练使用 Git 等源代码管理工具。\r\n7. 较强的逻辑思维能力，自驱力强，主动性强。\r\n\r\n加分项：\r\n * 熟悉 Node.js，了解 Express/Koa/Egg.js 等框架，有一定的后端服务端开发经验者优先。\r\n * 有微信小程序开发经验者优先。\r\n * 有开源社区贡献代码经验者优先。",
+      "company": "无码科技（杭州）有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React",
+        "CommonJS",
+        "ES6",
+        "ES7",
+        "TypeScript",
+        "webpack",
+        "gulp",
+        "Grunt",
+        "Git",
+        "Node.js",
+        "Express",
+        "Koa",
+        "Egg.js",
+        "微信小程序"
+      ],
+      "experienceReq": "2年以上前端经验，有大型互联网公司前端工作经验者优先",
+      "contact": "recruit@nocode.com, 13615814021"
+    },
+    {
+      "id": "2771-1334730557",
+      "issueNumber": 2771,
+      "commentId": 1334730557,
+      "yearMonth": "2022-12",
+      "author": "fty1990",
+      "rawContent": "# 字节跳动-抖音电商—商家赋能-前端（杭州/上海）\r\n```diff\r\n- 目前业务高速发展，欢迎各类人才加入！！！\r\n```\r\n**IM团队**（**_Base地：上海/杭州_**）：\r\n- 提供电商场景下商家与用户的沟通桥梁，帮助商家又快又好解决用户问题。\r\n- 建设电商体系内的标准通信能力，沉淀通信平台化能力，支持电商多场景聊天。\r\n- C端用户电商咨询聊天。\r\n- 商家一站式工作台（类比旺旺/千牛卖家客户端）。\r\n\r\n涉及前端技术能力：\r\n- 移动端跨端技术\r\n- 桌面端技术（Electron/Rust/C++/Native）\r\n- 实时通信，关注稳定性与健壮性\r\n- 高在线时长，复杂web应用的性能优化\r\n- 平台化通用IM能力建设\r\n\r\n**开放生态团队**（_**Base地：杭州**_）\r\n- 电商云，为解决数据安全问题提供云服务能力。\r\n- 为内部/外部开发者提供开发者工具，包括配置化接口开放平台。\r\n- 服务市场，帮助商家高效经营\r\n- 服务商工作台，为电商服务商提供一站式工作台\r\n- 商家应用，前端能力开放标准方案\r\n\r\n涉及前端技术能力：中后台系统提效，小程序，桌面端应用。\r\n\r\n**互动技术**（_**Base地：杭州**_）\r\n- 3D渲染\r\n- 虚拟主播\r\n- 数据大屏\r\n- 互动小游戏\r\n\r\n涉及前端技术能力： webgl，3D，交互系统，物理引擎。\r\n\r\n扫码内推，投递时请备注具体有意向的方向：\r\n杭州：https://job.toutiao.com/s/6WhnAuV\r\n![image](https://user-images.githubusercontent.com/18021913/167235151-6bdecfdc-6d29-4bfd-b240-3d81b3cc1020.png)\r\n\r\n\r\n上海：https://job.toutiao.com/s/6WkLXnp\r\n![image](https://user-images.githubusercontent.com/18021913/167235159-119d9de9-683f-4078-8ead-837e9a383609.png)\r\n\r\n\r\n```diff\r\n- 其他感兴趣的岗位也可与我VX: oohaha507 进行联系\r\n```",
+      "company": "字节跳动",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端工程师-IM团队",
+          "category": "前端"
+        },
+        {
+          "title": "前端工程师-开放生态团队",
+          "category": "前端"
+        },
+        {
+          "title": "前端工程师-互动技术",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React",
+        "Vue",
+        "Electron",
+        "Rust",
+        "C++",
+        "Native",
+        "WebGL",
+        "3D",
+        "小程序",
+        "Web",
+        "Node.js"
+      ],
+      "contact": "oohaha507, https://job.toutiao.com/s/6WhnAuV, https://job.toutiao.com/s/6WkLXnp"
+    },
+    {
+      "id": "2771-1331767750",
+      "issueNumber": 2771,
+      "commentId": 1331767750,
+      "yearMonth": "2022-12",
+      "author": "ruanyf",
+      "rawContent": "以下是上个月的招聘信息汇总，继续有效。详细信息请访问 https://github.com/ruanyf/weekly/issues/2715 。\r\n\r\n<table class=\"waffle\" cellspacing=\"0\" cellpadding=\"0\"><thead><tr><th class=\"row-header freezebar-origin-ltr header-shim row-header-shim\"></th><th id=\"463530381C0\" style=\"width:258px;\" class=\"header-shim\"></th><th id=\"463530381C1\" style=\"width:203px;\" class=\"header-shim\"></th><th id=\"463530381C2\" style=\"width:269px;\" class=\"header-shim\"></th></tr></thead><tbody><tr style=\"height: 20px\"><th id=\"463530381R0\" style=\"height: 20px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 20px\">1</div></th><td class=\"s0\" dir=\"ltr\">公司</td><td class=\"s0\" dir=\"ltr\">地点</td><td class=\"s1\" dir=\"ltr\">岗位</td></tr><tr style=\"height: 26px\"><th id=\"463530381R1\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">2</div></th><td class=\"s2\" dir=\"ltr\">Apifox</td><td class=\"s2\" dir=\"ltr\">广州</td><td class=\"s2\" dir=\"ltr\">前端工程师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R2\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">3</div></th><td class=\"s3\" dir=\"ltr\">无码科技</td><td class=\"s3\" dir=\"ltr\">杭州滨江</td><td class=\"s3\" dir=\"ltr\">前端工程师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R3\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">4</div></th><td class=\"s2\" dir=\"ltr\">逸思长天</td><td class=\"s2\" dir=\"ltr\">南京/远程</td><td class=\"s2\" dir=\"ltr\">数据库/机器学习工程师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R4\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">5</div></th><td class=\"s3\" dir=\"ltr\">秘猿科技</td><td class=\"s3\" dir=\"ltr\">杭州/远程</td><td class=\"s3\" dir=\"ltr\">全栈/区块链工程师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R5\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">6</div></th><td class=\"s2\" dir=\"ltr\">品览数据</td><td class=\"s2\" dir=\"ltr\">上海</td><td class=\"s2\" dir=\"ltr\">算法/后端工程师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R6\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">7</div></th><td class=\"s3\" dir=\"ltr\">广域铭岛</td><td class=\"s3\" dir=\"ltr\">重庆</td><td class=\"s3\" dir=\"ltr\">前端架构师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R7\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">8</div></th><td class=\"s2\" dir=\"ltr\">海光信息技术</td><td class=\"s2\" dir=\"ltr\">北京/上海/苏州/成都/天津/无锡</td><td class=\"s2\" dir=\"ltr\">CPU / IC 工程师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R8\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">9</div></th><td class=\"s3\" dir=\"ltr\">字节 抖音电商</td><td class=\"s3\" dir=\"ltr\">杭州/上海</td><td class=\"s3\" dir=\"ltr\">前端工程师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R9\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">10</div></th><td class=\"s2\" dir=\"ltr\">阿里云智能</td><td class=\"s2\" dir=\"ltr\">杭州/北京/上海</td><td class=\"s2\" dir=\"ltr\">Go 工程师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R10\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">11</div></th><td class=\"s3\" dir=\"ltr\">MiniMax 名之梦</td><td class=\"s3\" dir=\"ltr\">北京/上海 </td><td class=\"s3\" dir=\"ltr\">大量岗位</td></tr><tr style=\"height: 26px\"><th id=\"463530381R11\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">12</div></th><td class=\"s2\" dir=\"ltr\">安恒信息</td><td class=\"s2\" dir=\"ltr\">杭州滨江</td><td class=\"s2\" dir=\"ltr\">前端工程师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R12\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">13</div></th><td class=\"s3\" dir=\"ltr\">保诚科技</td><td class=\"s3\" dir=\"ltr\">深圳</td><td class=\"s3\" dir=\"ltr\">前端/后端/测试工程师/架构师/设计师</td></tr><tr style=\"height: 26px\"><th id=\"463530381R13\" style=\"height: 26px;\" class=\"row-headers-background row-header-shim\"><div class=\"row-header-wrapper\" style=\"line-height: 26px\">14</div></th><td class=\"s2\" dir=\"ltr\">字节跳动 客服平台</td><td class=\"s2\" dir=\"ltr\">--</td><td class=\"s2\" dir=\"ltr\">前端工程师</td></tr></tbody></table>",
+      "company": "多家公司招聘汇总",
+      "positions": [
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "后端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "全栈工程师",
+          "category": "全栈"
+        },
+        {
+          "title": "数据库工程师",
+          "category": "后端"
+        },
+        {
+          "title": "机器学习工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "前端架构师",
+          "category": "前端"
+        },
+        {
+          "title": "CPU工程师",
+          "category": "其他"
+        },
+        {
+          "title": "IC工程师",
+          "category": "其他"
+        },
+        {
+          "title": "Go工程师",
+          "category": "后端"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "架构师",
+          "category": "其他"
+        },
+        {
+          "title": "设计师",
+          "category": "设计"
+        },
+        {
+          "title": "区块链工程师",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "广州",
+        "杭州",
+        "南京",
+        "上海",
+        "重庆",
+        "北京",
+        "苏州",
+        "成都",
+        "天津",
+        "无锡",
+        "深圳"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "Go",
+        "区块链"
+      ],
+      "contact": "https://github.com/ruanyf/weekly/issues/2715"
+    },
+    {
+      "id": "2771-1340777770",
+      "issueNumber": 2771,
+      "commentId": 1340777770,
+      "yearMonth": "2022-12",
+      "author": "Guanngxu",
+      "rawContent": "## 嵌入式开发工程师\r\n\r\n### 工作内容及职责\r\n\r\n1. 独立/合作完成 Linux 软件开发、移植工作（应用方向）；\r\n2. 独立/合作完成嵌入式驱动开发、移植工作（驱动方向）；\r\n3. 完成项目相关设计、文档及联调等工作；\r\n\r\n### 任职要求\r\n\r\n1. 熟练掌握 POSIX C 编程相关知识；\r\n2. 熟练掌握 C 语言编程相关知识；\r\n3. 熟练掌握常用操作系统，如 Linux、RTOS(ucos/freerots等)、QNX 其中之一；\r\n4. 熟练掌握嵌入式驱动开发、移植者优先，常用外设如：i2c、spi、USB、nor flash、以太网、PCIe、CANFD，camera 子系统等；\r\n5. 熟练掌握 Makefile、CMake、Autoconfig 等常见编译系统；\r\n6. 能承担模块或架构设计工作，有开源项目、相关电子竞赛经验、专利者优先考虑；\r\n7. 能吃苦耐劳，有责任心，有自我驱动力，具备良好的沟通表达能力及较强的团队合作意识。\r\n8. 具有国产化芯片基础软件研发经验者优先。\r\n9. 了解 DEB/RPM 包制作相关技术者优先；\r\n10. 了解 Yocto/Buildroot 包制作相关技术者优先；\r\n\r\n### 其它信息\r\n\r\n工作地点：成都\r\n薪资待遇：13-25K\r\n电话/微信：18845077090",
+      "company": "未提及",
+      "positions": [
+        {
+          "title": "嵌入式开发工程师",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "成都"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "13-25K",
+      "techStack": [
+        "C",
+        "POSIX",
+        "Linux",
+        "RTOS",
+        "ucos",
+        "freertos",
+        "QNX",
+        "i2c",
+        "spi",
+        "USB",
+        "nor flash",
+        "以太网",
+        "PCIe",
+        "CANFD",
+        "camera",
+        "Makefile",
+        "CMake",
+        "Autoconfig",
+        "DEB",
+        "RPM",
+        "Yocto",
+        "Buildroot"
+      ],
+      "experienceReq": "有开源项目、电子竞赛经验、专利者优先；有国产化芯片基础软件研发经验者优先",
+      "contact": "18845077090"
+    },
+    {
+      "id": "2771-1331814156",
+      "issueNumber": 2771,
+      "commentId": 1331814156,
+      "yearMonth": "2022-12",
+      "author": "Apifox-Hr",
+      "rawContent": "### [Apifox](https://www.apifox.cn/) 介绍\r\n\r\n`Apifox = Postman + Swagger + Mock + JMeter`\r\n\r\nApifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台。官网：[apifox.cn](https://www.apifox.cn/)\r\n\r\n\r\n### 招聘职位\r\n\r\n初中级前端开发工程师 12~25K\r\n\r\n高级前端开发工程师 20~40K\r\n\r\n专家前端开发工程师 35~60K\r\n\r\n### 职位诱惑\r\n\r\n期权 奖金 纯技术精英团队 Geek 团队 没有不懂技术的产品经理 全员“MacBook Pro + 4K显示器” 免费零食下午茶\r\n\r\n### 岗位描述\r\n\r\n参与 Apifox （ [apifox.cn](https://www.apifox.cn) ）项目开发（专注于研发工程效率的 SaaS 平台，API 文档、API 调试、API Mock 、API产品自动化测试一体化协作平台，纯技术型项目，没有不懂技术的产品经理给你提需求）;\r\n\r\n负责核心业务功能的前端研发工作；\r\n\r\n配合产品经理和设计师，通过各种前端技术手段，提高用户体验并满足性能要求；\r\n\r\n负责前端页面开发和维护，并根据需求优化产品性能；\r\n\r\n研究前沿的前端技术并参与维护前端框架和规范;\r\n\r\n技术栈：前端 TypeScript+React+Ant Design+Electron，后端 TypeScript+Node.js;\r\n\r\n### 岗位要求\r\n\r\n本科及以上学历，至少 1 年以上 web 前端开发工作经验；\r\n\r\n精通使用各种 web 前端技术，包括 HTML5/CSS/Javascript/TypeScript 等；\r\n\r\n熟悉一种或多种常用前端框架，如（ React 、Vue 、Angular 等）；\r\n\r\n熟悉使用 webpack 等模块化、工程化工具；\r\n\r\n拥有开发流程中的代码规范意识、配置管理规范意识、文档撰写规范意识；\r\n\r\n### 我们希望你是\r\n\r\n1.  认同我们的理念：追求效率，推行自动化，持续改善的文化\r\n    \r\n2.  有代码洁癖和工程思想：我们期望你是创造价值的工程师，不是售卖劳力的程序员\r\n    \r\n3.  有 Geek 范： 认同 UNIX 设计哲学，熟练使用各种 Geek 工具\r\n    \r\n4.  善于协作沟通：有团队沟通协作、项目进度及时间管理实践基础\r\n    \r\n5.  是一个终身学习者：保持学习，热爱分享，技术视野开阔，对业界新技术敏感\r\n    \r\n\r\n### 关于我们，投简历前希望你了解\r\n\r\n1.  我们是 Geek 团队，只招优秀的技术人（能力强，或者目前能力一般但是爱学习能快速成长）\r\n    \r\n2.  我们注重团队技术氛围，注重技术人员的学习成长，每周都有技术学习分享会、Code Review\r\n    \r\n3.  我们注重代码质量，垃圾代码是不可接受的\r\n    \r\n4.  如果你不是一个爱学习爱折腾的人，请不要投我们，因为即使来了也融入不了团队\r\n    \r\n5.  我们相信优秀的人只愿意与优秀的人共事\r\n    \r\n6.  我们扁平化管理，没有职场的勾心斗角，没有条条框框，我们相信优秀的技术人不需要管理\r\n    \r\n7.  来这里，让优秀的你，只与优秀的人共事\r\n    \r\n### Apifox 产品\r\n<img width=\"1023\" alt=\"image\" src=\"https://user-images.githubusercontent.com/56781994/166113222-361f9036-305f-48eb-9463-b642410b8197.png\">\r\n\r\n### 公司地址\r\n\r\n广州市天河区天河北路233路中信广场（林和西地铁站上盖）\r\n\r\n### 简历邮箱\r\n\r\n简历请发送到：[hr@apifox.com](mailto:hr@apifox.com)【邮件主题：岗位-姓名-GitHub】\r\n\r\n### 办公环境\r\n\r\n[![](https://camo.githubusercontent.com/626c19474271d9c621d8feef83bd61878d6ea76ef5e51c40bbe0c40e713330c2/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d312e6a7067)](https://camo.githubusercontent.com/626c19474271d9c621d8feef83bd61878d6ea76ef5e51c40bbe0c40e713330c2/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d312e6a7067)  \r\n[![](https://camo.githubusercontent.com/52b1f03ca71e99a05bbd2743854a156b8076571058ed9b5ea76e4e9c9a42b913/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d322e6a7067)](https://camo.githubusercontent.com/52b1f03ca71e99a05bbd2743854a156b8076571058ed9b5ea76e4e9c9a42b913/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d322e6a7067)  \r\n[![](https://camo.githubusercontent.com/2179e7377c1a675d7f3c99a0b8e567fc33855e255f7a70fd9524e2f2140b8577/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d332e6a7067)](https://camo.githubusercontent.com/2179e7377c1a675d7f3c99a0b8e567fc33855e255f7a70fd9524e2f2140b8577/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d332e6a7067)  \r\n[![](https://camo.githubusercontent.com/2b8dbda12996ad2e596892ca8ecfb898c7625b5dd45ba6678a3b5359de8ad0d4/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d342e6a7067)](https://camo.githubusercontent.com/2b8dbda12996ad2e596892ca8ecfb898c7625b5dd45ba6678a3b5359de8ad0d4/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d342e6a7067)\r\n",
+      "company": "Apifox",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "初中级前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "高级前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "专家前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "广州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "初中级12~25K，高级20~40K，专家35~60K",
+      "techStack": [
+        "TypeScript",
+        "React",
+        "Ant Design",
+        "Electron",
+        "HTML5",
+        "CSS",
+        "Javascript",
+        "Vue",
+        "Angular",
+        "webpack"
+      ],
+      "experienceReq": "至少1年以上web前端开发工作经验",
+      "educationReq": "本科及以上学历",
+      "contact": "hr@apifox.com"
+    },
+    {
+      "id": "2771-1335073674",
+      "issueNumber": 2771,
+      "commentId": 1335073674,
+      "yearMonth": "2022-12",
+      "author": "ThatMistakeIsNotYou",
+      "rawContent": "**海光信息技术股份有限公司成立于2014年，主要从事高端处理器、加速器等计算机芯片产品和系统的研究、开发公司多款CPU、通用GPU已实现多行业多领域的商业化批量应用。我们矢志成为中国最重要的计算机芯片设计企业，为中国信息产业的强盛提供核心计算引擎。作为国产先进微处理器产业的推动者，海光公司以务实的态度、创新的理念、先进的技术和可靠的产品，致力于促进我国信息产业核心竞争力的提升。**\r\n\r\n### 办公地点\r\n北京，上海，苏州，成都（部分岗位还包括天津，无锡）\r\n\r\n### 岗位描述\r\n\r\n- CPU架构师（模型仿真开发）\r\n1. 参与开发CPU性能仿真模型的基础设施和上层模型调试；\r\n2. 参与CPU微体系结构模型开发、调试；\r\n3. 性能仿真模型在多核系统下的功能、性能校验；\r\n4. 对不同模型参数下CPU体系结构的性能研究及相关数据校验、分析和展示；\r\n5. 开发维护CPU性能仿真模型的工作流程；\r\n\r\n- CPU架构师（性能分析）\r\n\r\n1. 程序运行数据采集与分析；\r\n2. CPU微架构的性能分析及优化；\r\n3. 用户程序的性能分析及优化；\r\n4. CPU微架构建模与编程；\r\n5. 编写CPU性能分析工具；\r\n\r\n- IC设计工程师\r\n\r\n1. 研发高性能处理器核；\r\n2. 制定处理器模块微结构设计规范；\r\n3. 浮点、定点、SIMD计算数据通路设计；\r\n4. 开发处理器模块RTL；\r\n5. 参与处理器验证；\r\n6. 与物理设计团队协作完成高主频时序收敛与功耗优化；\r\n7. 参与微结构性能分析并改进微结构；\r\n\r\n- IC验证工程师\r\n\r\n1. 开发处理器核、多核以及模块级验证环境；\r\n2. 制定验证计划；\r\n3. 开发/运行/调试测试用例以及功能覆盖点；\r\n4. 使用多种验证工具、平台，例如形式化验证工具，Emulator；\r\n5. 开发/维护仿真测试平台基础设施；\r\n\r\n- 全系统模拟工程师\r\n\r\n1. 参与CPU全系统模拟仿真软件开发；\r\n2. 负责Trace生成以及相关分析工具开发；\r\n3. 协助完成系统性能评估和分析；\r\n\r\n- AI/HPC 算法工程师（数学库研发）\r\n\r\n1. 设计，实现，维护数学库代码，如BLAS, MIOpen, DNN等及相关验证程序；\r\n2. 定义并实现新一代芯片的数学库算法代码及性能调优；\r\n3. 研究前沿的AI/HPC算法，实现并进行性能分析，提供下一代芯片改进方案;\r\n4. 支持客户需求，提供有竞争力的AI（训练和推理）/HPC应用方案;\r\n### 任职要求\r\n\r\n- CPU架构师（模型仿真开发）\r\n\r\n1. 良好的C/C++编程和调试技巧及扎实的软件工程实践；\r\n2. 熟练运用脚本编程，有Python和X86汇编编程经验更佳；\r\n3. 了解软件测试基准程序和工作负载程序分析；\r\n4. 了解性能模型开发流程，掌握基于节拍和序列模型的相关知识；\r\n5. 良好的中英文沟通技巧；\r\n6. 体系结构及相关专业的本科/研究生学历更佳；\r\n\r\n- CPU架构师（性能分析）\r\n\r\n1. 计算机科学、计算机工程或电子工程等相关专业学位，硕士以上学历优先考虑；\r\n2. 拥有计算机体系结构知识，有实际硬件设计经验者优先；\r\n3. 良好的团队合作精神，工作态度积极；\r\n4. 拥有以下技能者优先考虑：\r\na. 熟悉C/C++编程，能够使用Python/Perl等脚本语言；\r\nb. 具备编译器知识或具有x86汇编编程经验者优先；\r\nc. 熟悉计算机操作系统原理；\r\nd. 有1年以上的相关工作经验更佳；\r\n\r\n- IC设计工程师\r\n\r\n1. 熟悉CPU微结构，至少熟悉以下超标量处理器技术领域之一：\r\na. 寄存器重命名；\r\nb. 指令分派、调度；\r\nc. 同时多线程；\r\n2. 熟悉计算数据通路；\r\n3. 熟悉数字集成电路原理；\r\n4. 良好的团队合作精神，工作态度积极、踏实；\r\n\r\n- IC验证工程师\r\n\r\n1. 计算机科学、计算机工程或电子工程等相关专业学位；\r\n2. 有以下至少一项经验\r\na. 计算机体系结构知识\r\nb. 验证环境开发，如UVM/OVM\r\nc. 编写测试用例，开发检查器，覆盖率分析，错误调试，错误原因分析，指令集模拟器，汇编语言编程，随机指令序列生成器，C语言编程，系统底层软件；\r\n3. 熟悉以下至少一种编程语言：C/C++, Assembly (ARM, X86), Perl, Python, Ruby；\r\n4. 良好的团队合作精神，工作态度积极；\r\n\r\n- 全系统模拟工程师\r\n\r\n1. 计算机及电子类相关专业学士或者硕士；\r\n2. 3~5年及以上软件开发从业经验；\r\n3. 熟悉汇编、C、C++、Python、， 具备较强的实际编程能力；\r\n4. 熟悉常用调试手段，具备较强的定位和解决问题能力；\r\n5. 有良好的沟通能力及团队合作意识；\r\n6. 拥有以下一项或多项技能者优先：\r\na. 熟悉计算机体系结构，x86架构优先；\r\nb. 熟悉Qemu，具备相关项目经验；\r\nc. 熟悉Linux内核，具备相关项目经验；\r\nd. 熟悉系统性能评估分析的常用方法和工具；\r\n\r\n- AI/HPC 算法工程师（数学库研发）\r\n\r\n1. 计算机，电子工程，通信或相关专业；\r\n2. 有较强的解决问题能力，良好的沟通能力，喜欢研究新的技术；\r\n3. 熟悉Linux开发环境，Python, C++语言；\r\n4. 具备以下任何一个条件优先：\r\na. 熟悉OpenCL/CUDA/HSA编程模型;\r\nb. 熟悉GPU或AI芯片的驱动开发;\r\nc. 熟悉常用数学库，如BLAS，FFT，MPI，DNN，MiOpen等;\r\nd. 熟悉主流AI平台框架，如TensorFlow, PyTorch等;\r\n### 其他\r\n因为篇幅有限，目前仅详细列出CPU部门招聘信息，公司招聘还包括：\r\n\r\n- SOC\r\n\r\n架构/设计/验证工程师\r\n\r\n- DCU(deep compute unit)\r\n\r\n架构/设计/验证工程师\r\n\r\n- 物理设计类\r\n\r\nBlock level PD engineer\r\nFull chip physical design engineer\r\n\r\n- 电路设计类\r\n\r\n定制电路工程师\r\n模拟电路/高速SerDes设计工程师\r\n\r\n- 工艺设计类\r\n\r\nPDK工程师\r\n良率工程师\r\nESD工程师\r\n\r\n- 产品开发类\r\n\r\n产品开发工程师\r\n产品开发工程师（硬件测试）\r\n\r\n- 软件开发类\r\n\r\n底层固件/驱动/内核开发工程师\r\nCPU安全软件工程师\r\nCAD技术支持（AE）/ 程序开发工程师（PE）\r\n信息系统工程师（存储设备运维）\r\n解决方案工程师（软件开发工程师）\r\n\r\n- 市场及技术支持类\r\n\r\n技术支持工程师（BIOS工程师）\r\n市场经理 / 产品经理\r\n### 联系方式\r\n简历投递 E-mail：[linzhixiang@hygon.cn](mailto:linzhixiang@hygon.cn)（标题请注明简历投递，正文中注明岗位-工作地点-姓名）\r\n\r\n同时也欢迎通过邮件咨询其他相关事项",
+      "company": "海光信息技术股份有限公司",
+      "companyType": "国企",
+      "positions": [
+        {
+          "title": "CPU架构师（模型仿真开发）",
+          "category": "后端"
+        },
+        {
+          "title": "CPU架构师（性能分析）",
+          "category": "后端"
+        },
+        {
+          "title": "IC设计工程师",
+          "category": "其他"
+        },
+        {
+          "title": "IC验证工程师",
+          "category": "测试"
+        },
+        {
+          "title": "全系统模拟工程师",
+          "category": "后端"
+        },
+        {
+          "title": "AI/HPC 算法工程师（数学库研发）",
+          "category": "AI/ML"
+        },
+        {
+          "title": "SOC架构/设计/验证工程师",
+          "category": "其他"
+        },
+        {
+          "title": "DCU架构/设计/验证工程师",
+          "category": "其他"
+        },
+        {
+          "title": "物理设计工程师",
+          "category": "其他"
+        },
+        {
+          "title": "电路设计工程师",
+          "category": "其他"
+        },
+        {
+          "title": "工艺设计工程师",
+          "category": "其他"
+        },
+        {
+          "title": "产品开发工程师",
+          "category": "其他"
+        },
+        {
+          "title": "底层固件/驱动/内核开发工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "CPU安全软件工程师",
+          "category": "安全"
+        },
+        {
+          "title": "CAD技术支持/程序开发工程师",
+          "category": "其他"
+        },
+        {
+          "title": "信息系统工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "解决方案工程师",
+          "category": "其他"
+        },
+        {
+          "title": "技术支持工程师（BIOS工程师）",
+          "category": "其他"
+        },
+        {
+          "title": "市场经理/产品经理",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海",
+        "苏州",
+        "成都",
+        "天津",
+        "无锡"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C",
+        "C++",
+        "Python",
+        "X86汇编",
+        "ARM汇编",
+        "Perl",
+        "Ruby",
+        "Linux",
+        "OpenCL",
+        "CUDA",
+        "HSA",
+        "TensorFlow",
+        "PyTorch",
+        "BLAS",
+        "FFT",
+        "MPI",
+        "MiOpen",
+        "DNN",
+        "Qemu"
+      ],
+      "experienceReq": "全系统模拟工程师需3-5年以上软件开发经验；其他岗位部分要求1年以上相关经验或硕士以上学历优先",
+      "educationReq": "大多岗位要求计算机、电子工程、通信等相关专业本科及以上学历；部分岗位硕士以上优先",
+      "contact": "linzhixiang@hygon.cn"
+    },
+    {
+      "id": "2771-1345991498",
+      "issueNumber": 2771,
+      "commentId": 1345991498,
+      "yearMonth": "2022-12",
+      "author": "HuangJian",
+      "rawContent": "# 【远程｜合肥｜上海】草创期环保科技企业诚邀「物联网系统研发工程师」和「前端小程序研发工程师」\r\n\r\n## 关于我们\r\n- 环保行业，千亿级市场，政策红利期；已验证的行业最优模式；种子轮融资顺利。\r\n- 创始人\r\n  - 毕业于中国科学技术大学、清华大学；\r\n  - 先后任职于外资金融科技企业、头部第三方支付企业、头部电商企业；\r\n  - 投身行业逾三年，力图通过模式升级开拓新渠道，促进环保事业的发展成熟。\r\n- 技术合伙人\r\n  - 毕业于中国科学技术大学；\r\n  - 连续新创技术团队成功经验，领导完成多款产品从 0 到 1 的成功研制与发布；\r\n  - 多年国际化团队远程工作经验，崇尚极客精神，践行开放透明平等文化。\r\n\r\n## 加入我们，您将：\r\n- 亲身以科技创造结合模式创新，共同捍卫我们家园的青山绿水；\r\n- 以设计者与创造者的角色，参与产品创新及业务高速成长的全过程；\r\n- 与精英级的优秀伙伴，一起克服业务和技术的挑战；\r\n- 享受远程办公，更灵活地平衡工作与生活；\r\n- 作为创始员工，获得公司成熟稳定后的期权激励。\r\n\r\n---\r\n\r\n## 开放岗位 1：物联网系统研发工程师 20k~40k/月×12\r\n\r\n我们需要这样的您:\r\n- 具备卓越的独立工作能力和团队协作精神，高效的学习能力和解决问题能力。\r\n- 熟悉消费级物联网的技术生态，\r\n    能独立完成物联网系统的设备选型、方案设计、硬件调试和控制软件开发。\r\n- 精通主流的物联通讯协议 WiFi/BlueTooth/NFC/RS485/……，\r\n    熟练使用 Java/C#/C++ 等语言进行开发集成。\r\n- 具备芯片级集成开发经验 STM32/ESP8266/HX711/ATGM336H/74HC595/……\r\n- 有良好的代码编写习惯和文档编写能力。\r\n\r\n加分项：\r\n- 分布式团队协作经验\r\n- 嵌入式系统开发经验、设备量产经验\r\n- 善用 GitHub、Google、StackOverflow\r\n- Android 应用开发经验\r\n- 追求代码质量，会写单元测试、集成测试\r\n\r\n## 开放岗位 2：前端小程序研发工程师  15k~22k/月×12\r\n\r\n我们需要这样的您:\r\n- 具备卓越的独立工作能力和团队协作精神，高效的学习能力和解决问题能力。\r\n- 熟悉 ES6、HTML5、CSS3，精通至少一种主流开发框架 Vue/React/Angular/……\r\n- 熟悉微信小程序开发规范及技术点，能独立完成小程序端系统构架、开发、运维工作。\r\n- 具备前端工程化经验 Webpack/Prettier/ESLint/Typescript/Jest/Cypress/TailwindCSS/……\r\n- 有良好的代码编写习惯和文档编写能力。\r\n\r\n加分项：\r\n- 分布式团队协作经验\r\n- UX/UI 设计能力\r\n- 善用 GitHub、Google、StackOverflow\r\n- 喜欢 Typescript，会写单元测试、集成测试\r\n- 基于 GraphQL 接口的开发经验\r\n\r\n---\r\n### 联系我们\r\n\r\n如果您对上述职位感兴趣，欢迎投递简历至：\r\n```javascript\r\n// email\r\nwindow.atob('dXN0Yy5oakBnbWFpbC5jb20=')\r\n\r\n// 标题格式：<姓名>-<岗位>-GitHub\r\n```\r\n如果能附上您的得意作品/技术博客/行业思考/……，来信必复！\r\n",
+      "company": "环保科技企业（草创期）",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "物联网系统研发工程师",
+          "category": "其他"
+        },
+        {
+          "title": "前端小程序研发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "远程",
+        "合肥",
+        "上海"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "salaryRange": "物联网工程师 20k~40k/月×12；前端小程序工程师 15k~22k/月×12",
+      "techStack": [
+        "Java",
+        "C#",
+        "C++",
+        "STM32",
+        "ESP8266",
+        "WiFi",
+        "Bluetooth",
+        "NFC",
+        "RS485",
+        "Android",
+        "ES6",
+        "HTML5",
+        "CSS3",
+        "Vue",
+        "React",
+        "Angular",
+        "微信小程序",
+        "Webpack",
+        "Prettier",
+        "ESLint",
+        "Typescript",
+        "Jest",
+        "Cypress",
+        "TailwindCSS",
+        "GraphQL",
+        "GitHub"
+      ],
+      "experienceReq": "物联网工程师需具备芯片级集成开发经验、分布式团队协作经验为加分项；前端工程师需具备前端工程化经验",
+      "contact": "ustc.hj@gmail.com"
+    },
+    {
+      "id": "2771-1346426747",
+      "issueNumber": 2771,
+      "commentId": 1346426747,
+      "yearMonth": "2022-12",
+      "author": "lixiangqi7",
+      "rawContent": "MiniMax｜多类岗｜北京+上海\r\n![背景图3](https://user-images.githubusercontent.com/82263395/207046301-2b18cb64-4083-4871-9bfd-5435ddb2dbde.jpg)\r\n![背景图1](https://user-images.githubusercontent.com/82263395/207046428-a367490e-93b4-4ef7-a018-87ec7c2ba73f.jpg)\r\n\r\n**我们是谁**\r\n致力于成为通用人工智能时代基础设施建设者和内容应用创造者，靠谱的产品和技术规划，充裕资金（全球顶级投资机构），信奉产品和技术驱动的商业模式变革，“不走捷径”得用“智能创造极致体验”。\r\n1、创业从来都不虚，产品技术两手抓：创始团队多次成功创业经验以及顶尖的产品和技术背景\r\n2、硬核实力Plus：核心成员均来自于中美顶级科技/互联网企业和海内外知名院校\r\n3、AI突围战：丰富的计算资源和数据壁垒，前沿技术与产品的结合\r\n\r\n**和我们一起**\r\n1、完成产品创新，新赛道，增长空间大\r\n2、探索前沿技术突破，引领全球\r\n3、文化氛围多元，Efficiency&Happiness最优化\r\n4、优渥的薪酬福利，More and More\r\n5、股票期权激励\r\n\r\n**热招岗位（社招+校招+实习）**\r\n无工作年限要求，欢迎超优秀应届毕业生和希望认真打磨技术的高潜力在校生\r\n\r\n所有实习岗位均提供转正机会，只要你足够优秀\r\n办公地点\r\n北京-中关村 & 上海-古北\r\n开发类\r\n\r\n[服务端研发工程师](https://vrfi1sk8a0.jobs.feishu.cn/s/j4UtbSD)\r\n[前端工程师](https://vrfi1sk8a0.jobs.feishu.cn/referral/position/detail/?token=MTsxNjYyNTMzNjkyMjY5OzcwODY0Nzk1MzAxODYyOTMyNDk7NzA4MTQ3ODU2NDU1ODEyOTQxOQ)\r\n[AI](https://vrfi1sk8a0.jobs.feishu.cn/referral/position/detail/?token=MTsxNjYyNTM0MDEwMzMyOzcwODY0Nzk1MzAxODYyOTMyNDk7NzA4MTUwOTA1MjQ4NTIyNDcxMQ)[基础架构工程师](https://vrfi1sk8a0.jobs.feishu.cn/referral/position/detail/?token=MTsxNjYyNTM0MDEwMzMyOzcwODY0Nzk1MzAxODYyOTMyNDk7NzA4MTUwOTA1MjQ4NTIyNDcxMQ)\r\n[AI](https://vrfi1sk8a0.jobs.feishu.cn/referral/position/detail/?token=MTsxNjYyNTM0MTAyOTkyOzcwODY0Nzk1MzAxODYyOTMyNDk7NzEzNDYxMzgxODQzNjk2MjU3NA)[训练框架工程师](https://vrfi1sk8a0.jobs.feishu.cn/referral/position/detail/?token=MTsxNjYyNTM0MTAyOTkyOzcwODY0Nzk1MzAxODYyOTMyNDk7NzEzNDYxMzgxODQzNjk2MjU3NA)\r\n[AI](https://vrfi1sk8a0.jobs.feishu.cn/s/6F23PkY)[推理优化工程师](https://vrfi1sk8a0.jobs.feishu.cn/s/6F23PkY)\r\n[全栈开发工程师](https://vrfi1sk8a0.jobs.feishu.cn/s/6F2pMpb)\r\n[iOS研发工程师](https://vrfi1sk8a0.jobs.feishu.cn/s/6F2rYUq)\r\n[高级爬虫工程师](https://vrfi1sk8a0.jobs.feishu.cn/referral/m/position/share/?token=MjsxNjY5NzE1NzY3NjU4OzcwODY0Nzk1MzAxODYyOTMyNDk7NzE3MTM2OTgxNTc0MjcyODQ2MQ)\r\n算法类\r\n\r\n[NLP](https://vrfi1sk8a0.jobs.feishu.cn/s/6F2GS5F)[自然语言处理算法工程师](https://vrfi1sk8a0.jobs.feishu.cn/s/6F2GS5F)\r\n[计算机视觉算法工程师](https://vrfi1sk8a0.jobs.feishu.cn/s/6FjefdG)\r\n[语音算法工程师](https://vrfi1sk8a0.jobs.feishu.cn/s/6F2Ev4o)\r\n微信扫码投递：\r\n![image](https://user-images.githubusercontent.com/82263395/207046639-f9fbb7e6-606c-42a0-97d6-f0f97712bfb8.png)\r\nEmail投递 ：[lixiangqi@minimaxi.com](mailto:lixiangqi@minimaxi.com)（标题请注明github简历投递）\r\n内推海报如下：\r\n![内推海报2](https://user-images.githubusercontent.com/82263395/207046786-78da1999-d9f0-46e3-942f-133b4114a771.jpeg)\r\n",
+      "company": "MiniMax",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "服务端研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "基础架构工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "AI训练框架工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "AI推理优化工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "全栈开发工程师",
+          "category": "全栈"
+        },
+        {
+          "title": "iOS研发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "高级爬虫工程师",
+          "category": "后端"
+        },
+        {
+          "title": "NLP自然语言处理算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "计算机视觉算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "语音算法工程师",
+          "category": "AI/ML"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "AI",
+        "NLP",
+        "计算机视觉",
+        "语音算法"
+      ],
+      "experienceReq": "无工作年限要求，欢迎应届毕业生和在校生",
+      "contact": "lixiangqi@minimaxi.com"
+    }
+  ],
+  "skipped": [
+    {
+      "commentId": 1368482035,
+      "author": "ruanyf",
+      "reason": "[other] 这是一条社区管理员的公告贴，宣布当前招聘贴关闭并引导用户发布到新的期数。不属于具体的招聘或求职内容。"
+    }
+  ],
+  "errors": []
+}

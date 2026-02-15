@@ -1,0 +1,186 @@
+{
+  "issueNumber": 6443,
+  "title": "谁在招人？（2025年4月）",
+  "yearMonth": "2025-04",
+  "state": "closed",
+  "body": "这里是免费的程序员招聘服务。\n\n如果你们团队正在招人，欢迎把招聘信息发在这个帖子里面。请简要描述，岗位名称、工作地点、岗位要求、团队简介、联系方式等等。\n\n**注意：同一个团队如果招聘多个岗位，请写在一起，不要分成多个部分张贴。**\n\n读者可以咨询，但请不要发布与招聘无关的内容，禁止对公司或岗位进行评论或抱怨。如果有意应聘，请直接与发帖人联系。\n\n谢绝中介和猎头发帖，违者拉黑。\n\n## 历史帖\n\n程序员的招聘往往长期有效，大家别忘了查看上月的岗位。\n\n- 2025年：[3月](https://github.com/ruanyf/weekly/issues/6189)，[2月](https://github.com/ruanyf/weekly/issues/6012)，[1月](https://github.com/ruanyf/weekly/issues/5830)\n- 2024年：[12月](https://github.com/ruanyf/weekly/issues/5610)，[11月](https://github.com/ruanyf/weekly/issues/5445)，[10月](https://github.com/ruanyf/weekly/issues/5253)，[9月](https://github.com/ruanyf/weekly/issues/5090)， [8月](https://github.com/ruanyf/weekly/issues/4911)，[7月](https://github.com/ruanyf/weekly/issues/4743)，[6月](https://github.com/ruanyf/weekly/issues/4550)，[5月](https://github.com/ruanyf/weekly/issues/4390)，[4月](https://github.com/ruanyf/weekly/issues/4204)，[3月](https://github.com/ruanyf/weekly/issues/4075)，[2月](https://github.com/ruanyf/weekly/issues/4002)，[1月](https://github.com/ruanyf/weekly/issues/3814)\n- 2023年：[12月](https://github.com/ruanyf/weekly/issues/3684)，[11月](https://github.com/ruanyf/weekly/issues/3599)，[10月](https://github.com/ruanyf/weekly/issues/3529)，[9月](https://github.com/ruanyf/weekly/issues/3425)，[8月](https://github.com/ruanyf/weekly/issues/3324)，[7月](https://github.com/ruanyf/weekly/issues/3222)，[6月](https://github.com/ruanyf/weekly/issues/3157)，[5月](https://github.com/ruanyf/weekly/issues/3091)，[4月](https://github.com/ruanyf/weekly/issues/3022)，[3月](https://github.com/ruanyf/weekly/issues/2960)，[1月～2月](https://github.com/ruanyf/weekly/issues/2827)\n- 2022年：[12月](https://github.com/ruanyf/weekly/issues/2771)，[11月](https://github.com/ruanyf/weekly/issues/2715)，[10月](https://github.com/ruanyf/weekly/issues/2666)，[9月](https://github.com/ruanyf/weekly/issues/2599)，[8月](https://github.com/ruanyf/weekly/issues/2542)，[7月](https://github.com/ruanyf/weekly/issues/2483)，[6月](https://github.com/ruanyf/weekly/issues/2426)，[5月](https://github.com/ruanyf/weekly/issues/2356)，[4月](https://github.com/ruanyf/weekly/issues/2309)，[3月](https://github.com/ruanyf/weekly/issues/2234)，[2月](https://github.com/ruanyf/weekly/issues/2188)，[1月](https://github.com/ruanyf/weekly/issues/2139)\n- 2021年：[12月](https://github.com/ruanyf/weekly/issues/2092)，[11月](https://github.com/ruanyf/weekly/issues/2032)，[10月](https://github.com/ruanyf/weekly/issues/1980)，[9月](https://github.com/ruanyf/weekly/issues/1913)，[8月](https://github.com/ruanyf/weekly/issues/1870)，[7月](https://github.com/ruanyf/weekly/issues/1826)，[6月](https://github.com/ruanyf/weekly/issues/1784)，[5月](https://github.com/ruanyf/weekly/issues/1747)，[4月](https://github.com/ruanyf/weekly/issues/1709)，[3月](https://github.com/ruanyf/weekly/issues/1652)，[2月](https://github.com/ruanyf/weekly/issues/1629)，[1月](https://github.com/ruanyf/weekly/issues/1580)\n- 2020年：[12月](https://github.com/ruanyf/weekly/issues/1520)，[11月](https://github.com/ruanyf/weekly/issues/1473)，[9月-10月](https://github.com/ruanyf/weekly/issues/1392)，[7月-8月](https://github.com/ruanyf/weekly/issues/1315)，[5月-6月](https://github.com/ruanyf/weekly/issues/1206)，[4月](https://github.com/ruanyf/weekly/issues/1148)，[3月](https://github.com/ruanyf/weekly/issues/1106)， [1月-2月](https://github.com/ruanyf/weekly/issues/983)\n- 2019年：[12月](https://github.com/ruanyf/weekly/issues/983)，[9月-11月](https://github.com/ruanyf/weekly/issues/798)，[8月](https://github.com/ruanyf/weekly/issues/692)",
+  "comments": [
+    {
+      "id": 2767892575,
+      "author": "VerdonLi",
+      "body": "【社招内推】【temu 搜广推岗位】【上海长宁区】\n岗位职责\n1、负责跨境电商广告搜索、推荐引擎后台服务架构设计，打造高性能、高可用、可扩展的架构，支撑广告业务快速发展；\n\n2、负责跨境电商广告业务系统，包括：商家平台/投放中台/运营平台/计费平台/实时大数据平台的开发；\n\n3、负责跨境电商广告系统全链路研发和优化， 包括BC端后端服务架构，以及广告索引库、广告检索服务、服务框架、资源管控等模块设计和开发，提高系统性能和扩展性；\n\n4、深刻理解广告业务，抽象和设计合理的技术架构，保证架构的合理性和前瞻性，以适应不断变化的需求；\n\n5、持续优化系统设计，提升系统的性能、可用性、稳定性与可扩展性；\n\n任职要求\n1、具有扎实的计算机基础，熟悉操作系统和网络，精通C/C++或者JAVA任一语言， 对数据结构&算法设计有较深刻的理解；\n\n2、有良好的沟通和逻辑思维能力，有足够的技术和业务好奇心，善于学习，善于分析和解决实际问题；\n\n3、责任心强，思路清晰，技术视野开阔，对业界新技术敏感，喜欢钻研，具有良好的学习能力并注重团队合作；\n\n【岗位】\n\n搜广推算法工程师\n引擎开发工程师\n大数据研发工程师\n跨境数据分析师\n大模型算法工程师\n机器学习架构工程师\n排序模型算法工程师\n【联系方式】\n[lijun68369@gmail.com](mailto:lijun68369@gmail.com)",
+      "createdAt": "2025-04-01T02:29:09Z",
+      "updatedAt": "2025-04-01T02:29:09Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2771219221,
+      "author": "Cryptape1005",
+      "body": "### [远程]Cryptape 秘猿区块链底层工程师招聘（C/C++/Rust）\n\n### 关于[Cryptape](https://cryptape.com/)\n\nCryptape 是一家致力于推动区块链技术发展的领先企业，专注于 Nervos CKB（Common Knowledge Base）及其生态系统的核心技术研发。我们坚信去中心化的力量，通过持续的技术创新为全球区块链行业注入活力。自2016年成立以来，我们在区块链领域积累了深厚的技术实力和丰富的实践经验，参与并主导了包括 Ethereum、Nervos CKB、CITA 等多个知名开源项目。我们秉持“Talk is cheap, show me the code”的工程师文化，倡导开放与开源，所有核心项目代码均在 GitHub 上公开，与全球开发者共同构建信任的数字未来。\n\n### 关于职位\n\n我们正在为 CKB-VM 团队招聘一位**开发工程师**，这是一个全职远程职位。您将有机会参与 Nervos CKB 虚拟机（CKB-VM）的开发工作，专注于智能合约编译器的开发与优化，推动 CKB 生态系统的性能提升与技术突破。CKB-VM 是一个兼容 RISC-V 指令集的通用虚拟机，支持多种编程语言的脚本开发，是 Nervos CKB Layer 1 的关键组件。详情可查看 https://github.com/nervosnetwork/ckb-vm.\n\n## 工作职责\n\n- 参与开发智能合约编译器，提升 CKB-VM 的性能、兼容性和安全性。\n- 优化现有编译器工具链，解决 C/C++ 到 CKB-VM 指令集的转换难题。\n- 使用 Rust 语言实现高性能、低代码的编译器模块。\n- 参与团队技术讨论与代码审查，贡献技术文档及知识分享。\n- 与生态开发者合作，确保编译器满足多样化的智能合约开发需求。\n\n### 任职要求\n\n- **必备条件**：\n    - 计算机科学、软件工程或相关领域的扎实基础（本科及以上学历）。\n    - 精通 C/C++，具备丰富的系统编程经验。\n    - 愿意学习并使用 Rust 进行开发（有 Rust 经验者优先）。\n    - 对区块链技术及虚拟机逻辑（CKB-VM 或类似）有浓厚兴趣并愿意深入研究。\n    - 良好的逻辑思维和问题解决能力，能够独立承担项目任务。\n- **加分项**：\n    - 有编译器开发、虚拟机优化或低级系统编程经验。\n    - 熟悉 RISC-V 指令集或相关汇编语言。\n    - 参与过开源项目，或有区块链相关开发经验。\n    - 了解密码学、智能合约或 Nervos CKB 生态系统。\n    - 具备良好的英文沟通能力（文档和代码均为英文）。\n\n### 我们提供\n\n- **前沿技术环境**：参与 Nervos CKB 底层 Layer 1 区块链项目，与团队优秀的工程师和研究员一起合作。\n- **灵活远程工作**：全球分布式团队，居家办公，享受工作与生活的平衡。\n- **技术成长支持**：区块链技术培训、一对一导师，以及持续的职业发展机会。\n- **开放文化**：加入一个极客氛围浓厚、注重技术分享的团队，所有成果开源，与全球开发者共创。\n\n### 应聘方式\n\n如果您对区块链技术充满热情，希望参与 Nervos CKB 生态开源贡献，请将简历发送至join@cryptape.com.\n\n### 更多职位详见[官网](https://cryptape.com/#join-us)，欢迎联系😊\n\n![Image](https://github.com/user-attachments/assets/f87c9281-8b2f-4e38-8e3c-2c658f6a3299)\n\n\n\n",
+      "createdAt": "2025-04-02T02:57:04Z",
+      "updatedAt": "2025-04-02T02:57:04Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2774321588,
+      "author": "thesunnysky",
+      "body": "### 拼多多容器平台招聘: (工作地点: 上海, 长期有效)\n岗位职责:\n\n* 负责拼多多容器平台的工程和产品化建设，构建业内一流的超大规模资源管理和调度系统，解决业务和集群规模增长带来的可用性、稳定性以及性能问题；\n* 服务于公司内部多种业务，提供针对不同计算场景的通用框架和解决方案；\n* 以数据驱动的方式，通过技术手段提升资源调度效率、提高集群和节点的资源利用率；\n* 负责容器平台相关新技术的架构演进，包括但不限于在离线混布、容量托管、安全容器、Serverless基础设施、边缘计算、新硬件等；\n### 任职要求:\n* 计算机、数学、电子工程、通信、自动化等相关专业，基础知识扎实；\n* 自我驱动，对技术充满热情，有云计算、虚拟化、Kubernetes、Docker 等相关研发经验者优先；\n* 优秀的表达能力、沟通能力和团队协作能力，良好的服务意识；对技术和业务有前瞻性的思考，能够参与容器平台领域方向性的决策并推进落地\n* 熟练掌握C/C++/Golang/Java中的至少一种语言；\n内部可细分为: 各种workload控制器的开发维护, 调度, 网络,存储, 内核, 资源运营等各个不同的方向;\n我们有规模庞大的k8s集群, 有多种多样的业务场景, 同时能提供行业内领先的薪酬待遇, 欢迎有意向的大佬垂询, 谢谢\n\n### 其他方向\n- 分布式图数据库[研发工程师/技术专家]\n- 分布式通用KV/缓存系统[研发工程师/技术专家]\n- 表格存储(HBase)平台[研发工程师/技术专家]\n- ElasticSearch服务平台[研发工程师/技术专家]\n- 存储管控平台[研发工程师/技术专家]\n- 大数据应用开发平台[研发工程师/技术专家]\n- 分布式文件系统[[研发工程师/技术专家]\n- 分析型数据库[研发工程师/技术专家]\n- 数据服务查询引擎[研发工程师/专家]\n- 消息队列（Kafka） [研发工程师/技术专家]\n- 数据传输平台(DRC/DTS/CDC) [研发工程师/技术专家]\n- DAL数据库访问中间件 [研发工程师/技术专家]\n- 图机器学习算法平台[研发工程师/技术专家]\n- 接入网关开发工程师 [研发工程师/技术专家]\n- API网关开发工程师\n[研发工程师/技术专家]\n- 基础网络开发工程师 [研发工程师/技术专家]\n- 网络产品管控开发工程师 [研发工程师/技术专家]\n- 音视频实时传输网开发工程师 [研发工程师/技术专家]\n- 对象存储研发工程师/专家（图片处理/CDN/P2P/Golang）[研发工程师/技术专家]\n- Serverless平台研发工程师/专家（Golang）[研发工程师/技术专家]\n- Serverless任务编排调度工程师/专家（Java）[研发工程师/技术专家]\n- 基础架构开发（配置中心方向）[研发工程师/技术专家]\n- 资深开发工程师（基础架构RPC方向）[研发工程师/技术专家]\n- 高级开发工程师-基础架构微服务方向 [研发工程师/技术专家]\n- 架构师-基础架构微服务方向 [研发工程师/技术专家]\n- 基础架构开发（Monitor方向）[研发工程师/技术专家]\n- 监控告警研发工程师/技术专家 [研发工程师/技术专家]\n- 高级/资深后端开发工程师（日志方向) [研发工程师/技术专家]\n- 分布式数据库开发工程师/技术专家 [研发工程师/技术专家]\n- 高级/资深后端开发工程师（Golang，弹性方向） [研发工程师/技术专家]\n- 移动平台开发工程师 [研发工程师/技术专家]\n- 研发效能工程师/专家 [研发工程师/技术专家]\n- Golang工程师/专家（Devops、云原生方向）[研发工程师/技术专家]\n- Java工程师/专家（Devops、微服务方向）[研发工程师/技术专家]\n\nEmail: [jianyungsun@gmail.com](mailto:jianyungsun@gmail.com)(如需添加微信可发送邮件后添加)         ",
+      "createdAt": "2025-04-03T03:06:12Z",
+      "updatedAt": "2025-04-03T03:06:12Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2774323693,
+      "author": "thesunnysky",
+      "body": "### 拼多多集团-春招/实习 内推\n\n内推链接：https://careers.pddglobalhr.com/campus/grad?t=d4m8kLDYqq ，内推码：d4m8kLDYqq 。期待你的加入！我们一起，无拼不青春！（通过此链接投递计入内推，内推简历优先筛选~）\n\n我们可以提供业界领先的新姿, 多种多样的岗位, 提供一日三餐, 每日都有水果饮料",
+      "createdAt": "2025-04-03T03:07:12Z",
+      "updatedAt": "2025-04-03T03:07:34Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2774714641,
+      "author": "rainforwind",
+      "body": "# 蚂蚁集团-社招 大模型工程师-推理优化方向\n**官网链接：** [https://talent.antgroup.com/off-campus-position?positionId=25040104105921](https://talent.antgroup.com/off-campus-position?positionId=25040104105921)\n\n**工作地点：** 上海\n**所属部门：** 蚂蚁国际\n\n**职位描述**\n- 负责大语言模型推理引擎的优化与定制，提升模型服务性能和资源利用率\n- 设计和实现高性能推理服务架构，支持多种部署场景和服务形态\n- 基于 vLLM、SGLang 等框架进行二次开发，实现定制化的推理优化方案\n- 开发和维护模型量化、并行计算等性能优化模块\n- 负责推理服务集群的管理与监控，确保服务质量和稳定性\n- 参与模型训练流程优化，协助提升模型迭代效率\n\n**职位要求**\n- 计算机科学、人工智能或相关专业本科及以上学历\n- 扎实的 Python/C++ 编程能力，熟悉 CUDA 编程优先\n- 深入理解 vLLM、SGLang、TensorRT-LLM 等推理加速框架\n- 熟悉量化、KV Cache 等优化技术，对新型推理加速技术如FlashAttention、PagedAttention 等有研究\n- 熟悉分布式系统设计，了解大规模推理服务架构\n- 熟悉 Docker、Kubernetes 等容器化技术，有集群管理经验\n- 具备良好的性能分析和优化能力，以及问题排查能力\n- 有 LLM 推理系统开发经验或LLM训练和微调经验者优先\n- 有相关开源项目贡献经验者优先\n\n也欢迎同行交流~\n![Image](https://github.com/user-attachments/assets/ae483477-3b44-4cb1-9536-c9bba9887bfc)",
+      "createdAt": "2025-04-03T07:20:05Z",
+      "updatedAt": "2025-04-03T07:20:05Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2785613580,
+      "author": "Meokie",
+      "body": "### 社招内推｜ Cloud Software Group - CITRIX（思杰）南京研发中心\n\n> 美企，965，几乎不加班。\n> 主要是做云计算和虚拟化产品。\n> 公司地址：南京市江宁区九龙湖国际企业总部园C３栋\n\n公司福利：\n- 五险一金齐全\n- 补充商业保险、人身意外险\n- 入职即获15天年假（入司每满1年增加1天，上限20天）\n- 男性陪产假18周\n- 朝9晚6，周末双休\n\n目前在招职位：\n- Senior Cloud Development Engineer: 5-8年相关经验，熟练使用 C#/JAVA/C++。有 Windows 编程经验。\n- Senior Systems Development Engineer: 6+年相关经验，熟悉 Mac/iOS 系统级编程，C++优先。\n\n如果希望内推请把简历和目标职位发送到：[yujie.miao@cloud.com](mailto:yujie.miao@cloud.com)\n发送邮件时请备注来自阮大",
+      "createdAt": "2025-04-08T08:14:50Z",
+      "updatedAt": "2025-04-08T08:14:50Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2786700281,
+      "author": "orangelunatics",
+      "body": "## 【社招】拼多多C端前端招人（海外业务，地点上海，长期有效）\n### C 端前端开发工程师/专家-跨境业务基础电商\n- 岗位职责\n1. 支撑拼多多海外电商平台 C 端客户端内 H5/端外 H5/PC Web 日常需求分析和功能开发，优化用户体验；\n2. 与上下游团队密切配合，分析并给出最优的前端结构解决方案和效果实现；\n3. 参与 Web 端整体的架构设计、性能优化，提升整体研发质量和效率\n- 任职要求\n1. 计算机基础扎实\n2. 至少掌握 react/vue/angular 主流框架中一种，理解框架背后的思想；\n- 加分项\n1. 具有国际化项目开发经验\n2. 具有 SEO 经验\n3. 具有 PWA 经验\n### C 端前端动效平台研发工程师（跨境业务）\n- 岗位职责\n1. 负责跨境业务的前端动效研发工作，包括不限于：\n2. 参与内部自研动效平台动效/渲染模块架构设计/功能开发/性能优化及相关技术研究\n3. 参与各类营销活动的前端开发工作，深入优化前端动效体验；\n- 任职要求\n1. 熟悉 AE 软件的基本使用及相关插件原理（如 Lottie ）\n2. 熟悉 css/canvas/svg 动画，精通 H5 业务动画开发；\n3. 熟悉 OpenGL/WebGL/WebGPU ，有 shader 开发和优化经验\n4. 掌握至少一种主流前端框架（ react 、vue 等），有大型项目研发经验；\n5. 对前端技术有持续热情，具备良好的团队协作精神，个性乐观开朗，善于与人沟通合作。\n- 加分项\n1. 熟悉 threejs/babylonjs 等 3d 项目开发\n2. 熟悉 cocos2d/unity/pixi/phaser 等游戏项目开发\n3. 数学计算能力较好\n### 其他职位\n1. Java后端\n2. 客户端（安卓/iOS/鸿蒙/Windows/Mac）\n3. 算法/数据\n4. 安全\n5. 产品经理/运营\n6. 设计\n7. 法务\n8. ...\n## 校招\n2025届春招内推链接：https://careers.pddglobalhr.com/campus/grad/technical-session?t=S8VIhyzJi2\n内推码：S8VIhyzJi2\n\n## 实习\n2026届实习招聘内推链接：https://careers.pddglobalhr.com/campus/intern?t=3jGOaFnHjX\n内推码：3jGOaFnHjX\n\n## 联系方式\n简历发送至邮件 [suedesneaker@gmail.com](mailto:suedesneaker@gmail.com)\n看见之后就会推 效率极高 有其他问题可以邮件里备注~",
+      "createdAt": "2025-04-08T14:45:30Z",
+      "updatedAt": "2025-04-08T14:47:01Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2789361751,
+      "author": "lufengd3",
+      "body": "# 淘宝交易终端团队前端 & 客户端招聘\n\n## 团队介绍\n我们是阿里巴巴淘宝交易终端团队，负责淘宝交易域（购物车、下单、订单、退款等）核心业务研发与基础能力建设，业务覆盖淘宝 APP/H5/PC 多个场景，方向多样，机会多，成长快。\n\n## 技术挑战\n前端&客户端深度融合，探索前端框架、跨端渲染引擎、监控系统、AI 等前沿技术，高效支撑亿级用户大型项目研发迭代，打造极致用户体验。\n\n## 招聘岗位\n### 前端实习生\n职位要求：\n1、本科及以上学历，计算机、软件工程等相关专业\n2、熟练使用各种 Web 前端技术，包括 HTML/CSS/Javascript 等，了解 HTTP 协议、浏览器渲染原理及性能优化策略\n3、熟悉 React 或 Vue 等框架，理解其核心原理，并有相关的项目开发经验或成果\n4、熟练使用 Git 进行版本控制，熟悉基本操作，了解 Webpack、Vite 等构建工具\n加分项：\n1、有个人项目或开源社区代码贡献\n2、有大型互联网公司相关岗位实习及项目开发经历\n3、在相关领域国际顶级会议、期刊发表论文或相关学术会议组织的权威比赛中获奖\n\n### 客户端实习生\n职位要求：\n1、本科及以上学历，计算机、软件工程等相关专业\n2、熟悉iOS（Swift/Objective-C）或Android（Kotlin/Java）或HarmonyOS（ArkTS/C++）开发体系，熟悉内存管理/多线程/网络优化\n3、深入理解移动端架构设计（模块化/组件化/动态化），具备一定iOS/Android/HarmonyOS跨端开发经验\n4、熟练掌握以下开发知识 (至少一项)：客户端、跨平台、Flutter/RN/WEEX/KMP、游戏开发、嵌入式开发、端安全、AI Prompt、3D/XR等领域技能\n加分项：\n1、有C/C++/Rust等跨平台语言相关开发经验，有终端框架引擎、图形图像、嵌入式系统开发经验\n2、有大型互联网公司相关岗位的项目开发经历，有AppStore/GooglePlay/AppGallery等应用上架经验\n3、在相关领域国际顶级会议、期刊发表论文或相关学术会议组织的权威比赛中获奖\n\n\n### 前端正式（AI 方向）\n岗位职责：\n1、负责手淘交易域商家端与淘天 AI 产品的业务研发和基础能力建设\n2、理解业务目标，深入业务流程，提升产品用户体验，技术驱动业务发展\n3、探索面向未来的 AI 提效方案\n4、打造极致 AI 原生应用体验\n\n职位要求：\n1、精通Web前端技术（HTML/CSS/JavaScript等），熟练跨浏览器、跨终端的开发\n2、有大型网站前端架构、前端性能、可访问性、可维护性等方面的实践经验\n3、熟悉低代码原理并有实践经验的、对 AI 相关前沿技术有了解，有 AI 工具研发经验的优先\n4、技术视野广阔，有参与/主导前端技术方案设计的能力和经验\n5、个性乐观开朗，逻辑性强，善于和各种背景的人合作\n\n\n工作地点：北京 / 杭州\n邮箱：LF101548@taobao.com",
+      "createdAt": "2025-04-09T11:26:10Z",
+      "updatedAt": "2025-04-09T11:26:10Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2789661361,
+      "author": "ArthurSuz",
+      "body": "# 【急招】字节国际电商-治理前端团队（Base: 上海）\n> 社招内推链接： [https://job.toutiao.com/s/roOUeGYxv1c](https://job.toutiao.com/s/roOUeGYxv1c)\n> 联系方式：[arthursu@foxmail.com](mailto:arthursu@foxmail.com)\n## 团队介绍\n国际电商治理前端团队，负责国际电商领域各种场景的治理业务，业务模式在东南亚和美国得到成功的验证，目前正在积极布局拉美和欧洲。治理业务同时兼顾 ToB 和 ToC 场景，在大模型领域也有一定涉足，欢迎各个领域的前端同学的加入！\n\n## 职位描述\n1. 负责国际化电商c端、商家app端、pc端或中后台等治理相关业务的开发；\n2. 协助运营建设一套强壮的策略化风险治理体系，通过智能化手段提高精细化运营程度；\n3. 负责改善商家达人经营环境的相关工作，包括商家系统改造，数据能力建设等；\n4. 运营领域一些明确的大模型落地场景和相关建设，参与Prompt评测调优等；\n5. 参与AI+低代码方向研究和建设，在通用大模型基座下，打造电商业务形态的AI出码能力。\n\n## 职位要求\n1. 本科及以上学历，计算机、通信等相关专业；\n2. 熟练运用React、Typescript、Node.js等前端技术，熟练掌握网络知识、安全协议、各端性能优化、CICD等前端技术；\n3. 熟悉SPA，微前端、低代码等常见技术，对主流前端框架有深入应用并理解其设计原理；\n4. 关注前端前沿技术，具备较强的学习能力，有大模型、低代码相关建设经验者优先；\n5. 各大前端技术社区活跃者、有自己的开源项目者优先。\n\n",
+      "createdAt": "2025-04-09T13:13:10Z",
+      "updatedAt": "2025-04-09T13:14:20Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2808798397,
+      "author": "chidaozhi",
+      "body": "### 乐天创研（Rakuten）外企招聘AI相关岗位（base:北京、上海、大连\ncontact me 2279285919@qq.com (请在邮件中注明意向工作城市)\n\n⚠️所有岗位要求英语6级或其他类似水平考试认证\n💡除社招外，也在招26届研究生实习岗位(AI方向的研发)\n### 岗位职责与要求总结\n\n---\n\n#### **1. 数据科学家（Data Scientist）**\n**职责**：\n- 与业务部门合作分析战略目标，定位核心问题\n- 运用统计分析、机器学习、数据挖掘技术提取数据价值\n- 数据特征探索、可视化分析及业务优化支持\n- 为各部门提供数据支持，助力决策提升\n\n**要求**：\n- 3年以上数据科学经验（国内外企业或行业）\n- 计算机、统计、数学或经济相关专业，精通Python/R\n- 优秀沟通能力、团队协作与逻辑思维\n- 独立主导完整数据分析项目的能力\n\n---\n\n#### **2. AI产品经理（AI Product Manager）**\n**职责**：\n- AI产品需求分析与原型设计，撰写需求文档\n- 跟进UI设计、开发、测试及上线全流程，协调资源保障项目进度\n- 解决开发与验收中的问题，推动产品持续优化\n- 分析迭代需求，完成产品规划与改进\n- 跟踪产品数据，提取用户需求指导产品设计\n\n**要求**：\n- 计算机或工程类本科以上学历，1年以上互联网移动产品经验\n- 逻辑清晰，沟通能力强，能独立输出完整产品\n- 熟悉产品从0到1全流程（需求分析、设计、开发、测试）\n- 热爱AI行业，关注技术趋势，持续学习\n\n---\n\n#### **3. 移动开发工程师（Android/iOS）**\n**职责**：\n- 开发高性能移动应用，整合AI功能（如ML模型、AI驱动交互）\n- 优化用户体验（效率、可扩展性、无障碍设计）\n- 跨团队协作（AI研究员、设计师、后端工程师）\n- 遵循现代开发实践（Kotlin/Swift、Jetpack/SwiftUI、CI/CD）\n- 跟踪技术趋势并推动创新\n\n**要求**：\n- 计算机相关学位，1年以上Android/iOS开发经验\n- 精通平台技术（Android SDK/iOS SDK）\n- 熟悉AI/ML集成（TensorFlow Lite/Core ML优先）\n- 具备RESTful API、MVVM/Clean架构经验\n- 优秀的问题解决能力与团队协作\n\n---\n\n#### **4. AI/数据工程师（AI & Data Knowledge）**\n**职责**：\n- 开发AI系统，处理海量数据生成知识\n- 与团队协作设计机器学习模型\n- 优化AI模型性能，构建知识库（NLP、ML/DL技术）\n- 参与代码审查、测试与调试\n\n**要求**：\n- 计算机相关学位，AI/ML开发经验\n- 精通Python/Java/C++，熟悉TensorFlow/PyTorch\n- 熟悉NLP、数据库技术（SQL/NoSQL）\n- 云平台（AWS/GCP/Azure）或大数据技术（Hadoop/Spark）优先\n\n---\n\n#### **5. DevOps工程师**\n**职责**：\n- 设计与维护平台基础设施（部署、监控、安全）\n- 支持应用交付与生产环境问题排查\n- 实施CI/CD流程（Jenkins、Kubernetes）\n\n**要求**：\n- 1年以上DevOps经验，熟悉容器化与自动化\n- 至少掌握一门编程语言（Python/Java等）\n- 熟悉Linux系统与监控工具\n\n---\n\n#### **6. 全栈工程师（Full Stack）**\n**职责**：\n- 开发前后端功能（React/Angular/Vue + Node.js/Python）\n- 数据库设计与API集成（MySQL/MongoDB）\n- 安全实践、性能优化与跨团队协作\n\n**要求**：\n- 计算机相关学位，熟悉前后端技术栈\n- 掌握云服务部署（AWS/Azure）与CI/CD\n- 具备测试经验与代码规范意识\n- AI产品经验优先\n\n---\nAbout Us: We are the Rakuten AI User Experience team. Rakuten AI strives to be your Rakuten AI companion, providing the best AI user experience — generally, contextually, and personally. Rakuten AI aims to serve as the AI Core of the Rakuten ecosystem, enhancing interconnections between Rakuten services and users to delight customers worldwide more than ever before.",
+      "createdAt": "2025-04-16T08:25:50Z",
+      "updatedAt": "2025-04-25T03:46:25Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2814795028,
+      "author": "scofieldfan",
+      "body": "> ### 乐天创研（Rakuten）外企招聘AI相关岗位（base:北京、上海、大连\n> ### 岗位职责与要求总结\n> #### **1. 数据科学家（Data Scientist）**\n> **职责**：\n> \n> * 与业务部门合作分析战略目标，定位核心问题\n> * 运用统计分析、机器学习、数据挖掘技术提取数据价值\n> * 数据特征探索、可视化分析及业务优化支持\n> * 为各部门提供数据支持，助力决策提升\n> \n> **要求**：\n> \n> * 3年以上数据科学经验（国内外企业或行业）\n> * 计算机、统计、数学或经济相关专业，精通Python/R\n> * 优秀沟通能力、团队协作与逻辑思维\n> * 独立主导完整数据分析项目的能力\n> \n> #### **2. AI产品经理（AI Product Manager）**\n> **职责**：\n> \n> * AI产品需求分析与原型设计，撰写需求文档\n> * 跟进UI设计、开发、测试及上线全流程，协调资源保障项目进度\n> * 解决开发与验收中的问题，推动产品持续优化\n> * 分析迭代需求，完成产品规划与改进\n> * 跟踪产品数据，提取用户需求指导产品设计\n> \n> **要求**：\n> \n> * 计算机或工程类本科以上学历，1年以上互联网移动产品经验\n> * 逻辑清晰，沟通能力强，能独立输出完整产品\n> * 熟悉产品从0到1全流程（需求分析、设计、开发、测试）\n> * 热爱AI行业，关注技术趋势，持续学习\n> \n> #### **3. 移动开发工程师（Android/iOS）**\n> **职责**：\n> \n> * 开发高性能移动应用，整合AI功能（如ML模型、AI驱动交互）\n> * 优化用户体验（效率、可扩展性、无障碍设计）\n> * 跨团队协作（AI研究员、设计师、后端工程师）\n> * 遵循现代开发实践（Kotlin/Swift、Jetpack/SwiftUI、CI/CD）\n> * 跟踪技术趋势并推动创新\n> \n> **要求**：\n> \n> * 计算机相关学位，1年以上Android/iOS开发经验\n> * 精通平台技术（Android SDK/iOS SDK）\n> * 熟悉AI/ML集成（TensorFlow Lite/Core ML优先）\n> * 具备RESTful API、MVVM/Clean架构经验\n> * 优秀的问题解决能力与团队协作\n> \n> #### **4. AI/数据工程师（AI & Data Knowledge）**\n> **职责**：\n> \n> * 开发AI系统，处理海量数据生成知识\n> * 与团队协作设计机器学习模型\n> * 优化AI模型性能，构建知识库（NLP、ML/DL技术）\n> * 参与代码审查、测试与调试\n> \n> **要求**：\n> \n> * 计算机相关学位，AI/ML开发经验\n> * 精通Python/Java/C++，熟悉TensorFlow/PyTorch\n> * 熟悉NLP、数据库技术（SQL/NoSQL）\n> * 云平台（AWS/GCP/Azure）或大数据技术（Hadoop/Spark）优先\n> \n> #### **5. DevOps工程师**\n> **职责**：\n> \n> * 设计与维护平台基础设施（部署、监控、安全）\n> * 支持应用交付与生产环境问题排查\n> * 实施CI/CD流程（Jenkins、Kubernetes）\n> \n> **要求**：\n> \n> * 1年以上DevOps经验，熟悉容器化与自动化\n> * 至少掌握一门编程语言（Python/Java等）\n> * 熟悉Linux系统与监控工具\n> \n> #### **6. 全栈工程师（Full Stack）**\n> **职责**：\n> \n> * 开发前后端功能（React/Angular/Vue + Node.js/Python）\n> * 数据库设计与API集成（MySQL/MongoDB）\n> * 安全实践、性能优化与跨团队协作\n> \n> **要求**：\n> \n> * 计算机相关学位，熟悉前后端技术栈\n> * 掌握云服务部署（AWS/Azure）与CI/CD\n> * 具备测试经验与代码规范意识\n> * AI产品经验优先\n> \n> About Us: We are the Rakuten AI User Experience team. Rakuten AI strives to be your Rakuten AI companion, providing the best AI user experience — generally, contextually, and personally. Rakuten AI aims to serve as the AI Core of the Rakuten ecosystem, enhancing interconnections between Rakuten services and users to delight customers worldwide more than ever before.\n\n联系方式是啥？",
+      "createdAt": "2025-04-18T07:29:30Z",
+      "updatedAt": "2025-04-18T07:29:30Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2814888294,
+      "author": "chidaozhi",
+      "body": "> > ### 乐天创研（Rakuten）外企招聘AI相关岗位（base:北京、上海、大连\n> > ### 岗位职责与要求总结\n> > #### **1. 数据科学家（Data Scientist）**\n> > **职责**：\n> > \n> > * 与业务部门合作分析战略目标，定位核心问题\n> > * 运用统计分析、机器学习、数据挖掘技术提取数据价值\n> > * 数据特征探索、可视化分析及业务优化支持\n> > * 为各部门提供数据支持，助力决策提升\n> > \n> > **要求**：\n> > \n> > * 3年以上数据科学经验（国内外企业或行业）\n> > * 计算机、统计、数学或经济相关专业，精通Python/R\n> > * 优秀沟通能力、团队协作与逻辑思维\n> > * 独立主导完整数据分析项目的能力\n> > \n> > #### **2. AI产品经理（AI Product Manager）**\n> > **职责**：\n> > \n> > * AI产品需求分析与原型设计，撰写需求文档\n> > * 跟进UI设计、开发、测试及上线全流程，协调资源保障项目进度\n> > * 解决开发与验收中的问题，推动产品持续优化\n> > * 分析迭代需求，完成产品规划与改进\n> > * 跟踪产品数据，提取用户需求指导产品设计\n> > \n> > **要求**：\n> > \n> > * 计算机或工程类本科以上学历，1年以上互联网移动产品经验\n> > * 逻辑清晰，沟通能力强，能独立输出完整产品\n> > * 熟悉产品从0到1全流程（需求分析、设计、开发、测试）\n> > * 热爱AI行业，关注技术趋势，持续学习\n> > \n> > #### **3. 移动开发工程师（Android/iOS）**\n> > **职责**：\n> > \n> > * 开发高性能移动应用，整合AI功能（如ML模型、AI驱动交互）\n> > * 优化用户体验（效率、可扩展性、无障碍设计）\n> > * 跨团队协作（AI研究员、设计师、后端工程师）\n> > * 遵循现代开发实践（Kotlin/Swift、Jetpack/SwiftUI、CI/CD）\n> > * 跟踪技术趋势并推动创新\n> > \n> > **要求**：\n> > \n> > * 计算机相关学位，1年以上Android/iOS开发经验\n> > * 精通平台技术（Android SDK/iOS SDK）\n> > * 熟悉AI/ML集成（TensorFlow Lite/Core ML优先）\n> > * 具备RESTful API、MVVM/Clean架构经验\n> > * 优秀的问题解决能力与团队协作\n> > \n> > #### **4. AI/数据工程师（AI & Data Knowledge）**\n> > **职责**：\n> > \n> > * 开发AI系统，处理海量数据生成知识\n> > * 与团队协作设计机器学习模型\n> > * 优化AI模型性能，构建知识库（NLP、ML/DL技术）\n> > * 参与代码审查、测试与调试\n> > \n> > **要求**：\n> > \n> > * 计算机相关学位，AI/ML开发经验\n> > * 精通Python/Java/C++，熟悉TensorFlow/PyTorch\n> > * 熟悉NLP、数据库技术（SQL/NoSQL）\n> > * 云平台（AWS/GCP/Azure）或大数据技术（Hadoop/Spark）优先\n> > \n> > #### **5. DevOps工程师**\n> > **职责**：\n> > \n> > * 设计与维护平台基础设施（部署、监控、安全）\n> > * 支持应用交付与生产环境问题排查\n> > * 实施CI/CD流程（Jenkins、Kubernetes）\n> > \n> > **要求**：\n> > \n> > * 1年以上DevOps经验，熟悉容器化与自动化\n> > * 至少掌握一门编程语言（Python/Java等）\n> > * 熟悉Linux系统与监控工具\n> > \n> > #### **6. 全栈工程师（Full Stack）**\n> > **职责**：\n> > \n> > * 开发前后端功能（React/Angular/Vue + Node.js/Python）\n> > * 数据库设计与API集成（MySQL/MongoDB）\n> > * 安全实践、性能优化与跨团队协作\n> > \n> > **要求**：\n> > \n> > * 计算机相关学位，熟悉前后端技术栈\n> > * 掌握云服务部署（AWS/Azure）与CI/CD\n> > * 具备测试经验与代码规范意识\n> > * AI产品经验优先\n> > \n> > About Us: We are the Rakuten AI User Experience team. Rakuten AI strives to be your Rakuten AI companion, providing the best AI user experience — generally, contextually, and personally. Rakuten AI aims to serve as the AI Core of the Rakuten ecosystem, enhancing interconnections between Rakuten services and users to delight customers worldwide more than ever before.\n> \n> 联系方式是啥？\n\n2279285919@qq.com",
+      "createdAt": "2025-04-18T08:13:29Z",
+      "updatedAt": "2025-04-18T08:13:29Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2814944980,
+      "author": "Michaelooo",
+      "body": "# [北京] [急招] 美团到餐-高级前端开发工程师，组内直推，流程超快，虚位以待~\n\n> 同期热门 25届校招、实习岗位，坑位多多，欢迎敲简历~\n\n## 部门介绍\n核心本地商业（ Core Local Commerce ）是美团“零售+科技”战略的重要载体，涵盖了到餐、到综、住宿、门票度假和交通、民宿、外卖、履约配送、闪购、医药等超过 200 个消费场景，致力于通过“随时随地”的商品和服务，满足消费者的多样性需求，帮大家吃得更好，生活更好。核心本地商业扎根本地消费，围绕消费者的“吃、住、行、游、购、娱”进行深度创新，引领发展了即时零售、团购等多种消费业态，并在全国范围内广泛投资发展本地供给、履约平台等设施，助力创造产业、带动就业。基于多年的持续投入，核心本地商业打造了连接全国超过一千万中小微企业的服务体系，以及全球最大的即时配送网络。由核心本地商业所推行的 30 分钟“万物到家”体系，已覆盖全国 2800 多个城镇，为数亿用户提供优质的商品与服务。发展过程中，核心本地商业有效助力商超、连锁、本地小店等各类实体经济主体扩大交易规模、降低交易成本。截至目前，核心本地商业日均创造订单量数千万笔，助力千万商户实现了高质量发展。未来，核心本地商业将继续践行美团“零售+科技”战略，通过更大的投资，更多的技术创新，支持、培育消费新业态，为促进消费、服务民生、带动就业作出力所能及的贡献。欢迎优秀的你加入核心本地商业，我们携手助力市场繁荣，为用户创造更好的消费体验。\n\n* 详细可参考：[JD 高级前端开发工程师（供应链产品研发）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=2861061618&highlightType=social)\n\n## 岗位亮点\n1. 到店餐饮核心业务的大前端团队，涵盖 CRM 、供应链等全链路多业务领域\n2. 实际业务场景中探索并应用大语言模型等行业热点技术\n3. 团队负责了到店餐饮、公司级别的前端工程化产品，有机会参与如 DevOps 、研发框架、设计研发协作平台、CI/CD 发布平台等的建设\n4. 团队中既有行业大会讲师、社区极客，也在持续不断地培养和引导校招新人，有完整的培养体系和广阔的成长空间\n5. 独立负责一个方向，有很大的发挥空间，如：质量保障能力建设、工程架构设计、AIGC 方向的探索与落地等。\n\n## 岗位要求\n1. 4 年以上前端开发经验，主导或参与过复杂系统或项目的建设。\n2. 需要有复杂业务、复杂表单系统设计等相关经验。\n3. 熟练使用 前端主流框架、工程化、自动化建设等关键技术攻坚的能力；在技术产品设计、新技术能力探索、沟通推进方面有优势 。\n4. 有良好的技术储备，了解业界常见类库、框架、设计模式、解决方案，并在某一方向有深入的研究。\n5. 熟练运用前端工程化技术，如 Node.js 、Webpack/Vite 代码构建与优化、持续集成与部署，改善团队研发效率。\n\n## 投递方式\n感兴趣的同学可以直接联系，联系请备注 **科技爱好者周刊**\n\n* VX 联系：MichaelChengooo\n* 投递简历到邮箱： [chengpengfei05@meituan.com](https://v2ex.com/cdn-cgi/l/email-protection#8be8e3eee5ecfbeee5ecedeee2bbbecbe6eee2fffeeae5a5e8e4e6)",
+      "createdAt": "2025-04-18T08:47:44Z",
+      "updatedAt": "2025-04-18T08:47:44Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2816970229,
+      "author": "SimenCTan",
+      "body": "# 初创团队招聘AI相关岗位 base深圳\n\n## 🧠 关于我们\n\n我们是一支由**国际头部资产管理机构支持**的智能平台技术团队，核心成员长期深耕金融科技、AI Agent、大模型工作流等领域。  \n平台产品已在全球部分机构落地，当前处于智能化架构扩展阶段。团队在深圳组建核心研发力量，专注构建高复杂度、高可信度、可交付的智能系统。  \n本岗位由团队核心负责人直招，稳定长期，联合办公空间，协作氛围自由，扁平化管理。\n\n---\n\n## 1 - Python 高级开发工程师（AI 智能体方向）  \n\n📍 深圳 | 全职现场 | 核心研发团队 | 不远程（特别优秀者面议）  \n💰 月薪范围：¥35,000–¥45,000（特别优秀者面议）\n\n---\n\n### 💼 岗位职责\n\n- 设计并开发基于Python的智能体核心框架，支持自主决策、多任务协作和动态环境适应\n- 构建基于 LLM 的金融智能应用：数据获取、分析、生成、问答等  \n- 集成 Agent SDK / 多 Agent 协作流程，打造 AI 自动化系统  \n- 在金融领域落地智能体解决方案，为量化投资提供智能支持\n\n---\n\n### 🔧 岗位要求\n\n- 本科及以上学历，3年以上Python开发经验\n- 精通智能体开发框架（CrewAI/LangChain），有项目经验优先\n- 熟悉OpenAI Agents SDK，具备Manus或UI-TARS开发经验优先\n- 深入理解智能体技术栈（决策系统、知识管理、工具集成）\n- 熟练掌握工具链集成（OpenAI Tools/MCP协议）\n- 具备后端架构经验（微服务、分布式系统、高并发）\n- 加分项\n  - LLM微调经验\n  - 金融领域文档处理与分析\n\n---\n\n## 2 – 前端开发工程师（React方向）  \n\n📍 深圳 | 全职现场 | 核心研发团队 | 不远程（特别优秀者面议）  \n💰 月薪范围：¥18,000–¥25,000（特别优秀者面议）\n\n---\n\n### 💼 岗位职责\n\n1、负责公司Web前端项目的开发与维护，确保高质量的用户体验和性能优化\n\n2、参与产品需求分析，提供前端技术解决方案，协助产品设计与后端开发\n\n3、开发可复用的UI组件和前端模块，构建高效的开发流程\n\n---\n\n### 🔧 岗位要求\n\n1、本科及以上学历，3年React开发经验\n\n2、精通HTML、CSS和JavaScript/TypeScript，熟悉React生态系统和相关工具链\n\n3、熟悉现代前端工程化工具（如Webpack、Vite等）及状态管理（Redux、MobX等）\n\n4、熟悉shadcn/ui、tailwindcss、next.js\n\n---\n\n## 🎁 薪酬与福利\n\n- 五险一金\n- 阶段性激励机制（20K / 30K / 40K，按营收与客户数解锁，达到一定级别股权可谈）\n- 提供晚餐补贴与打车费用支持\n\n---\n\n## 📬 应聘方式\n\n简历请发送至邮箱：<it@arencore.me>\n\n或联系 Telegram：[arenaren666](https://t.me/arenaren666)\n",
+      "createdAt": "2025-04-20T03:20:47Z",
+      "updatedAt": "2025-04-20T09:12:40Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2817581422,
+      "author": "sanlangguo1",
+      "body": "### [上海] [急招] 聚水潭-前端开发工程师（React方向），组内直推，流程超快，虚位以待~\n\n🧠 关于我们：\n\n聚水潭是中国领先的SaaS软件服务商。核心产品是电商SaaS ERP，协同350余家电商平台，为商家提供综合的信息化、数字化解决方案。发展至今，聚水潭员工总数超2500人，在全国设立了100多个线下服务网点，服务范围覆盖超过500个城镇，为商家的数字化升级提供及时、专业的服务。目前全国每5-6个包裹中就有1个由聚水潭SaaS ERP系统发出。 \n聚水潭还积极拓展跨境和海外业务，对接全球电商市场，设立海外服务网点，全球化业务布局，为跨境和海外商家提供电商软件服务，同时提供本地化服务。\n\n🔧 岗位要求：\n\n1.参与项目、产品需求分析与设计，负责前端框架设计；\n2.负责前端核心功能的架构设计，对系统核心模块进行开发和维护；\n3.参与前端技术体系建设，沉淀公共组件、工具和文档，参与技术分享。\n\n🔧 任职要求：\n1. 计算机相关专业本科及以上学历，3年及以上开发工作经验;\n2. 精通HTML5/CSS3/ES6，精通React/vue开发框架，有PC大型Web前端项目开发经验者或NodeJS开发优先；\n3. 熟悉HTTP；深入了解浏览器原理；熟悉TCP/IP协议的为佳；\n4. 具备Web性能优化, 有性能优化实践经验；\n5. 熟悉前端构建工具，如 Webpack、Vite等，了解 npm/yarn 包管理工具;\n6. 有移动端RN/Weex/Hippy/Fultter/小程序应用开发经验的优先\n7. 对技术有激情，喜欢钻研，具有较强的独立工作能力和解决问题的能力;具备良好的团队协同能力，有强烈的团队意识和项目责任意识，并有强大的执行力推进项目落地;\n\n🎁 薪酬与福利\n- 五险一金\n- 15-25K·17薪\n\n📬 应聘方式：\n\n简历请发送至邮箱：huaidou11607@jushuitan.com\n",
+      "createdAt": "2025-04-21T04:03:16Z",
+      "updatedAt": "2025-04-21T04:03:16Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2819840776,
+      "author": "yleo77",
+      "body": "## 【北京】京东零售 研发效能 相关岗位招聘 \n\n---- \n\n# 前端开发工程师\n## 工作内容及职责\n\n- 部门目标愿景：通过打通内部或自研一系列效能相关产品，包括但不限于研发域，测试域，提高京东零售乃至集团整体的研发效率。\n- 前端职责：参与至团队中，一起去为了部门的愿景而努力。\n- 日常工作之外，希望能够有一些技术但不限于此的交流。\n\n## 能力要求\n\n- 掌握前端职位中常见的技能点，例如 Javascript，CSS，HTML以及常用的前端框架。\n- 最重要的是 学习能力，技术栈不会是一成不变的，尤其是前端，需要你有持续的学习能力和动力。\n\n## 加分项：\n\n- 对部门乃至企业的研发效能提升有自己的见解。\n- 有实际的后端经验更佳，这会让工作进展的更顺利。\n- 具体的技术点要求就不赘述，比如 Git，HTTP协议，CSS3 动画，Web安全等等。\n- 常见的前端框架的使用，我会假设你已经非常熟练，或者深度研究过。如果不会，也需要短时间即可掌握，上面第二条就说了，学习能力。\n- 模块化，组件化，代码质量，技术规范，设计模式，微前端。\n- 热爱技术，关注行业发展动向。\n\n----\n\n# 后端研发工程师\n\n## 岗位职责：\n\n- 面向全技术团队的研发效能专职团队，在项目团队践行Devops，持续集成及google EP文化，推动研发模式的升级，提炼出工程效能最佳实践；\n- 负责建设研发协同体系效能度量体系，承载研发流程和管控，支撑整个技术团队的效能转型，并推进产品研发工作：规范化，数据化，平台化，智能化；\n- 负责京东研发效能相关平台及工具的设计研发工作，负责服务高可扩展性、高可用性方向的提升和优化，参与平台框架研究、设计和实现，关键技术路径可行性研究及技术选型等。\n\n## 任职资格：\n\n- 计算机科学相关专业,扎实的计算机基础,良好的学习能力，缜密的逻辑思维，享受探索新技术的过程；\n- 三年以上系统软件开发经验，有优秀互联网产品开发经验优先，具有全栈工程师能力，可独立开发前后端完整的系统；\n- 至少精通一门开发语言（Java/C++/Python等），并且具备快速技术迁移能力；\n- 精通常用的 Web 开发框架（Spring MVC/Spring Boot等）和工具库,并了解其中用到的设计模式；\n- 熟悉主流DB、中间件（Redis/Kafka/ZooKeeper等）、搜索/推荐/广告、计算存储（OLAP等）和大数据（Hadoop/Flink/Spark等）等相关技术，有性能优化经验；\n- 有自动化构建系统、配置管理系统、打包部署系统、监控报警平台建设经验；\n- 具有认真负责的专业素养、积极主动的工作态度、有独立分析和解决问题的能力，以及良好的学习能力和团队合作精神。\n\n----\n\n# 数据研发工程师\n\n## 工作内容及职责\n1. 负责研发质量与效能数据体系建设，包括需求交付、代码质量、测试覆盖、部署发布等全链路数据建模与开发；  \n2. 设计并落地数仓方案，构建研发过程指标监控体系（如需求交付周期、缺陷密度、部署成功率等）；  \n3. 开发数据可视化看板及自动化报告，为研发团队、管理层提供数据洞察和决策支持；  \n4. 深入分析研发流程瓶颈，通过数据挖掘提出效能优化建议，驱动研发效率提升；  \n5. 与DevOps、测试、项目管理等团队协作，推动数据工具链与研发工具的集成。\n6.探索AI在研发效能预测中的应用  \n\n任职要求：  \n1. 本科及以上学历，计算机、数据科学、统计学等相关专业，3年以上数据研发经验；  \n2. 精通SQL、Python/Java等编程语言，熟悉Hadoop/Spark/Flink等大数据技术栈；  \n3. 具备数据仓库建设经验，熟悉维度建模、ETL开发及数据治理方法论；  \n4. 熟悉研发交付流程（如敏捷开发、CI/CD），能快速理解需求管理、代码审查、测试自动化等环节的数据需求；  \n5. 具备较强的数据分析能力，能通过数据发现研发流程中的问题并提出改进方案。  \n\n加分项：\n1. 有DevOps平台、项目管理工具或代码托管平台（如GitLab）的数据对接经验；  \n2. 熟悉业界研发效能度量体系（如DORA指标、SPACE模型）；  \n3. 了解质量保障体系；  \n4. 有大数据可视化工具开发经验。\n\n----\n\n# 数据分析师\n\n岗位职责：\n1. 效能数据体系建设\n   - 负责研发全流程（需求、开发、测试、发布）的数据设计、采集与治理，构建质量与效能指标库（如需求交付周期、缺陷率、部署频率等）；  \n   - 搭建数据模型，量化研发团队效率、质量与稳定性，建立可落地的度量体系。  \n2. 深度分析与洞察\n   - 通过数据挖掘研发流程中的瓶颈问题（如需求堆积、测试阻塞、部署失败根因等），输出可落地的优化建议；  \n   - 定期产出效能分析报告，面向研发团队、管理层提供数据驱动的决策支持。  \n3. 工具与协作\n   - 与DevOps、PMO、测试团队协作，推动数据工具与研发工具链的集成；  \n   - 开发自动化看板，实时监控研发效能健康度。  \n4. 前瞻性探索\n   - 研究行业效能度量模型（如DORA指标、SPACE框架），结合业务场景优化分析方法；  \n   - 探索AI在效能预测（如需求交付时间预估）或异常预警中的应用。  \n\n任职要求：\n1. 专业背景\n   - 本科及以上学历，统计学、计算机、数学等相关专业，3年以上数据分析经验；  \n   - 熟练使用SQL、Python/R 进行数据清洗、分析与建模，熟悉常用数据分析库（Pandas、NumPy等）。  \n2. 研发流程理解\n   - 熟悉软件交付生命周期（如敏捷开发、CI/CD）或项目管理流程，能快速理解需求管理、测试覆盖率、部署成功率等关键环节的数据需求；  \n   - 有研发工具的数据分析经验者优先。  \n3. 分析思维\n   - 具备强逻辑性和问题定位能力，能通过数据拆解复杂问题（如“需求交付延迟”是卡在评审、开发还是测试环节）；  \n   - 掌握统计分析、趋势预测、根因分析等方法论。  \n\n加分项： \n- 熟悉大数据技术栈（Hive、Spark），能处理海量研发日志数据；  \n- 了解DevOps理念或参与过效能改进项目；  \n- 有技术背景（如开发/测试经验），能与技术团队高效沟通。\n\n----\n\n# IDE 开发工程师 + AI \n【智能IDE 工具架构师】\n**职位名称：IDE+AI架构师或开发工程师（智能代码开发工具方向）**\n\n### **岗位职责**\n\n1. **智能IDE功能开发**  \n   - 设计并开发集成AI能力的下一代IDE工具（如代码自动补全、智能调试、代码质量分析、自动化测试优化等）。  \n   - 探索AI模型（如LLM、代码生成模型）与开发工具链的深度结合，提升开发者效率。  \n\n2. **代码分析与增强**  \n   - 实现基于AI的代码理解、语义分析、错误预测及修复建议功能。  \n   - 优化代码推荐算法，结合上下文感知和开发者习惯提供个性化建议。  \n\n3. **开发者体验优化**  \n   - 利用AI技术改进IDE交互设计（如自然语言交互、语音指令、智能文档检索）。  \n   - 构建开发者行为数据分析系统，通过机器学习优化工具响应速度和资源占用。  \n\n4. **技术研究与落地**  \n   - 跟进AI领域前沿技术（如代码大模型、低代码生成），探索IDE场景的工程化应用。  \n   - 参与开源社区协作，推动AI工具链生态建设。  \n\n### **任职要求**\n1. **技术基础**  \n   - 计算机科学/软件工程/人工智能相关专业本科及以上学历。  \n   - 精通至少一门主流编程语言（Java/Python/C++/C#等），熟悉IDE架构（如VS Code、IntelliJ插件体系）。  \n   - 掌握机器学习框架（PyTorch/TensorFlow）及NLP基础技术（如Transformer、BERT）。  \n\n2. **经验要求**  \n   - 有IDE插件开发、代码静态分析工具（如AST处理）或开发者工具优化经验者优先。  \n   - 熟悉代码大模型（如Codex、GitHub Copilot）应用或训练调优者加分。  \n   - 有分布式系统、高性能计算或编译器优化经验者加分。  \n\n3. **核心能力**  \n   - 对开发者痛点有敏锐洞察，具备将AI技术转化为实际产品价值的能力。  \n   - 良好的跨团队协作能力，可协同算法、前端、后端团队完成技术落地。  \n\n### **加分项**\n- 参与过开源IDE项目或知名开发者工具开发。  \n- 发表过AI与软件工程交叉领域论文或专利。  \n- 熟悉DevOps工具链（CI/CD、容器化部署）。\n\n----\n\n📬 应聘方式\n\n简历请发送至 ylep77#gmail.com  \n",
+      "createdAt": "2025-04-22T01:40:48Z",
+      "updatedAt": "2025-04-22T01:40:48Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2829612695,
+      "author": "color-me",
+      "body": "# Autowise.ai【社招 web前端】自动驾驶业务【base-杭州】\n\n\n### 🧠 关于我们：\n\n**Autowise.ai - 仙途智能**是一家2017年成立的自动驾驶公司，旗下无人驾驶环卫产品的足迹已遍布海内外数十座城市，还收揽了“第一队”、“第一证”、“第一城”等响亮招牌；城市环卫目前已成为无人驾驶商业落地最佳应用场景，你未来的任何贡献都有机会直接应用到城市日常运营管理中。\n你将深入探索无人驾驶城市环卫领域最先进的技术，你也将习惯与出色又热情的伙伴们并肩作战、共同成长，一齐维护更高效文明的城市管理运营生态。\n\n### 🔧 岗位要求：\n\n1.参与自动驾驶远程车辆运营、控制平台、地图编辑平台的项目、产品需求分析与设计；\n2.负责前端核心功能的架构设计与优化，对系统核心模块进行开发和维护；\n3.参与前端技术体系建设，沉淀公共组件、工具和文档，参与技术分享。\n\n### 🔧 任职要求：\n**必备条件：**\n\n计算机相关专业本科及以上学历，3年及以上开发工作经验;\n精通HTML5/CSS3/ES6+，熟悉React开发框架，有PC大型Web前端项目开发经验，NodeJS开发经验；\n熟悉HTTP/TCP/IP；较为深入了解浏览器工作原理；熟悉Websocket；\n熟悉前端构建工具，如Vite、Webpack等，状态管理（MobX、Jotai、Zustand等）了解 npm/yarn 包管理工具，以及docker;\n具备一定的数据结构&算法设计能力；\n具备Web性能优化, 有性能优化实践经验；\n对技术有热情，对代码有洁癖，喜欢钻研，具有较强的独立工作能力和解决问题的能力;\n具备良好的团队协同能力，能友好沟通，有强烈的团队意识和项目责任意识；\n\n**加分项：**\n\n**自动驾驶、地图、可视化**相关工作经验。\n有地图相关开发经验（高德Amap、mapbox、leaflet、deck.gl）。\n有 threejs/pixjs 等 3d/2d 项目开发经验。\n了解 protobuf、RPC远程程调用。\n有大型前端项目的性能优化实操。\n为开源项目做过核心贡献。\n能熟练阅读英文文档、熟练使用各类AI工具提效等。\n\n🎁 福利\n\n全额五险一金\n额外假期/下午茶/加班免费打车等\n\n📬 应聘方式：\n\n简历请发送至邮箱：[chensifan@autowise.ai](mailto:chensifan@autowise.ai)\n注意：请备注（阮一峰）",
+      "createdAt": "2025-04-25T07:37:03Z",
+      "updatedAt": "2025-04-25T07:37:03Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2831986355,
+      "author": "Alpenl",
+      "body": "# 26届本科生找工作\n\n看到三月份有大佬在这里找工作，厚着脸皮来投一下\n中北大学大三在读，找java开发或AI开发或云相关，其他计算机相关如果接受从头学习也可，本人学习能力超强😂\n找暑期实习，大四实习，目前可直接到岗，一直到明年5月需要回学校参加毕业\n双非本科的学历大厂是不奢求，希望有中小公司收留\n以下是我的简历，欢迎各位大佬指教[简历.pdf](https://github.com/user-attachments/files/19920894/default.pdf)",
+      "createdAt": "2025-04-26T09:19:50Z",
+      "updatedAt": "2025-04-26T09:19:50Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2833029559,
+      "author": "chidaozhi",
+      "body": "感谢您的简历！请问您想实习的城市是？\r\n\r\n\r\n\r\n---原始邮件---\r\n发件人: ***@***.***&gt;\r\n发送时间: 2025年4月26日(周六) 下午5:20\r\n收件人: ***@***.***&gt;;\r\n抄送: ***@***.******@***.***&gt;;\r\n主题: Re: [ruanyf/weekly] 谁在招人？（2025年4月） (Issue #6443)\r\n\r\n\r\n Alpenl left a comment (ruanyf/weekly#6443)\r\n \r\n26届本科生找工作\r\n \r\n看到三月份有大佬在这里找工作，厚着脸皮来投一下\r\n 中北大学大三在读，找java开发或AI开发或云相关，其他计算机相关如果接受从头学习也可，本人学习能力超强😂\r\n 找暑期实习，大四实习，目前可直接到岗，一直到明年5月需要回学校参加毕业\r\n 双非本科的学历大厂是不奢求，希望有中小公司收留\r\n 以下是我的简历，欢迎各位大佬指教简历.pdf\r\n \r\n—\r\nReply to this email directly, view it on GitHub, or unsubscribe.\r\nYou are receiving this because you commented.Message ID: ***@***.***&gt;",
+      "createdAt": "2025-04-27T04:07:24Z",
+      "updatedAt": "2025-04-27T04:07:24Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2833199353,
+      "author": "orangelunatics",
+      "body": "> # 26届本科生找工作\n> 看到三月份有大佬在这里找工作，厚着脸皮来投一下 中北大学大三在读，找java开发或AI开发或云相关，其他计算机相关如果接受从头学习也可，本人学习能力超强😂 找暑期实习，大四实习，目前可直接到岗，一直到明年5月需要回学校参加毕业 双非本科的学历大厂是不奢求，希望有中小公司收留 以下是我的简历，欢迎各位大佬指教[简历.pdf](https://github.com/user-attachments/files/19920894/default.pdf)\n\n\n要不要试一下拼多多/TEMU，可以用这个链接投递：\n2026届实习招聘内推链接：https://careers.pddglobalhr.com/campus/intern?t=3jGOaFnHjX\n内推码：3jGOaFnHjX\n\n地点在上海长宁娄山关路，小鲜肉速速来感受下~",
+      "createdAt": "2025-04-27T06:22:54Z",
+      "updatedAt": "2025-04-27T06:22:54Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2833262287,
+      "author": "Alpenl",
+      "body": "@chidaozhi 大佬好，最想去的是杭州和北京，其他非偏远城市也都能接受",
+      "createdAt": "2025-04-27T07:29:59Z",
+      "updatedAt": "2025-04-27T07:29:59Z",
+      "isMinimized": false
+    },
+    {
+      "id": 2840864805,
+      "author": "ruanyf",
+      "body": "本月招聘帖关闭，欢迎访问下月招聘帖 https://github.com/ruanyf/weekly/issues/6771 ，新岗位请发布到那里。",
+      "createdAt": "2025-04-30T05:41:24Z",
+      "updatedAt": "2025-04-30T05:41:24Z",
+      "isMinimized": false
+    }
+  ],
+  "fetchedAt": "2026-02-13T13:10:02.455Z"
+}

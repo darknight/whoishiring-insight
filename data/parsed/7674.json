@@ -1,0 +1,605 @@
+{
+  "issueNumber": 7674,
+  "yearMonth": "2025-09",
+  "postings": [
+    {
+      "id": "7674-3274887947",
+      "issueNumber": 7674,
+      "commentId": 3274887947,
+      "yearMonth": "2025-09",
+      "author": "ChassWind",
+      "rawContent": "# 拼多多跨境（temu） 基础架构 招聘: (工作地点: 上海, 长期有效)\n## 部门简介\n我们是一个充满活力、讲究务实、鼓励每位成员提出新想法，共同成长的团队，在这里你可以接触到微服务的前沿技术，挑战大规模高并发的技术难题，积累到最扎实的技术功底。\n\n我们团队的主要方向:\n🌟新一代微服务架构 Serverless 平台的研发和建设，重塑传统的开发方式，让业务告别繁琐、专注创新。\n🌟微服务控制面-注册中心研发 (NameServer), 完成超大规模场景下的服务治理，为微服务保驾护航。\n🌟基础中间件能力研发 (RPC/Mesh/Tracer…), 构建微服务分布式世界的基石, 旨在为业务提供舒畅的微服务生\n## 校园招聘\n26 年校园招聘进行中 \n主要招聘以下岗位 可以通过链接点击投递 内推链接：https://careers.pddglobalhr.com/campus/grad?t=6U8PSGz529\n* 客户端研发工程师\n* 服务端研发工程师\n* 算法工程师\n* Web前端研发工程师\n* 数据分析师\n* 安全工程师\n## 社会招聘\n社招需要单独内推 麻烦发送邮件到 zephyrcong@gmail.com 附带具体职位\n* 跨境-DTS数据传输服务\n* 跨境-数据库中间件\n* 跨境-分布式数据库\n* 跨境-数据库内核\n* 跨境-Serverless平台研发工程师/专家 (Golang/Java/Node.js)\n* 跨境-基础架构微服务研发工程师/专家（Golang/Java）\n* 跨境-基础架构研发工程师/专家(中台/配置中心/国际化/i18n)\n* 跨境-基础架构研发工程师/专家（可观测性）\n* 跨境-基础架构研发工程师/专家（服务托管/弹性伸缩）\n* 跨境-基础架构开发工程师/专家（TSDB/时序数据库）\n* 跨境-基础架构研发工程师/专家（日志/log/OLAP)\n* 跨境-Golang研发工程师/专家（DevOps/云原生/CICD）\n* 跨境-Java研发工程师/专家（DevOps/微服务\n* 跨境-全栈工程师/专家（DevOps）\n* 跨境-OLAP分析型数据库内核及平台研发工程师/专家\n* 跨境-存储统一查询服务研发工程师/专家（SQLEngine/SQL）\n* 跨境-HBase内核及平台化研发工程师/专家(HBase/HDFS)\n* 跨境-大数据应用开发平台研发工程师/专家(ETL/Spark/Flink)\n* 跨境-ElasticSearch搜索引擎内核及平台工程师/专家(ES/Solr/Lucene)\n* 跨境-分布式通用KV/缓存系统研发工程师/专家（redis/C++）\n* 跨境-消息队列研发工程师/专家 (Kafka/RMQ/RocketMQ/Java)\n* 跨境-DTS数据传输服务研发工程师/专家（MySQL/binlog/Canal）\n* 跨境-数据库中间件研发工程师/专家(DAL/MySQL)\n* 跨境-分布式数据库研发工程师/专家(MySQL/PostgreSQL)\n* 跨境-数据库内核研发工程师/专家(MySQL/PostgreSQL)\n* 跨境-存储PaaS平台Java研发工程师/专家(DevOps/管控）\n* 跨境-深度学习推理引擎研发工程师/专家（LLM/GPU/CUDA/模型编译优化）\n* 跨境-图数据库研发工程师/专家(neo4j/图算法/向量检索)\n* 跨境-云网络平台开发工程师/专家(LB/网关/WAF/防护)\n* 跨境-接入网关开发工程师/专家(网络/HTTP/QUIC)\n* 跨境-API网关开发工程师/专家(Nginx/HTTP)\n* 跨境-基础网络开发工程师/专家(eBPF/SDN)\n* 跨境-音视频实时传输网开发工程师/专家(WebRTC/直播)\n* 跨境-容器平台研发工程师/专家（K8s/云原生/Golang）\n* 跨境-容器平台架构师（K8s/云原生/Golang）\n* 跨境音频算法工程师\n* 跨境-图数据库研发工程师/专家(neo4j/图算法/向量检索)\n* 跨境基础架构开发工程师（Monitor方向）\n* 跨境-对象存储研发工程师/专家（图片处理/CDN/P2P/Golang）\n* 跨境-云平台资深研发工程师（CMDB/Go/Java/云原生）\n* 跨境-资深内核开发工程师（Linux/Kernel）\n",
+      "company": "拼多多跨境（temu）",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "客户端研发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "服务端研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "Web前端研发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "数据分析师",
+          "category": "数据"
+        },
+        {
+          "title": "安全工程师",
+          "category": "安全"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "微服务",
+        "Serverless",
+        "NameServer",
+        "RPC",
+        "Mesh",
+        "Tracer",
+        "Golang",
+        "Java",
+        "Node.js"
+      ],
+      "contact": "zephyrcong@gmail.com"
+    },
+    {
+      "id": "7674-3280424403",
+      "issueNumber": 7674,
+      "commentId": 3280424403,
+      "yearMonth": "2025-09",
+      "author": "confirmTing",
+      "rawContent": "上海得物信息集团有限公司社招，海量 HC 等你来，各种岗位都有\n\n内推码：6P4HX8X\n投递链接: https://poizon.jobs.feishu.cn/s/lKkahamB8a8 长期有效",
+      "company": "得物信息集团有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "各种岗位",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "contact": "https://poizon.jobs.feishu.cn/s/lKkahamB8a8"
+    },
+    {
+      "id": "7674-3290293209",
+      "issueNumber": 7674,
+      "commentId": 3290293209,
+      "yearMonth": "2025-09",
+      "author": "WendaoLee",
+      "rawContent": "# 【社招&校招】Next.js 前端开发 （杭州，杭州元狲科技有限公司）\n\n### 【技术栈需求】\n- 开发框架：Next.js + TailwindCSS\n- 开发库：Prisma，TypeORM、SWR、ShadCN UI、Effect\n- 语言：TypeScript/JavaScript\n- 构建工具：Webpack、Vite\n- 版本控制：Git\n\n\n### 【核心职责】\n作为前端开发，你将参与以下工作：\n- 探索AI内容的创新展示方式，提升用户对AI生成内容的理解和使用体验\n- 使用Next.js与TailwindCSS实现公司AI产品的前端界面，确保良好的用户体验和视觉呈现\n- 与产品、设计和后端团队密切沟通协作，理解需求并转化为可用的技术实现\n- 参与开发可复用的UI组件库，提高团队整体开发效率\n\n### 【基础要求】\n- 计算机、软件工程或相关专业在校生\n- 能够熟练使用 Cursor 、windsurf 等 AI Power IDE\n- 熟悉HTML、CSS和JavaScript基础知识\n- 对于 Canvas 等技术具备一定涉猎，对于前端实现图像编辑、富文本等有一定实操经验\n- 了解React的基本概念和使用方法，理解 React 的设计哲学、编程范式，能够正确应用 useEffect 等 hooks\n- 了解现代前端工程化和组件化开发理念\n- 对AI/AIGC领域有兴趣，愿意学习了解前沿技术，较强的prompt调参与测试经验\n- 具备学习能力、沟通能力，富有团队协作精神\n- 能够使用 Taro 框架开发微信小程序\n加分项\n- 有Next.js、React等现代前端框架的实际使用经验\n- 熟悉TailwindCSS及TypeScript在实际项目中的应用\n- 了解SWR等状态管理和数据获取库\n- 有响应式设计和移动端适配经验\n- 有产品思维，能从用户角度思考问题，对UI/UX设计有一定理解和审美能力\n- 使用过超10款AI工具（不限文本/图片/视频/音乐领域） \n\n### 【我们期待什么】\n在硅谷yc训练营里，有超过95%的创业公司正使用AI构建未来的独角兽产品。我们深知AI工具的价值，入职即配 Cursor Plus 以及一切可以提高效率的 AI 会员。\n\n我们不要求你一开始就掌握所有技术，但我们认为要构建一个伟大的toc产品，你应该要具备以下：\n- 对前端技术有强烈好奇心，并愿意愿意动手实践\n- 有基本的审美能力，追求优秀的用户体验\n- 认真负责，能够独立完成分配的任务\n- 面向时代前沿，积极探索人机协同的范式\n\n我们期待遇见那些能与AI协同创造奇迹的天才，毕竟，发现并支持天才，是创业最令人兴奋的部分。\n\n\n### 【关于我们】\n元狲科技是一家专注于AI创新应用的创业公司，正式起步一年，我们正在直接或间接开发多个前沿AI相关项目和产品：\n1. memene：目前处于内测阶段，这是一个生成式AI驱动的专家信息推荐工具，试用地址 [memene.cn](https://memene.cn)\n2. AI基础设施平台：目前处于内测阶段，API分发、财务管理、自动化测试、数据集与benchmark一站管理\n3. 技能成长平台：mvp研发阶段\n4. AI文创项目：mvp小范围上线验证，由生成式AI驱动，探索\"先卖后生产\"的电商新模式 \n公司位于杭州东站附近，交通便利（杭州东站、彭埠地铁出口600米），办公环境绝对优于其他创业公司。\n\n\n我们的优势：\n1. 前沿AI前端实践：直接参与AI产品开发，掌握最新的前端技术与AI交互设计\n2. 定期内训培训：每周一次AI相关知识内训，了解大模型的直观解释与实践\n3. 全流程参与：从需求讨论到设计评审，再到开发实现和上线，全流程参与真实项目\n4. 工作时间：上午 9:00 ~ 12:00 ，下午 13:30 ~ 18:00 ，**双休，不调休，不鼓励加班** 。\n\n\n我们的团队：\n目前我们有8名全职员工，若干线下实习生（来自全国各高校）以及10多名线上外包和实习人员（包括大厂及AI社区活跃用户）。\n相比传统互联网公司，我们的全职员工较少，这是我们对AI公司人力结构的预期——同时用最适合的AI工具、大量的AIbot把传统岗位自动化，降低沟通内耗，保持精简高效的核心团队，专注于真正需要人类创造力的工作。我们相信这是未来AI公司的人力结构以及组织形态。\n\n### 【薪资范围】\n\n- 应届生：8k ~ 12k\n- 有工作经验社招：10k ~ 14k\n\n### 【联系方式】\n\n您可以通过邮箱official@hkai.ai / leewendao@outlook.com\n\n或者\n\n通过下方猎聘与我们的创始人联系:\n\n<img width=\"1500\" height=\"2400\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6c707a33-aade-46a0-a254-452953287fa1\" />\n\n### 一些活人感碎碎念\n\n我们是相信人的主观能动性与人的自身热情的。如果有对做C端AI产品有理想信念的老哥/老姐可以大胆投递。只要你有热情愿意去参与产品的开发设计，哪怕是经验薄弱的在校生也可以。",
+      "company": "杭州元狲科技有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Next.js 前端开发",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "salaryRange": "应届生：8k ~ 12k，有工作经验社招：10k ~ 14k",
+      "techStack": [
+        "Next.js",
+        "TailwindCSS",
+        "Prisma",
+        "TypeORM",
+        "SWR",
+        "ShadCN UI",
+        "Effect",
+        "TypeScript",
+        "JavaScript",
+        "Webpack",
+        "Vite",
+        "Git"
+      ],
+      "experienceReq": "计算机、软件工程或相关专业在校生",
+      "educationReq": "大专及以上学历",
+      "contact": "official@hkai.ai / leewendao@outlook.com"
+    },
+    {
+      "id": "7674-3290298429",
+      "issueNumber": 7674,
+      "commentId": 3290298429,
+      "yearMonth": "2025-09",
+      "author": "linxiaowu66",
+      "rawContent": "## 【杭州】泽鹿视界\n有意向的同学可联系 [linguang@nextmar.com](mailto:linguang@nextmar.com)\n\n## 公司介绍\n[ZEELOOL](https://www.zeelool.com/) 专注于跨境电商垂直领域 - 眼镜的设计和销售。公司有强大的供应链体系以及工厂生产加工，目前客户集中在北美和欧洲相关国家，目前对于成立了7年的泽鹿，处于技术和业务转型和发展红利期，需要大量的高阶技术人才加入，一起去达成未来5年的公司目标。我们目前有两个独立站：[ZEELOOL](https://www.zeelool.com/) 和 [VOOGLAM](https://www.vooglam.com/) , 公司氛围扁平化和规范化，不加班不卷，真正达到五个幸福中的“员工幸福”。这在杭州是不多见的，感兴趣的同学都来投递简历吧~\n另外，前端团队目前是本人在当TL，管理风格属于活泼、有温度的，个人博客主页可以看：[豆米博客](https://blog.5udou.cn/)，之前在[掘金](https://juejin.cn/user/1873223542902429)和知乎也分享过很多技术文章，欢迎大家一起来探讨技术；\n\n## 高级前端开发工程师(1个HC)\n职位描述\n与产品经理、设计师和后端工程师沟通，理解业务需求，参与技术方案的制定，并完成前端功能的开发与实现，确保代码的高质量和可维护性；\n参与前端架构设计与优化，确保系统具有良好的扩展性、稳定性和高性能；\n参与前端工程化体系建设，满足团队基础能力需求\n参与用户端侧的用户体验提升，并能够提出性能优化、交互优化、视觉优化的前端性意见\n\n### 任职要求\n5年以上前端项目开发经验，大专及以上学历；\n熟练掌握HTML、CSS和JavaScript等前端开发基础技术，熟悉页面架构和布局；\n熟练使用至少一种前端开发框架，如Vue、React，了解其基本原理，react优先；\n熟练使用MUI、antd、Nextjs，能够自主书写业务组件完成业务开发工作，熟悉vite配置，了解工程化模块化开发\n有C端相关实践经验并且有过性能优化经验的优先；\n具备良好的沟通能力和团队协作意识，需求评审中能够自主发现提出疑问并提供方案；\n善于学习新知识和运用新知识，具备独立解决中等难度问题的能力；\n\n### 加分项\n对于C端有综合性能优化经验、SEO优化经验、前端AI经验的优先",
+      "company": "泽鹿视界",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "高级前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue",
+        "React",
+        "MUI",
+        "antd",
+        "Nextjs",
+        "Vite"
+      ],
+      "experienceReq": "5年以上前端项目开发经验，大专及以上学历",
+      "educationReq": "大专及以上学历",
+      "contact": "linguang@nextmar.com"
+    },
+    {
+      "id": "7674-3306406021",
+      "issueNumber": 7674,
+      "commentId": 3306406021,
+      "yearMonth": "2025-09",
+      "author": "luoanzi",
+      "rawContent": "[固胜智能（游戏外设、赛车/飞行模拟、云台，研发技术型公司）-深圳南山 招聘/内推]] 硬件/软件/QT/算法/测试/工业设计/机械设计/产品/项目等各类研发职位招聘，应届校招/社招 月 20k-40k*13-15 薪 年 20-70 万\n\n深圳市固胜智能科技（游戏外设、赛车/飞行模拟、云台，研发技术型公司）-深圳南山 招聘/内推]，欢迎各类同学加入。具体如下：\nBASE：深圳南山 \n岗位：嵌入式硬件/软件/QT/算法/测试/工业设计/机械设计/产品/项目等各类研发职位招聘 \n业务：游戏外设、赛车模拟器、云台\n\n二、主要待遇\n① 有竞争力的薪资 \n② 双休，五险一金、调休、加班补贴 \n③ 免费下午茶、生日会、调休\n\n三、职位详情\n校招职位详情可见： https://www.mozaracing.cn/ 可在这里选择合适职位 \n全部岗位可见 BOSS （可跳转主页查看全部岗位）： https://www.zhipin.com/web/chat/index \n四、内推方式 \n欢迎将感兴趣职位链接及简历直接发送到 [xaluo@gudsen.com](mailto:xaluo@gudsen.com)\n",
+      "company": "固胜智能科技",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "嵌入式硬件",
+          "category": "其他"
+        },
+        {
+          "title": "软件",
+          "category": "其他"
+        },
+        {
+          "title": "QT",
+          "category": "其他"
+        },
+        {
+          "title": "算法",
+          "category": "AI/ML"
+        },
+        {
+          "title": "测试",
+          "category": "测试"
+        },
+        {
+          "title": "工业设计",
+          "category": "设计"
+        },
+        {
+          "title": "机械设计",
+          "category": "设计"
+        },
+        {
+          "title": "产品",
+          "category": "产品"
+        },
+        {
+          "title": "项目",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "深圳南山"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "月 20k-40k*13-15 薪 年 20-70 万",
+      "techStack": [],
+      "contact": "xaluo@gudsen.com"
+    },
+    {
+      "id": "7674-3337399544",
+      "issueNumber": 7674,
+      "commentId": 3337399544,
+      "yearMonth": "2025-09",
+      "author": "luyanchen",
+      "rawContent": "关于我们\n我们是字节跳动-抖音激励的前端团队，致力于支撑抖音系APP十亿级别DAU增长，沉淀近10年的增长经验，积极探索先进技术在增长场景的落地应用。\n我们的优势\n1、业务体量大、增速高\n2、技术领先、增长经验丰富\n3、团队氛围良好、上升空间大\n职位描述\n1、负责十亿级DAU产品抖音C端研发，包括端内用户激励体系、用户增长活动；负责抖音、抖音极速版、抖音火山版产品迭代；\n2、关注业务指标 & 转化链路，探索精细化体验优化，分人群、分机型、分场景，将用户体验做到极致；\n3、深入研究高性能跨平台动态化渲染方案 & web技术体系，负责架构设计、性能优化、SEO优化等工作；\n4、负责助力于增长、留存、研发效率等方面的平台化建设。\n\n招聘城市\n北京/上海/杭州/深圳/广州\n\n投递地址\n\n社招\n杭州：https://job.toutiao.com/s/i84fobJd\n北京：https://job.toutiao.com/s/HgZu11egIvY\n校招\n杭州：https://job.toutiao.com/s/tgSHpEsp6N0\n北京：https://job.toutiao.com/s/e0Tq-oaDjS4\n上海：https://job.toutiao.com/s/jyxUDwVtvC0\n实习生\n北京：https://job.toutiao.com/s/5sUoeiQOaSE\n上海：https://job.toutiao.com/s/66CMOyMiNYk\n杭州：https://job.toutiao.com/s/J_Ajgu6KJeE\n",
+      "company": "字节跳动-抖音激励",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "抖音C端研发",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海",
+        "杭州",
+        "深圳",
+        "广州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "抖音",
+        "抖音极速版",
+        "抖音火山版",
+        "增长",
+        "留存",
+        "研发效率",
+        "跨平台动态化渲染",
+        "web技术体系",
+        "架构设计",
+        "性能优化",
+        "SEO优化"
+      ],
+      "contact": {
+        "社招": {
+          "杭州": "https://job.toutiao.com/s/i84fobJd",
+          "北京": "https://job.toutiao.com/s/HgZu11egIvY",
+          "上海": "https://job.toutiao.com/s/jyxUDwVtvC0"
+        },
+        "校招": {
+          "杭州": "https://job.toutiao.com/s/tgSHpEsp6N0",
+          "北京": "https://job.toutiao.com/s/e0Tq-oaDjS4"
+        },
+        "实习生": {
+          "北京": "https://job.toutiao.com/s/5sUoeiQOaSE",
+          "上海": "https://job.toutiao.com/s/66CMOyMiNYk",
+          "杭州": "https://job.toutiao.com/s/J_Ajgu6KJeE"
+        }
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "commentId": 3273216997,
+      "author": "wangxudongcc",
+      "reason": "[job_seeking] 以第一人称描述自己的技能和经验，提到求职意向，列出个人技术栈，提供联系方式"
+    },
+    {
+      "commentId": 3239817387,
+      "author": "ruanyf",
+      "reason": "[other] Issue 作者汇总帖，跳过"
+    },
+    {
+      "commentId": 3350060880,
+      "author": "ruanyf",
+      "reason": "[other] Issue 作者汇总帖，跳过"
+    }
+  ],
+  "errors": [
+    {
+      "commentId": 3239836514,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZtEG3QSyJgScjT2na\"}"
+    },
+    {
+      "commentId": 3240639375,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZtEztrEggFViWmR7M\"}"
+    },
+    {
+      "commentId": 3239815660,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZtGjZ4wA2HqtYodAu\"}"
+    },
+    {
+      "commentId": 3240680383,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZtHj8yWWKNYhBzf6e\"}"
+    },
+    {
+      "commentId": 3240809285,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZuPD2GGiphwbM6GjE\"}"
+    },
+    {
+      "commentId": 3240953230,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZuPTgf21uDkmitAr8\"}"
+    },
+    {
+      "commentId": 3240963504,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZuQTBXyCER86Q4AqU\"}"
+    },
+    {
+      "commentId": 3241039207,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZuZ8KAjCjQ3c5eHZt\"}"
+    },
+    {
+      "commentId": 3241003492,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZuZspzRGnWMEzSVf4\"}"
+    },
+    {
+      "commentId": 3241884964,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZvbt2rRFzKRkGiqSN\"}"
+    },
+    {
+      "commentId": 3256816337,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZvhq9vti3ciyHPS7F\"}"
+    },
+    {
+      "commentId": 3252106016,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZvfMfWAff4v58MMrn\"}"
+    },
+    {
+      "commentId": 3242743640,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZvdNNvE25F1mFXRP7\"}"
+    },
+    {
+      "commentId": 3243595183,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZvatg4xTKkW92uRVC\"}"
+    },
+    {
+      "commentId": 3256870226,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZwxFEtzdxRVTEGC8c\"}"
+    },
+    {
+      "commentId": 3256876662,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZww1MqisyoM91Ea2K\"}"
+    },
+    {
+      "commentId": 3269281053,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZwyESAzDXbUWe67xA\"}"
+    },
+    {
+      "commentId": 3269435866,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZwzy8Hdg3PBqXZPJr\"}"
+    },
+    {
+      "commentId": 3257311175,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZwyUxHmJkzmYHDJCF\"}"
+    },
+    {
+      "commentId": 3270068388,
+      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZyDQ69aJX3pQdh1mh\"}"
+    },
+    {
+      "commentId": 3239815660,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3239836514,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240639375,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240680383,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240809285,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240953230,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240963504,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3241003492,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3241039207,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3241884964,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3242743640,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3243595183,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3252106016,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3256816337,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3256870226,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3256876662,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3257311175,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3269281053,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3269435866,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3270068388,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3239815660,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3239836514,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240639375,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240680383,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240809285,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240953230,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3240963504,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3241003492,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3241039207,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3241884964,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3242743640,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3243595183,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3252106016,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3256816337,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3256870226,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3256876662,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3257311175,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3269281053,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3269435866,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3270068388,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 3239815660,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3239836514,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3240639375,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3240680383,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3240809285,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3240953230,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3240963504,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3241003492,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3241039207,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3241884964,
+      "error": "Failed after 3 attempts. Last error: 您的账户已达到速率限制，请您控制请求频率"
+    },
+    {
+      "commentId": 3242743640,
+      "error": "期望返回 10 个结果，实际返回 9"
+    },
+    {
+      "commentId": 3243595183,
+      "error": "期望返回 10 个结果，实际返回 9"
+    },
+    {
+      "commentId": 3252106016,
+      "error": "期望返回 10 个结果，实际返回 9"
+    },
+    {
+      "commentId": 3256816337,
+      "error": "期望返回 10 个结果，实际返回 9"
+    },
+    {
+      "commentId": 3256870226,
+      "error": "期望返回 10 个结果，实际返回 9"
+    },
+    {
+      "commentId": 3256876662,
+      "error": "期望返回 10 个结果，实际返回 9"
+    },
+    {
+      "commentId": 3257311175,
+      "error": "期望返回 10 个结果，实际返回 9"
+    },
+    {
+      "commentId": 3269281053,
+      "error": "期望返回 10 个结果，实际返回 9"
+    },
+    {
+      "commentId": 3269435866,
+      "error": "期望返回 10 个结果，实际返回 9"
+    },
+    {
+      "commentId": 3270068388,
+      "error": "期望返回 10 个结果，实际返回 9"
+    }
+  ]
+}

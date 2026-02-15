@@ -1,24 +1,40 @@
 /**
- * Claude API 结构化解析脚本
+ * AI 结构化解析脚本
  *
- * 读取 data/raw/ 下的原始评论数据，使用 Claude API 提取结构化招聘信息。
- * - 自动分类：招聘帖 / 求职帖 / 其他
- * - 仅对招聘帖提取结构化 JobPosting
- * - 增量解析：跳过已解析的评论
+ * 读取 data/raw/ 下的原始评论数据，使用 AI 模型提取结构化招聘信息。
+ * - 支持多模型切换（通过 AI_MODEL 环境变量）
+ * - 批量解析（每次 5 条评论）
+ * - 增量解析：跳过已解析的评论，自动重试之前失败的
  * - 并发控制 + 指数退避
+ *
+ * 支持的模型格式（AI_MODEL 环境变量）：
+ *   zhipu:glm-5                  （默认，性价比最高）
+ *   openai:gpt-4o-mini
+ *   anthropic:claude-haiku-4-5-20251001
+ *   google:gemini-2.0-flash
+ *
+ * 对应的 API Key 环境变量：
+ *   zhipu     → ZHIPU_API_KEY
+ *   openai    → OPENAI_API_KEY
+ *   anthropic → ANTHROPIC_API_KEY
+ *   google    → GOOGLE_GENERATIVE_AI_API_KEY
  */
 
-import Anthropic from "@anthropic-ai/sdk";
+import { generateText, type LanguageModel } from "ai";
+import { createOpenAI } from "@ai-sdk/openai";
+import { createAnthropic } from "@ai-sdk/anthropic";
+import { createGoogleGenerativeAI } from "@ai-sdk/google";
 import { readFileSync, writeFileSync, existsSync, readdirSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import type { JobPosting, Position } from "../src/types/index.ts";
 
 // ── 配置 ──────────────────────────────────────────────
 
-const MODEL = "claude-haiku-4-5-20251001";
-const MAX_CONCURRENCY = 5;
-const MAX_RETRIES = 5;
-const BASE_DELAY_MS = 1000;
+const DEFAULT_MODEL = "zhipu:glm-4-flash";
+const BATCH_SIZE = 10;
+const MAX_CONCURRENCY = 2;
+const MAX_RETRIES = 3;
+const BASE_DELAY_MS = 500;
 
 const ROOT = new URL("..", import.meta.url).pathname.replace(/\/$/, "");
 const RAW_DIR = join(ROOT, "data/raw");
@@ -134,46 +150,101 @@ const SYSTEM_PROMPT = `你是一个专业的招聘信息结构化提取助手。
 - **isRemote**: 是否支持远程工作
 - **isOverseas**: 工作地点是否在中国大陆以外（含港澳台）
 - **techStack**: 提取所有提到的技术关键词，标准化命名（如 React 不要写 react.js）
-- **contact**: 提取邮箱、微信号、链接等联系方式；多个用逗号分隔`;
+- **contact**: 提取邮箱、微信号、链接等联系方式；多个用逗号分隔
 
-function buildUserPrompt(comment: RawComment): string {
-  return `请分析以下评论并提取结构化数据。
+## 批量模式
 
-评论作者: ${comment.author}
-评论内容:
-${comment.body}`;
+当用户提交多条评论时（用 [COMMENT N] 标记），你需要返回一个 JSON 数组，每个元素对应一条评论的解析结果，顺序与输入一致。`;
+
+function buildBatchUserPrompt(comments: RawComment[]): string {
+  const commentBlocks = comments
+    .map(
+      (c, i) =>
+        `[COMMENT ${i + 1}]\n评论作者: ${c.author}\n评论内容:\n${c.body}`,
+    )
+    .join("\n\n");
+
+  return `请分析以下 ${comments.length} 条评论并分别提取结构化数据。请返回一个 JSON 数组，按评论顺序一一对应。
+
+${commentBlocks}`;
 }
 
-// ── Claude API 调用 ──────────────────────────────────
+// ── 模型初始化 ───────────────────────────────────────
 
-const client = new Anthropic();
+const PROVIDER_ENV_KEYS: Record<string, string> = {
+  zhipu: "ZHIPU_API_KEY",
+  openai: "OPENAI_API_KEY",
+  anthropic: "ANTHROPIC_API_KEY",
+  google: "GOOGLE_GENERATIVE_AI_API_KEY",
+};
 
-async function callClaudeWithRetry(comment: RawComment): Promise<LLMResult> {
+function resolveModel(modelStr: string): LanguageModel {
+  const colonIdx = modelStr.indexOf(":");
+  if (colonIdx === -1) {
+    throw new Error(
+      `无效的模型格式: "${modelStr}"。请使用 provider:model 格式，如 openai:gpt-4o-mini`,
+    );
+  }
+  const provider = modelStr.slice(0, colonIdx);
+  const modelName = modelStr.slice(colonIdx + 1);
+
+  switch (provider) {
+    case "zhipu":
+      return createOpenAI({
+        baseURL: process.env.ZHIPU_BASE_URL ?? "https://open.bigmodel.cn/api/paas/v4",
+        apiKey: process.env.ZHIPU_API_KEY,
+      }).chat(modelName);
+    case "openai":
+      return createOpenAI().chat(modelName);
+    case "anthropic":
+      return createAnthropic()(modelName);
+    case "google":
+      return createGoogleGenerativeAI()(modelName);
+    default:
+      throw new Error(
+        `不支持的 provider: "${provider}"。支持: zhipu, openai, anthropic, google`,
+      );
+  }
+}
+
+// ── AI 调用 ──────────────────────────────────────────
+
+async function callBatchWithRetry(
+  model: LanguageModel,
+  comments: RawComment[],
+): Promise<LLMResult[]> {
   let lastError: Error | null = null;
 
   for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
     try {
-      const response = await client.messages.create({
-        model: MODEL,
-        max_tokens: 1024,
+      const { text } = await generateText({
+        model,
+        maxOutputTokens: 8192,
         system: SYSTEM_PROMPT,
-        messages: [
-          { role: "user", content: buildUserPrompt(comment) },
-        ],
+        prompt: buildBatchUserPrompt(comments),
       });
-
-      const text = response.content
-        .filter((block): block is Anthropic.TextBlock => block.type === "text")
-        .map((block) => block.text)
-        .join("");
 
       // 清理可能的 markdown 代码块标记
       const cleaned = text
-        .replace(/^```(?:json)?\s*/i, "")
-        .replace(/\s*```\s*$/, "")
-        .trim();
+        .replace(/^[\s\S]*?```(?:json)?\s*/i, "")
+        .replace(/\s*```[\s\S]*$/, "")
+        .trim() || text.trim();
 
-      return JSON.parse(cleaned) as LLMResult;
+      let parsed = JSON.parse(cleaned);
+
+      // 如果返回单个对象而非数组（单条评论时常见），包装为数组
+      if (!Array.isArray(parsed)) {
+        parsed = [parsed];
+      }
+
+      // 校验返回数组长度是否与输入一致
+      if (parsed.length !== comments.length) {
+        throw new SyntaxError(
+          `期望返回 ${comments.length} 个结果，实际返回 ${parsed.length}`,
+        );
+      }
+
+      return parsed as LLMResult[];
     } catch (err: unknown) {
       lastError = err instanceof Error ? err : new Error(String(err));
 
@@ -181,20 +252,21 @@ async function callClaudeWithRetry(comment: RawComment): Promise<LLMResult> {
       const isRetryable =
         lastError.message.includes("rate_limit") ||
         lastError.message.includes("overloaded") ||
+        lastError.message.includes("429") ||
         lastError.message.includes("529") ||
         lastError.message.includes("500") ||
         lastError.message.includes("503");
 
       if (isRetryable && attempt < MAX_RETRIES - 1) {
         const delay = BASE_DELAY_MS * Math.pow(2, attempt) + Math.random() * 500;
-        console.warn(`  ⏳ 重试 (${attempt + 1}/${MAX_RETRIES})，等待 ${Math.round(delay)}ms...`);
+        console.warn(`  ⏳ 批次重试 (${attempt + 1}/${MAX_RETRIES})，等待 ${Math.round(delay)}ms...`);
         await sleep(delay);
         continue;
       }
 
-      // JSON 解析失败也重试一次
+      // JSON 解析失败也重试
       if (lastError instanceof SyntaxError && attempt < MAX_RETRIES - 1) {
-        console.warn(`  ⏳ JSON 解析失败，重试 (${attempt + 1}/${MAX_RETRIES})...`);
+        console.warn(`  ⏳ JSON 解析失败，重试 (${attempt + 1}/${MAX_RETRIES}): ${lastError.message}`);
         await sleep(BASE_DELAY_MS);
         continue;
       }
@@ -234,7 +306,7 @@ function sleep(ms: number): Promise<void> {
 
 // ── 单个 Issue 解析 ──────────────────────────────────
 
-async function parseIssue(raw: RawIssue): Promise<ParsedIssue> {
+async function parseIssue(model: LanguageModel, raw: RawIssue): Promise<ParsedIssue> {
   // 加载已有解析结果（增量解析）
   const parsedPath = join(PARSED_DIR, `${raw.issueNumber}.json`);
   let existing: ParsedIssue | null = null;
@@ -243,17 +315,31 @@ async function parseIssue(raw: RawIssue): Promise<ParsedIssue> {
     existing = JSON.parse(readFileSync(parsedPath, "utf-8")) as ParsedIssue;
   }
 
+  // 构建已成功解析的 commentId 集合（不包含 errors，使其可自动重试）
   const existingCommentIds = new Set<number>();
   if (existing) {
     for (const p of existing.postings) existingCommentIds.add(p.commentId);
     for (const s of existing.skipped) existingCommentIds.add(s.commentId);
-    for (const e of existing.errors) existingCommentIds.add(e.commentId);
+    // 注意：不将 errors 中的 commentId 加入集合，以便下次运行时自动重试
   }
 
-  // 过滤出需要解析的评论（排除已解析 + 被折叠的）
-  const newComments = raw.comments.filter(
-    (c) => !existingCommentIds.has(c.id) && !c.isMinimized,
-  );
+  // Issue 作者（ruanyf）的评论是每月汇总帖，非招聘内容，直接跳过
+  const ISSUE_AUTHOR = "ruanyf";
+
+  // 过滤出需要解析的评论（排除已成功解析 + 被折叠的 + issue 作者的汇总帖）
+  const skippedAuthor: SkippedComment[] = [];
+  const newComments = raw.comments.filter((c) => {
+    if (existingCommentIds.has(c.id) || c.isMinimized) return false;
+    if (c.author === ISSUE_AUTHOR) {
+      skippedAuthor.push({
+        commentId: c.id,
+        author: c.author,
+        reason: "[other] Issue 作者汇总帖，跳过",
+      });
+      return false;
+    }
+    return true;
+  });
 
   if (newComments.length === 0) {
     console.log(`  [${raw.issueNumber}] 无新增评论，跳过`);
@@ -267,66 +353,93 @@ async function parseIssue(raw: RawIssue): Promise<ParsedIssue> {
   }
 
   console.log(
-    `  [${raw.issueNumber}] ${raw.yearMonth} — 共 ${raw.comments.length} 条评论，新增 ${newComments.length} 条`,
+    `  [${raw.issueNumber}] ${raw.yearMonth} — 共 ${raw.comments.length} 条评论，待解析 ${newComments.length} 条`,
+  );
+
+  // 将评论按 BATCH_SIZE 分组
+  const batches: RawComment[][] = [];
+  for (let i = 0; i < newComments.length; i += BATCH_SIZE) {
+    batches.push(newComments.slice(i, i + BATCH_SIZE));
+  }
+
+  console.log(
+    `    分为 ${batches.length} 个批次（每批最多 ${BATCH_SIZE} 条）`,
   );
 
   const newPostings: JobPosting[] = [];
   const newSkipped: SkippedComment[] = [];
   const newErrors: { commentId: number; error: string }[] = [];
 
-  let processed = 0;
+  let processedBatches = 0;
 
-  await withConcurrency(newComments, MAX_CONCURRENCY, async (comment, _idx) => {
+  await withConcurrency(batches, MAX_CONCURRENCY, async (batch, _idx) => {
     try {
-      const result = await callClaudeWithRetry(comment);
+      const results = await callBatchWithRetry(model, batch);
 
-      if (result.type === "hiring") {
-        const posting: JobPosting = {
-          id: `${raw.issueNumber}-${comment.id}`,
-          issueNumber: raw.issueNumber,
-          commentId: comment.id,
-          yearMonth: raw.yearMonth,
-          author: comment.author,
-          rawContent: comment.body,
-          company: result.company,
-          companyType: result.companyType ?? undefined,
-          positions: result.positions,
-          location: result.location,
-          isRemote: result.isRemote ?? false,
-          isOverseas: result.isOverseas ?? false,
-          salaryRange: result.salaryRange ?? undefined,
-          techStack: result.techStack ?? [],
-          experienceReq: result.experienceReq ?? undefined,
-          educationReq: result.educationReq ?? undefined,
-          contact: result.contact ?? undefined,
-        };
-        newPostings.push(posting);
-      } else {
-        newSkipped.push({
-          commentId: comment.id,
-          author: comment.author,
-          reason: `[${result.type}] ${result.reason}`,
-        });
+      for (let i = 0; i < batch.length; i++) {
+        const comment = batch[i];
+        const result = results[i];
+
+        if (result.type === "hiring") {
+          const posting: JobPosting = {
+            id: `${raw.issueNumber}-${comment.id}`,
+            issueNumber: raw.issueNumber,
+            commentId: comment.id,
+            yearMonth: raw.yearMonth,
+            author: comment.author,
+            rawContent: comment.body,
+            company: result.company,
+            companyType: result.companyType ?? undefined,
+            positions: result.positions,
+            location: result.location,
+            isRemote: result.isRemote ?? false,
+            isOverseas: result.isOverseas ?? false,
+            salaryRange: result.salaryRange ?? undefined,
+            techStack: result.techStack ?? [],
+            experienceReq: result.experienceReq ?? undefined,
+            educationReq: result.educationReq ?? undefined,
+            contact: result.contact ?? undefined,
+          };
+          newPostings.push(posting);
+        } else {
+          newSkipped.push({
+            commentId: comment.id,
+            author: comment.author,
+            reason: `[${result.type}] ${result.reason}`,
+          });
+        }
       }
     } catch (err: unknown) {
+      // 整个批次失败时，将批次内所有评论记录为错误
       const msg = err instanceof Error ? err.message : String(err);
-      console.error(`  ❌ 评论 ${comment.id} 解析失败: ${msg}`);
-      newErrors.push({ commentId: comment.id, error: msg });
+      console.error(`  ❌ 批次解析失败 (${batch.length} 条评论): ${msg}`);
+      for (const comment of batch) {
+        newErrors.push({ commentId: comment.id, error: msg });
+      }
     }
 
-    processed++;
-    if (processed % 10 === 0 || processed === newComments.length) {
-      console.log(`    进度: ${processed}/${newComments.length}`);
-    }
+    processedBatches++;
+    const processedComments = Math.min(processedBatches * BATCH_SIZE, newComments.length);
+    console.log(`    进度: ${processedComments}/${newComments.length} 条评论（${processedBatches}/${batches.length} 批次）`);
   });
 
-  // 合并已有结果和新结果
+  // 收集本次重试成功的 commentId 和跳过的作者 commentId
+  const resolvedIds = new Set<number>();
+  for (const p of newPostings) resolvedIds.add(p.commentId);
+  for (const s of newSkipped) resolvedIds.add(s.commentId);
+  for (const s of skippedAuthor) resolvedIds.add(s.commentId);
+
+  // 合并已有结果和新结果，从旧 errors 中移除已解决的 commentId
+  const remainingOldErrors = (existing?.errors ?? []).filter(
+    (e) => !resolvedIds.has(e.commentId),
+  );
+
   const result: ParsedIssue = {
     issueNumber: raw.issueNumber,
     yearMonth: raw.yearMonth,
     postings: [...(existing?.postings ?? []), ...newPostings],
-    skipped: [...(existing?.skipped ?? []), ...newSkipped],
-    errors: [...(existing?.errors ?? []), ...newErrors],
+    skipped: [...(existing?.skipped ?? []), ...newSkipped, ...skippedAuthor],
+    errors: [...remainingOldErrors, ...newErrors],
   };
 
   return result;
@@ -335,10 +448,17 @@ async function parseIssue(raw: RawIssue): Promise<ParsedIssue> {
 // ── 主流程 ────────────────────────────────────────────
 
 async function main() {
-  if (!process.env.ANTHROPIC_API_KEY) {
-    console.error("错误: 请设置 ANTHROPIC_API_KEY 环境变量");
+  const modelStr = process.env.AI_MODEL ?? DEFAULT_MODEL;
+  const provider = modelStr.split(":")[0];
+  const envKey = PROVIDER_ENV_KEYS[provider];
+
+  if (envKey && !process.env[envKey]) {
+    console.error(`错误: 请设置 ${envKey} 环境变量（当前模型: ${modelStr}）`);
     process.exit(1);
   }
+
+  const model = resolveModel(modelStr);
+  console.log(`使用模型: ${modelStr}\n`);
 
   if (!existsSync(RAW_DIR)) {
     console.error(`错误: 原始数据目录不存在: ${RAW_DIR}`);
@@ -364,7 +484,7 @@ async function main() {
 
   for (const file of files) {
     const raw = JSON.parse(readFileSync(join(RAW_DIR, file), "utf-8")) as RawIssue;
-    const result = await parseIssue(raw);
+    const result = await parseIssue(model, raw);
 
     // 保存结果
     const outPath = join(PARSED_DIR, `${result.issueNumber}.json`);

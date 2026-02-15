@@ -14,14 +14,18 @@
     "cf:preview": "wrangler pages dev ./dist"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.74.0",
+    "@ai-sdk/anthropic": "^3.0.44",
+    "@ai-sdk/google": "^3.0.29",
+    "@ai-sdk/openai": "^3.0.29",
     "@astrojs/svelte": "^7.2.5",
     "@octokit/rest": "^22.0.1",
     "@tailwindcss/vite": "^4.1.18",
+    "ai": "^6.0.86",
     "astro": "^5.17.2",
     "echarts": "^6.0.0",
     "svelte": "^5.50.3",
-    "tailwindcss": "^4.1.18"
+    "tailwindcss": "^4.1.18",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@types/node": "^25.2.3",

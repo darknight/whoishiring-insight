@@ -1,0 +1,1491 @@
+{
+  "issueNumber": 1392,
+  "yearMonth": "2020-09",
+  "postings": [
+    {
+      "id": "1392-681341124",
+      "issueNumber": 1392,
+      "commentId": 681341124,
+      "yearMonth": "2020-09",
+      "author": "ronething-bot",
+      "rawContent": "### 三七互娱 2021 届校园招聘\r\n\r\n面向对象：2021 届毕业生\r\n\r\n工作地点：广州/武汉/成都\r\n\r\n#### 投递方式：\r\n\r\n- 登录 [zhaopin.37.com](https://zhaopin.37.com)，找到合适的岗位进行简历投递，内推码 **N5ODM5** \r\n- 也可参考图中的内推方式\r\n\r\n期待大家的加入🍻\r\n\r\n#### 注：**社招**也可用此内推码哦\r\n\r\n<details open>\r\n<summary>点击折叠/展开查看更多详情</summary>\r\n\r\n![image](https://user-images.githubusercontent.com/47621124/89800775-cc0df980-db61-11ea-8665-d40a062edcf3.png)\r\n\r\n![image](https://user-images.githubusercontent.com/47621124/89800855-e5af4100-db61-11ea-8569-a1169bb8f5f9.png)\r\n\r\n</details>\r\n\r\n#### 投递方式：\r\n\r\n- 登录 [zhaopin.37.com](https://zhaopin.37.com)，找到合适的岗位进行简历投递，内推码 **N5ODM5** \r\n- 也可参考图中的内推方式\r\n\r\n期待大家的加入🍻\r\n\r\n#### 注：**社招**也可用此内推码哦\r\n",
+      "company": "三七互娱",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "校园招聘岗位",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "广州",
+        "武汉",
+        "成都"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "experienceReq": "2021届毕业生",
+      "contact": "zhaopin.37.com，内推码：N5ODM5"
+    },
+    {
+      "id": "1392-683523039",
+      "issueNumber": 1392,
+      "commentId": 683523039,
+      "yearMonth": "2020-09",
+      "author": "wangshaoyuan",
+      "rawContent": "AliExpress-高级前端工程师/专家（P6/7/8），HC充足！内推流程！周内解决！\r\n简历投递方式：shaoyuan.wangsy@alibaba-inc.com(请标注来自ruanyf-weekly)\r\n岗位描述：\r\n作为阿里国际化进程中的核心技术力量，负责全球B端，C端业务前端技术，关注全球用户体验，赋能业务提供更好的买卖家服务，目前服务200+国家，拥有数十个研发平台，包含AE，lazada, 天猫国际等多个全球化链路，我们包含国际化最全的前端技术分类，技术空间全面且广大，包含搭投中台，导购中台，国际化小程序，国际B端解决方案，国际C端解决方案，国际化业务已成为集团的核心战略。\r\n岗位职责:\r\n1. 参与跨平台的应用开发，包括 Web, Mobile Web, 及跨端技术，负责产出高质量的技术产品；\r\n2. 充分理解产品和设计需求，负责AliExpress WWW Site & Mobile Site的产品化过程的落地和实施；\r\n3. 学习研究业界的前沿技术，并迅速转化到未来潜在的业务或技术项目中；\r\n4. 与团队成员分享项目经验和业界新技术的应用，和团队一同成长。\r\n5. Participate in cross-platform application development, including Web, Mobile, and Hybrid, responsible for producing high-quality technology products;\r\n6. Fully understand the requirements of product and design, taking responsibility for AliExpress WWW Site & Mobile Site;\r\n7. Equip yourself of the cutting-edge technology of the industry, and turn it into potential projects;\r\n8. Gladly share project experience and new technology with team members, and grow together with them.\r\n岗位要求：\r\n1. 精通HTML、CSS、Javascript，热衷浏览各类网页的源代码；\r\n2. 熟练掌握Java、NodeJS、Python等任意一种或多种后端语言，并有实际的项目经验；\r\n3. 深谙 MV* 模式，熟悉AMP、AngularJs、ReactJS、VueJS、Polymer等任意一种前端 UI 框架，一定程度了解其原理；\r\n4. 熟悉主流浏览器特性，乐于探究和解决各种类型的兼容性问题。\r\n5. 英语能流畅沟通者优先。\r\n6. Proficient in HTML, CSS, and Javascript, extremely keen to browse the source code of various web pages;\r\n7. Acquainted with one or more backend developing languages such as Java, NodeJS, Python, or others, especially with practical project experience would be preferred;\r\n8. Well versed in MV* design pattern, familiar with one of the front-end UI frameworks, which can be either AMP, AngularJs, ReactJS, VueJS, Polymer, or any other frameworks, a certain degree of understanding how it works is requisite;\r\n9. Familiar with the characteristics of the mainstream browsers, willing to explore and solve various types of compatibility issues.\r\n工作地点：杭州/深圳/西班牙/法国/新加坡",
+      "company": "阿里巴巴",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "高级前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "前端专家",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州",
+        "深圳",
+        "西班牙",
+        "法国",
+        "新加坡"
+      ],
+      "isRemote": false,
+      "isOverseas": true,
+      "techStack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Java",
+        "NodeJS",
+        "Python",
+        "AMP",
+        "AngularJS",
+        "ReactJS",
+        "VueJS",
+        "Polymer"
+      ],
+      "experienceReq": "有实际项目经验",
+      "contact": "shaoyuan.wangsy@alibaba-inc.com"
+    },
+    {
+      "id": "1392-683250876",
+      "issueNumber": 1392,
+      "commentId": 683250876,
+      "yearMonth": "2020-09",
+      "author": "limoon7",
+      "rawContent": "<h1>京东7FRESH业务部 H5&小程序组招前端开发~</h1>\r\n\r\n**职位描述:** 前端开发工程师\r\n\r\n**职位要求：**\r\n\r\n1、计算机相关专业本科以上，3年以上前端开发经验，电商相关经验优先。\r\n2、精通各种Web前端开发技术，对符合Web标准的网站重构有丰富的经验，有成功作品。\r\n3、掌握Js语言，ES6+，对JS框架（jQuery、Vue、React）有实际项目经验。\r\n4、对Css/Js性能优化、解决多浏览器兼容问题有一定经验。\r\n5、有基于Node的常见构建工具如Webpack的实际项目经验。\r\n6、具备良好的服务意识、责任心及学习能力、优秀的团队沟通与协作能力。\r\n\r\n其他要求：具备团队精神、乐于助人、善于沟通、随和，能适应跨部门协作开发。\r\n\r\n工作地址：北京亦庄大族广场\r\n\r\n联系方式： **limoon7@163.com**\r\n\r\n**有意请直接发简历到邮箱，邮件标题：姓名 + 应聘职位 + 来源 github**\r\n",
+      "company": "京东7FRESH",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "JavaScript",
+        "ES6+",
+        "jQuery",
+        "Vue",
+        "React",
+        "CSS",
+        "Webpack",
+        "Node.js"
+      ],
+      "experienceReq": "3年以上前端开发经验，计算机相关专业本科以上",
+      "educationReq": "本科以上",
+      "contact": "limoon7@163.com"
+    },
+    {
+      "id": "1392-683537038",
+      "issueNumber": 1392,
+      "commentId": 683537038,
+      "yearMonth": "2020-09",
+      "author": "youzanhr",
+      "rawContent": "公司介绍：\r\n有赞是一个商家服务公司，SaaS软件服务商，港股上市公司，目前员工近4000人，产研占比近三分之一，腾讯，百度战略投资（连续投资2亿美金），快手战略合作。去年营收10亿+，今年上半年GMV达462亿人民币，我们帮助商家服务了超过4亿的消费者，每天处理百万级的订单和几亿条信息。\r\n \r\n我们的关键词：SaaS 电商 商家服务 有你有赞\r\n \r\nPS你们最关心的内部工作强度的真实情况来了：双休，弹性工作制，不打卡，工作节奏较快，加班情况视个人工作进展而定，周三家庭日鼓励陪伴家人朋友，下班较早。晚上9点后企业打车报销，无需走繁琐的报销流程。\r\n\r\n我们面临的挑战和场景：\r\n复杂多变的业务场景和客户：我们服务540多万商家，覆盖150多个行业类目，2019年达成近650亿的交易额，6万/秒的订单处理速度；\r\n一同探索研发企业级业务开发框架：跳出纯业务开发的角色去思考提炼业务共性，突破技术职位边界的可能性，横跨整个技术侧cover业务的机会。\r\n\r\n加入有赞的方式：\r\n1、官网：https://job.youzan.com/apply/youzan/3750#/\r\n2、HR邮箱：sunfeiyan@youzan.com；huweiyun@youzan.com（写明投递职位和简历哦）\r\n3、Boss/拉勾/猎聘\r\n\r\n我们的业务团队：\r\n电商:负责有赞微商城相关所有线上业务场景，涉及面广，从分销员体系到教育产品、同城电商产品、创新业务板块，业务场景最丰富的。\r\n技术中台：对资源效率、网站稳定性、研发效率、研发质量以及公司办公效率负责。沉淀底层通用技术能力，提供底层基础服务，打造一流PaaS平台。\r\n零售：致力于为零售商家交付高可用高效率的零售SaaS软件，复杂的商家后台管理工具、丰富的门店收银场景。打通线上线下，构建全渠道一体化的管理方案来帮助商家提升效率和降低成本，并通过数据化工具和智能营销插件帮助商家管理好新老顾客、提升单客经济。\r\n有赞云：云平台团队由原来java框架团队进化而成，负责有赞最底层的技术+最抽象的业务。我们喜欢：玩最潮的技术，解决最有深度的技术问题，拿最炫的成果。技术达人，是团队每个同学身上的标签。在这里，小伙伴每天都在接受新的挑战。\r\n此外还有业务中台团队，连锁，资产管理等。\r\n\r\n我们要什么样的人：\r\n本次诚挚募集前端开发工程师/技术专家，基本要求一般是：本科学历4年及以上前端开发经验；硕士学历3年及以上前端开发经验；当然如果你觉得自己是聪明/皮实/有要性，对有赞很有兴趣，同样欢迎优秀的你加入！\r\n\r\n什么样的经验和技能会更加吃香呢？\r\n\r\n技术基础扎实，熟悉react或vue，熟悉nodejs，熟悉 Webpack 及前端工程化。\r\n加分项：\r\n1. 在做业务过程中有技术产出；\r\n2. 有良好的业务抽象、架构设计能力；\r\n3. 有长期持续优化改进某一技术或业务；\r\n4. 有大型系统架构经验，开发过大型后台系统。\r\n\r\n公司福利：\r\n团建活动，境内游、境外游、吃喝玩乐等随你挑健康福利；\r\n年度带家人一起免费体检，专属的有赞医生，关爱你和家人的健康\r\n休假福利，带薪年假7天起；\r\n餐补福利，月享专属有赞E卡补贴让你刷；\r\n社团活动，舞蹈、骑行、读书等20多个俱乐部等你来参加福利还不够？\r\n生日礼、周年礼、生育礼、节日家属礼等丰厚礼包等你拿！\r\n\r\n关注以下公众号，带你更深入了解有赞：\r\n【有赞说】：分享有赞商家做生意的先进经验。\r\n【有赞coder】：有赞技术官方公众号，分享有赞技术干货。\r\n【有赞招聘】：有赞招聘动态信息。\r\n【白鸦】：有赞创始人的公众号。\r\n \r\n媒体报道：\r\nhttps://mp.weixin.qq.com/s/zNKr2v3bkoYCfPzrNsFtUA《假如回到2012年，你是否也能创造一个有赞？》\r\nhttps://mp.weixin.qq.com/s/ppNRERAXzSjjFK6Xw7ME3Q《零售数字化“新基建”，有赞缘何成为「主推手」？》\r\n",
+      "company": "有赞",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "前端技术专家",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React",
+        "Vue",
+        "Node.js",
+        "Webpack"
+      ],
+      "experienceReq": "本科学历4年及以上前端开发经验；硕士学历3年及以上前端开发经验",
+      "educationReq": "本科及以上",
+      "contact": "sunfeiyan@youzan.com, huweiyun@youzan.com, https://job.youzan.com/apply/youzan/3750#/"
+    },
+    {
+      "id": "1392-683534559",
+      "issueNumber": 1392,
+      "commentId": 683534559,
+      "yearMonth": "2020-09",
+      "author": "shatuo-sai",
+      "rawContent": "<img src=\"https://akcdn.bangcdn.net/cms/yunlanicon.png\" width=\"100\">\r\n<h1>成都云览科技社招前端开发</h1>\r\n<b>base: </b>成都 - 高新区天府三街 - 腾讯大厦B座\r\n<br>\r\n<br>\r\n<b>公司介绍: </b>\r\n<br>\r\n云览科技是由腾讯和传音于2020年4月成立的合资公司，是一家专注全球化互联网发展的科技公司。云览科技致力于为全球用户搭建数字内容连接入口，帮助全球用户获取优质数字内容。\r\n<br>\r\n<br>\r\n核心产品是主打非洲市场的凤凰浏览器。凤凰浏览器业务遍及200多个国家和地区，覆盖“一带一路”沿线65个国家，产品支持超过25种国际语言，作为中国互联网出海“一带一路”的践行者一直在努力，目前凤凰浏览器已经成为非洲、中东、拉美等新兴市场的“国民应用”。\r\n<br>\r\n<br>\r\n团队核心成员均来自腾讯，目前团队和产品都处于高速发展阶段，如果你热爱技术，相信极客精神；如果你不甘平庸，梦想改变世界；如果你讨厌复杂，喜欢简单直接；那么欢迎加入成都云览。\r\n<br>\r\n<br>\r\n<b>联系方式: </b>\r\n<a href=\"mailto:1152534558@qq.com\" target=\"_blank\">1152534558@qq.com</a>\r\n<br>\r\n<br>\r\n<b>职位诱惑: </b>\r\n\r\n<br>\r\n1. 前端业务包含H5，中台系统，数据可视化平台，Node后端服务。全栈覆盖，可发挥空间大。<br>\r\n2. 团队大牛多，技术栈保持前沿，技术氛围好，鼓励对新技术的尝试。<br>\r\n3. 业务高速增长，有较多直接面向线上用户的Node服务，项目的复杂度和挑战性能给予开发人员快速的成长。\r\n<br>\r\n<br>\r\n\r\n<b>岗位要求: </b>\r\n1. 计算机相关专业本科以上学历；\r\n2. 对前端基础知识、性能优化、安全、网络原理等有自己的理解；\r\n3. 有一定的server端开发经验（不限于node，其他后端语言亦可）；\r\n4. 具备良好的学习能力、沟通能力和解决问题能力；\r\n5. 工作主动积极，有责任感，有把事情做到极致的追求。\r\n\r\n<b>加分项: </b>\r\n1. 有大型平台型系统的架构经验；\r\n2. 有数据可视化经验。\r\n\r\n<b>岗位职责: </b>\r\n1. 负责凤凰浏览器里面向C端用户的前端页面，并不断优性能，提升用户体验；\r\n2. 开发并维护业务类的node后台服务；\r\n3. 负责内部CMS系统、数据平台的开发和维护；\r\n4. 岗位偏全栈，可独立负责一块完整的业务。\r\n",
+      "company": "云览科技",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端开发",
+          "category": "全栈"
+        }
+      ],
+      "location": [
+        "成都"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "H5",
+        "Node.js",
+        "数据可视化"
+      ],
+      "experienceReq": "有一定的server端开发经验，具备良好的学习能力、沟通能力和解决问题能力",
+      "educationReq": "计算机相关专业本科以上",
+      "contact": "1152534558@qq.com"
+    },
+    {
+      "id": "1392-683579009",
+      "issueNumber": 1392,
+      "commentId": 683579009,
+      "yearMonth": "2020-09",
+      "author": "jinyumec",
+      "rawContent": "## [杭州 可远程] 秘猿科技 招聘全栈工程师/开发者关系/前端开发工程师\r\n\r\n关于秘猿\r\n---\r\n杭州秘猿科技有限公司（Cryptape Co.,Ltd.）的使命是用技术创造信任，为未来数字世界构建新的基础设施和服务。秘猿科技成立于 2016 年 ，2017 年获得招银国际战略投资，是一家以纯研究与工程为导向的技术公司，在区块链领域实力深厚。\r\n\r\n我们具有丰富的区块链生态实践经验。从 2011 年开始参与或主导各种区块链项目，包括世界第一个开源的数字资产交易平台貔貅 Peatio；星火矿池 Spark pool； 以太坊 Ethereum；以太坊爱好者社区 Ethfans； 开源区块链底层内核 CITA ；与招商银行等主流金融机构进行的金融+区块链合作；以及现在正在开发的 Nervos CKB 和 Muta 等等，涵盖了区块链生态的各个方面。\r\n\r\n我们具有深厚的区块链技术研发和工程实力。首席架构师谢晗剑曾是由 Vitalik Buterin 所领导的以太坊 (Ethereum) 研究团队中唯一的中国成员，参与设计了包括 Casper 在内的以太坊下一代核心算法，后带领团队设计并实现了中国第一个开源高性能区块链 CITA 及新一代公有链 Nervos CKB，撰写了多篇区块链研究及技术文章并提出了“公有许可链”（又称“开放联盟链”）的概念。首席科学家张韧博士毕业于鲁汶大学 COSIC 实验室，长期专注于区块链共识协议、安全和隐私研究，在国际顶级密码学及区块链会议上发表过多篇论文，曾在 Blockstream 与 Pieter Wuillie 和 Gregory Maxwell 共同工作。首席产品官王博为原中钞区块链研究院产品总监，曾设计参与多个重大区块链项目。\r\n\r\n我们一直奉行开放和开源的精神，坚信透明是信任的基础，开源是区块链的基石，所有项目代码均在 Github 开源。我们与国内外多家研究机构及团队建立了长期的合作关系和良好的交流通道，无条件的与合作伙伴分享研究成果。\r\n\r\n\r\n* 公司官网：https://www.cryptape.com \r\n* 招聘地址：https://www.cryptape.com/join\r\n* 我们的代码：https://www.cryptape.com/code\r\n\r\n招聘岗位\r\n---\r\n### 全栈工程师\r\n#### 工作内容\r\n* 在Nervos CKB生态系统中设计和构建新的dapp\r\n* 探索Nervos CKB dapp的最佳实践方案\r\n* 与内部开发团队合作，以增强工具以及整个Nervos生态系统\r\n#### 最低要求\r\n* 1-2年的软件开发经验\r\n* 精通至少一种编程语言，例如JavaScript / TypeScript，Go，Java，Rust等\r\n* 虽然不是必需的技能，但您需要在工作时使用JavaScript / TypeScript进行编码\r\n* 良好的团队合作和沟通能力\r\n#### 加分项\r\n* 有开源项目的经验\r\n* 有区块链相关经验\r\n* 开源库维护者优先\r\n\r\n### 开发者关系／布道师\r\n#### 工作内容\r\n* 在Nervos CKB生态系统中探索和构建各种dapp\r\n* 参与各种不同的技术活动，并发表演讲，从而达到推广的目的\r\n* 与内部和外部团队合作，改善Nervos社区的格局\r\n#### 最低要求\r\n*  1年以上软件开发领域经验\r\n* 精通至少一种编程语言，例如JavaScript / TypeScript，Go，Java，Rust等\r\n* 出色的团队合作和沟通能力\r\n#### 加分项\r\n* 有开源项目的经验\r\n* 有区块链相关经验\r\n* 有在技术会议上进行演讲或进行编程相关的直播活的经验\r\n* 知名社区影响者优先\r\n\r\n### 前端开发工程师\r\n\r\n#### 工作内容\r\n\r\n* 负责相关产品的前端技术方案设计选型\r\n* 负责将服务端数据与表现层交互渲染\r\n* 负责区块链周边工具开发\r\n\r\n#### 任职要求\r\n\r\n* 至少三年程序开发经验\r\n* 熟悉 React 技术栈，以及周边 Redux (or MobX) / Ant Design (or Material-UI) \r\n* 熟悉 GraphQL，了解相关的最佳实践 (如 Relay pagination / connection 等)\r\n* 熟悉 TypeScript，了解如何编写易于类型推断的代码，并熟悉 tsc 的一系列相关配置\r\n* 拥有良好的工程能力，有一定的模块化开发经验，熟悉 Webpack / Babel 配置，或熟悉 Lerna / Yarn workspace 相关的 monorepo 开发模式\r\n* 有一定后端开发经验，熟悉 Express (or Koa / NestJS) + 数据库的 HTTP API 开发过程\r\n\r\n#### 加分项\r\n\r\n* 熟悉区块链技术原理，或者有 Dapp 开发经验\r\n* 有浏览器插件或桌面应用开发经验\r\n* 了解 Rust 语言\r\n* 为开源社区有过贡献项或者拥有自己的个人博客\r\n\r\n\r\n**更多招聘信息可查看官网招聘地址：https://www.cryptape.com/join**\r\n\r\n**简历投递邮箱 join@cryptape.com，投递简历请备注来自 github**",
+      "company": "秘猿科技",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "全栈工程师",
+          "category": "全栈"
+        },
+        {
+          "title": "开发者关系/布道师",
+          "category": "其他"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州",
+        "远程"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "Java",
+        "Rust",
+        "React",
+        "Redux",
+        "MobX",
+        "Ant Design",
+        "Material-UI",
+        "GraphQL",
+        "Webpack",
+        "Babel",
+        "Lerna",
+        "Yarn",
+        "Express",
+        "Koa",
+        "NestJS"
+      ],
+      "experienceReq": "全栈工程师1-2年；开发者关系1年以上；前端工程师3年以上",
+      "contact": "join@cryptape.com"
+    },
+    {
+      "id": "1392-685238215",
+      "issueNumber": 1392,
+      "commentId": 685238215,
+      "yearMonth": "2020-09",
+      "author": "noahziheng",
+      "rawContent": "# [杭州/阿里巴巴集团]淘系技术部-前端技术 前端技术专家/高级前端开发工程师\r\n\r\n## 团队描述：\r\n- 淘系前端行业&轻店业务负责了3个大的业务板块：\r\n   - **天猫行业&优品**\r\n      - 我们支撑着服饰、快消、消电、家装4大个淘系垂直行业的快速发展。在消费者侧我们负责酷玩星球、全球时尚、天猫美食，亲宝贝等数十个前台导购场，同时我们提供了搭配、定制、AR、3D等创新行业产品。在技术上我们建设了千机变行业业务平台和灵活的物料供给平台织网，并通过前端FAAS的方式，重塑前端对业务的支撑模式。我们将和业务深度结合，将前端物料智能生产体系、人群化运营能力、AB能力，数据化运营模式打通，赋能业务在用户增长策略上的沉淀，打造快速灵活支撑全行业多样化需求的行业平台。\r\n   - **轻店**\r\n      - 轻店是针对新零售（线上+线下）商家，建立一套服务全域运营的店体系，它基于小程序技术体系，具有低入驻门槛、跨端投放&协同运营的特征\r\n      - 轻店的业务产品包括消费者侧的轻店小程序和商家侧工具。轻店小程序包括品牌、个人、码商等各种类型，服务于各类型核心的消费场景。商家侧包含工作台、全渠道、云POS、智能导购等，为商家提供高效的运营工具。基于业务场景，孵化出了小程序装修、轻店平台等技术产品，同时结合集团nodefaas基础能力，做轻店的服务承接，一体化的cover业务，探索前后端协作新模式\r\n   - **淘小铺**\r\n      - 淘小铺是淘系新打造的社交电商业务，属于S(供应商)2B(渠道商)2C(消费者)模式，商家入驻供货商后台发布商品，用户通过淘小铺APP或者手淘轻应用入驻成为小铺掌柜后，可分享销售淘小铺商品，普通消费者通过分享链接在手淘端完成购买，掌柜可获取到一定的佣金。\r\n      - 基于阿里小程序体系，我们打造了B端/C端小程序，建设覆盖淘内淘外的分享链路，以及专门突破微信封锁的多域名分享体系。目前累计已有300W+的掌柜数，整体业务规模属于行业第一梯队，充分利用社交电商去中心化，获客成本低的特点，为淘系带来额外的流量增量和GMV增量\r\n\r\n## 岗位描述：\r\n\r\n1. **业务领域** —— 建设天猫从消费者导购到品牌商家系统全链路各类产品，体验每年全球瞩目双11狂欢节，加入尽情施展才华的舞台；\r\n1. **技术驱动** —— 从极致的Mobile体验、前端工程化开发、企业级中台应用、可视化编程、3D/AR创新交互，到大规模NodeJS应用等等，拥有足够的挑战及机遇；\r\n\r\n## 岗位要求：\r\n\r\n1. 精通各种前端技术（包括HTML/CSS/JavaScript等），熟悉ES6语法，具备跨终端（Mobile+PC）的前端开发能力，熟悉网络协议（HTTP/SSL），熟悉常见安全问题和对策；\r\n1. 熟悉前端工程化与模块化开发，并有实践经验（如gulp/webpack、VueJS/React等）；\r\n1. 至少熟悉一门非前端的语言（如NodeJS/Java/PHP/C/C++/Python/Ruby等），并有实践经验；\r\n1. 对前端技术有持续的热情，良好的团队协作能力，提升团队研发效率，实现极致性能，通过创新交互优化产品体验；\r\n1. 加分项（满足其一即可）：具备客户端能力或者Native&Web技术融合经验；熟悉Canvas动效&WebGL3D以及各种传感器技术；复杂企业后台应用开发经验；数据可视化产品设计开发经验；大规模/高负载场景下NodeJS应用开发、运维经验；良好的算法背景，对机器学习有研究和项目实施经验；有独立的开源项目或者参与知名开源项目经验；团队管理能力；英语沟通能力；\r\n\r\n简历投递： ziheng.gzh@alibaba-inc.com\r\n",
+      "company": "阿里巴巴集团",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端技术专家",
+          "category": "前端"
+        },
+        {
+          "title": "高级前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ES6",
+        "Vue.js",
+        "React",
+        "Webpack",
+        "Gulp",
+        "Node.js",
+        "Canvas",
+        "WebGL",
+        "3D",
+        "AR"
+      ],
+      "experienceReq": "精通前端技术，熟悉前端工程化，至少熟悉一门非前端语言，有跨终端开发能力",
+      "contact": "ziheng.gzh@alibaba-inc.com"
+    },
+    {
+      "id": "1392-684532624",
+      "issueNumber": 1392,
+      "commentId": 684532624,
+      "yearMonth": "2020-09",
+      "author": "jieruizhiwen",
+      "rawContent": "[北京 上元信安] 上元信安  招聘测试工程师/c语言工程师/前端开发工程师（应届生也都有hc）\r\n关于上元信安\r\n北京上元信安技术有限公司，成立于2015年，是一家致力于解决云计算、物联网等新业务场景下安全问题的国家级高新技术企业，是国内专业的云安全产品和解决方案提供商。\r\n\r\n上元在云安全防护、下一代防火墙、SDN、网络攻防等方面积累多年。产品线涵盖云安全、网络安全等领域，拥有云安全防护系统-护云、SD-WAN解决方案-矩阵、下一代防火墙、入侵防御系统、上网行为管理系统等系列安全产品。\r\n\r\n企业创始人：郑曙光，2003年毕业于哈尔滨工程大学，工学硕士。历任港湾网络路由器产品开发经理，启明星辰安全网关产品线研发总经理。 领导开发了启明星辰UTM，防火墙，IPS的全系列网关产品。后创立北京思普峻技术有限公司，任CEO兼研发总监，使之发展成为国内最大的防火墙OEM厂商。2015年初再次创业，创建北京上元信安技术有限公司。\r\n\r\n公司官网：http://www.sunyainfo.com/\r\n\r\n招聘岗位\r\n**我们欢迎位有想法 有活力的 应届生实习生~~~ 岗位很多，篇幅有限，如有意向 可以随时发送邮件~~**\r\n\r\n**[测试工程师（我们同样欢迎有想法的应届生实习生~~）]**\r\n工作内容\r\n负责公司产品测试\r\n工作要求\r\n1.计算机，通信工程相关专业本科以上学历；\r\n2.精通TCP/IP、2/3层交换、VPN等协议；\r\n3.熟悉python，tcl，perl等语言\r\n4.熟悉应用层协议http、smtp、sip等\r\n5.熟悉测试理论，测试方法。\r\n6.良好的自我学习和管理能力，有良好的沟通能力，工作积极主动，能够承担工作压力。\r\n\r\n**[c语言研发工程师]**\r\n岗位职责：\r\n1. 负责转发功能模块的开发和维护工作；\r\n2. 负责新功能需求的开发设计工作；\r\n服从团队安排的其他任务。\r\n任职资格：\r\n1.有网关类产品开发工作经验；\r\n2.熟悉基本转发原理；\r\n3.有独立分析处理问题能力；\r\n4.有产品开发工作经验，熟悉C语言；\r\n5.对Linux系统有一定了解；\r\n6.有一定网络基础知识，熟悉网络配置，了解TCP/IP协议栈\r\n\r\n**[矩阵高级研发工程师]**\r\n本科以上学历，3年以上研发经验；\r\n专业要求\r\n1、精通JAVA语言开发,具有扎实的Java功底，对JVM的原理有一定的了解，具有较好的Java IO、多线程、网络等方面的编程能力；\r\n2、深入了解spring，mybatis，spring mvc，mysql，jvm等系统的架构设计和代码实现；\r\n3、熟悉ES、Kafka, Redis等，熟悉常规的分布式架构，熟悉缓存、消息队列等开源中间件。\r\n工作职责\r\n1、负责SD-WAN产品相关模块的概要设计，完成代码编写，编写相应的技术文档；\r\n2、参与新技术及解决方案评估决策；参与产品的技术方案设计；\r\n综合素质:\r\n1、热爱技术研发，快速的学习能力，注重代码质量，有良好的软件工程知识和编码规范意识；\r\n2、良好的沟通能力，思路清晰，善于思考，能独立分析和解决问题；\r\n3、强烈的责任心和团队合作精神，良好的抗压能力，心态积极，能主动融入团队；\r\n4、有云技术、网络及信息安全方面的经验优先 \r\n\r\n**[python 研发工程师]**\r\n岗位职责：\r\n1、负责云安全产品护云产品的开发和维护；\r\n2、针对不同的业务场景和需求，设计出较好的技术方案并实现。\r\n技能要求：\r\n1、3年以上python/Java工作经验，本科及以上学历；有网络安全， 云计算相关开发; 扎实的解决问题能力\r\n2、熟练掌握python和java语言, 在此基础上熟悉nodejs，有项目经验的优先;\r\n2、使用过vmware esxi， 掌握命令行，有vsphere API开发经验优先\r\n3、Java基础扎实，熟悉常见框架（Spring，MyBatis等）；熟练使用MySQL等主流数据库的优先;\r\n3、熟练掌握数据结构，多线程编程和常用的设计模式，熟悉并理解常见分布式系统框架及解决方案(如ELK、Redis等）；\r\n4、解二三层网络和路由器，交换机方面技术加分；\r\n\r\n\r\n更多招聘信息可查看招聘地址：https://www.zhipin.com/job_detail/?query=%E4%B8%8A%E5%85%83%E4%BF%A1%E5%AE%89&city=101010100&industry=&position=\r\n\r\n简历投递邮箱 hr01@cryptape.com，投递简历请备注来自 github\r\n\r\n欢迎各位小伙伴投递简历~~~ ",
+      "company": "北京上元信安技术有限公司",
+      "companyType": "国企",
+      "positions": [
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "C语言研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "矩阵高级研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Python研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C语言",
+        "Python",
+        "Java",
+        "JavaScript",
+        "TCP/IP",
+        "VPN",
+        "HTTP",
+        "SMTP",
+        "SIP",
+        "Linux",
+        "Spring",
+        "MyBatis",
+        "Spring MVC",
+        "MySQL",
+        "Elasticsearch",
+        "Kafka",
+        "Redis",
+        "JVM",
+        "Node.js",
+        "VMware ESXi",
+        "vSphere API"
+      ],
+      "experienceReq": "应届生、实习生均可；高级研发工程师要求3年以上研发经验；Python研发工程师要求3年以上Python/Java工作经验",
+      "educationReq": "本科以上学历",
+      "contact": "hr01@cryptape.com"
+    },
+    {
+      "id": "1392-685630348",
+      "issueNumber": 1392,
+      "commentId": 685630348,
+      "yearMonth": "2020-09",
+      "author": "ihzq81",
+      "rawContent": "[上海/深圳] 鸿芯微纳 招聘软件研发和测试工程师\r\n\r\n深圳鸿芯微纳技术有限公司成立于2018年1月，注册资本11亿，是一家致力于打造数字芯片设计实现全流程的中国EDA公司，以实现EDA工具本土自主研发为使命。\r\n\r\n通过内部开发和对外合作并举，经过艰苦攻关，2019年9月鸿芯微纳发布了国内第一款布局布线EDA工具，并于2020年7月成功完成了先进工艺复杂芯片的流片，**获得了包括国内头部IC设计公司在内的商业客户的认可**。中国产业界多位权威人士均认为鸿芯微纳已经成为中国公司在数字芯片设计实现流程中的一个现实可行的重要选择。\r\n\r\n公司成立两年多来，引进了一批海内外高端人才组建顶尖研发和市场团队，研发团队97%以上为美国、英国、德国、日本、中国香港和内地985、211名校毕业的硕士、博士，并拥有EDA行业十多年的研发经验，公司技术专家、大咖云集。\r\n\r\n公司文化好，技术氛围好，同时我们将提供行业内一流的薪酬和一流的福利。来吧，加入我们，让我们一起为国产EDA之崛起而奋斗！\r\n\r\n### 2021届新生校招火热进行中\r\n\r\n- C++开发工程师，包括前端逻辑综合（Synthesis），后端布局布线（Place & Route）以及仿真（Signoff Analysis）\r\n- 软件测试工程师\r\n- Javascript开发工程师（偏前端）\r\n\r\n更多详情，参见下方海报。\r\n\r\n[校招海报](https://mp.weixin.qq.com/s?__biz=Mzg5MTA3MjM3OQ==&mid=2247484762&idx=1&sn=73492edba4fdebc10c110ebfe32cda5a&chksm=cfd3bf4ef8a4365810c6aabe9faa67a8b6019aa1ce725cd8033a0232c879bff6e2b57f45b853&scene=126&sessionid=1599043710&key=4024143df9a90d6c72dd4e6e107afd2daaef633294504797a6da74a2cfbd3509749bb9aaad4e260859e7fbf6aa7aa72ca1ca5f84300e9f4d2e9995755ddb0380fdb1282124eb78a7aa95eaf6289d84fb2b0a70a18e7ebed05cb8c9197a87d70d81e63aaeaaa82a0911562d4d50c0be517117009d47439aca9f9a35c0020f6738&ascene=1&uin=ODQ4MTg2OTAw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ATwq35x%2BlnrHMQJus9Xf92A%3D&pass_ticket=BGQrKJmPutjncahaqhJhcyzOYkK%2F4%2FG6qAjkuvrW%2BuX1MPqY9yRhClqwHATBVZnY&wx_header=0)\r\n\r\n### 简历投递\r\n官方邮箱 hr@giga-da.com, 内推邮箱：qzhao@giga-da.com\r\n备注github",
+      "company": "鸿芯微纳",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "C++开发工程师（前端逻辑综合）",
+          "category": "后端"
+        },
+        {
+          "title": "C++开发工程师（后端布局布线）",
+          "category": "后端"
+        },
+        {
+          "title": "C++开发工程师（仿真）",
+          "category": "后端"
+        },
+        {
+          "title": "软件测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "Javascript开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "上海",
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C++",
+        "Javascript",
+        "EDA"
+      ],
+      "experienceReq": "2021届新生（应届毕业生）",
+      "contact": "hr@giga-da.com, qzhao@giga-da.com"
+    },
+    {
+      "id": "1392-686330266",
+      "issueNumber": 1392,
+      "commentId": 686330266,
+      "yearMonth": "2020-09",
+      "author": "bruceli",
+      "rawContent": "# 【西安】 翼辉信息招聘\r\n\r\n翼辉信息是中国拥有大型实时操作系统完整自主知识产权的高科技企业，技术团队拥有十年以上嵌入式系统设计经验，专注为自主可控导向的领域提供专业解决方案。\r\n公司主要产品为 SylixOS 自主实时操作系统，此系统于二零零六年开始研发，经过多年的持续开发与改进，SylixOS 自主实时操作系统已经成为一个功能全面，稳定可靠，易于开发的实时系统平台。\r\n目前，翼辉信息正成为国内高可靠性、高性能实时软件开发平台的引领者，翼辉信息的专家们在实时操作系统领域为客户提供专业的硬软件综合解决方案，保障客户产品实时可靠、信息安全，缩短客户产品开发周期，降低客户产品开发成本，并提高客户产品自主化率。翼辉信息的解决方案覆盖网络设备、国防安全、工业自动化、轨道交通、电力、医疗、航空航天、汽车电子等诸多领域。\r\n\r\n翼辉西安研发中心位于锦业路中铁西安中心，交通便利，办公环境一流，公司工程师文化氛围浓厚，薪资优越，福利好，成长空间巨大，现面向社会招聘以下技术岗位。\r\n\r\n## 高级前端工程师\r\n\r\n工作职责\r\n\r\n1. 负责跨浏览器、移动端 H5 应用开发；\r\n2. 跟踪研究前端先进技术，参与前端技术平台构建与完善；\r\n3. 参与技术文档与产品手册编写;\r\n4. 参与公司新产品研发与组织工作。\r\n\r\n任职资格：\r\n\r\n1. 计算机相关专业本科以上学历，5年以上工作经验。\r\n2. 熟练掌握 (css3 + html + js)，深入了解 js 语言机制，熟悉 ES6，TypeScript;\r\n3. 熟悉jQuery，熟悉Bootstrap框架；\r\n4. 熟练掌握一种或多种主流前端应用框架(Vue/Angular)、 UI 框架、可视化组件；\r\n5. 具有良好的英语阅读能力。 熟悉 HTTP 协议，了解 WebSocket, Socket.io 技术；\r\n6. 熟悉 RESTful 风格，熟悉前端工程构建技术，了解前端一般开发流程与协作模式；\r\n7. 编程功底扎实，独立开发过前端应用组件者优先；\r\n8. 了解 Node.js，熟悉前端构建技术；\r\n9. 对产品设计与用户体验有强烈兴趣和系统理解者优先。\r\n\r\n## 嵌入式工程师\r\n\r\n工作职责 :\r\n\r\n1. 深入学习操作系统内核设计，寻求技术创新突破；\r\n2. 参与板卡BSP驱动的研发（设计、编码、测试、文档）；\r\n3. 参与客户定制项目的研发，输出规范化的交付内容；\r\n4. 参与航空航天、电力、轨道交通、机器人和工业自动化等领域的软件架构和系统行为设计，输出行业解决方案。\r\n\r\n任职资格及要求 :\r\n\r\n1. 计算机、电子、通信、自动化等相关专业，本科及以上学历；\r\n2. 热爱编程，基础扎实，熟悉 C/C++ 语言和数据结构；\r\n3. 至少了解常见的计算机体系结构，如ARM、x86、MIPS、PowerPC、TI DSP等中的一种；\r\n4. 熟悉常见的CPU外设或接口，如TIMER、UART、I2C、SPI、DMA、LCD、CAN等；\r\n5. 具备良好的沟通表达能力及较强的团队合作意识；\r\n6. 了解 SylixOS、VxWorks、Linux 内核、嵌入式操作系统RTOS者优先考虑。\r\n\r\n## 高级 NodeJS 工程师\r\n\r\n工作职责：\r\n\r\n1. 理解公司云端业务系统的业务需求，负责系统架构的设计和开发；\r\n2. 制定技术规范，编写技术文档，参与团队组织工作。\r\n\r\n任职资格及要求：\r\n\r\n1. 计算机相关专业本科以上学历\r\n2. 2年以上Javascript开发\r\n3. 扎实的计算机基础和网络基础\r\n4. Linux命令行环境\r\n5. pub/sub, websocket\r\n6. 熟悉 Redis、MongoDB、MySQL 等存储系统原理及应用\r\n7. 英语文档阅读写作能力\r\n8. 开放的学习心态，积极饱满的工作态度\r\n9. 加分项 C++* CI/CD经验 * Typescript * Serverless * 容器编排\r\n\r\n## 高级 DevOps 工程师\r\n\r\n工作职责 :\r\n\r\n1. 云服务监控系统开发\r\n2. ECS管理\r\n3. CI/CD流水线 \r\n4. 容器编排\r\n\r\n任职资格及要求 :\r\n\r\n1. 计算机相关专业本科以上学历，4年以上工作经验。\r\n2. 扎实的计算机基础知识\r\n3. 扎实的计算机网络知识\r\n4. 熟悉Linux命令行环境\r\n5. 英语文档阅读写作能力\r\n6. 开放的学习心态\r\n7. 积极饱满的工作态度\r\n8. 熟悉至少一种脚本语言\r\n9. 加分项 * 阿里云运维管理经验 * CI/CD经验 * Nodejs/Serverless * Dockerfile * k8s\r\n\r\n\r\n工作地址: 西安 - 高新技术产业开发区 - 锦业路中铁西安中心10层\r\n\r\n联系方式: liqiang@acoinfo.com",
+      "company": "翼辉信息",
+      "companyType": "国企",
+      "positions": [
+        {
+          "title": "高级前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "嵌入式工程师",
+          "category": "其他"
+        },
+        {
+          "title": "高级NodeJS工程师",
+          "category": "后端"
+        },
+        {
+          "title": "高级DevOps工程师",
+          "category": "DevOps"
+        }
+      ],
+      "location": [
+        "西安"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "HTML",
+        "CSS3",
+        "JavaScript",
+        "ES6",
+        "TypeScript",
+        "jQuery",
+        "Bootstrap",
+        "Vue",
+        "Angular",
+        "Node.js",
+        "C",
+        "C++",
+        "ARM",
+        "x86",
+        "MIPS",
+        "PowerPC",
+        "Redis",
+        "MongoDB",
+        "MySQL",
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Serverless",
+        "WebSocket",
+        "Socket.io",
+        "RESTful",
+        "SylixOS",
+        "VxWorks"
+      ],
+      "experienceReq": "高级前端工程师：5年以上；高级NodeJS工程师：2年以上；高级DevOps工程师：4年以上",
+      "educationReq": "本科及以上学历",
+      "contact": "liqiang@acoinfo.com"
+    },
+    {
+      "id": "1392-685319975",
+      "issueNumber": 1392,
+      "commentId": 685319975,
+      "yearMonth": "2020-09",
+      "author": "jack0pan",
+      "rawContent": "# GrowingIO 2021 届校招和社招都在进行！！！\r\nGrowingIO （北京易数科技有限公司）是基于用户行为数据的增长平台，国内领先的数据运营解决方案供应商。为产品、运营、市场、数据团队及管理者等，提供客户数据平台、获客分析、产品分析、智能运营等产品和咨询服务，帮助企业在数据化升级的路上，提升数据驱动能力，实现更好的增长。\r\nGrowingIO 专注于零售、电商、金融、酒旅航司、教育、内容社区、B2B等行业，成立以来，服务上千家企业级客户，获得迪奥、安踏、喜茶、招商仁和人寿、上汽集团、东航、春航、首旅如家、陌陌、滴滴、爱奇艺、新东方等客户的青睐。\r\nGrowingIO 帮助客户提升数据驱动能力，实现更好的增长。\r\n\r\n## 老板是啥样\r\n\r\n- [CEO 张溪梦 Simon Zhang：LinkedIn大佬张溪梦的前世今生](https://www.leiphone.com/news/201509/cPvKrMq3LsPWHMYn.html)\r\n- [CTO 叶玎玎 Dingding Ye：浙大出身，离国赴美，却只钟情 GrowingIO](https://www.jianshu.com/p/be5d27ff97a0)\r\n- [销售VP 吴继业 Jonathan Wu](https://www.linkedin.com/in/jiyewu/)\r\n\r\n## 技术硬不硬\r\n\r\n- [GrowingIO 微服务 SaaS 与私有部署运行实践](https://xie.infoq.cn/article/f2fe62b274e9edf985ecc221b)\r\n- [如何基于 BitMap 进行海量数据分析](https://xie.infoq.cn/article/53103702b1882915c6e16ed85)\r\n- [Android 无埋点从入门到放弃：了解 Java 字节码](https://xie.infoq.cn/article/6c7f02a8ffb52a85d7a49b2a3)\r\n\r\n## 校招\r\n\r\n<details open>\r\n<summary>点击折叠/展开</summary>\r\n\r\n### 招聘流程\r\n\r\n网申（8.10-10.30）——笔试（8月中旬起）——面试（8月下旬起）——offer（8月下旬起）\r\n\r\n### 我们诚招\r\n\r\n- 前端开发工程师（北京、杭州）\r\n- 服务端开发工程师（北京、杭州）\r\n- 大数据开发工程师（北京）\r\n\r\n更多职位详情请见官网：https://www.growingio.com/joinus/campus\r\n\r\n### 简历投递方式\r\n\r\n1. 官网网申：https://www.growingio.com/joinus/campus 简历投递成功后可在官网自主查询进度！\r\n2. 内推：找 GrowingIO 内部小伙伴推荐简历，内推简历可免筛选直达用人部门！\r\n</details>\r\n\r\n## 社招\r\n\r\n<details open>\r\n<summary>点击折叠/展开</summary>\r\n\r\n### 我们诚招\r\n#### 产品&设计\r\n跟国内最酷的数据团队学习如何打造高能产品，和来自世界各行业设计牛人交流设计心得，为即将成为无所不能的产品经理和高能设计师的你打造最坚实的基础！\r\n\r\n- 交互设计师（北京）\r\n- 产品经理（北京）\r\n- 数据产品经理（北京）\r\n\r\n#### 工程研发\r\n跟国内最极客的大数据团队玩转Spark，和各种技术高手学习江湖失传已久的技术秘籍，我们以技术为核心不断激发创造的灵感火花！把最好的机会留给最聪明的你！\r\n\r\n- 前端开发工程师（北京、杭州）\r\n- 服务端开发工程师（北京、杭州）\r\n- 大数据开发工程师（北京、杭州）\r\n- DevOps（北京）\r\n\r\n更多职位详情请见官网：https://www.growingio.com/joinus/job\r\n\r\n### 简历投递方式\r\n\r\n1. 官网网申：https://www.growingio.com/joinus/campus 简历投递成功后可在官网自主查询进度！\r\n2. 内推：找 GrowingIO 内部小伙伴推荐简历，内推简历可免筛选直达用人部门！\r\n</details>\r\n\r\n## 内推邮箱\r\n\r\npanjie@growingio.com\r\n\r\n> 备注来自于 GitHub\r\n",
+      "company": "GrowingIO（北京易数科技有限公司）",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "服务端开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "大数据开发工程师",
+          "category": "数据"
+        },
+        {
+          "title": "DevOps",
+          "category": "DevOps"
+        },
+        {
+          "title": "交互设计师",
+          "category": "设计"
+        },
+        {
+          "title": "产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "数据产品经理",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "北京",
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "Spark",
+        "BitMap",
+        "Android",
+        "微服务",
+        "SaaS"
+      ],
+      "contact": "panjie@growingio.com, https://www.growingio.com/joinus/campus, https://www.growingio.com/joinus/job"
+    },
+    {
+      "id": "1392-685276830",
+      "issueNumber": 1392,
+      "commentId": 685276830,
+      "yearMonth": "2020-09",
+      "author": "huxiaonb",
+      "rawContent": "# **[珠海] 猎豹移动/豹趣科技 招聘 服务端开发工程师/前端开发工程师/C++开发/产品经理/产品总监/游戏BI系统开发**\r\n\r\n公司官网：https://www.cmcm.com/  \r\n                   http://www.cheetahfun.com/\r\n### [高级产品经理-北京-国际广告业务部]\r\n工作职责：\r\n1、更新、维护内外部现有的B端产品工具平台，不断迭代升级，提升产品价值；\r\n2、结合业务战略目标，策划和统筹新产品的整体规划，对客户体验、产品价值负责；\r\n3、协调研发、设计、运营，建立合作机制和工作标准，把控产品品质；\r\n4、为团队引入前沿方法、理念、技术洞察，使产品团队在出海营销服务相关领域形成体系化的认知。\r\n任职资格：\r\n1、本科及以上学历，3年B端产品设计经验；\r\n2、具备 0-1 的完整 B 端产品设计经验，熟悉 B 端产品的商业运营模式，有复杂业务系统经验、Saas经验优先；\r\n3、深刻了解出海行业状态及市场动态，能够从需求和价值出发进行决策；\r\n4、能够抽丝剥茧，把握事情本质，在复杂的环境下快速解决问题；\r\n5、具有强烈的好奇心和热情；\r\n6、善于整合资源，快速推动产品落地、发展。\r\n\r\n\r\n### [Java工程师-北京]\r\n工作职责：\r\n1.大学本科以上学历，5年以上java web 服务端开发经验\r\n2.参与项目的需求分析，负责产品、项目、数据库的设计开发工作。\r\n3.精通微服务应用架构设计，并具备大型项目实践经验，有实际的微服务应用落地经验;\r\n4.对 Spring Cloud、Spring Boot、Dubbo、MVC，MyBatis、WebSocket等框架有较深的理解和实际项目使用经验。\r\n5.熟练掌握主流数据存储：MySql、redis 、memcached 、MQ、ES、etcd 、ZK等。\r\n6.精通分布式数据库架构，以及数据库性能优化经验。有过亿级以上数据存储优化经验，\r\n7.熟练使用 python、java、javascript、typescript、shell编程语言。\r\n8.对java JVM 有深入的理解，有过JVM性能调优的实际项目经验\r\n9.对Linux系统有深入的理解，在linux系统上有过实际的应用开发\r\n10.具有 K8S、docker大型系统两年以上使用经验。能对Kubernetes落地方案规划设计、系统优化和疑难问题解决\r\n11.具有强烈的责任心，能够承受压力，思路清晰、善于思考、能独立分析和解决问题\r\n12.有过大型教育架构设计经验者优先\r\n\r\n### [C++开发工程师]\r\n工作职责：\r\n1、负责金山毒霸、猎豹浏览器、驱动精灵等PC客户端软件功能的开发工作；\r\n2、进行更具应用价值的新产品和新技术的研发。\r\n任职资格：\r\n1、1年以上Windows平台开发经验；\r\n2、精通C/C++ 开发；\r\n3、熟悉常用数据结构、算法、设计模式；\r\n4、熟悉Windows系统机制；\r\n5、思维清晰有条理，注重实施、结果和细节，抗压能力强；\r\n6、有参与开源项目经验的优先；\r\n7、有第三方界面库开发经验者优先；\r\n8、熟悉最新c++特性及标准者优先。\r\n\r\n\r\n### [C++驱动开发工程师]\r\n工作职责：\r\n负责事项：金山毒霸安全功能相关的开发、维护工作，增强产品功能。\r\n任职资格：\r\n1、3年及以上相关工作经验，擅长 C/C++；\r\n2、熟悉 Windows 内核（了解常规 api 实现原理）、熟悉网络过滤驱动（WFP、TDI）及文件过滤驱动（MiniFilter）；\r\n3、了解 Windows 的相关机制，进程、线程、内存管理、通信机制、权限控制等；\r\n4、熟悉使用 VS 开发工具，并具备一定的逆向分析和调试能力，能独立将问题分析透彻；\r\n5、良好的沟通功能和责任心，对前沿技术有追求；\r\n6、加分项：具备公共组件开发经验、有相关安全产品\\项目的开发经验。\r\n\r\n\r\n### [服务端开发工程师]\r\n工作职责：\r\n负责微信小程序和APP的后台开发。\r\n任职资格：\r\n1、对于JAVA/Go/PHP/Python/C，最少有一门语言基础扎实，并以此工作2年以上；\r\n2、了解Hadoop、Hbase、Hive、Spark等部署、性能调优；\r\n3、理解Hadoop,Spark体系架构，并有相当开发经验；\r\n4、熟悉IO、多线程、进程间通信等基础知识，熟悉分布式、缓存等机制；\r\n5、熟悉服务端常用开源框架；\r\n6、熟悉Linux，能够熟练地在Linux下跟踪问题；\r\n7、对技术有强烈兴趣，具备良好沟通和团队协作能力。\r\n\r\n\r\n### [前端开发工程师]\r\n工作职责：\r\n1、参与Web/Hybrid/浏览器等类型的前端开发工作；\r\n2、设计核心产品的前端架构，并协同团队实现并持续优化；\r\n3、优化前端开发方式及协作流程，创建技术标准及规范，并孜孜不倦的布道；\r\n4、为前后端技术改进、网站性能优化、技术选型提供解决方案；\r\n5、参与团队的技术成长目标、计划并帮助实施，提升整体技术水平。\r\n任职资格：\r\n1、5年以上前端开发的工作经验，有大型项目的前端架构部署和实践经验；\r\n2、掌握现有前端核心技术，持续关注业界的新话题和新技术；\r\n3、重视团队协作，愿意探寻和改进目前还不成熟的前端开发流程，了解各种常用工具；\r\n4、热爱前端技术，个性乐观开朗，逻辑性强，善于和各种背景的人沟通合作；\r\n5、具备服务端开发能力如NodeJS、Python等开发经验者优先；\r\n6、有自己的技术产品、开源作品或活跃的开源社区贡献者优先。\r\n\r\n\r\n### [产品总监]\r\n工作职责：\r\n1、参与公司产品目标规划，负责项目产品团队的管理及运营工作。挖掘用户需求，优化用户体验，持续提升产品的产品价值和用户体验；\r\n2、负责公司产品前后台的功能设计及流程优化；\r\n3、协调组织开发、UX、测试等部门人员各类资源，达成产品目标；\r\n4、负责产品的跨部门、跨公司的沟通合作；\r\n5、产品运营数据分析、配合运营、市场活动策划和执行。\r\n任职资格：\r\n1、有大型互联网产品的成功案例，5年以上产品经验、至少2年以上团队管理经验。有知名项目产品经验的优先考虑；\r\n2、对用户体验和界面有深入充分的理解，到位的互联网产品感觉；\r\n3、熟悉互联网的web、客户端和手机产品的实现过程 ；\r\n4、有成体系的产品方法论，深刻理解用户及商业模式 ；\r\n5、主动积极，有担当，有创新意识。\r\n\r\n\r\n### [产品经理]\r\n工作职责：\r\n1、调研用户需求，收集用户数据，对用户行为进行分析和研究；\r\n2、负责产品规划、产品功能、产品需求的定义和管理；\r\n3、跟进产品的整个设计开发进程，推动、控制、协调产品的开发与发布；\r\n4、分析行业及竞品产品，跟踪最新发展趋势，竞争对手调研；\r\n5、处理部门间沟通与协调，推动和配合公司对产品的运营及发展。\r\n任职资格：\r\n1、本科以上学历，2年以上互联网产品工作经验；\r\n2、数据敏感，结果导向，逻辑严谨，注重体验，善于发现、分析并解决问题；\r\n3、自我驱动，执行力强，出色的沟通和表达能力，具备高度责任心和抗压能力；\r\n4、具备PRD需求文档撰写、产品原型设计能力、基础交互能力；\r\n5、有相机特效、内容平台、工具类产品相关经验优先。\r\n\r\n\r\n### [北京-游戏BI系统开发]\r\n工作职责：\r\n1、日常主要开发游戏获客与变现数据AI智能分析系统，\r\n2、对接各渠道数据接口并维护其稳定性, 并透过AI技术开发分析工具对于游戏推广回收能提供预测与运营建议\r\n任职资格：\r\n1、具有服务端全站式(Full Stack)技术经验者，有过Node.js， mongodb， vue.js开发经验者尤佳\r\n2、具有游戏行业BI系统开发经验者尤佳\r\n3、具有AI框架使用经验者尤佳\r\n4、具有英文基本沟通能力者尤佳\r\n5、有责任感，能自我驱动，愿意接受工作上的挑战者\r\n\r\n另有[员工关系管理]/[测试工程师]/[海外推广经理]/[商业运营] 等职位开放\r\n\r\nHR邮箱：cm_zhhr@cmcm.com 备注github推荐\r\n内推邮箱：huxiaonb@qq.com \r\n欢迎投递！",
+      "company": "猎豹移动/豹趣科技",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "高级产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "Java工程师",
+          "category": "后端"
+        },
+        {
+          "title": "C++开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "C++驱动开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "服务端开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "产品总监",
+          "category": "产品"
+        },
+        {
+          "title": "产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "游戏BI系统开发",
+          "category": "数据"
+        },
+        {
+          "title": "员工关系管理",
+          "category": "其他"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "海外推广经理",
+          "category": "运营"
+        },
+        {
+          "title": "商业运营",
+          "category": "运营"
+        }
+      ],
+      "location": [
+        "珠海",
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "Spring Cloud",
+        "Spring Boot",
+        "Dubbo",
+        "MyBatis",
+        "WebSocket",
+        "MySQL",
+        "Redis",
+        "Memcached",
+        "Elasticsearch",
+        "etcd",
+        "ZooKeeper",
+        "Kubernetes",
+        "Docker",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Shell",
+        "C++",
+        "C",
+        "Windows",
+        "Linux",
+        "Node.js",
+        "MongoDB",
+        "Vue.js",
+        "Go",
+        "PHP",
+        "Hadoop",
+        "HBase",
+        "Hive",
+        "Spark"
+      ],
+      "experienceReq": "高级产品经理3年B端产品经验；Java工程师5年以上；C++开发1年以上；C++驱动开发3年以上；服务端开发2年以上任一语言；前端开发5年以上；产品总监5年以上产品经验、2年以上团队管理；产品经理2年以上互联网产品经验",
+      "educationReq": "本科及以上",
+      "contact": "cm_zhhr@cmcm.com, huxiaonb@qq.com"
+    },
+    {
+      "id": "1392-690797442",
+      "issueNumber": 1392,
+      "commentId": 690797442,
+      "yearMonth": "2020-09",
+      "author": "fty1990",
+      "rawContent": "# [杭州/抖音电商] 前端/后端 大量招人\r\n\r\n> 社招、校招均有。具体链接:\r\n[前端/社招](https://job.toutiao.com/s/JBoYKwM)\r\n[后端/社招](https://job.toutiao.com/s/JBo1yRw)\r\n[IM服务端/社招](https://job.toutiao.com/s/JBohCYK)\r\n也可以邮箱 fengtianyi@bytedance.com 联系我.\r\n\r\n## 前端：\r\n职位描述\r\n1、负责头条核心级商业产品的前端研发工作，包括C端产品以及B端中后台系统的前端架构设计、开发与优化，覆盖Web应用、多端组件库、数据可视化等多个方向；\r\n2、参与公司前端工程化体系建设，逐步提升研发效率、研发质量，通过前端技术的不断产出驱动业务的发展；\r\n3、与产品经理、设计师、后端工程师一起，提升产品的用户体验，打造卓越的互联网产品；\r\n4、关注前端前沿技术发展，能够将新知识传递给团队，并且转化到潜在项目中。\r\n职位要求\r\n1、扎实的计算机基础知识，熟悉常用的数据结构与算法，并能在日常研发中灵活使用；\r\n2、深入理解Web前端开发技术，包括HTML/CSS/JavaScript等\r\n3、掌握至少一种主流前端框架，有实际项目研发经验；\r\n4、熟悉网站性能优化，了解浏览器实现原理；\r\n5、熟悉交互设计理论，能够将优秀的交互设计落地到产品中；\r\n6、能够独立完成一个复杂模块或项目的研发工作；\r\n7、具备较强的责任感、团队合作精神、逻辑思维能力和表达能力。\r\n\r\n如果您具备以下资格，我们会优先考虑：\r\n1、具备多端(Web/Node.js/Native)开发能力；\r\n2、具有React Native或者小程序开发经验；\r\n3、深入理解组件化开发，有UI自动化搭建系统研发经验；\r\n4、自我驱动，学习能力较强，性格活泼开朗；\r\n5、有开源作品或者技术博客。\r\n\r\n## 后端：\r\n职位描述\r\n1、探索字节系平台（抖音、火山抖音版、今日头条、西瓜等）内容电商业务模式，承担系统的设计开发维护工作；\r\n2、负责用户侧、后台的服务器端开发；\r\n3、对现有架构、性能进行优化。\r\n职位要求\r\n1、精通Java/Golang/PHP中的一种或者多种语言，有较强的架构能力和良好代码规范；\r\n2、熟悉GNU Linux，熟悉SQL，并了解常用的SQL优化技巧、熟悉MySQL，并掌握常用性能优化技巧；\r\n3、熟悉Memcached或Redis、MongoDB等NoSQL技术，有大规模系统设计和开发经验者优先；\r\n4、学习能力强，具备良好的问题分析和解决能力，对新技术有敏感性并愿意致力于新技术研究；\r\n5、质量意识高，对项目质量追求完美；\r\n6、沟通能力强，良好的团队合作精神；\r\n7、计算机、通讯、数学等相关专业统招本科以上学历，有短视频/电商相关经验者优先。\r\n\r\n职位描述\r\n1、负责电商IM相关后台研发，API等系统的方案设计和实施；\r\n2、持续改善已有服务，发现系统薄弱点；\r\n3、负责高质量的设计和编码，承担重点、难点的技术攻坚；\r\n4、参与产品讨论和开发实现。\r\n职位要求\r\n1、精通PHP/Go开发，或者有意向转Go，有较强的架构能力和良好代码规范；\r\n2、精通GNU Linux，熟悉SQL，并了解常用的SQL优化技巧；熟悉MySQL，并掌握常用性能优化技巧；\r\n3、熟悉Memcached或Redis、MongoDB等NoSQL技术，有大规模系统设计和开发经验者优先；\r\n4、学习能力强，具备良好的问题分析和解决能力，对新技术有敏感性并愿意致力于新技术研究；\r\n5、质量意识高，对项目质量追求完美；\r\n6、沟通能力强，良好的团队合作精神；\r\n7、计算机、通讯、数学等相关专业统招本科以上学历。\r\n\r\n",
+      "company": "字节跳动/抖音电商",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "后端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "IM服务端工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "React Native",
+        "Node.js",
+        "小程序",
+        "Java",
+        "Golang",
+        "Go",
+        "PHP",
+        "Linux",
+        "MySQL",
+        "Redis",
+        "Memcached",
+        "MongoDB"
+      ],
+      "experienceReq": "社招、校招均有；有短视频/电商相关经验者优先",
+      "educationReq": "统招本科以上学历（计算机、通讯、数学等相关专业）",
+      "contact": "fengtianyi@bytedance.com, https://job.toutiao.com/s/JBoYKwM, https://job.toutiao.com/s/JBo1yRw, https://job.toutiao.com/s/JBohCYK"
+    },
+    {
+      "id": "1392-691866466",
+      "issueNumber": 1392,
+      "commentId": 691866466,
+      "yearMonth": "2020-09",
+      "author": "lxyzk",
+      "rawContent": "# [北京][深圳][杭州][前端][客户端][服务端][渲染引擎][算法][社招][实习][字节跳动]开发者生态(字节小程序)团队大量招人\r\n\r\n> [社招内推链接](https://job.toutiao.com/s/JSawNGP)\r\n> [实习内推链接](https://job.toutiao.com/s/JSmhgrN)\r\n> 或[邮箱联系](mailto://liuxiangxin@bytedance.com)\r\n\r\n## 团队介绍\r\n我们是负责字节跳动小程序中台的开发与建设团队。团队对内面向各字节系App，对外面向小程序、小游戏开发者。致力于丰富字节跳动内容生态，同时向开发者提供丰富的平台，更好地连接内容与服务，为用户提供更流畅的拓展体验。\r\n\r\n## iOS开发工程师   (北京、广东-深圳)\r\n  - 负责字节跳动开放平台和开发者业务的iOS端研发工作；\r\n  - 负责SDK核心框架、组件、API能力设计、优化与研发；\r\n  - 负责为内外部开发者提供入驻字节系产品的解决方案；\r\n  - 参与大前端前沿技术研究，跨平台研发领域、渲染引擎、JS引擎、浏览器内核领域预研和共建。\r\n\r\n## 前端开发工程师（北京、杭州、深圳）\r\n  - 负责字节跳动开放平台业务的前端研发工作；\r\n  - 参与开发SDK核心框架、组件、API能力的设计、研发与优化；\r\n  - 负责开发者工具的设计研发；\r\n  - 排查分析开发者使用中遇到的问题，并提供技术支持。\r\n\r\n## 前端开发工程师(小游戏)  （深圳）\r\n  - 负责Web小游戏的JS SDK的技术迭代和开发；\r\n  - 紧密配合客户端、引擎团队，负责开放JSSDK组件、API能力的设计、研发与优化；\r\n  - 为公司内部开发者提供入住字节系产品的解决方案，与核心开发者/厂商共同构建字节跳动小游戏生态；\r\n  - 参与大前端前沿技术研究，跨平台开发领域、渲染引擎、JS引擎、浏览器内核领域预研与共建。\r\n\r\n## Android开发工程师  （北京、深圳）\r\n  - 负责字节跳动开发平台和开发者生态业务的Android端研发工作；\r\n  - 参与开发SDK核心框架、组件、API能力的设计、研发与优化；\r\n  - 负责为内外部开发者提供入驻字节系产品的解决方案；\r\n  - 参与大前端前沿技术研究，跨平台开发领域、渲染引擎、JS引擎、浏览器内核领域预研与共建。\r\n\r\n## 后台开发工程师 （北京、深圳）\r\n  - 负责字节跳动小程序国内和国际化业务服务端相关工作，包括但不限于基础能力建设，内容抓取、导流分部与平台建设；\r\n  - 负责持续改善已有服务，优化系统薄弱环节；\r\n  - 完善基础组件支持，更好地支撑业务迭代。\r\n\r\n## 推荐算法工程师  （深圳）\r\n  - 负责小程序在抖音、头条等App的推荐算法，直接参与抖音、头条的推荐算法工作，搭建完善的小程序推荐系统；\r\n  - 负责推荐召回、排序相关算法优化，持续提供小程序分发效率；\r\n  - 深入理解用户行为，通过数据挖掘技术，建立并完善小程序基础模块建设。\r\n\r\n## 客户端开发工程师  （杭州）\r\n  - 负责移动端跨平台绘制框架的框架设计，研发和优化；\r\n  - 负责项目的进度跟踪和管理；\r\n  - 负责包括性能优化、内存泄漏等在内的疑难问题的攻关和解决。\r\n\r\n## 渲染引擎开发工程师  （北京、深圳、杭州）\r\n  - 负责字节跳动开放平台业务的相关研发工作；\r\n  - 负责开放SDK核心渲染引擎的设计、研发与优化；\r\n    - 使用C++实现Canvas2D、WebGL 及WebAudio API\r\n    -  集成V8 jsc等 JavaScript 引擎；\r\n    -  实现音视频采集、硬编码、2D、3D渲染；\r\n    - 对接开发者，定位和解决开发过程中遇到的问题。",
+      "company": "字节跳动",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "iOS开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "前端开发工程师(小游戏)",
+          "category": "前端"
+        },
+        {
+          "title": "Android开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "后台开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "推荐算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "客户端开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "渲染引擎开发工程师",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "北京",
+        "深圳",
+        "杭州",
+        "广东"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "JavaScript",
+        "TypeScript",
+        "iOS",
+        "Android",
+        "Java",
+        "C++",
+        "Canvas2D",
+        "WebGL",
+        "WebAudio",
+        "V8",
+        "JSC",
+        "React"
+      ],
+      "contact": "liuxiangxin@bytedance.com, https://job.toutiao.com/s/JSawNGP, https://job.toutiao.com/s/JSmhgrN"
+    },
+    {
+      "id": "1392-693770429",
+      "issueNumber": 1392,
+      "commentId": 693770429,
+      "yearMonth": "2020-09",
+      "author": "coolnameismy",
+      "rawContent": "阿里云IoT事业部  前端web工程师/nodejs工程师/java工程师 或技术专家，p6-p7,base杭州，\r\n\r\n团队介绍\r\n • 物联网是互联网下一个时代的新蓝海，或产生百亿的设备连接和上亿规模的物联网应用，我们是阿里云IoT（物联网事业部解决方案研发部前端团队，业务目标主要是:\r\n• 面向智慧城市、智能制造、智慧农业、智慧园区、智慧地产、全屋智能、智慧社区等领域建设物联网行业及平台\r\n• 面向物联网应用构建基础设施，包括物联网应用托管、应用分发、应用集成、应用中心等，为物联网蓝海建设生态\r\n\r\n团队风格\r\n•关注团队中的个人成长，技术氛围浓厚，简化流程和规范，充分给予空间和机会\r\n\r\n工作职责\r\n• 解决方案业务的前端支撑和业务推动\r\n• IoT研发基础设施建设\r\n• 结合IoT领域设计规范，建设基础组件和领域模块。（pc/h5/小程序）\r\n• 建设前端应用集成框架 \r\n• 建设CaaS服务（组件即服务），对内外赋能\r\n• 面向IoT领域技术先进性建设，如物联网可视化、数字孪生等\r\n\r\n岗位要求\r\n1、精通JavaScript，Web、h5、小程序，react，react生态等前端开发技术，或nodejs/java开发，服务器开发相关技术\r\n2、有良好的架构设计能力，良好的编码习惯，有解决复杂问题的能力\r\n3、有数据可视化、前端组件库、前端技术框架经验者优先\r\n4、有物联网相关领域研发经验者优先\r\n\r\n能力要求\r\n• 聪明，好奇心，乐观，好学，皮实，爱思考\r\n• 良好的表达沟通总结能力\r\n\r\nbase地点\r\n- 杭州\r\n\r\n可加我微信 liuyanwei8992 或者发我邮箱 xuanyan.lyw@alibaba-inc.com",
+      "company": "阿里云IoT事业部",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端web工程师",
+          "category": "前端"
+        },
+        {
+          "title": "nodejs工程师",
+          "category": "后端"
+        },
+        {
+          "title": "java工程师",
+          "category": "后端"
+        },
+        {
+          "title": "技术专家",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "P6-P7",
+      "techStack": [
+        "JavaScript",
+        "Web",
+        "H5",
+        "小程序",
+        "React",
+        "Node.js",
+        "Java",
+        "数据可视化",
+        "前端组件库",
+        "数字孪生"
+      ],
+      "experienceReq": "有数据可视化、前端组件库、前端技术框架经验优先；有物联网相关领域研发经验优先",
+      "contact": "微信: liuyanwei8992, 邮箱: xuanyan.lyw@alibaba-inc.com"
+    },
+    {
+      "id": "1392-694621397",
+      "issueNumber": 1392,
+      "commentId": 694621397,
+      "yearMonth": "2020-09",
+      "author": "cfrs2005",
+      "rawContent": "深圳传音控股股份有限公司 (上海分公司)-> 互联中心招募  JAVA 架构师\r\n\r\n\r\n1 负责产品的设计研发，完成产品的核心功能、公共核心模块的代码编写\r\n2 负责应用规划及架构设计，能够出具完成的应用实施解决方案，包括：系统架构设计、接口规范制定、技术文档编写等\r\n3 具备良好的团队精神和沟通表达能力，协同他人并组织跨团队协作，保证项目质量与进度\r\n4 确保系统的架构质量，核心部分代码编写、指导和培训工程师。\r\n\r\n任职资格：\r\n1 7年以上JAVA开发经验，2年以上架构设计经验\r\n2 数学/计算机相关领域统招本科及以上学历\r\n3 精通Java，Spring的实际经验，对各种开源的框架如Spring、Springcloud 、Spring Boot等有的应用和优化经验\r\n4 熟悉典型业务场景下的数据架构方式，有关系型数据库、NOSQL数据库及内存数据库的综合运用经验\r\n5 具备良好的产品技术思维能力，深入理解产品迭代过程中的业务需求，善于协调多方主动推动项目进展并落地\r\n6 有广告流量相关研发经验优先\r\n7 有竞赛获奖经验优先\r\n\r\n联系我 :  qingyue.zhang2#transsion.com",
+      "company": "深圳传音控股股份有限公司",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "JAVA架构师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "深圳",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "Spring",
+        "Spring Cloud",
+        "Spring Boot",
+        "关系型数据库",
+        "NoSQL",
+        "内存数据库"
+      ],
+      "experienceReq": "7年以上Java开发经验，2年以上架构设计经验",
+      "educationReq": "数学/计算机相关领域统招本科及以上学历",
+      "contact": "qingyue.zhang2#transsion.com"
+    },
+    {
+      "id": "1392-691934402",
+      "issueNumber": 1392,
+      "commentId": 691934402,
+      "yearMonth": "2020-09",
+      "author": "zhouqiang-cl",
+      "rawContent": "# [PingCAP][国内 TOP 开源公司] golang/rust 开发工程师(15K - 45K + 期权，13薪 + 奖金，优秀者可面议，另外也招收实习生)\r\n\r\n## Chaos Mesh 研发工程师\r\n### 岗位职责：\r\n- 调研混沌工程的需求场景和相关实践;\r\n- 负责混沌工程平台 Chaos Mesh 的架构设计、开发和文档撰写;\r\n- 负责混沌工程平台 Chaos Mesh 的推广使用。\r\n\r\n### 任职要求：\r\n- 三年以上开发经验，扎实的编程能力，熟悉 Go/Rust 中的一种；\r\n- 对数据库或分布式系统有一定了解，对 Linux 有深入的了解；\r\n- 熟悉 K8s 和 Docker 的架构；\r\n- 有良好的沟通能力，具备合作精神。\r\n\r\n## CI 工程师\r\n### 岗位职责：\r\n- 负责 PingCAP CI/CD 系统的设计、开发和维护工作；\r\n- 优化 CI/CD 系统，提升环境稳定性，提高问题诊断效率。\r\n### 任职要求：\r\n- 熟悉Linux，熟练使用shell等脚本，有 Jenkins 等 CI 工具的使用经验；\r\n- 熟悉敏捷开发，有实践参与经验，善于发现研发过程中的问题并能给出和实施解决方案；\r\n- 热爱DevOps，持续集成，持续部署方向以及有想法、喜欢挑战者优先；\r\n- 具备良好的学习能力、分析解决问题能力，责任心强，团队合作精神，能在压力下独立解决问题。\r\n\r\n## 工程效率研发工程师\r\n### 岗位职责：\r\n- 构建自动化流程及工具，解决研发、测试与产品运维中遇到的各种效率问题；\r\n- 负责公司内部 DevOps 平台的开发和维护；\r\n- 负责 CI/CD 相关基础设施的调优及维护；\r\n\r\n### 任职要求：\r\n- 三年以上运维开发或内部工程效率工具开发相关领域经验；\r\n- 熟悉 Go/Python 一种编程语言，熟悉 Shell 和 Linux 常用操作；\r\n- 对容器编排系统有较深入的理解及相关开发或使用经验；\r\n- 对并发编程有较深入的理解；\r\n- 熟悉 Docker 原理及 Docker 的常规操作；\r\n- 具有探索精神，有强烈的责任感及合作精神，具备优秀的学习能力和创新能力。\r\n\r\n## 数据库测试工程师\r\n### 岗位职责：\r\n- 负责 TiDB 及周边产品的测试，包括但不限于功能测试、性能测试和稳定性测试；\r\n- 深入理解数据库的用法，站在用户的视角测试数据库的功能，设计高覆盖率的测试用例；\r\n- 产品设计讨论，测试计划制定，用例设计，测试执行和结果分析，Bug 复现和追踪等；\r\n- 参与测试用例和测试脚本的开发。\r\n### 任职要求：\r\n- 1 年以上基础软件、中间件测试经验；\r\n- 至少掌握一门脚本语言，或者精通 SQL；\r\n- 思维缜密，逻辑严谨；\r\n- 认真负责，有较强的问题定位和推动能力, 协调各个角色进行问题解决。\r\n\r\n链接 https://pingcap.com/about-cn/recruit/join/\r\n\r\n可加我微信 flicket 或者发我邮箱 zhouqiang@pingcap.com",
+      "company": "PingCAP",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Chaos Mesh 研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "CI 工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "工程效率研发工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "数据库测试工程师",
+          "category": "测试"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "15K - 45K + 期权，13薪 + 奖金，优秀者可面议",
+      "techStack": [
+        "Go",
+        "Rust",
+        "Kubernetes",
+        "Docker",
+        "Linux",
+        "Shell",
+        "Python",
+        "CI/CD",
+        "Jenkins",
+        "TiDB",
+        "SQL"
+      ],
+      "experienceReq": "Chaos Mesh 研发工程师、工程效率研发工程师需要三年以上开发经验；数据库测试工程师需要一年以上基础软件、中间件测试经验；CI 工程师经验要求不明确",
+      "contact": "微信：flicket，邮箱：zhouqiang@pingcap.com，招聘链接：https://pingcap.com/about-cn/recruit/join/"
+    },
+    {
+      "id": "1392-697391319",
+      "issueNumber": 1392,
+      "commentId": 697391319,
+      "yearMonth": "2020-09",
+      "author": "fifteen42",
+      "rawContent": "# 上海泰砥科技招聘【Rust 区块链工程师】【区块链运维工程师】\r\n\r\n## [Rust 区块链工程师](https://www.zhipin.com/job_detail/3e50a4ac75d857420HB82dS9EFA~.html?ka=comp_joblist_2)\r\n\r\n### 职位描述\r\n\r\n- 1、跟踪区块链前沿技术动态，如：隐私，去中心存储，跨链，DID，承担核心代码开发；\r\n- 2、参与区块链在金融、电子政务、共享经济等领域落地的技术解决方案研究；\r\n- 3、参与完成区块链解决方案功能模块编码，完成与其他模块的集成、部署、修改、重构与调优；\r\n- 4、参与智能合约的开发，根据产品要求设计智能合约；\r\n- 5、跟踪互联网相关前沿技术，与国外核心技术开发人员交流，将新技术应用于实际研发产品中。\r\n\r\n### 任职要求\r\n\r\n- 1、熟悉如下技术：P2P网络，密码学，共识算法（如BFT系列、PoX系列、Paxos，Raft）等\r\n- 2、具备1-2年区块链底层技术研发经验，主要是Ethereum，CITA，Fabric等公链和联盟链项目；\r\n- 3、精通 Bitcoin，Ethereum，CITA，Fabric等主流区块链技术以及相关机制原理；\r\n- 4、熟悉Linux，熟练掌握Go，Rust，C++，Java等主流区块链系统开发语言一种或几种；\r\n- 5、乐观积极，对技术有强烈的兴趣，喜欢钻研，具有良好的学习能力，沟通技能，团队合作能力；\r\n- 6、有成功开发基于CITA，Fabric的区块链产品，在Github上贡献过优秀代码者优先；\r\n- 7、对国密算法，同态加密，零知识证明，MPC，联邦学习等技术有一定研究和开发经验者优先。\r\n\r\n## [运维工程师](https://www.zhipin.com/job_detail/9127e46bfa2d4bec0XJ83d20GVI~.html?ka=hot-job-1)\r\n\r\n### 岗位职责\r\n\r\n- 1、 负责二十多个区块链节点的运维方案（支持容器化扩容）设计和维护\r\n- 2、 负责公司ToB，ToG业务项目的运维方案设计和上线运维等；\r\n- 3、 负责系统的架构优化、成本优化、高可用运维、运维平台开发等技术运营工作；\r\n- 4、 负责现有自动化工具编写，搭建持续化开发流程，提高运维效率和质量。\r\n\r\n### 任职资格\r\n\r\n- 1、本科及以上学历，4年以上工作经验；\r\n- 2、熟练使用Linux/unix操作系统，对网络安全相关问题有较深刻理解；\r\n- 3、熟悉prometheus, zabbix 配置管理，深入理解docker，kubernetes, rancher等容器技术和工具；\r\n- 4、 掌握Web服务器/中间件部署于维护，如Nginx、Tomcat、Elasticsearch 、MySQL集群、Redis集群、Nacos集群，Kafka集群\r\n- 5、精通Shell编程，并熟练掌握Java、Go、Python之一的编程，熟悉TCP/IP、HTTP等协议；\r\n- 6、熟悉CI/CD，有过SpringBoot/Cloud 等微服务系统的部署和配置经验；\r\n- 7、有大型互联网，高并发系统的运维经验者，对网络安全有一定认知者优先；\r\n- 8、具有强烈的责任心，做事认真细致，良好的团队合作精神和沟通能力，善于学习，有较强的上进心\r\n\r\n\r\n## [公司介绍](https://www.zhipin.com/gongsi/7fa2e827c5c3d95003d_3dW8Fw~~.html?ka=job-comintroduce)\r\n\r\n我们是一家专注于区块链底层技术开发、应用开发、技术服务的创新高科技公司，掌握有完整的区块链技术及密码学等核心技术。公司核心团队多年深耕区块链基础设施的研发，拥有丰富的区块链项目开发经验，为传统产业+区块链提供基于区块链技术的应用开发、技术咨询、技术服务，致力成为业内领先的区块链标杆企业，推动区块链应用落地，赋能实体。\r\n\r\n简历请投至 hr@taiditech.com  ，请备注”阮一峰“\r\n",
+      "company": "上海泰砥科技",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Rust 区块链工程师",
+          "category": "后端"
+        },
+        {
+          "title": "区块链运维工程师",
+          "category": "DevOps"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Rust",
+        "Go",
+        "C++",
+        "Java",
+        "Python",
+        "Bitcoin",
+        "Ethereum",
+        "CITA",
+        "Fabric",
+        "Kubernetes",
+        "Docker",
+        "Prometheus",
+        "Zabbix",
+        "Nginx",
+        "Tomcat",
+        "Elasticsearch",
+        "MySQL",
+        "Redis",
+        "Kafka",
+        "Nacos",
+        "Spring Boot",
+        "Spring Cloud",
+        "Linux",
+        "Shell"
+      ],
+      "experienceReq": "Rust工程师：1-2年区块链底层技术研发经验；运维工程师：4年以上工作经验",
+      "educationReq": "运维工程师要求本科及以上学历",
+      "contact": "hr@taiditech.com"
+    },
+    {
+      "id": "1392-699219868",
+      "issueNumber": 1392,
+      "commentId": 699219868,
+      "yearMonth": "2020-09",
+      "author": "ruanyf",
+      "rawContent": "## 滴滴出行社会招聘-前端/后端/测试/产品（北京）\r\n\r\n简历请发  stevenzhaoshuai@didiglobal.com\r\n\r\n### 1、java高级研发工程师\r\n\r\n**职位描述**\r\n1. 服务滴滴智能业务中台，输出AI、IoT等软、硬件智能能力，致力于保障司机的驾驶安全\r\n\r\n2. 参与中台核心的PaaS、SaaS的设计和研发工作，挑战高并发、高可用系统的实现\r\n\r\n3. 优化现有系统，实现服务化架构改造，提升系统的可扩展性\r\n\r\n4. 独立负责需求对接、技术方案设计和代码实现，并保证代码质量\r\n\r\n**任职要求**\r\n1、本科及以上学历，计算机相关专业，2年以上服务端研发经验；\r\n\r\n2、精通PHP/Go/Java等至少一门语言，有良好的编码和文档习惯，注重代码风格，熟悉常用设计模式和原则\r\n\r\n3、熟悉常用的IT技术，包括但不限于Linux系统、存储技术、中间件技术、微服务架构等；\r\n\r\n4、有独立设计和实现中小型分布式系统的经验\r\n### 2、高级前端开发工程师\r\n**职位描述**\r\n1. 负责PC/mobile Web项目的前后端开发、维护和升级，完成核心代码的编写\r\n\r\n2. 与产品、设计沟通，并能够针对不同业务需求给出前端技术解决方案并实现交互\r\n\r\n3. 能够承担团队中前台系统的全栈开发和维护，支撑异常研发和运维的提效\r\n\r\n4. 跨部门协调沟通，并能够在项目中将前端工具、组件逐步沉淀 。\r\n\r\n**任职要求**\r\n1. 本科或以上学历，计算机相关专业，2-3年以上工作经验\r\n\r\n2. 熟练掌握Web前端基础（HTML/CSS/JavaScript)、了解浏览器兼容性及相关调试方法\r\n\r\n3. 深刻理解Web标准，对前端性能、可访问性、可维护性等相关知识有实际的了解和实践经验\r\n\r\n4. 熟练使用Node.js进行后端服务的开发和维护，能够基于egg搭建的BFF完成技术升级\r\n\r\n4. 熟练掌握并在项目应用过 React / Vue 其中的一项\r\n\r\n5. 对前端工程化与模块化开发有一定了解，熟练使用webpack等工具\r\n### 3、服务端高级测试开发工程师\r\n**职位描述**\r\n1. 负责网约车计价项目开发及质量测试工作，确保项目如期上线。\r\n\r\n2. 参与产品需求和架构设计评审，评估整体技术架构合理性以及相关的可测性。\r\n\r\n3. 运用测试相关流程、策略、方法和工具等，努力提升测试的质量和效率。\r\n\r\n4. 沉淀通用测试解决方案，参与关键技术专项建设。\r\n\r\n5. 测试领域前瞻性探索，推进团队技术进步。\r\n\r\n**任职要求**\r\n1. 工科、计算机相关专业本科以上学历。\r\n\r\n2. 三年以上软件测试开发、自动化测试或白盒测试工作经验。\r\n\r\n3. 具备go/java语言开发能力\r\n\r\n4. 熟悉软件开发、测试理论和流程。\r\n\r\n5. 具备广泛的技术视野和很好的技术前瞻性，对测试有自己的思考。\r\n\r\n6. 很强的学习能力、分析能力和解决问题的能力。\r\n\r\n7. 有账单支付相关测试经历优先。\r\n### 4、AI产品经理\r\n**职位描述**\r\n1、对接多部门/客户，梳理业务需求，负责相关产品设计并推动落地\r\n\r\n2、对接工程、算法等多个团队，推进基于语音、对话等核心技术的产品体验优化\r\n\r\n**任职要求**\r\n1、本科及以上学历，3年以上产品工作经历\r\n\r\n2、对语音内容产品、人工智能技术等有深刻的认识，快速适应业务/行业变化\r\n\r\n3、追求极致产品体验；有优秀的跨团队合作能力\r\n\r\n4、积极主动，自我驱动；学习能力、逻辑思维能力、业务能力优秀",
+      "company": "滴滴出行",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "Java高级研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "高级前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "服务端高级测试开发工程师",
+          "category": "测试"
+        },
+        {
+          "title": "AI产品经理",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "PHP",
+        "Go",
+        "Linux",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "React",
+        "Vue",
+        "Webpack",
+        "Egg"
+      ],
+      "experienceReq": "后端2年以上、前端2-3年以上、测试3年以上、产品3年以上",
+      "educationReq": "本科及以上，计算机相关专业",
+      "contact": "stevenzhaoshuai@didiglobal.com"
+    },
+    {
+      "id": "1392-699615518",
+      "issueNumber": 1392,
+      "commentId": 699615518,
+      "yearMonth": "2020-09",
+      "author": "belinda811",
+      "rawContent": "【开源数据科学平台】【上海/杭州】分布式系统/存储系统/数据库内核架构师/技术负责人等等都在急招!\r\n\r\n> **基本信息**\r\n\r\n公司成立于2017 年，以重新定义数据科学为愿景，通过利用新型计算机软硬件技术，创造革新的数据科学平台，帮助用户充分挖掘结构化与非结构化数据的价值。公司的核心产品包括开源向量搜索引擎等，针对非结构信息的数据化分\r\n析，帮助企业应对人工智能应用的挑战。\r\n公司核心成员来自于Oracle、IBM、Morgan Stanley、Pivotal、华为等科技公司，在数据库系统、异构计算、存储和分布式系统等领域具备丰富的实践经验。\r\n\r\n- 工作地点：上海徐汇/杭州滨江\r\n\r\n- 薪资结构：16薪，部分核心员工可谈期权\r\n\r\n- 加分项：对开源有热情；在知名开源项目（数据分析和开源数据库领域）当中有一定的贡献的人\r\n\r\n> **技术负责人-杭州**\r\n工作职责：\r\n• 参与向量搜索系统的基础架构演进以及云版本的核心研发工作；\r\n• 参与向量搜索系统业界前沿技术探索，参与开源社区运作，构建公司在全球开源社区的技术影响力；\r\n• 负责带领软件开发团队，进行工作难点评估、任务分配以及关键节点检查；\r\n• 负责软件开发团队的日常管理，带领开发团队完成任务开发，培养团队核心竞争力；\r\n• 组织力量解决项目任务执行中遇到的问题；\r\n• 在项目执行过程中保持与其他小组的沟通。\r\n职位要求：\r\n• 计算机科学／软件工程相关专业本科及以上学历；\r\n• 具有两年以上数据库系统或分布式系统研发经验，4 人以上技术团队带队经验；\r\n• 具有文献分析及系统分析能力；\r\n• 具有OKR 深入实践经验者优先；\r\n• 具有大型开源项目研发经验者优先；\r\n• 熟练使用C++编程语言，有python 和go 开发经验优先；\r\n• 熟悉各类算法和数据结构，设计模式和面向对象开发。\r\n\r\n> **数据库内核高级工程师/架构师-上海/杭州**\r\n工作职责：\r\n• 负责公司非结构化数据服务管理软件的的内核开发；\r\n• 参与数据科学平台的性能优化和业界前沿技术的探索，参与开源社区运作，构建公司在全球开源社区的影响力。\r\n任职要求：\r\n• 本科及以上学历，计算机相关专业，精通C/C++/Java 等至少一种开发语言，有良好的算法和数据结构基础；\r\n• 有数据库、网络、操作系统、高并发系统、分布式系统等至少一个领域的工作经验，并深入理解该领域技术；\r\n• 有PostgreSQL、Greenplum、DB2、MySQL、NoSQL、Oceanbase、TiDB 和阿里云数据库等数据库内核开发经验者佳；\r\n• 深入理解数据库的优化器、执行器、MVCC、锁、日志、缓存区、存储、主备高可用等一个或多个模块原理；\r\n• 深入理解分布式数据库架构、查询计划、事务等原理，有高性能、高并发服务器开发经验者佳；\r\n• 热爱底层技术，有追求极致性能和工程质量的热情；\r\n• 擅长独立解决问题、学习能力强，善于沟通和团队协作，具备追求卓越的精神。\r\n\r\n> **分布式系统研发高级工程师-上海/杭州**\r\n工作职责：\r\n1、 负责公司创新数据科学平台的相关分布式系统的研发，包括需求规划、方案设计和开发等工作，并指导原型验证和测试；\r\n2、 从事核心架构部分代码的设计和编写，创造性解决产品在研发过程中的技术难题，对产品的最终性能和稳定性负责。\r\n3、 参与分布式底层平台的性能优化和业界前沿技术的探索，参与开源社区运作，构建公司在全球开源社区的影响力。\r\n职位要求：\r\n1、 计算机科学／软件工程相关专业本科及以上学历；\r\n2、 熟悉Linux 系统编程，精通C++或Golang，优秀的算法和数据结构基础；\r\n3、 参与过大规模分布式系统设计，熟悉多线程、网络I/O，常见设计模式，有系统设计经验， 有分布式高性能系统研发经验，熟悉大规模集群管理者优先；\r\n4、 熟悉 Tidb、ElasticSearch、Rocksdb、MySQL、PostgreSQL 等系统源代码，有相关开源项目的代码贡献优先\r\n5、 有良好的问题排查经验，有 docker 容器管控、PaaS 平台、自动运维、监控等领域的实践经验者优先；\r\n6、 英文能力良好，可以无障碍阅读英文文档；\r\n7、 擅长独立解决问题、学习能力强，善于沟通和团队协作，具备追求卓越的精神。\r\n\r\n**猎头职位**\r\n欢迎联系我了解更多信息，邮箱：belinda.tian@bo-le.com 微信：18666933727",
+      "company": "开源数据科学平台",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "技术负责人",
+          "category": "后端"
+        },
+        {
+          "title": "数据库内核高级工程师",
+          "category": "后端"
+        },
+        {
+          "title": "数据库内核架构师",
+          "category": "后端"
+        },
+        {
+          "title": "分布式系统研发高级工程师",
+          "category": "后端"
+        },
+        {
+          "title": "存储系统架构师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "上海",
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "16薪，部分核心员工可谈期权",
+      "techStack": [
+        "C++",
+        "Python",
+        "Go",
+        "Java",
+        "Linux",
+        "PostgreSQL",
+        "MySQL",
+        "NoSQL",
+        "TiDB",
+        "Greenplum",
+        "DB2",
+        "Oceanbase",
+        "ElasticSearch",
+        "RocksDB",
+        "Docker",
+        "向量搜索引擎"
+      ],
+      "experienceReq": "技术负责人：2年以上数据库系统或分布式系统研发经验，4人以上技术团队带队经验；高级工程师/架构师：有数据库、网络、操作系统、高并发系统、分布式系统等领域的工作经验",
+      "educationReq": "本科及以上学历，计算机科学/软件工程相关专业",
+      "contact": "belinda.tian@bo-le.com，18666933727"
+    },
+    {
+      "id": "1392-709679440",
+      "issueNumber": 1392,
+      "commentId": 709679440,
+      "yearMonth": "2020-09",
+      "author": "zyqhi",
+      "rawContent": "# 网易严选招聘iOS/Android资深开发工程师\r\n\r\n## 招聘岗位：资深iOS开发工程师-网易严选（全职  /  杭州市  /  3人）\r\n学历要求：本科\r\n工作年限：3-5年\r\n### 职位描述\r\n1、负责严选iOS的架构开发；\r\n2、负责严选iOS埋点体系建设；\r\n3、沉淀iOS技术，搭建基础设置，提高开发效率和质量保障。\r\n### 职位要求\r\n1、3年及以上手机应用实际开发经验，技术视野开阔，学习能力好，对业界新技术敏感，喜欢钻研；\r\n2、精通iOS框架，熟悉app的性能优化，熟练使Ï用各种调优工具，有过iOS端基础组件开发经验；\r\n3、 精通IOS framework层及各种特性，熟练各种UI组件并了解其内部原理，有通过源码阅读定位问题的经验；\r\n4、负责过百万级用户的客户端技术架构工作，熟悉主流的开源组件以及框架，能处理常见大型项目的问题；\r\n5、沟通能力强，有较强的自我驱动力和快速学习能力，具备良好团队合作精神。\r\n\r\n## 资深Android开发工程师-网易严选 （全职  /  杭州市  /  5人）\r\n学历要求：本科\r\n工作年限：3-5年\r\n\r\n### 职位描述\r\n1、负责Android端产品的开发和维护；\r\n2、不断优化和改进客户端应用体验；\r\n3、前沿技术的研究、分享、攻关。\r\n### 职位要求\r\n1、深刻理解Android开发平台及框架原理，熟悉Android各版本系统特性；\r\n2、熟悉Android系统常用组件和主流开发框架的使用；\r\n3、熟悉Android各移动终端特性，有Android平台各类常见问题的应对经验； \r\n4、熟悉Android性能优化点及相关优化分析工具；\r\n5、热爱技术，能够承受工作压力，有强烈的责任心和团队精神，善于沟通和合作；\r\n6、有JS/HTML经验者优先。\r\n\r\n欢迎加入我们。感兴趣的同学欢迎联系我进行内推，全程服务。邮箱：zyqhi727@163.com Tel/VX：17681878727",
+      "company": "网易严选",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "资深iOS开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "资深Android开发工程师",
+          "category": "移动端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "iOS",
+        "Android",
+        "JavaScript",
+        "HTML"
+      ],
+      "experienceReq": "3-5年",
+      "educationReq": "本科",
+      "contact": "zyqhi727@163.com, 17681878727"
+    },
+    {
+      "id": "1392-709864056",
+      "issueNumber": 1392,
+      "commentId": 709864056,
+      "yearMonth": "2020-09",
+      "author": "AiMovie",
+      "rawContent": "### 松果出行内推-前端/后端/算法/测试/产品（30-50K，15薪）\r\n\r\n> 简历请发 wangyang3@songguo7.com\r\n\r\n### 公司简介：\r\n松果出行致力于构建中国县域城市智慧交通出行网络，目前主要为县域城市居民提供共享电单车及共享新能源汽车服务。松果电单车已成为国内知名的智能无桩共享电单车品牌，率先将大数据、物联网和人工智能技术应用在电单车上，以严格符合国标的智能车辆，满足县城用户全场景的出行需求，价格实惠、取用方便、安全环保。松果电单车车辆执行国家标准，最高时速不超过25 公里，满电续航能力达70公里。\r\n松果出行已覆盖全国21个省份，投放近400个县级城市。公司总部位于北京望京核心区，目前员工4000余人，公司核心成员均来自一线的互联网公司和顶级的投资机构，操刀过多款出行领域的互联网产品，在智慧交通领域有丰富的产品、技术和用户服务经验。\r\n\r\n### 职位诱惑：\r\n迎接订单指数级增长带来的挑战；\r\n感受海量电单车位置的频繁跳动；\r\n您的每一项改进都造福千万用户；\r\n为天朝的城镇化运动疯狂打Call；\r\n\r\n### 职位（坐标北京，长期有效）\r\n### 1、资深后端开发（PHP/go)\r\n岗位职责：\r\n\r\n１、负责平台系统建设，需求把控、系统设计、功能开发，把纷繁的业务需求拆解细化并实施；\r\n\r\n２、以快速解决业务需求为第一要义，无情的推进自动化，用技术提高生产力，持续优化系统架构；\r\n\r\n３、指导初级工程师，组织团队技术分享，促进团队成员共同进步。\r\n\r\n任职资格：\r\n\r\n１、3年以上服务端开发经验；\r\n\r\n２、熟练掌握LNMP开发或LAMP开发，并具备良好的编程风格；\r\n\r\n３、熟悉PHP实现和工作原理，有PHP扩展开发经验优先；\r\n\r\n４、熟悉mysql，掌握mysql分区、分表、集群等相关设计方案，具备mysql优化经验；\r\n\r\n５、熟悉memcache、redis、mongodb等常用nosql解决方案，了解各自的优缺点以及使用场景；\r\n\r\n６、熟悉web开发中各类缓存设计、站点优化方案；\r\n\r\n７、有大流量网站建设或数据库建设经验优先；\r\n\r\n８、善于抽象、总结、思考，对技术有执着追求。\r\n\r\n 9、熟悉Go的使用\r\n\r\n### 2、资深算法工程师\r\n\r\n工作职责：\r\n- 打造一套成熟的城市车辆调度系统；\r\n- 负责订单预测、收益评估、时间预估等场景的算法设计与实现；\r\n- 负责挖掘和分析订单、车辆相关业务的海量数据，发现运力和需求不平衡之处，设计并实现运力调度算法；\r\n\r\n工作要求：\r\n- 计算机或数学相关专业毕业，有扎实的数据结构和算法基础，或者有较好的数学功底。有特征工程，数据建模，机器学习，最优化理论等相关基础；\r\n- 熟悉常用数据挖掘算法的实现与应用，掌握常用机器学习算法并有实战经验，包括但不限于 LR，GBDT，XGBoost，RL, NN 等；\r\n- 有海量数据处理分析经验，熟悉Hadoop，Hive，Spark等大数据处理平台；\r\n- 编程基础扎实，熟练掌握Java或Python；\r\n- 对技术有热情，良好的业务理解力，积极主动，团队沟通协作力佳；\r\n\r\n### 3、资深前端工程师\r\n职位描述：\r\n\r\n1）参与前端平台建设，参与前端组件化和工程化建设；\r\n\r\n2）参与前端各子系统开发优化工作，高质量交付业务功能；\r\n\r\n3）积极推动跨组协作，完成项目全流程。\r\n\r\n任职要求：\r\n\r\n1）4年以上前端开发经验；\r\n\r\n2）熟练使用H5/C3开发响应式网页布局；\r\n\r\n3）精通JavaScript、Ajax、DOM/BOM等前端交互技术；\r\n\r\n4）熟练使用前端一种构建工具（Grunt/Gulp/Webpack/FIS）；\r\n\r\n5）熟练使用Vue和React框架，至少精通其中一种框架；\r\n\r\n6）能够熟练使用现有开源UI框架快速构建Web应用（ElementUI、AntD、MintUI、Vant）；\r\n\r\n7）熟练掌握ES6语法，熟悉Node.js等服务端开发语言；\r\n\r\n8）对前端性能优化、工程化有相应的理解和项目实践；\r\n\r\n### 4、资深测试工程师\r\n职位描述：\r\n\r\n1、负责性能测试计划制定，测试方案设计；\r\n\r\n2、负责性能环境搭建、脚本编写、测试执行；\r\n\r\n3、负责系统性能瓶颈分析，预测风险及隐患，给出调优建议；\r\n\r\n4、开发性能测试框架及工具，提升执行效率；\r\n\r\n\r\n任职要求：\r\n\r\n1、计算机类相关专业，统招本科及以上学历；\r\n\r\n2、5年以上性能测试经验，至少2年以上专职性能经验；\r\n\r\n3、精通Lr、Jmeter、Http_load等性能测试工具，有二次开发经验者优先；\r\n\r\n4、有Java/Go/Python开发基础，熟练掌握Tomcat，Nginx等各项性能参数设置及调优；\r\n\r\n5、强烈的责任心，良好的沟通能力和团队精神，能积极主动地推进问题；\r\n\r\n\r\n### 5、用户产品专家\r\n职位描述：\r\n\r\n1.负责海量DAU用户产品的核心体验;\r\n\r\n2.完成移动端产品设计方案，交互设计，以及文档撰写，推动产品迭代版本按时上线;\r\n\r\n3.保证明确的数据理论支撑方案的产出和迭代;\r\n\r\n4.推动并保证运营，客服，技术，业务，以及硬件等多环节的需求体验;\r\n\r\n5.可以同时深入到线上及线下场景发现问题。\r\n\r\n任职要求：\r\n\r\n1.本科学历，5-10年互联网产品经理经验（对标阿里P7及以上）；\r\n\r\n2.逻辑缜密，对交互以及体验理解深刻;\r\n\r\n3.善于发现问题和解决问题;\r\n\r\n4.抗压能力强，学习能力优，工作效率高;\r\n\r\n5.有O2O、工具类产品经验优先。",
+      "company": "松果出行",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "资深后端开发",
+          "category": "后端"
+        },
+        {
+          "title": "资深算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "资深前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "资深测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "用户产品专家",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "30-50K，15薪",
+      "techStack": [
+        "PHP",
+        "Go",
+        "Java",
+        "Python",
+        "MySQL",
+        "Memcache",
+        "Redis",
+        "MongoDB",
+        "Hadoop",
+        "Hive",
+        "Spark",
+        "JavaScript",
+        "Vue",
+        "React",
+        "H5",
+        "CSS3",
+        "Node.js",
+        "Webpack",
+        "Grunt",
+        "Gulp",
+        "FIS",
+        "ElementUI",
+        "AntD",
+        "MintUI",
+        "Vant",
+        "Jmeter",
+        "LoadRunner",
+        "Http_load",
+        "Tomcat",
+        "Nginx"
+      ],
+      "experienceReq": "后端3年+，前端4年+，算法相关专业，测试5年+（专职性能2年+），产品5-10年+",
+      "educationReq": "测试岗位要求本科及以上；产品岗位要求本科学历；算法岗位要求计算机或数学相关专业",
+      "contact": "wangyang3@songguo7.com"
+    },
+    {
+      "id": "1392-711136429",
+      "issueNumber": 1392,
+      "commentId": 711136429,
+      "yearMonth": "2020-09",
+      "author": "bingjianguo",
+      "rawContent": "### 简介\r\n支付宝体验技术部行业平台前端技术组招聘前端研发工程师。\r\n地点：杭州、上海\r\n岗位：前端研发工程师\r\n\r\n### 职位描述\r\n1. 负责支付宝健康码、信用卡还款、手机充值、生活缴费、我的快递、交通出行(公交、地铁、单车、铁路)、市民中心、垂直教育、体育行业、云支付等核心业务研发，做国民应用、服务亿万个人及企业用户，迎接超大受众规模、复杂业务场景、极致用户体验的挑战；\r\n2. 建设工具和平台，提炼基础和业务组件，抽象业务框架，促进前端工程化、服务化，持续提升研发效能，保障线上产品质量；\r\n3. 钻研各种前沿技术和创新交互，增强用户体验，拓展前端能力边界，共创团队极客文化。\r\n\r\n\r\n\r\n### 职位要求\r\n1. 精通H5、CSS3和JavaScript语言，掌握HTTP及相关网络协议，熟悉跨终端、跨浏览器的开发模式及平台特性，了解业界技术发展状况；\r\n2. 有项目实战经验，参与或主导过某一大型项目的前端研发，并从中有过业务提炼和技术沉淀；\r\n3. 有优质技术产品或者开源贡献者优先；有前端架构、性能优化、Hybrid研发、node研发、iOS/Android应用开发经验可作为加分项；\r\n4. 充分的产品意识、数据意识，善于规划执行、协调沟通，结果导向；\r\n5. 优秀的学习能力，积极乐观，敢于担当，勇于创新；\r\n\r\n### 简历投递\r\n发送邮件到 bingjian.gbj@alibaba-inc.com\r\n标题：「应聘【城市】前端研发工程师【姓名】」",
+      "company": "支付宝",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端研发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "H5",
+        "CSS3",
+        "JavaScript",
+        "HTTP",
+        "Hybrid",
+        "Node.js",
+        "iOS",
+        "Android"
+      ],
+      "experienceReq": "参与或主导过大型项目的前端研发",
+      "contact": "bingjian.gbj@alibaba-inc.com"
+    },
+    {
+      "id": "1392-714333392",
+      "issueNumber": 1392,
+      "commentId": 714333392,
+      "yearMonth": "2020-09",
+      "author": "yqsshr1",
+      "rawContent": "面向对象 ： 2020-2021届毕业生\r\n工作地点： 上海青浦\r\n公司介绍和简历投递方式见下图\r\n![20201022161410.jpg](https://i.loli.net/2020/10/22/o5ORkqxEGImMTXv.jpg)\r\n投递简历时，**甄云内推员工姓名请填写：杨清松**\r\n![微信图片_20201022163630.jpg](https://i.loli.net/2020/10/22/j2s1SLwzgqXaCrD.jpg)",
+      "company": "甄云",
+      "positions": [
+        {
+          "title": "未指定具体岗位",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "experienceReq": "2020-2021届毕业生",
+      "contact": "杨清松（内推员工）"
+    },
+    {
+      "id": "1392-694682251",
+      "issueNumber": 1392,
+      "commentId": 694682251,
+      "yearMonth": "2020-09",
+      "author": "zzlina",
+      "rawContent": "![招聘海报-杭州updated](https://user-images.githubusercontent.com/59718623/93563767-2600ab00-f9bb-11ea-9cf6-4100462ba201.jpeg)\r\n\r\nRingCentral 逆势扩招啦！技术大牛们简历砸过来~\r\n--\r\n \r\nQ1：RingCentral是一家怎样的互联网公司？\r\nA：RingCentral来自美国硅谷，是全球云商务通信行业NO.1，今年入选福布斯全球最大上市公司2000强，股价五年来飙涨十几倍！疫情期间全员远程办公，股价继续逆市飙升。优秀的小伙伴还有机会去硅谷总部工作～\r\n \r\nQ2：据说在RingCentral工作幸福感满满？\r\nA：我们应用成熟的敏捷管理，却从不将就产品质量；有完善的系统体制，但依然保持员工高度自主性。这里不提倡加班文化，有充分的时间来思考和研究喜欢的技术，工作时间还能参加各种英语和技能培训！😎 同时，我们积极营造一种多元性、开放包容的企业文化，致力于为不同人群提供平等的工作机会。优秀的工作不是你的全部，但优秀的你是公司的全部！\r\n \r\nQ3：如何加入RingCentral？\r\nA:扫描文字上方海报二维码，关注RingCentral微信公众号了解更多详细信息，在线申请职位或推荐朋友入职🤗 （推荐有大礼哦~），一起面朝大海敲代码吧~\r\n\r\n",
+      "company": "RingCentral",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "技术岗位",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "杭州",
+        "硅谷"
+      ],
+      "isRemote": true,
+      "isOverseas": true,
+      "techStack": [],
+      "contact": "RingCentral微信公众号"
+    },
+    {
+      "id": "1392-694609028",
+      "issueNumber": 1392,
+      "commentId": 694609028,
+      "yearMonth": "2020-09",
+      "author": "xmt1139057136",
+      "rawContent": "才到云 HR-SaaS 技术部 后端研发工程师 15K-25K，14薪\r\n\r\n团队介绍\r\n• CAIDAO才到云（上海云武华科技有限公司）是中国领先的人力资本科技提供商，主要投资方为中国A股人力资源第一股－科锐国际（股票代码：300662）。\r\n• CAIDAO才到云2015年创建于上海，基于“云计算”与“移动化”技术，倡导B2B2E（Business To Business To Employee），致力于帮助优秀企业在人力资源合规、人力资本数字化和员工敬业度等方面实现持续改进和创新。\r\n• CAIDAO才到云正将为全球 500 强企业服务的实践经验带给优秀企业。截止2020年6月，服务客户超过120家，覆盖央国企、金融、零售连锁、大健康、教育、互联网等领域。\r\n\r\n团队风格\r\n•关注团队中的个人成长，技术氛围浓厚，简化流程和规范，充分给予空间和机会\r\n\r\n工作职责\r\n• 能独立负责项目模块的技术开发和改进工作；\r\n• 与产品人员共同确定产品的可行性，技术实施方案，并具体实施开发工作和测试工作；\r\n• Java代码编写和调试；\r\n• 性能优化，包括代码优化，数据库优化，海量数据处理；\r\n• 按照分配的工作，独立、高效的完成编码；\r\n\r\n岗位要求\r\n1、本科及以上学历，计算机相关专业，3年以上相关工作经验；\r\n2、熟悉J2EE技术体系，熟练使用SpringBoot、SpringCloud、Nacos等微服务全家桶等开源框架并了解工作原理；\r\n3、熟悉 Redis、MQ、Mongo、MyCat、ShardingSphere、Skywalking 等中间件\r\n4、熟悉 Docker、k8s 等\r\n5、熟悉 JQuery、JavaScript/Ajax、React、Vue 等前端技术；\r\n6、熟悉 GIT，Maven 工具；\r\n7、熟悉 Postgresql、MySql数据库；\r\n8、熟悉 Linux 操作系统，能在 Linux 环境下部署安装软件；\r\n9、工作认真负责，有团队合作精神，表达能力、沟通能力、心理素质较好，能够在压力环境下工作。\r\n10、有 ehr-saas 领域工作经验优先考虑\r\n\r\n能力要求\r\n• 聪明，好奇心，乐观，好学，皮实，爱思考\r\n• 良好的表达沟通总结能力\r\n\r\nbase地点\r\n\r\n上海\r\n可加我微信 codedq 或者发我邮箱 herman.xiong@caidao1.com",
+      "company": "才到云（上海云武华科技有限公司）",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "HR-SaaS技术部后端研发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "15K-25K，14薪",
+      "techStack": [
+        "Java",
+        "SpringBoot",
+        "SpringCloud",
+        "Nacos",
+        "Redis",
+        "MQ",
+        "MongoDB",
+        "MyCat",
+        "ShardingSphere",
+        "Skywalking",
+        "Docker",
+        "Kubernetes",
+        "jQuery",
+        "JavaScript",
+        "Ajax",
+        "React",
+        "Vue",
+        "Git",
+        "Maven",
+        "PostgreSQL",
+        "MySQL",
+        "Linux"
+      ],
+      "experienceReq": "3年以上相关工作经验",
+      "educationReq": "本科及以上学历，计算机相关专业",
+      "contact": "微信: codedq，邮箱: herman.xiong@caidao1.com"
+    },
+    {
+      "id": "1392-698203247",
+      "issueNumber": 1392,
+      "commentId": 698203247,
+      "yearMonth": "2020-09",
+      "author": "wenshin",
+      "rawContent": "# 飞书内推\r\n\r\n### 简介\r\n飞书，是字节跳动旗下的企业办公套件产品，\r\n目前在 Appstore 中评分高达 4.7 分，广受好评！\r\n且在海内外市场都已建立起了一定的用户基础！\r\n在国内已和小米、猎豹移动、华润集团、马蜂窝、当当网、拉勾网、虎扑、电子科技大学、实习僧等重要客户建立合作，\r\n[【雷军】和【罗永浩】等大佬，均亲自为飞书站台点赞](https://mp.weixin.qq.com/s/VhwHi6YLCK86ouxRcx8Lkg)！！\r\n\r\n飞书极具技术挑战，被字节 CTO 评为字节最复杂的技术项目，没有之一，没有之一，没有之一！！！\r\n\r\n### 职位（长期有效）\r\n地点：北京、杭州、深圳、上海\r\n岗位：\r\n1. 前端工程师、Leader\r\n2. Android/iOS 工程师、Leader\r\n3. C++工程师、Leader\r\n4. 后端工程师、Leader\r\n5. 算法工程师、Leader\r\n6. 测试/测开工程师、Leader\r\n7. 产品经理、Leader\r\n8. 运营、商务 BD 等也顺便帮投\r\n\r\n### 投递方法\r\n发送邮件到 yanwenxu@bytedance.com\r\n标题：「应聘【城市】【职位】【姓名】」\r\n\r\n加微信 wenshinyan\r\n\r\n> 也捎带支持内推其它部门～\r\n",
+      "company": "飞书",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "前端Leader",
+          "category": "前端"
+        },
+        {
+          "title": "Android工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "iOS工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "Android Leader",
+          "category": "移动端"
+        },
+        {
+          "title": "iOS Leader",
+          "category": "移动端"
+        },
+        {
+          "title": "C++工程师",
+          "category": "后端"
+        },
+        {
+          "title": "C++ Leader",
+          "category": "后端"
+        },
+        {
+          "title": "后端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "后端Leader",
+          "category": "后端"
+        },
+        {
+          "title": "算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "算法Leader",
+          "category": "AI/ML"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "测开工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "测试/测开Leader",
+          "category": "测试"
+        },
+        {
+          "title": "产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "产品Leader",
+          "category": "产品"
+        },
+        {
+          "title": "运营",
+          "category": "运营"
+        },
+        {
+          "title": "商务BD",
+          "category": "运营"
+        }
+      ],
+      "location": [
+        "北京",
+        "杭州",
+        "深圳",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C++",
+        "Android",
+        "iOS"
+      ],
+      "contact": "yanwenxu@bytedance.com, wenshinyan(微信)"
+    },
+    {
+      "id": "1392-681328773",
+      "issueNumber": 1392,
+      "commentId": 681328773,
+      "yearMonth": "2020-09",
+      "author": "ruanyf",
+      "rawContent": "以下是上个月的招聘信息汇总，继续有效。详细信息请访问 #1315  。\r\n\r\n<table class=\"waffle\" cellspacing=\"0\" cellpadding=\"0\"><thead><tr style='height:20px;'><th id=\"638029804R0\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">1</div></th><td class=\"s0\" dir=\"ltr\">公司</td><td class=\"s0\" dir=\"ltr\">地点</td><td class=\"s1\" dir=\"ltr\">岗位</td></tr></thead><tbody><tr style='height:20px;'><th id=\"638029804R1\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">2</div></th><td class=\"s2\" dir=\"ltr\">西安纽扣软件</td><td class=\"s2\" dir=\"ltr\">西安</td><td class=\"s3\" dir=\"ltr\">测试工程师</td></tr><tr style='height:20px;'><th id=\"638029804R2\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">3</div></th><td class=\"s4\" dir=\"ltr\">微信支付</td><td class=\"s4\" dir=\"ltr\">深圳/广州</td><td class=\"s5\" dir=\"ltr\">Web 全栈工程师</td></tr><tr style='height:20px;'><th id=\"638029804R3\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">4</div></th><td class=\"s2\" dir=\"ltr\">某量化交易公司</td><td class=\"s2\" dir=\"ltr\">上海/北京/杭州</td><td class=\"s3\" dir=\"ltr\">C++ 应用软件工程师</td></tr><tr style='height:20px;'><th id=\"638029804R4\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">5</div></th><td class=\"s4\" dir=\"ltr\">秘猿科技</td><td class=\"s4\" dir=\"ltr\">杭州</td><td class=\"s5\" dir=\"ltr\">区块链、前端、运维、测试工程师</td></tr><tr style='height:20px;'><th id=\"638029804R5\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">6</div></th><td class=\"s2\" dir=\"ltr\">字节跳动南京研发部</td><td class=\"s2\" dir=\"ltr\">南京</td><td class=\"s3\" dir=\"ltr\">前端、服务端、大数据、测试工程师</td></tr><tr style='height:20px;'><th id=\"638029804R6\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">7</div></th><td class=\"s4\" dir=\"ltr\">浙江顺睿科技</td><td class=\"s4\" dir=\"ltr\">杭州</td><td class=\"s5\" dir=\"ltr\">服务器运维工程师</td></tr><tr style='height:20px;'><th id=\"638029804R7\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">8</div></th><td class=\"s2\" dir=\"ltr\">腾讯互娱</td><td class=\"s2\" dir=\"ltr\">深圳</td><td class=\"s3\" dir=\"ltr\">游戏运营后台开发工程师</td></tr><tr style='height:20px;'><th id=\"638029804R8\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">9</div></th><td class=\"s4\" dir=\"ltr\">广州易方信息</td><td class=\"s4\" dir=\"ltr\">广州大学城</td><td class=\"s5\" dir=\"ltr\">Java 工程师</td></tr><tr style='height:20px;'><th id=\"638029804R9\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">10</div></th><td class=\"s2\" dir=\"ltr\">米哈游</td><td class=\"s2\" dir=\"ltr\">上海</td><td class=\"s3\" dir=\"ltr\">运维/测试/客户端工程师</td></tr><tr style='height:20px;'><th id=\"638029804R10\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">11</div></th><td class=\"s4\" dir=\"ltr\">阿里云</td><td class=\"s4\" dir=\"ltr\">上海/北京/杭州/深圳</td><td class=\"s5\" dir=\"ltr\">研发工程师、设计师</td></tr><tr style='height:20px;'><th id=\"638029804R11\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">12</div></th><td class=\"s2\" dir=\"ltr\">支付宝</td><td class=\"s2\" dir=\"ltr\">杭州</td><td class=\"s3\" dir=\"ltr\">Java 工程师</td></tr><tr style='height:20px;'><th id=\"638029804R12\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">13</div></th><td class=\"s4\" dir=\"ltr\">政务钉钉</td><td class=\"s4\" dir=\"ltr\">杭州</td><td class=\"s5\" dir=\"ltr\">前端工程师</td></tr><tr style='height:20px;'><th id=\"638029804R13\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">14</div></th><td class=\"s2\" dir=\"ltr\">钉钉文档</td><td class=\"s2\" dir=\"ltr\">北京</td><td class=\"s3\" dir=\"ltr\">Java、前端工程师</td></tr><tr style='height:20px;'><th id=\"638029804R14\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">15</div></th><td class=\"s4\" dir=\"ltr\">阿里云智能事业群</td><td class=\"s4\" dir=\"ltr\">杭州/北京</td><td class=\"s5\" dir=\"ltr\">容器平台技术专家，校招</td></tr><tr style='height:20px;'><th id=\"638029804R15\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">16</div></th><td class=\"s2\" dir=\"ltr\">AliExpress</td><td class=\"s2\" dir=\"ltr\">杭州/深圳</td><td class=\"s3\" dir=\"ltr\">前端工程师</td></tr><tr style='height:20px;'><th id=\"638029804R16\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">17</div></th><td class=\"s4\" dir=\"ltr\">广州奇虎（出海业务团队）</td><td class=\"s4\" dir=\"ltr\">广州</td><td class=\"s5\" dir=\"ltr\">安卓工程师</td></tr><tr style='height:20px;'><th id=\"638029804R17\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">18</div></th><td class=\"s2\" dir=\"ltr\">阿里淘系技术部（架构团队）</td><td class=\"s2\" dir=\"ltr\">杭州</td><td class=\"s3\" dir=\"ltr\">serverless 研发工程师</td></tr><tr style='height:20px;'><th id=\"638029804R18\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">19</div></th><td class=\"s4\" dir=\"ltr\">青云</td><td class=\"s4\" dir=\"ltr\">北京/上海/成都/武汉</td><td class=\"s5\" dir=\"ltr\">容器开发、测试工程师</td></tr><tr style='height:20px;'><th id=\"638029804R19\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">20</div></th><td class=\"s2\" dir=\"ltr\">百度（内推）</td><td class=\"s2\" dir=\"ltr\">北京</td><td class=\"s3\" dir=\"ltr\">前端、后端、算法、客户端、测试、产品</td></tr><tr style='height:20px;'><th id=\"638029804R20\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">21</div></th><td class=\"s4\" dir=\"ltr\">三七互娱（校招）</td><td class=\"s4\" dir=\"ltr\">广州/武汉/成都</td><td class=\"s5\" dir=\"ltr\">所有岗位均开放</td></tr><tr style='height:20px;'><th id=\"638029804R21\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">22</div></th><td class=\"s2\" dir=\"ltr\">字节跳动教育研发团队（校招）</td><td class=\"s2\" dir=\"ltr\">北京/上海/深圳/杭州/无锡</td><td class=\"s3\" dir=\"ltr\">前端、后端、算法、客户端、测试</td></tr><tr style='height:20px;'><th id=\"638029804R22\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">23</div></th><td class=\"s4\" dir=\"ltr\">阿里高德信息团队</td><td class=\"s4\" dir=\"ltr\">北京</td><td class=\"s5\" dir=\"ltr\">前端工程师</td></tr><tr style='height:20px;'><th id=\"638029804R23\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">24</div></th><td class=\"s2\" dir=\"ltr\">京东 Plus</td><td class=\"s2\" dir=\"ltr\">北京</td><td class=\"s3\" dir=\"ltr\">前端 H5 工程师</td></tr><tr style='height:20px;'><th id=\"638029804R24\" style=\"height: 20px;\" class=\"row-headers-background\"><div class=\"row-header-wrapper\" style=\"line-height: 20px;\">25</div></th><td class=\"s4\" dir=\"ltr\">九号机器人</td><td class=\"s4\" dir=\"ltr\">北京</td><td class=\"s5\" dir=\"ltr\">嵌入式工程师</td></tr></tbody></table>",
+      "company": "多家公司招聘汇总",
+      "positions": [
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "Web 全栈工程师",
+          "category": "全栈"
+        },
+        {
+          "title": "C++ 应用软件工程师",
+          "category": "后端"
+        },
+        {
+          "title": "区块链工程师",
+          "category": "其他"
+        },
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "运维工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "游戏运营后台开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Java 工程师",
+          "category": "后端"
+        },
+        {
+          "title": "运维工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "客户端工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "研发工程师",
+          "category": "其他"
+        },
+        {
+          "title": "设计师",
+          "category": "设计"
+        },
+        {
+          "title": "服务端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "大数据工程师",
+          "category": "数据"
+        },
+        {
+          "title": "容器平台技术专家",
+          "category": "DevOps"
+        },
+        {
+          "title": "安卓工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "Serverless 研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "容器开发工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "嵌入式工程师",
+          "category": "其他"
+        },
+        {
+          "title": "前端 H5 工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "西安",
+        "深圳",
+        "广州",
+        "上海",
+        "北京",
+        "杭州",
+        "南京",
+        "广州大学城",
+        "武汉",
+        "成都",
+        "无锡"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "C++",
+        "JavaScript",
+        "前端",
+        "后端",
+        "区块链",
+        "容器",
+        "Serverless"
+      ],
+      "experienceReq": "校招、社招均有"
+    }
+  ],
+  "skipped": [
+    {
+      "commentId": 716162212,
+      "author": "ruanyf",
+      "reason": "[other] 这是版主/管理员的公告性质评论，用于指向新的招聘帖，不是具体的招聘或求职信息"
+    }
+  ],
+  "errors": []
+}

@@ -12,7 +12,7 @@
  */
 
 import { Octokit } from "@octokit/rest";
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from "node:fs";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -29,6 +29,7 @@ interface RawComment {
   author: string;
   body: string;
   createdAt: string;
+  updatedAt: string;
   isMinimized: boolean;
 }
 
@@ -36,8 +37,8 @@ interface IssueData {
   issueNumber: number;
   title: string;
   yearMonth: string;
+  state: "open" | "closed";
   body: string;
-  totalCommentCount: number;
   comments: RawComment[];
   fetchedAt: string;
 }
@@ -161,16 +162,6 @@ function parseHistoryLinks(body: string): number[] {
 
 // --- GraphQL comment fetching ---
 
-const COMMENT_COUNT_QUERY = `
-query($owner: String!, $repo: String!, $number: Int!) {
-  repository(owner: $owner, name: $repo) {
-    issue(number: $number) {
-      comments { totalCount }
-    }
-  }
-}
-`;
-
 const COMMENTS_QUERY = `
 query($owner: String!, $repo: String!, $number: Int!, $cursor: String) {
   repository(owner: $owner, name: $repo) {
@@ -188,6 +179,7 @@ query($owner: String!, $repo: String!, $number: Int!, $cursor: String) {
           }
           body
           createdAt
+          updatedAt
           isMinimized
         }
       }
@@ -195,22 +187,6 @@ query($owner: String!, $repo: String!, $number: Int!, $cursor: String) {
   }
 }
 `;
-
-async function fetchCommentCount(
-  octokit: Octokit,
-  issueNumber: number
-): Promise<number> {
-  const result: any = await withRetry(
-    () =>
-      octokit.graphql(COMMENT_COUNT_QUERY, {
-        owner: OWNER,
-        repo: REPO,
-        number: issueNumber,
-      }),
-    `GraphQL count #${issueNumber}`
-  );
-  return result.repository.issue.comments.totalCount;
-}
 
 async function fetchCommentsGraphQL(
   octokit: Octokit,
@@ -243,6 +219,7 @@ async function fetchCommentsGraphQL(
         author: node.author?.login ?? "[deleted]",
         body: node.body,
         createdAt: node.createdAt,
+        updatedAt: node.updatedAt,
         isMinimized: node.isMinimized,
       });
     }
@@ -259,10 +236,15 @@ async function fetchCommentsGraphQL(
 
 // --- Search for "谁在招人" issues ---
 
-async function searchHiringIssues(
-  octokit: Octokit
-): Promise<Array<{ number: number; title: string; body: string }>> {
-  const issues: Array<{ number: number; title: string; body: string }> = [];
+interface IssueInfo {
+  number: number;
+  title: string;
+  body: string;
+  state: "open" | "closed";
+}
+
+async function searchHiringIssues(octokit: Octokit): Promise<IssueInfo[]> {
+  const issues: IssueInfo[] = [];
   let page = 1;
 
   while (true) {
@@ -284,6 +266,7 @@ async function searchHiringIssues(
         number: item.number,
         title: item.title,
         body: item.body ?? "",
+        state: item.state as "open" | "closed",
       });
     }
 
@@ -295,6 +278,18 @@ async function searchHiringIssues(
   }
 
   return issues;
+}
+
+// --- Init/Incremental mode detection ---
+
+function isInitMode(): boolean {
+  if (!existsSync(RAW_DIR)) return true;
+  try {
+    const files = readdirSync(RAW_DIR).filter((f) => f.endsWith(".json"));
+    return files.length === 0;
+  } catch {
+    return true;
+  }
 }
 
 // --- Load / save ---
@@ -316,6 +311,60 @@ function saveIssueData(data: IssueData): void {
   writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
 }
 
+// --- Comment-level merge logic ---
+
+interface MergeStats {
+  added: number;
+  updated: number;
+  skipped: number;
+  removed: number;
+}
+
+function mergeComments(
+  existingComments: RawComment[],
+  fetchedComments: RawComment[]
+): { merged: RawComment[]; stats: MergeStats } {
+  const stats: MergeStats = { added: 0, updated: 0, skipped: 0, removed: 0 };
+
+  // Build a map of existing comments by id for fast lookup
+  const existingMap = new Map<number, RawComment>();
+  for (const c of existingComments) {
+    existingMap.set(c.id, c);
+  }
+
+  // Build the merged result from fetched comments (authoritative source)
+  const merged: RawComment[] = [];
+  const fetchedIds = new Set<number>();
+
+  for (const fetched of fetchedComments) {
+    fetchedIds.add(fetched.id);
+    const existing = existingMap.get(fetched.id);
+
+    if (!existing) {
+      // New comment
+      merged.push(fetched);
+      stats.added++;
+    } else if (existing.updatedAt !== fetched.updatedAt) {
+      // Existing comment was updated
+      merged.push(fetched);
+      stats.updated++;
+    } else {
+      // No change
+      merged.push(existing);
+      stats.skipped++;
+    }
+  }
+
+  // Count removed comments (existed before but not in fetched)
+  for (const id of existingMap.keys()) {
+    if (!fetchedIds.has(id)) {
+      stats.removed++;
+    }
+  }
+
+  return { merged, stats };
+}
+
 // --- Main ---
 
 async function main() {
@@ -324,10 +373,13 @@ async function main() {
   const octokit = createOctokit();
   await checkRateLimit(octokit);
 
+  const initMode = isInitMode();
+  console.log(`[模式] ${initMode ? "初始化模式（data/raw/ 为空）" : "增量模式（data/raw/ 已有数据）"}\n`);
+
   // 1) Search all "谁在招人" issues
-  console.log("\n[步骤1] 搜索「谁在招人」Issues...");
+  console.log("[步骤1] 搜索「谁在招人」Issues...");
   const hiringIssues = await searchHiringIssues(octokit);
-  console.log(`  找到 ${hiringIssues.length} 个「谁在招人」Issues\n`);
+  console.log(`  找到 ${hiringIssues.length} 个「谁在招人」Issues`);
 
   if (hiringIssues.length === 0) {
     console.log("未找到任何 Issue，退出。");
@@ -336,6 +388,11 @@ async function main() {
 
   // Sort by issue number for consistent ordering
   hiringIssues.sort((a, b) => a.number - b.number);
+
+  // Log state distribution
+  const openCount = hiringIssues.filter((i) => i.state === "open").length;
+  const closedCount = hiringIssues.filter((i) => i.state === "closed").length;
+  console.log(`  其中 open: ${openCount}, closed: ${closedCount}\n`);
 
   // 2) Collect issue numbers referenced in issue bodies (historical links)
   const allIssueNumbers = new Set(hiringIssues.map((i) => i.number));
@@ -348,7 +405,9 @@ async function main() {
   console.log(`  包含历史链接，共计 ${allIssueNumbers.size} 个 Issues\n`);
 
   // Build a map for quick lookup
-  const issueMap = new Map(hiringIssues.map((i) => [i.number, i]));
+  const issueMap = new Map<number, IssueInfo>(
+    hiringIssues.map((i) => [i.number, i])
+  );
 
   // For linked issues not in our initial search, fetch their details
   const missingNumbers = [...allIssueNumbers].filter(
@@ -371,6 +430,7 @@ async function main() {
           number: data.number,
           title: data.title,
           body: data.body ?? "",
+          state: data.state as "open" | "closed",
         });
       } catch (err: any) {
         console.warn(`  跳过 Issue #${num}：${err.message}`);
@@ -380,44 +440,61 @@ async function main() {
     console.log("");
   }
 
-  // 3) Fetch comments for each issue
-  console.log("[步骤2] 获取评论数据...\n");
-  let processed = 0;
-  const totalIssues = allIssueNumbers.size;
+  // 3) Determine which issues to process based on mode
+  const sortedIssueNumbers = [...allIssueNumbers].sort((a, b) => a - b);
+  let issuesToProcess: number[];
 
-  for (const issueNumber of [...allIssueNumbers].sort((a, b) => a - b)) {
+  if (initMode) {
+    // Init mode: process all issues (open + closed)
+    issuesToProcess = sortedIssueNumbers;
+    console.log(`[步骤2] 初始化模式：处理全部 ${issuesToProcess.length} 个 Issues...\n`);
+  } else {
+    // Incremental mode: only process open issues
+    const skippedClosed: number[] = [];
+    issuesToProcess = [];
+    for (const num of sortedIssueNumbers) {
+      const info = issueMap.get(num);
+      const state = info?.state ?? "closed";
+      if (state === "open") {
+        issuesToProcess.push(num);
+      } else {
+        skippedClosed.push(num);
+      }
+    }
+    console.log(
+      `[步骤2] 增量模式：处理 ${issuesToProcess.length} 个 open Issues，跳过 ${skippedClosed.length} 个 closed Issues`
+    );
+    if (skippedClosed.length > 0) {
+      console.log(
+        `  跳过的 closed Issues: ${skippedClosed.map((n) => `#${n}`).join(", ")}`
+      );
+    }
+    console.log("");
+  }
+
+  // 4) Fetch comments for each issue to process
+  console.log("[步骤3] 获取评论数据...\n");
+  let processed = 0;
+  const totalToProcess = issuesToProcess.length;
+  let totalStats: MergeStats = { added: 0, updated: 0, skipped: 0, removed: 0 };
+
+  for (const issueNumber of issuesToProcess) {
     processed++;
     const issueInfo = issueMap.get(issueNumber);
     const title = issueInfo?.title ?? `Issue #${issueNumber}`;
     const yearMonth = extractYearMonth(title);
+    const state = issueInfo?.state ?? "closed";
 
     console.log(
-      `[${processed}/${totalIssues}] #${issueNumber} ${title} (${yearMonth})`
+      `[${processed}/${totalToProcess}] #${issueNumber} ${title} (${yearMonth}) [${state}]`
     );
 
-    // Check existing data for incremental fetch
+    // Load existing data for comment-level merge
     const existing = loadExistingData(issueNumber);
 
     try {
-      // Quick check: get totalCount first to decide if we need full fetch
-      const totalCount = await fetchCommentCount(octokit, issueNumber);
-
-      // If we have existing data and total count hasn't changed, skip
-      if (existing && existing.totalCommentCount === totalCount) {
-        console.log(
-          `  已有 ${existing.comments.length} 条评论，总数未变 (${totalCount})，跳过`
-        );
-        continue;
-      }
-
-      if (existing) {
-        console.log(
-          `  已有 ${existing.comments.length} 条评论，总数变化 ${existing.totalCommentCount} -> ${totalCount}，更新中...`
-        );
-      }
-
-      // Fetch all comments
-      const { comments: allFetchedComments } =
+      // Fetch all comments via GraphQL
+      const { comments: allFetchedComments, totalCount } =
         await fetchCommentsGraphQL(octokit, issueNumber);
 
       // Filter out minimized comments
@@ -427,17 +504,50 @@ async function main() {
       if (minimizedCount > 0) {
         console.log(`  过滤 ${minimizedCount} 条被折叠的评论`);
       }
-      console.log(
-        `  总计 ${validComments.length} 条有效评论（API 总数: ${totalCount}）`
-      );
+
+      // Comment-level merge with existing data
+      let finalComments: RawComment[];
+      if (existing && existing.comments.length > 0) {
+        // Merge: compare fetched comments with existing by id + updatedAt
+        const { merged, stats } = mergeComments(existing.comments, validComments);
+        finalComments = merged;
+
+        // Accumulate global stats
+        totalStats.added += stats.added;
+        totalStats.updated += stats.updated;
+        totalStats.skipped += stats.skipped;
+        totalStats.removed += stats.removed;
+
+        console.log(
+          `  评论合并: 新增 ${stats.added}, 更新 ${stats.updated}, 跳过 ${stats.skipped}, 删除 ${stats.removed}` +
+          `（API 总数: ${totalCount}）`
+        );
+
+        // If nothing changed at all, skip writing
+        if (
+          stats.added === 0 &&
+          stats.updated === 0 &&
+          stats.removed === 0 &&
+          existing.state === state
+        ) {
+          console.log(`  无变化，跳过写入`);
+          continue;
+        }
+      } else {
+        finalComments = validComments;
+        totalStats.added += validComments.length;
+        console.log(
+          `  新增 ${validComments.length} 条评论（API 总数: ${totalCount}）`
+        );
+      }
 
       const issueData: IssueData = {
         issueNumber,
         title,
         yearMonth,
+        state,
         body: issueInfo?.body ?? "",
-        totalCommentCount: totalCount,
-        comments: validComments,
+        comments: finalComments,
         fetchedAt: new Date().toISOString(),
       };
 
@@ -458,10 +568,18 @@ async function main() {
   console.log("\n=== 采集完成 ===");
 
   // Print summary
-  const files = [...allIssueNumbers]
+  console.log(`\n[统计] 评论变更汇总:`);
+  console.log(`  新增: ${totalStats.added}`);
+  console.log(`  更新: ${totalStats.updated}`);
+  console.log(`  跳过（无变化）: ${totalStats.skipped}`);
+  console.log(`  删除（不再存在）: ${totalStats.removed}`);
+
+  const allFiles = [...allIssueNumbers]
     .sort((a, b) => a - b)
     .filter((n) => existsSync(resolve(RAW_DIR, `${n}.json`)));
-  console.log(`成功保存 ${files.length}/${totalIssues} 个 Issue 的数据到 data/raw/`);
+  console.log(
+    `\n共有 ${allFiles.length} 个 Issue 数据文件在 data/raw/（本次处理 ${totalToProcess} 个）`
+  );
 }
 
 main().catch((err) => {

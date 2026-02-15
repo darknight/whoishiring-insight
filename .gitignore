@@ -5,10 +5,6 @@ node_modules/
 dist/
 .astro/
 
-# data files (generated, not committed)
-data/raw/
-data/parsed/
-
 # environment
 .env
 .env.*

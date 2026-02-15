@@ -1,0 +1,852 @@
+{
+  "issueNumber": 2666,
+  "yearMonth": "2022-10",
+  "postings": [
+    {
+      "id": "2666-1262128776",
+      "issueNumber": 2666,
+      "commentId": 1262128776,
+      "yearMonth": "2022-10",
+      "author": "NoCode-Tech",
+      "rawContent": "# 无码科技（杭州）有限公司 @杭州滨江\r\n无码科技团队于 2016 年在杭州成立，是一家技术驱动的互联网医疗科技公司。\r\n\r\n我们致力于通过数据及算法解决医疗领域信息不对称的问题。现已陆续出品多款医疗相关领域的产品。\r\n\r\n公司官网：www.nocode.com\r\n\r\n简历投递：recruit@nocode.com，如果有任何对岗位的问题，也欢迎来邮咨询。\r\n\r\n微信/电话：13615814021\r\n\r\n# 团队福利\r\n* 考勤及节假日：弹性办公、不打卡；双休、法定节假日、带薪休假。\r\n* 社险配置：五险一金，全额缴纳。\r\n* 健康福利：年度体检 及 洁牙。\r\n* 团建福利：定期聚餐打球小团建、每年集体旅游；不虚头巴脑、不喊口号，团建旅游只走自由行。近几年分别去了日本京都、泰国清迈、云南西双版纳、成都。\r\n* 其他：节日福利 / 生日福利 / 全天候免费零食及饮料 / 人体工学办公椅 / Mac 电脑等。\r\n\r\n# Golang 开发工程师\r\n工作职责：\r\n1. 根据产品需求，完成后端项目设计与开发，保证产品交付。\r\n2. 参与现有系统的优化工作，定位系统瓶颈，提高系统性能和稳定性。\r\n\r\n任职要求\r\n1. 具有两年以上后端开发经验，有良好的编码习惯。\r\n2. 两年以上的 Golang 实际开发经验，熟悉 Golang 的调度和 GC，熟悉 Golang 并发编程。\r\n3. 良好的计算机相关基础知识，熟悉常用数据结构、算法、设计模式。\r\n4. 熟悉至少一种关系型数据库，如 PostgreSQL、MySQL，熟悉缓存数据库 Redis。\r\n5. 熟悉 HTTP、TCP/IP 等网络协议，并了解 RESTful API 设计规范。\r\n6. 了解 Linux 操作系统，熟悉常见 Shell 指令，熟悉 Git 版本控制。\r\n7. 熟悉至少一种消息队列系统，包括但不限于 RabbitMQ/RocketMQ/Kafka。\r\n\r\n加分项：\r\n* 有大规模高可用的服务端服务研发经验者优先。\r\n* 熟悉 Kubernetes、Docker 等容器技术者优先。\r\n* 活跃的开源社区贡献者优先。\r\n\r\n# 前端开发工程师\r\n工作职责:\r\n1. 负责公司产品 PC 端、移动端、小程序的前端开发。\r\n2. 负责产品易用性改进和产品性能优化。\r\n3. 参与公司前端业务的工程化、流程化并持续推进。\r\n\r\n任职要求：\r\n1. 2 年以上前端经验，有大型互联网公司前端工作经验者优先。\r\n2. 具有良好的编码风格，有较强的独立工作能力和团队合作精神。\r\n3. 熟悉 React、CommonJS，并深入理解其设计原理，了解组件化和模块化的开发方式，具备较好的抽象能力。\r\n4. 熟悉 webpack/gulp/Grunt 等前端构建工具。\r\n5. 熟悉 ES6/ES7 语法，有 TypeScript 使用经验者优先。\r\n6. 熟练使用 Git 等源代码管理工具。\r\n7. 较强的逻辑思维能力，自驱力强，主动性强。\r\n\r\n加分项：\r\n * 熟悉 Node.js，了解 Express/Koa/Egg.js 等框架，有一定的后端服务端开发经验者优先。\r\n * 有微信小程序开发经验者优先。\r\n * 有开源社区贡献代码经验者优先。\r\n",
+      "company": "无码科技（杭州）有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Golang 开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Golang",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "RabbitMQ",
+        "RocketMQ",
+        "Kafka",
+        "Kubernetes",
+        "Docker",
+        "React",
+        "CommonJS",
+        "webpack",
+        "gulp",
+        "Grunt",
+        "ES6",
+        "ES7",
+        "TypeScript",
+        "Git",
+        "Node.js",
+        "Express",
+        "Koa",
+        "Egg.js"
+      ],
+      "experienceReq": "后端岗位：2年以上后端开发经验，2年以上Golang实际开发经验；前端岗位：2年以上前端经验",
+      "contact": "recruit@nocode.com, 13615814021"
+    },
+    {
+      "id": "2666-1263306019",
+      "issueNumber": 2666,
+      "commentId": 1263306019,
+      "yearMonth": "2022-10",
+      "author": "fty1990",
+      "rawContent": "# 字节跳动-抖音电商-前端（杭州/上海）\r\n```diff\r\n- 目前业务高速发展，欢迎各类人才加入！！！\r\n```\r\n**IM团队**（**_Base地：上海/杭州_**）：\r\n- 提供电商场景下商家与用户的沟通桥梁，帮助商家又快又好解决用户问题。\r\n- 建设电商体系内的标准通信能力，沉淀通信平台化能力，支持电商多场景聊天。\r\n- C端用户电商咨询聊天。\r\n- 商家一站式工作台（类比旺旺/千牛卖家客户端）。\r\n\r\n涉及前端技术能力：\r\n- 移动端跨端技术\r\n- 桌面端技术（Electron/Rust/C++/Native）\r\n- 实时通信，关注稳定性与健壮性\r\n- 高在线时长，复杂web应用的性能优化\r\n- 平台化通用IM能力建设\r\n\r\n**开放生态团队**（_**Base地：杭州**_）\r\n- 电商云，为解决数据安全问题提供云服务能力。\r\n- 为内部/外部开发者提供开发者工具，包括配置化接口开放平台。\r\n- 服务市场，帮助商家高效经营\r\n- 服务商工作台，为电商服务商提供一站式工作台\r\n- 商家应用，前端能力开放标准方案\r\n\r\n涉及前端技术能力：中后台系统提效，小程序，桌面端应用。\r\n\r\n**互动技术**（_**Base地：杭州**_）\r\n- 3D渲染\r\n- 虚拟主播\r\n- 数据大屏\r\n- 互动小游戏\r\n\r\n涉及前端技术能力： webgl，3D，交互系统，物理引擎。\r\n\r\n扫码内推，投递时请备注具体有意向的方向：\r\n杭州：https://job.toutiao.com/s/6WhnAuV\r\n![image](https://user-images.githubusercontent.com/18021913/167235151-6bdecfdc-6d29-4bfd-b240-3d81b3cc1020.png)\r\n\r\n\r\n上海：https://job.toutiao.com/s/6WkLXnp\r\n![image](https://user-images.githubusercontent.com/18021913/193236443-5c278075-e8fd-4b58-a8e5-a9be41d0f9ab.png)\r\n\r\n\r\n\r\n**另外2022校招内推启动，有兴趣的在校同学可以点击下方链接或vx扫码**\r\n字节跳动校招内推码: 2AEEHJE \r\n投递链接: https://jobs.toutiao.com/s/jXcfhC9\r\n\r\n![image](https://user-images.githubusercontent.com/18021913/186081285-450888a3-9c8a-4320-9a83-e674c3782863.png)\r\n\r\n\r\n```diff\r\n- 其他感兴趣的岗位也可与我VX: oohaha507 进行联系\r\n```",
+      "company": "字节跳动",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "移动端跨端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "桌面端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "Web应用工程师",
+          "category": "前端"
+        },
+        {
+          "title": "小程序工程师",
+          "category": "前端"
+        },
+        {
+          "title": "3D渲染工程师",
+          "category": "前端"
+        },
+        {
+          "title": "交互系统工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "JavaScript",
+        "React",
+        "Vue",
+        "Electron",
+        "Rust",
+        "C++",
+        "Native",
+        "WebGL",
+        "3D",
+        "小程序",
+        "IM通信"
+      ],
+      "contact": "oohaha507, https://job.toutiao.com/s/6WhnAuV, https://job.toutiao.com/s/6WkLXnp, https://jobs.toutiao.com/s/jXcfhC9"
+    },
+    {
+      "id": "2666-1263273639",
+      "issueNumber": 2666,
+      "commentId": 1263273639,
+      "yearMonth": "2022-10",
+      "author": "DjangoPeng",
+      "rawContent": "# 品览数据-AlphaDraw筑绘通 @上海\r\n\r\n## 公司介绍\r\n\r\n品览成立于2018年6月，专注于建筑设计AI服务，为工程设计公司提供AI建模、AI设计、AI测量等多种设计AI解决方案。\r\n品览自主研发的智能设计云平台“筑绘通”，是面向未来的新一代设计工具，利用AI人工智能、BIM平台、建筑设计知识库等多项技术，重塑设计生产工具，持续推动设计企业高质量发展。\r\n\r\n公司官网：[www.pinlandata.com](http://www.pinlandata.com/)\r\n简历投递：[yiwen.xia@pinlandata.com](mailto:yiwen.xia@pinlandata.com) ,有任何问题欢迎来邮咨询。\r\n\r\n## 团队福利\r\n\r\n我们会为你提供丰厚的薪酬福利，创造最好的成长学习和自我实现的环境：\r\n- 大牛团队，并肩作战；\r\n- 优于市场的薪酬体系；\r\n- 丰厚的期权计划，跟公司一起发展成长的机会；\r\n- 弹性的工作时间，灵活的休假制度；\r\n- 免费的健身房，年度体检；\r\n- 生日/节日福利不断；\r\n\r\n\r\n\r\n\r\n## 算法工程师\r\n岗位职责：\r\n1.\t参与图像处理、图像识别、目标检测、图像分割等计算机视觉算法研发工作；\r\n2.\t参与核心产品中与计算机视觉相关的研发工作；\r\n3.\t解决计算机视觉与深度学习算法在实际场景中的优化问题。\r\n\r\n任职资格：\r\n1.\t计算机、电子信息或相关专业硕士及以上学历，具有一年以上相关工作（实习）经验，博士无经验要求；\r\n2.\t熟悉常见的图像特征提取方法；熟悉常用的卷积神经网络框架、训练方法和调参方法；\r\n3.\t具备良好的编程能力，掌握Python编程语言，熟悉基本的Linux指令；\r\n4.\t熟悉TensorFlow机器学习框架、OpenCV图像处理库；能独立完成算法实验、开发和测试；\r\n5.\t有较强的责任心和良好的沟通能力，能够快速定位并解决问题，具备较强的学习能力。\r\n\r\n\r\n\r\n## 后端研发工程师\r\n岗位职责\r\n1.\t负责所属产品的设计与开发，既有功能的持续迭代工作；\r\n2.\t参与技术、系统的调研、评估工作。\r\n\r\n岗位要求\r\n1.\t计算机或者相关专业，统招本科及以上学历。\r\n2.\t对代码和设计质量有严格要求，重视Code Review；\r\n3.\t具有一年以上后端开发经验，语言不限（Java/Python/C++均可）\r\n4.\t良好的问题理解能力，能够理解以及处理复杂问题。\r\n5.\t具备较强的自学能力，团队精神及抗压能力。\r\n6.\t具有良好的沟通、团队协调及项目管理能力，强烈的责任心。\r\n\r\n加分项：\r\n有AI相关产品应用开发经验者/大型系统开发经验者优先考虑。",
+      "company": "品览数据",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "后端研发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Python",
+        "TensorFlow",
+        "OpenCV",
+        "CNN",
+        "图像处理",
+        "目标检测",
+        "图像分割",
+        "Java",
+        "C++",
+        "BIM",
+        "AI"
+      ],
+      "experienceReq": "算法工程师：硕士及以上学历需1年以上相关工作经验，博士无经验要求；后端工程师：本科及以上学历需1年以上后端开发经验",
+      "educationReq": "算法工程师：硕士及以上；后端工程师：本科及以上",
+      "contact": "yiwen.xia@pinlandata.com"
+    },
+    {
+      "id": "2666-1262968034",
+      "issueNumber": 2666,
+      "commentId": 1262968034,
+      "yearMonth": "2022-10",
+      "author": "liuyuanzhi-cn",
+      "rawContent": "# 逸思长天-（南京/远程居家办公）\r\n\r\n## 公司介绍\r\n逸思长天（南京）数字智能科技有限公司，成立于2022年，专注于大数据人工智能先进技术，尤其聚焦于湖仓一体、自动化机器学习等大数据人工智能平台相关技术。坚定聚焦大数据与人工智能等软件新技术方向，打造客户发展数字经济所需的、有技术竞争力的技术工具平台。打造新一代大数据技术底座、AI工程化技术底座、场景化数字赋能业务应用三大业务板块。逐步构建出数字经济技术底座规划、设计、服务、应用产业生态。\r\n\r\n## 职位诱惑\r\n奖金 不加班  弹性工作制  可居家远程办公  硬核的技术团队\r\n\r\n## 办公地点\r\n南京江北新区研创园创展大厦A座23楼\r\n\r\n## 职位1：数据库内核研发工程师（15K~30K）\r\n【岗位职责】\r\n1 在PostgreSQL、Greenplum上进行Extension开发与内核修改\r\n2 开发自研HTAP自治数据库产品。\r\n【任职资格】\r\n1.本科以上学历，计算机、软件工程等相关专业；\r\n2.熟悉linux系统操作，扎实的C/C++基础，熟悉C/C++开发，有良好的算法和数据结构基础优先；\r\n3.有良好的沟通能力和团队意识，追根究底、认真负责的态度。\r\n【加分项】\r\n1.有MySQL、postgreSQL等开源数据库Extension或内核开发经验。\r\n2.有golang、rust等编程语言的开发经验\r\n3.深入理解数据库原理/操作系统／编译原理／计算机体系结构／网络通信协议优先；\r\n4.有数据库内核/Extension/Linux内核/分布式存储/网络/基础软件等实战经验优先，并深入理解该领域技术。\r\n【补充说明】\r\n由于近期公司办公地址可能会变动以及疫情影响，对有能力的人才鼓励居家办公。\r\n\r\n## 职位2：机器学习平台研发工程师（15K~30K）\r\n【岗位职责】\r\n1.负责机器学习平台的后台系统设计和开发、搭建工作\r\n2.将平台和框架结合，通过任务调度、弹性容灾、性能优化等措施端到端提升算法开发效率，涉及go、k8s等。\r\n3.研究分析业内ML平台产品。优化技术方案                                     ，改进产品功能，完善产品体验\r\n【岗位要求】\r\n1.计算机相关专业，熟练使用Golang、python、java、scala等至少一种编程语言\r\n2.了解容器化与云原生技术\r\n3.了解机器学习相关技术\r\n4.责任心强、合作沟通顺畅\r\n【加分项】\r\n1.了解容器化与云原生技术、FaaS技术者优先\r\n2.了解机器学习相关技术、大数据相关组件技术优先\r\n3.了解AutoML、AutoFE、增量学习、MLops等技术者优先\r\n4.责任心强、合作沟通顺畅\r\n【补充说明】\r\n由于近期公司办公地址可能会变动以及疫情影响，对有能力的人才鼓励居家办公。\r\n\r\n## 联系方式\r\n欢迎投递简历（2632285589@qq.com），也可扫描如下微信二维码联系我~\r\n<div align=\"left\">\r\n<img src=https://liuyuanzhi-cn.gitee.io/pic_repo/wechat/my_code.jpg width=30% />\r\n</div>",
+      "company": "逸思长天（南京）数字智能科技有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "数据库内核研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "机器学习平台研发工程师",
+          "category": "AI/ML"
+        }
+      ],
+      "location": [
+        "南京",
+        "远程"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "salaryRange": "15K~30K",
+      "techStack": [
+        "PostgreSQL",
+        "Greenplum",
+        "C/C++",
+        "Linux",
+        "MySQL",
+        "Golang",
+        "Rust",
+        "Python",
+        "Java",
+        "Scala",
+        "Kubernetes",
+        "Docker",
+        "AutoML",
+        "MLOps"
+      ],
+      "experienceReq": "本科以上学历，计算机、软件工程等相关专业",
+      "educationReq": "本科以上",
+      "contact": "2632285589@qq.com"
+    },
+    {
+      "id": "2666-1274404502",
+      "issueNumber": 2666,
+      "commentId": 1274404502,
+      "yearMonth": "2022-10",
+      "author": "ThatMistakeIsNotYou",
+      "rawContent": "**海光信息技术股份有限公司成立于2014年，主要从事高端处理器、加速器等计算机芯片产品和系统的研究、开发公司多款CPU、通用GPU已实现多行业多领域的商业化批量应用。我们矢志成为中国最重要的计算机芯片设计企业，为中国信息产业的强盛提供核心计算引擎。作为国产先进微处理器产业的推动者，海光公司以务实的态度、创新的理念、先进的技术和可靠的产品，致力于促进我国信息产业核心竞争力的提升。**\r\n\r\n### 办公地点\r\n北京，上海，苏州，成都（部分岗位还包括天津，无锡）\r\n\r\n### 岗位描述\r\n\r\n- CPU架构师（模型仿真开发）\r\n1. 参与开发CPU性能仿真模型的基础设施和上层模型调试；\r\n2. 参与CPU微体系结构模型开发、调试；\r\n3. 性能仿真模型在多核系统下的功能、性能校验；\r\n4. 对不同模型参数下CPU体系结构的性能研究及相关数据校验、分析和展示；\r\n5. 开发维护CPU性能仿真模型的工作流程；\r\n\r\n- CPU架构师（性能分析）\r\n\r\n1. 程序运行数据采集与分析；\r\n2. CPU微架构的性能分析及优化；\r\n3. 用户程序的性能分析及优化；\r\n4. CPU微架构建模与编程；\r\n5. 编写CPU性能分析工具；\r\n\r\n- IC设计工程师\r\n\r\n1. 研发高性能处理器核；\r\n2. 制定处理器模块微结构设计规范；\r\n3. 浮点、定点、SIMD计算数据通路设计；\r\n4. 开发处理器模块RTL；\r\n5. 参与处理器验证；\r\n6. 与物理设计团队协作完成高主频时序收敛与功耗优化；\r\n7. 参与微结构性能分析并改进微结构；\r\n\r\n- IC验证工程师\r\n\r\n1. 开发处理器核、多核以及模块级验证环境；\r\n2. 制定验证计划；\r\n3. 开发/运行/调试测试用例以及功能覆盖点；\r\n4. 使用多种验证工具、平台，例如形式化验证工具，Emulator；\r\n5. 开发/维护仿真测试平台基础设施；\r\n\r\n- 全系统模拟工程师\r\n\r\n1. 参与CPU全系统模拟仿真软件开发；\r\n2. 负责Trace生成以及相关分析工具开发；\r\n3. 协助完成系统性能评估和分析；\r\n\r\n- AI/HPC 算法工程师（数学库研发）\r\n\r\n1. 设计，实现，维护数学库代码，如BLAS, MIOpen, DNN等及相关验证程序；\r\n2. 定义并实现新一代芯片的数学库算法代码及性能调优；\r\n3. 研究前沿的AI/HPC算法，实现并进行性能分析，提供下一代芯片改进方案;\r\n4. 支持客户需求，提供有竞争力的AI（训练和推理）/HPC应用方案;\r\n### 任职要求\r\n\r\n- CPU架构师（模型仿真开发）\r\n\r\n1. 良好的C/C++编程和调试技巧及扎实的软件工程实践；\r\n2. 熟练运用脚本编程，有Python和X86汇编编程经验更佳；\r\n3. 了解软件测试基准程序和工作负载程序分析；\r\n4. 了解性能模型开发流程，掌握基于节拍和序列模型的相关知识；\r\n5. 良好的中英文沟通技巧；\r\n6. 体系结构及相关专业的本科/研究生学历更佳；\r\n\r\n- CPU架构师（性能分析）\r\n\r\n1. 计算机科学、计算机工程或电子工程等相关专业学位，硕士以上学历优先考虑；\r\n2. 拥有计算机体系结构知识，有实际硬件设计经验者优先；\r\n3. 良好的团队合作精神，工作态度积极；\r\n4. 拥有以下技能者优先考虑：\r\na. 熟悉C/C++编程，能够使用Python/Perl等脚本语言；\r\nb. 具备编译器知识或具有x86汇编编程经验者优先；\r\nc. 熟悉计算机操作系统原理；\r\nd. 有1年以上的相关工作经验更佳；\r\n\r\n- IC设计工程师\r\n\r\n1. 熟悉CPU微结构，至少熟悉以下超标量处理器技术领域之一：\r\na. 寄存器重命名；\r\nb. 指令分派、调度；\r\nc. 同时多线程；\r\n2. 熟悉计算数据通路；\r\n3. 熟悉数字集成电路原理；\r\n4. 良好的团队合作精神，工作态度积极、踏实；\r\n\r\n- IC验证工程师\r\n\r\n1. 计算机科学、计算机工程或电子工程等相关专业学位；\r\n2. 有以下至少一项经验\r\na. 计算机体系结构知识\r\nb. 验证环境开发，如UVM/OVM\r\nc. 编写测试用例，开发检查器，覆盖率分析，错误调试，错误原因分析，指令集模拟器，汇编语言编程，随机指令序列生成器，C语言编程，系统底层软件；\r\n3. 熟悉以下至少一种编程语言：C/C++, Assembly (ARM, X86), Perl, Python, Ruby；\r\n4. 良好的团队合作精神，工作态度积极；\r\n\r\n- 全系统模拟工程师\r\n\r\n1. 计算机及电子类相关专业学士或者硕士；\r\n2. 3~5年及以上软件开发从业经验；\r\n3. 熟悉汇编、C、C++、Python、， 具备较强的实际编程能力；\r\n4. 熟悉常用调试手段，具备较强的定位和解决问题能力；\r\n5. 有良好的沟通能力及团队合作意识；\r\n6. 拥有以下一项或多项技能者优先：\r\na. 熟悉计算机体系结构，x86架构优先；\r\nb. 熟悉Qemu，具备相关项目经验；\r\nc. 熟悉Linux内核，具备相关项目经验；\r\nd. 熟悉系统性能评估分析的常用方法和工具；\r\n\r\n- AI/HPC 算法工程师（数学库研发）\r\n\r\n1. 计算机，电子工程，通信或相关专业；\r\n2. 有较强的解决问题能力，良好的沟通能力，喜欢研究新的技术；\r\n3. 熟悉Linux开发环境，Python, C++语言；\r\n4. 具备以下任何一个条件优先：\r\na. 熟悉OpenCL/CUDA/HSA编程模型;\r\nb. 熟悉GPU或AI芯片的驱动开发;\r\nc. 熟悉常用数学库，如BLAS，FFT，MPI，DNN，MiOpen等;\r\nd. 熟悉主流AI平台框架，如TensorFlow, PyTorch等;\r\n### 其他\r\n因为篇幅有限，目前仅详细列出CPU部门招聘信息，公司招聘还包括：\r\n\r\n- SOC\r\n\r\n架构/设计/验证工程师\r\n\r\n- DCU(deep compute unit)\r\n\r\n架构/设计/验证工程师\r\n\r\n- 物理设计类\r\n\r\nBlock level PD engineer\r\nFull chip physical design engineer\r\n\r\n- 电路设计类\r\n\r\n定制电路工程师\r\n模拟电路/高速SerDes设计工程师\r\n\r\n- 工艺设计类\r\n\r\nPDK工程师\r\n良率工程师\r\nESD工程师\r\n\r\n- 产品开发类\r\n\r\n产品开发工程师\r\n产品开发工程师（硬件测试）\r\n\r\n- 软件开发类\r\n\r\n底层固件/驱动/内核开发工程师\r\nCPU安全软件工程师\r\nCAD技术支持（AE）/ 程序开发工程师（PE）\r\n信息系统工程师（存储设备运维）\r\n解决方案工程师（软件开发工程师）\r\n\r\n- 市场及技术支持类\r\n\r\n技术支持工程师（BIOS工程师）\r\n市场经理 / 产品经理\r\n### 联系方式\r\n简历投递 E-mail：[linzhixiang@hygon.cn](mailto:linzhixiang@hygon.cn)（标题请注明简历投递，正文中注明岗位-工作地点-姓名）\r\n\r\n同时也欢迎通过邮件咨询其他相关事项",
+      "company": "海光信息技术股份有限公司",
+      "companyType": "国企",
+      "positions": [
+        {
+          "title": "CPU架构师（模型仿真开发）",
+          "category": "后端"
+        },
+        {
+          "title": "CPU架构师（性能分析）",
+          "category": "后端"
+        },
+        {
+          "title": "IC设计工程师",
+          "category": "其他"
+        },
+        {
+          "title": "IC验证工程师",
+          "category": "测试"
+        },
+        {
+          "title": "全系统模拟工程师",
+          "category": "后端"
+        },
+        {
+          "title": "AI/HPC 算法工程师（数学库研发）",
+          "category": "AI/ML"
+        },
+        {
+          "title": "SOC架构/设计/验证工程师",
+          "category": "其他"
+        },
+        {
+          "title": "DCU架构/设计/验证工程师",
+          "category": "其他"
+        },
+        {
+          "title": "Block level PD engineer",
+          "category": "其他"
+        },
+        {
+          "title": "Full chip physical design engineer",
+          "category": "其他"
+        },
+        {
+          "title": "定制电路工程师",
+          "category": "其他"
+        },
+        {
+          "title": "模拟电路/高速SerDes设计工程师",
+          "category": "其他"
+        },
+        {
+          "title": "PDK工程师",
+          "category": "其他"
+        },
+        {
+          "title": "良率工程师",
+          "category": "其他"
+        },
+        {
+          "title": "ESD工程师",
+          "category": "其他"
+        },
+        {
+          "title": "产品开发工程师",
+          "category": "其他"
+        },
+        {
+          "title": "产品开发工程师（硬件测试）",
+          "category": "测试"
+        },
+        {
+          "title": "底层固件/驱动/内核开发工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "CPU安全软件工程师",
+          "category": "安全"
+        },
+        {
+          "title": "CAD技术支持（AE）/ 程序开发工程师（PE）",
+          "category": "其他"
+        },
+        {
+          "title": "信息系统工程师（存储设备运维）",
+          "category": "DevOps"
+        },
+        {
+          "title": "解决方案工程师（软件开发工程师）",
+          "category": "后端"
+        },
+        {
+          "title": "技术支持工程师（BIOS工程师）",
+          "category": "其他"
+        },
+        {
+          "title": "市场经理 / 产品经理",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海",
+        "苏州",
+        "成都",
+        "天津",
+        "无锡"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C/C++",
+        "Python",
+        "X86汇编",
+        "ARM汇编",
+        "Perl",
+        "Ruby",
+        "Linux",
+        "QEMU",
+        "OpenCL",
+        "CUDA",
+        "HSA",
+        "TensorFlow",
+        "PyTorch",
+        "BLAS",
+        "FFT",
+        "MPI",
+        "DNN",
+        "MiOpen"
+      ],
+      "experienceReq": "全系统模拟工程师需3-5年及以上软件开发经验；其他岗位因岗位而异",
+      "educationReq": "本科及以上学历，多数岗位优先考虑硕士及以上学历",
+      "contact": "linzhixiang@hygon.cn"
+    },
+    {
+      "id": "2666-1280716145",
+      "issueNumber": 2666,
+      "commentId": 1280716145,
+      "yearMonth": "2022-10",
+      "author": "kstry",
+      "rawContent": "公司名称：字节跳动\r\n\r\n招聘岗位：http://kstry.cn/doc/recruitment.html",
+      "company": "字节跳动",
+      "companyType": "大厂",
+      "positions": [],
+      "location": [],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "contact": "http://kstry.cn/doc/recruitment.html"
+    },
+    {
+      "id": "2666-1269159958",
+      "issueNumber": 2666,
+      "commentId": 1269159958,
+      "yearMonth": "2022-10",
+      "author": "Apifox-Hr",
+      "rawContent": "### [Apifox](https://www.apifox.cn/) 介绍\r\n\r\n`Apifox = Postman + Swagger + Mock + JMeter`\r\n\r\nApifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台。官网：[apifox.cn](https://www.apifox.cn/)\r\n\r\n\r\n### 招聘职位\r\n\r\n初中级前端开发工程师 12~25K\r\n\r\n高级前端开发工程师 20~40K\r\n\r\n专家前端开发工程师 35~60K\r\n\r\n### 职位诱惑\r\n\r\n期权 奖金 纯技术精英团队 Geek 团队 没有不懂技术的产品经理 全员“MacBook Pro + 4K显示器” 免费零食下午茶\r\n\r\n### 岗位描述\r\n\r\n参与 Apifox （ [apifox.cn](https://www.apifox.cn) ）项目开发（专注于研发工程效率的 SaaS 平台，API 文档、API 调试、API Mock 、API产品自动化测试一体化协作平台，纯技术型项目，没有不懂技术的产品经理给你提需求）;\r\n\r\n负责核心业务功能的前端研发工作；\r\n\r\n配合产品经理和设计师，通过各种前端技术手段，提高用户体验并满足性能要求；\r\n\r\n负责前端页面开发和维护，并根据需求优化产品性能；\r\n\r\n研究前沿的前端技术并参与维护前端框架和规范;\r\n\r\n技术栈：前端 TypeScript+React+Ant Design+Electron，后端 TypeScript+Node.js;\r\n\r\n### 岗位要求\r\n\r\n本科及以上学历，至少 1 年以上 web 前端开发工作经验；\r\n\r\n精通使用各种 web 前端技术，包括 HTML5/CSS/Javascript/TypeScript 等；\r\n\r\n熟悉一种或多种常用前端框架，如（ React 、Vue 、Angular 等）；\r\n\r\n熟悉使用 webpack 等模块化、工程化工具；\r\n\r\n拥有开发流程中的代码规范意识、配置管理规范意识、文档撰写规范意识；\r\n\r\n### 我们希望你是\r\n\r\n1.  认同我们的理念：追求效率，推行自动化，持续改善的文化\r\n    \r\n2.  有代码洁癖和工程思想：我们期望你是创造价值的工程师，不是售卖劳力的程序员\r\n    \r\n3.  有 Geek 范： 认同 UNIX 设计哲学，熟练使用各种 Geek 工具\r\n    \r\n4.  善于协作沟通：有团队沟通协作、项目进度及时间管理实践基础\r\n    \r\n5.  是一个终身学习者：保持学习，热爱分享，技术视野开阔，对业界新技术敏感\r\n    \r\n\r\n### 关于我们，投简历前希望你了解\r\n\r\n1.  我们是 Geek 团队，只招优秀的技术人（能力强，或者目前能力一般但是爱学习能快速成长）\r\n    \r\n2.  我们注重团队技术氛围，注重技术人员的学习成长，每周都有技术学习分享会、Code Review\r\n    \r\n3.  我们注重代码质量，垃圾代码是不可接受的\r\n    \r\n4.  如果你不是一个爱学习爱折腾的人，请不要投我们，因为即使来了也融入不了团队\r\n    \r\n5.  我们相信优秀的人只愿意与优秀的人共事\r\n    \r\n6.  我们扁平化管理，没有职场的勾心斗角，没有条条框框，我们相信优秀的技术人不需要管理\r\n    \r\n7.  来这里，让优秀的你，只与优秀的人共事\r\n    \r\n### Apifox 产品\r\n<img width=\"1023\" alt=\"image\" src=\"https://user-images.githubusercontent.com/56781994/166113222-361f9036-305f-48eb-9463-b642410b8197.png\">\r\n\r\n### 公司地址\r\n\r\n广州市天河区天河北路233路中信广场（林和西地铁站上盖）\r\n\r\n### 简历邮箱\r\n\r\n简历请发送到：[hr@apifox.com](mailto:hr@apifox.com)【邮件主题：岗位-姓名-GitHub】\r\n\r\n### 办公环境\r\n\r\n[![](https://camo.githubusercontent.com/626c19474271d9c621d8feef83bd61878d6ea76ef5e51c40bbe0c40e713330c2/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d312e6a7067)](https://camo.githubusercontent.com/626c19474271d9c621d8feef83bd61878d6ea76ef5e51c40bbe0c40e713330c2/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d312e6a7067)  \r\n[![](https://camo.githubusercontent.com/52b1f03ca71e99a05bbd2743854a156b8076571058ed9b5ea76e4e9c9a42b913/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d322e6a7067)](https://camo.githubusercontent.com/52b1f03ca71e99a05bbd2743854a156b8076571058ed9b5ea76e4e9c9a42b913/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d322e6a7067)  \r\n[![](https://camo.githubusercontent.com/2179e7377c1a675d7f3c99a0b8e567fc33855e255f7a70fd9524e2f2140b8577/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d332e6a7067)](https://camo.githubusercontent.com/2179e7377c1a675d7f3c99a0b8e567fc33855e255f7a70fd9524e2f2140b8577/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d332e6a7067)  \r\n[![](https://camo.githubusercontent.com/2b8dbda12996ad2e596892ca8ecfb898c7625b5dd45ba6678a3b5359de8ad0d4/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d342e6a7067)](https://camo.githubusercontent.com/2b8dbda12996ad2e596892ca8ecfb898c7625b5dd45ba6678a3b5359de8ad0d4/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d342e6a7067)",
+      "company": "Apifox",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "初中级前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "高级前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "专家前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "广州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "初中级12~25K，高级20~40K，专家35~60K",
+      "techStack": [
+        "TypeScript",
+        "React",
+        "Ant Design",
+        "Electron",
+        "HTML5",
+        "CSS",
+        "Javascript",
+        "Vue",
+        "Angular",
+        "webpack",
+        "Node.js"
+      ],
+      "experienceReq": "至少1年以上web前端开发工作经验",
+      "educationReq": "本科及以上学历",
+      "contact": "hr@apifox.com"
+    },
+    {
+      "id": "2666-1284800979",
+      "issueNumber": 2666,
+      "commentId": 1284800979,
+      "yearMonth": "2022-10",
+      "author": "terryatgithub",
+      "rawContent": "深圳保诚科技有限公司内推\r\n\r\n欧美外企, 500强，base深圳, 海景办公，965, 入职即享15天年假, 顶配Mac\r\n快速扩张期，大量前端/后端/测试/运维/设计/运营/产品/架构岗位\r\n\r\n> 岗位要求和公司介绍可以参考这篇文章: [内推深圳保诚](https://zhuanlan.zhihu.com/p/377843648)\r\n> 意向简历请投递到 [115705151@qq.com](mailto:115705151@qq.com) 有投必回 有问必答 good luck~\r\n\r\n前端开发工程师/高级工程师 (技术开发岗能看英文文档即可.)\r\n全日制本科以上学历，计算机相关专业；\r\n两年以上前端开发经验，熟悉React Native, React或者Vue JavaScript。\r\n面试时会要求简单的英语自我介绍，然后都是中文交流；平时工作主要用中文\r\n\r\n后端开发工程师/ 高级工程师 (Java)(技术开发岗能看英文文档即可.)\r\n全日制本科以上学历，计算机相关专业；\r\n两年以上后端开发经验，熟悉Java，Sprint Boot, Spring Cloud，微服务架构。\r\n面试时会要求简单的英语自我介绍，然后都是中文交流；平时工作主要用中文\r\n\r\n软件测试工程师/ 高级工程师(技术开发岗能看英文文档即可.)\r\n全日制本科以上学历，计算机相关专业；\r\n两年以上APP，Web端软件测试经验。\r\n面试时会要求简单的英语自我介绍，然后都是中文交流；平时工作主要用中文\r\n\r\nUI/UX Designer\r\n全日制本科以上学历，设计类相关专业；\r\n两年以上互联网或者金融产品APP UI/UX设计经验；\r\n英文口语流利\r\n\r\nArchitect\r\n全日制本科以上学历，计算机相关专业；\r\n8年以上后端开发及软件架构设计经验；\r\nJava技术栈，熟知Cloud服务及最新的开源软件技术方案；\r\n英文口语流利，全英文面试\r\n\r\nProject Delivery Manager\r\n全日制本科以上学历，计算机相关专业；\r\n8年以上软件开发及互联网或金融纯软件产品交付经验；\r\n熟知敏捷项目管理；\r\n英文口语流利，全英文面试",
+      "company": "深圳保诚科技有限公司",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "前端开发工程师/高级工程师",
+          "category": "前端"
+        },
+        {
+          "title": "后端开发工程师/高级工程师",
+          "category": "后端"
+        },
+        {
+          "title": "软件测试工程师/高级工程师",
+          "category": "测试"
+        },
+        {
+          "title": "UI/UX Designer",
+          "category": "设计"
+        },
+        {
+          "title": "Architect",
+          "category": "后端"
+        },
+        {
+          "title": "Project Delivery Manager",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React Native",
+        "React",
+        "Vue",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "Spring Cloud",
+        "微服务"
+      ],
+      "experienceReq": "前端/后端/测试岗位：2年以上; 架构/PDM岗位：8年以上",
+      "educationReq": "全日制本科以上，计算机或设计相关专业",
+      "contact": "115705151@qq.com"
+    },
+    {
+      "id": "2666-1272181418",
+      "issueNumber": 2666,
+      "commentId": 1272181418,
+      "yearMonth": "2022-10",
+      "author": "safeYYY",
+      "rawContent": "**公司名称: | 太初(无锡)电子科技公司**\r\n\r\n**研发安全工程师\r\n\r\n职位描述职位信息：**\r\n\r\n1、负责安全漏洞的确认，及时响应并推动加固补丁和所有漏洞版本闭环\r\n\r\n2、负责项目各版本SDL流程工作及版本安全加固规划，提高产品自身的安全性，打造业界产品的安全质量标杆\r\n\r\n3、负责代码安全扫描工具的设计与开发4、能够独立完成源代码安全审计，发现C/C++/Python中的代码缺陷，提供安全加固建议\r\n\r\n任职资格：\r\n\r\n1、本科及以上学历，计算机相关专业，3年及以上工作经验\r\n\r\n2、具有一定的编程基础，熟悉C/C++、Python等语言\r\n\r\n3、了解C/C++、Python等语言开发程序中常见的代码缺陷和安全漏洞，能够独立进行源码安全审计工作\r\n\r\n4、熟悉S-SDLC/DevSecOps流程，对敏捷模型或瀑布模型有深入了解\r\n\r\n5、具备较强的发现问题、解决问题的能力，具有高度的技术热情和责任感职能类别：漏洞扫描、安全研发\r\n\r\n加分项：\r\n\r\n1、有漏洞挖掘经验或获取CVE（CNVD、CNNVD）编号\r\n\r\n2、有SCA、SAST、Fuzzing等安全测试工具的开发经验\r\n\r\n薪资： 18-30K 15薪\r\n\r\n联系人: | 赵先生 13277253175 [zhaoling@tecorigin.com](mailto:zhaoling@tecorigin.com)\r\n\r\n公司介绍:\r\n\r\n由国家超级计算无锡中心孵化的高性能人工智能产业化公司，致力于发展世界领先的自主可控高性能计算技术和生态。拥有科研实力雄厚的技术团队，参与了以“神威 太湖之光”为代表的多个超算系统的设计、建设和运维工作。\r\n\r\n薪酬福利待遇丰厚，定期体检，免费午餐，节日福利，每年旅游，每日下午茶等\r\n![image](https://user-images.githubusercontent.com/24469483/194679085-823dd583-5b02-4708-931a-ba5334a9b157.png)\r\n![image](https://user-images.githubusercontent.com/24469483/194679127-a9c680e9-e269-413e-b35f-53aed00932b0.png)\r\n\r\n![lADPJxf-ygpIkqXNC9DND8A_4032_3024](https://user-images.githubusercontent.com/24469483/194679007-d8bb8669-1604-4ac6-9a30-07260ad88e77.jpg)\r\n\r\n![lADPJwnIz1PRAEXNDW_NCsc_2759_3439](https://user-images.githubusercontent.com/24469483/194679040-91f2a98f-266e-4760-b6af-30a7c69eb740.jpg)\r\n",
+      "company": "太初(无锡)电子科技公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "研发安全工程师",
+          "category": "安全"
+        }
+      ],
+      "location": [
+        "无锡"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "18-30K 15薪",
+      "techStack": [
+        "C/C++",
+        "Python",
+        "S-SDLC",
+        "DevSecOps",
+        "SCA",
+        "SAST",
+        "Fuzzing"
+      ],
+      "experienceReq": "3年及以上工作经验",
+      "educationReq": "本科及以上学历，计算机相关专业",
+      "contact": "赵先生 13277253175 zhaoling@tecorigin.com"
+    },
+    {
+      "id": "2666-1263540954",
+      "issueNumber": 2666,
+      "commentId": 1263540954,
+      "yearMonth": "2022-10",
+      "author": "[deleted]",
+      "rawContent": "# [WiseTech Global](https://www.wisetechglobal.com) 南京Office招人\r\n\r\n\r\n### 公司\r\n* 中文名「慧咨环球」，澳交所上市（股票代码：WTC），百亿美元市值\r\n* 拥有超过25年的历史，以打造突破性的产品为使命，通过科技和创新重塑全球供应链\r\n* 18,000+家物流公司客户，其中包括24家全球前25强的货运代理，以及42家全球前50强的第三方物流提供商\r\n* 全球35个产品研发中心，可Transfer总部澳大利亚\r\n* 南京元通CBD，华采天地顶级写字楼\r\n* 员工股权激励\r\n\r\n\r\n### 工作\r\n* 不加班，Work Life Balance\r\n* 不加班，Work Life Balance\r\n* 不加班，Work Life Balance\r\n* 3天Work From Home，2天Onsite\r\n* Slower today, faster forever\r\n\r\n\r\n### 团队\r\n* 创始人是软件工程师出身，公司具有浓厚的工程师文化\r\n* 国际化的工作环境，Global Team，英文口语沟通，各国同事保持紧密合作\r\n* 不存在年龄、学历、性别歧视\r\n* Anyone can talk to anyone at any time for any reason\r\n* Lead others, manage yourself\r\n\r\n\r\n### 配置\r\n* Dell Precision 5570，i9-CPU，64GB内存，2TB固态\r\n* 两台43寸的4K显示器\r\n* 进口定制升降桌，人体工学椅\r\n\r\n\r\n### 岗位  \r\n[.Net Senior Software Engineer](https://www.zhipin.com/job_detail/a06a079bdca5649a1nx82dm-GFdS.html?securityId=t7_56zztvSNmP-11R8S30rvaiLlQd4IzVASrng1djMJK0nXDasnjzjPZxLb2_4GuNtpdO5b_WQmauNnSb1hLNhrBL0utME4D2LeWN6fKfakf)  \r\n[.Net Software Engineer](https://www.zhipin.com/job_detail/9eb0336996a5c2741nx82dm_FVJZ.html?securityId=FiGHPVo6wxGdX-E1V9p7W0xhT-OGOIj_QDKKSd7oLywtWM8Tn0yPmAE3ECmaknZ5wi7kqsNrCblmiQQVDgz2Ji4eGJd8fSijUHgL0mNlgWkK)    \r\n[Python Software Engineer](https://www.zhipin.com/job_detail/61a0063e6da055231nx82d60EFJW.html?securityId=GFb0VikBrKBir-W13u5T6ALi31p_iqoRUMDuUCm-eQOHD52NEWgvtZbD74L1eJSo-a0_Oi9i0JXCO3URH3ew61rePs1WzN9un5Ow2WI19nRD)\r\n\r\n\r\n### 相关链接\r\n[WiseTech Global | Glassdoor](https://www.glassdoor.com/Overview/Working-at-WiseTech-Global-EI_IE658123.11,26.htm)  \r\n[WiseTech Global | Linkedin](https://www.linkedin.com/company/wisetech-global)\r\n\r\n\r\n### 持续招人，欢迎任何编程语言背景的人投递简历\r\n",
+      "company": "WiseTech Global（慧咨环球）",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": ".Net Senior Software Engineer",
+          "category": "后端"
+        },
+        {
+          "title": ".Net Software Engineer",
+          "category": "后端"
+        },
+        {
+          "title": "Python Software Engineer",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "南京"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        ".Net",
+        "Python"
+      ],
+      "contact": "https://www.zhipin.com/job_detail/a06a079bdca5649a1nx82dm-GFdS.html, https://www.zhipin.com/job_detail/9eb0336996a5c2741nx82dm_FVJZ.html, https://www.zhipin.com/job_detail/61a0063e6da055231nx82d60EFJW.html"
+    },
+    {
+      "id": "2666-1286630591",
+      "issueNumber": 2666,
+      "commentId": 1286630591,
+      "yearMonth": "2022-10",
+      "author": "yexia553",
+      "rawContent": "# 趋势科技南京研发中心\r\n\r\n我们风格整体偏向外企，965，很少加班，是南京为数不多上榜955的公司, 955传送门。 https://github.com/formulahendry/955.WLB\r\n我们是一家做网络安全的公司，目前主要做云安全、零信任等方向。\r\n目前在再招聘的岗位如下：\r\n资深开发运维工程师\r\n安全大数据研发工程师\r\n资深Linux开发工程师\r\n前端开发工程师\r\n大数据测试工程师\r\n移动安全研发工程师\r\nSaaS开发工程师\r\n资深开发工程师-macOS/iOS\r\n测试开发工程师\r\n具体的JD请查看地址：https://trendmicro.zhiye.com/Social\r\n\r\n如果希望内推请把简历和目标职位发送到：[zhixiang_pan@trendmicro.com](mailto:zhixiang_pan@trendmicro.com)\r\n发送邮件时请备注来自阮大",
+      "company": "趋势科技",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "资深开发运维工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "安全大数据研发工程师",
+          "category": "数据"
+        },
+        {
+          "title": "资深Linux开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "大数据测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "移动安全研发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "SaaS开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "资深开发工程师-macOS/iOS",
+          "category": "移动端"
+        },
+        {
+          "title": "测试开发工程师",
+          "category": "测试"
+        }
+      ],
+      "location": [
+        "南京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "云安全",
+        "零信任",
+        "Linux",
+        "macOS",
+        "iOS"
+      ],
+      "experienceReq": "资深/有相关经验",
+      "contact": "zhixiang_pan@trendmicro.com"
+    },
+    {
+      "id": "2666-1286316270",
+      "issueNumber": 2666,
+      "commentId": 1286316270,
+      "yearMonth": "2022-10",
+      "author": "hialoha",
+      "rawContent": "【社招】【组内直推】【知乎】广告算法工程师\r\n职位共3个，各招1人\r\n联系邮箱： liuxinzhu@zhihu.com\r\n\r\n「JOB 1」\r\n广告出价资深算法工程师\r\n技术中台 | 全职 | 技术类\r\n北京市 · 海淀区\r\n职位描述\r\n1. 负责知乎一站式智能营销平台算法和机制体系建设，包括智能出价（nobid，oCPC，ecpc等）和广告主工具等技术的迭代和优化；\r\n2. 优化oCPC优化成本达成，完善oCPC售卖机制，为客户提供多维度的成本售卖机制；\r\n3. 深度诊断客户投放过程中遇到的问题，并能够根据问题制定出解决优化方案；\r\n\r\n任职要求\r\n1. 3年以上左右计算广告相关工作经验；\r\n2. 对业务数据敏感，有深度思考和创新的意识，有较强数据分析和解决问题能力；\r\n3. 精通拍卖机制，博弈论，对拍卖机制有深度研究，有强烈的好奇心和求知欲者优先；\r\n4. 有字节、百度、阿里等大厂出价相关工作经历加分。\r\n\r\n「JOB 2」\r\n广告模型资深算法工程师\r\n技术中台 | 全职 | 技术类\r\n北京市 · 海淀区\r\n职位描述\r\n1. 基于知乎海量的用户行为数据，进行广告个性化推荐，提升用户体验和广告投放效果；\r\n2. 负责知乎多场景（信息流、搜索和知盟）广告系统基础算法研究和策略研究；\r\n3. 使用前沿的深度学习技术，结合具体业务场景特点，优化模型结构和特征挖掘，提升模型（包括不限于CTR模型，CVR模型）预估精度；\r\n4. 负责CTR和CVR模型优化工作，包括不限于特征工程，模型结构优化，online learning，延迟建模等，提升模型匹配效率；\r\n\r\n任职要求\r\n1. 3年以上计算广告相关工作经验；\r\n2. 硕士或博士学历，计算机、应用数学、模式识别、人工智能、自控、统计、运筹学等专业；\r\n3. 对机器学习、概率统计、最优化等算法原理及其在互联网行业的应用，有深入的理解和浓厚的兴趣；\r\n4. 对大规模推荐/广告系统有较好的理解和实践经验，能够独立进行策略调研和策略研发；\r\n5. 有大规模分布式计算平台的使用和并行算法的开发经验。\r\n\r\n「JOB 3」\r\n广告召回模型资深算法工程师\r\n技术中台 | 全职 | 技术类\r\n北京市 · 海淀区\r\n职位描述:\r\n1. 基于海量的广告候选集合，设计高效的召回算法，帮助系统优化变现效率；\r\n2. 优化广告系统中召回排序相关策略；\r\n3. 设计高效的线上系统问题排查方案，帮助广告主解决稳定性等相关问题；\r\n4. 构建通用的召回算法框架，支持各业务场景召回诉求；\r\n5. 设计有效的冷启动相关机制，帮助广告主解决稳定性等相关问题；\r\n\r\n任职要求：\r\n1. 3年以上计算广告相关工作经验；\r\n2. 有一定架构能力；\r\n3. 对业务数据敏感，有深度思考和创新的意识，有较强数据分析和解决问题能力；\r\n4. 有开发高品质产品、编写高质量代码的自驱力。\r\n5. 熟悉机器学习、数据挖掘知识，熟练应用tensorflow。",
+      "company": "知乎",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "广告出价资深算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "广告模型资深算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "广告召回模型资深算法工程师",
+          "category": "AI/ML"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "深度学习",
+        "机器学习",
+        "TensorFlow",
+        "CTR模型",
+        "CVR模型",
+        "推荐系统",
+        "分布式计算",
+        "数据挖掘"
+      ],
+      "experienceReq": "3年以上计算广告相关工作经验",
+      "educationReq": "硕士或博士学历优先（JOB 2要求硕士或博士，计算机、应用数学、模式识别、人工智能、自控、统计、运筹学等专业）",
+      "contact": "liuxinzhu@zhihu.com"
+    },
+    {
+      "id": "2666-1288483193",
+      "issueNumber": 2666,
+      "commentId": 1288483193,
+      "yearMonth": "2022-10",
+      "author": "aikuyun",
+      "rawContent": "公司：[维信金科](https://www.vcredit.com/)\r\n坐标：上海虹口\r\n业务：小额信贷、港股上市公司\r\n\r\n简历投递，可以邮箱 aikuyun.tsl@gmail.com 或者 加我微信: bigdata1970\r\n\r\n目前在招的岗位以及JD\r\n\r\n高级/资深JAVA工程师\r\n> 1.全日制本科3年，硕士2年以上java项目开发经验;\r\n> 2.熟悉MVC设计模式、熟练使用spring架构，对spring boot, spring cloud有一定了解;\r\n> 3.熟悉常见的中间件、分布式解决方案及原理：分布式缓存、SOA、消息中间件、负载均衡、连接池等。\"\r\n> 前端开发工程师 \"1.熟练解决移动端适配问题；\r\n> 2.熟练运用JavaScript、HTML5、CSS3等技术;\r\n> 3.对主流前端框架（React、Vue）至少一种有深入应用并深入理解其设计原理；\r\n> 4.能对具体的产品进行性能优化，实现页面加载、执行和渲染时间。\r\n\r\n高级架构师（技术）\r\n\r\n> 1.本科及以上学历，计算机或数学相关专业；五年以上java开发经验，至少1个以上的成功的带队开发的java架构项目；\r\n> 2.技术全面，对各类开发语言、技术、框架、网络技术、数据库、操作系统等都有一定的了解，精通Spring Cloud框架、K8S、CI/CD；\r\n> 3.能理解与分析业务需求，搭建系统开发及运营环境，完成系统架构/数据架构的整体设计;\r\n> 4.能制定各类技术规范，带队落实各技术环节，负责整体技术规范与质控;\r\n> 5.熟悉设计模型，良好的代码质量和习惯，优秀的技术架构设计能力，良好的系统分析及设计能力，有规范的编程习惯；\r\n> 6.自驱动、沟通能力、团队精神、快速学习、系统性思考、和热爱技术\r\n\r\n资深运维开发工程师\r\n\r\n> 1.本科学历，5年以上运维开发经验；\r\n> 2.精通Golang或者python语言，熟悉Gin/Flask等常见的Web框架；\r\n> 3.熟悉阿里云，腾讯云等至少一种云平台运维管理；\r\n> 4.熟练掌握 CI/CD 相关工具，熟练掌握Docker、k8s架构和技术原理；\r\n> 5.熟悉自动化运维工具如 ansible、puppet 等，对自动运维有较深刻的理解，有较长期的实践；\r\n> 6.有运维自动化相关系统开发经验，如CMDB，发布系统等。\r\n> \r\n\r\n算法工程师\t\r\n\r\n> 1. 全日制本科以上，3年以上算法工作经验；\r\n> 2. 熟悉Python 和 SQL，对数据结构和算法有较深刻的理解；\r\n> 3. 熟悉主流机器学习框架（Scikit-learn、Tensorflow、PyTorch）；\r\n> 4. 熟悉常用机器学习，统计算法，深度学习；\r\n> 5. 善于沟通，有较强的横向协作能力；善于快速学习和总结，对挑战充满激情。\"\r\n> 高级财务分析师\t\"1. 3年以上工作经验，会计、财务管理等经管类相关专业优先；\r\n> 2. 有良好的财务知识基础以及良好的business sense，英文可作为工作语言；\r\n> 3. 熟练掌握各种办公软件（EXCEL、PPT等），有较好的数据处理能力；\r\n> 4. 善于沟通、能承受工作压力，适应成长型企业的工作氛围\r\n\r\n投诉支持岗\r\n\r\n> 1.能独立负责对接合作方，每日同步监管外诉处理进度，线上回答合作方提出的问题;\r\n> 2.能够对外诉数据进行分析，通过数据发现问题、提出措施、解决问题,推动各优化措施的落地;\r\n> 3.可以负责投诉团队的绩效辅导，通过录音监听、案例复盘等对团队进行培训、指导，促使团队指标达成.\"\r\n> 投诉专员\t\"1.全日制大专以上学历,两年以上金融行业贷后方向重大危机客诉处理经验。\r\n> 2.具备一定的文字功底，熟练使用办公软件、包括但不限于邮件、excel、ppt等。\r\n> 3.较强的逻辑思维、沟通能力、文字功底。\r\n\r\n管培生\r\n\r\n> 2023届，硕士学历，财务、产品运营、算法模型、风险分析、数据分析、运维方向\r\n\r\n工程师\r\n\r\n> 1.2023届，一本及以上学校毕业；\r\n2.计算机及相关专业、数学等.",
+      "company": "维信金科",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "高级/资深JAVA工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "高级架构师（技术）",
+          "category": "后端"
+        },
+        {
+          "title": "资深运维开发工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "高级财务分析师",
+          "category": "其他"
+        },
+        {
+          "title": "投诉支持岗",
+          "category": "运营"
+        },
+        {
+          "title": "投诉专员",
+          "category": "运营"
+        },
+        {
+          "title": "管培生",
+          "category": "其他"
+        },
+        {
+          "title": "工程师",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "Spring",
+        "Spring Boot",
+        "Spring Cloud",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "React",
+        "Vue",
+        "Golang",
+        "Python",
+        "Gin",
+        "Flask",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Ansible",
+        "Puppet",
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "SQL"
+      ],
+      "experienceReq": "本科3年以上、硕士2年以上（因岗位而异）",
+      "educationReq": "全日制本科及以上（因岗位而异）",
+      "contact": "aikuyun.tsl@gmail.com, 微信: bigdata1970"
+    },
+    {
+      "id": "2666-1289934987",
+      "issueNumber": 2666,
+      "commentId": 1289934987,
+      "yearMonth": "2022-10",
+      "author": "gxglls",
+      "rawContent": "## SmartX（内推）\r\n\r\n研发的日常状态参考：https://zhuanlan.zhihu.com/p/34983207\r\n知乎技术博客： https://www.zhihu.com/org/smartx-7/activities\r\n\r\nSmartX 是一家专注于 IT 基础架构创新的科技企业，聚集顶尖的系统技术研发团队，提供全球领先的分布式存储、计算引擎、网络等 IT 基础设施产品，打造最硬核、最稳定的企业云、分布式存储和云原生产品解决方案\r\nSmartX 的客户遍及国内外金融服务、医疗、制造业、餐饮、零售、通信和传媒等领域，包括交通银行、招商证券、SBS、松下电器、海王生物、泰康保险、海尔、金拱门等国内外知名企业。\r\n\r\nOur team\r\nSmartX 拥有全国最顶级的分布式系统研发团队，创始团队均毕业于清华大学计算机系，在分布式系统、虚拟化、操作系统、存储系统方面有 10 年以上产品研发经验。公司研发团队成员均来自顶级IT互联网公司，如：BAT、微软亚洲研究院、Hulu、美团、VMware等\r\n\r\n## 主要招聘岗位\r\n包括不限于：\r\n- 分布式存储工程师\r\n- SDN 网络工程师\r\n- 云原生工程师\r\n- 分布式文件系统工程师\r\n- 虚拟化工程师\r\n- 测试开发工程师\r\n- 前端工程师\r\n- 备份工程师\r\n- SRE\r\n- 销售/售前/售后\r\n\r\n具体岗位描述见下二维码\r\n\r\n## 岗位描述和内推方式\r\n直接二维码内推\r\n![image](https://user-images.githubusercontent.com/12667277/197676699-c470b114-3389-4d79-9f46-c1a23de96588.png)\r\n\r\n",
+      "company": "SmartX",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "分布式存储工程师",
+          "category": "后端"
+        },
+        {
+          "title": "SDN网络工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "云原生工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "分布式文件系统工程师",
+          "category": "后端"
+        },
+        {
+          "title": "虚拟化工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "测试开发工程师",
+          "category": "测试"
+        },
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "备份工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "SRE",
+          "category": "DevOps"
+        },
+        {
+          "title": "销售",
+          "category": "其他"
+        },
+        {
+          "title": "售前",
+          "category": "其他"
+        },
+        {
+          "title": "售后",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "分布式存储",
+        "分布式系统",
+        "虚拟化",
+        "操作系统",
+        "存储系统",
+        "云原生",
+        "SDN网络"
+      ],
+      "experienceReq": "10年以上产品研发经验（团队要求）",
+      "contact": "二维码内推"
+    },
+    {
+      "id": "2666-1288913671",
+      "issueNumber": 2666,
+      "commentId": 1288913671,
+      "yearMonth": "2022-10",
+      "author": "nazhenhuiyi",
+      "rawContent": "## Backend Software Engineer\r\n### **About MetaSearch**\r\n- MetaSearch’s mission is to revolutionize the way people access and research for information in Web 3\r\n- Our core product is a one-stop market intelligence, research and analytics platform for crypto\r\n- Founding team is ex-Citadel and ex-Amazon from Cambridge and UChicago, with rest of the team from Facebook, academia and other start-ups\r\n- Incorporated in Q1 2022, we are expected to close our seed round in Q2 2022, backed by some of the best VCs and strategic partners in the space, including Sequoia, Dragonfly, Jane Street, and Animoca Brands\r\n- We are looking to expand our team rapidly and going full steam ahead towards our product launch in Q3 2022\r\n\r\n### **Highlights of Working at MetaSearch**\r\n\r\n- You will have the flexibility to work remotely or at any of our global hubs (Seattle, Singapore and more)\r\n- Every year for 3 months you can join other colleagues and friends at any of our global hubs with all expenses paid for*\r\n- Full accountability and ownership of your work in a dynamic start-up environment\r\n- Surrounded by fun people, with annual team building trip: Skiing in the Alps, Surfing in Hawaii, Adventure in the Amazon rainforest, safari in Ngorongoro, meditation trip in Thailand…any cool trip you can think of - we’ll make it happen!\r\n- We provide mental support with a dedicated performance coach to support your personal growth - it’s all about YOU\r\n- Competitive salary & equity compensation\r\n\r\n*All business-related expenses paid for (travel, accommodation etc)\r\n\r\n### **The Role**\r\n\r\nAs MetaSearch’s backend software engineer, you will \r\n\r\n- Work on end-to-end product lifecycle - developing new features for the product that revolutionizes the way people access information in Web 3.0\r\n- Contribute to technical direction based on our primary product vision and contribute to org’s long-term technical roadmap\r\n- Learn industrial standard best practices with a focus on high throughput, high reliability, and low latency\r\n- Build innovative solutions for large distributed systems with exposure to industry leading technologies\r\n- Work closely with scientists, engineers and product managers to optimize the performance of machine-learning models and infrastructure, and implement end-to-end solutions\r\n\r\n### Qualifications:\r\n\r\n- Bachelor’s degree in Computer Science, or a related technical field; or equivalent combination of technical education and work experience\r\n- 1+ year of experience in developing real-world software application (part-time or college projects also considered); contributing to system/component design or architecture\r\n- Proficiency in programming experience with at least one modern language such as Java, C++, Python, JavaScript including object-oriented design\r\n- Hands-on experience in cloud-based distributed system development (AWS services or equivalents)\r\n\r\n### Nice-to-haves:\r\n\r\n- Industrial experience in real-time large-scale system development\r\n- Hands-on experience in cloud-based distributed system development (AWS services or equivalents)\r\n- Experience with search or search ingestion pipelines\r\n\r\n### **Join Us Now!**\r\n\r\nPlease send a copy of your CV to [[talent@kaito.ai](mailto:talent@kaito.ai)](mailto:talent@kaito.ai) and include a short paragraph on why you're the right candidate for this role and your relevant experience. Github repository or publications are highly recommended if you have available.\r\n\r\n",
+      "company": "MetaSearch",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Backend Software Engineer",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "西雅图",
+        "新加坡"
+      ],
+      "isRemote": true,
+      "isOverseas": true,
+      "salaryRange": "Competitive salary & equity compensation",
+      "techStack": [
+        "Java",
+        "C++",
+        "Python",
+        "JavaScript",
+        "AWS"
+      ],
+      "experienceReq": "1+ year of experience in developing real-world software application",
+      "educationReq": "Bachelor's degree in Computer Science, or a related technical field; or equivalent combination of technical education and work experience",
+      "contact": "talent@kaito.ai"
+    }
+  ],
+  "skipped": [
+    {
+      "commentId": 1264402297,
+      "author": "l-7-l",
+      "reason": "[other] 这是一条询问性评论，作者向另一用户提问是否接受前端转岗的人，不属于独立的招聘帖或求职帖。缺乏完整的招聘信息或求职意向表述。"
+    },
+    {
+      "commentId": 1297344890,
+      "author": "ruanyf",
+      "reason": "[other] 这是一条管理员通知，用于关闭当前招聘贴并指向新的招聘贴位置。不属于具体的招聘或求职内容，而是论坛管理和指引信息。"
+    }
+  ],
+  "errors": [
+    {
+      "commentId": 1262079926,
+      "error": "Unterminated string in JSON at position 2490 (line 102 column 18)"
+    },
+    {
+      "commentId": 1262079926,
+      "error": "Not Found"
+    },
+    {
+      "commentId": 1262079926,
+      "error": "Not Found"
+    }
+  ]
+}

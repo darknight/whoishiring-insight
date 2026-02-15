@@ -1,0 +1,645 @@
+{
+  "issueNumber": 8591,
+  "yearMonth": "2026-01",
+  "postings": [
+    {
+      "id": "8591-3767043483",
+      "issueNumber": 8591,
+      "commentId": 3767043483,
+      "yearMonth": "2026-01",
+      "author": "jalr4ever",
+      "rawContent": "## 字节跳动-后端研发工程师-大模型应用\n\n工作地点\n北/上/深/杭，一切好商量。最好是在深圳。\n\n职责\n1、负责大模型相关服务的后端架构设计与核心模块开发；\n2、深度参与从模型集成、推理服务、到RAG等关键功能的设计与实现；\n3、优化系统性能、稳定性与扩展性，推动高质量工程实践；\n4、与算法、前端、产品等团队密切协作，推进项目交付；\n5、持续关注和研究大模型技术发展趋势，推动技术在业务中的创新应用。\n\n职位要求\n1、本科及以上学历，计算机相关专业，5年以上后端开发经验；\n2、精通Python，具备扎实的计算机基础知识（数据结构、算法、操作系统、网络等）；\n3、熟悉主流后端语言中的至少一种（Golang/Java/C++），具备跨语言协作能力；\n4、有分布式系统架构设计、开发与运维经验，能够独立定位与解决复杂问题；\n5、具备良好的编码规范与工程能力，追求高质量产出；\n6、理解面向对象设计原则与常见设计模式，具备良好的系统抽象能力；具备优秀的沟通协作能力、分析与解决问题的能力、持续学习能力。\n\n------\n\n> 26 年来临。\n> 🔥 首先我们部门是赚钱部门，业务部门。然后 26 年我们的业绩考核要翻几倍，所以 HC 继续扩，招更多人，做更多事。 \n\n- **团队做的啥事情？** 我们团队是做 ToB 领域的大模型应用。我们组主要做 Agent 工程相关的工作（知识库/评测/观测）。项目技术栈都是 Py / Go。\n\n- **技术栈要求？** 后端就可以。JD 的要求，也是好商量。我之前是 Java + Python 两开花，但 Python 也不是特别熟悉。进来也是写 Python / Go。做的事情有些纯后端，有些探索项目则是 AI Native。\n- **期望的人才画像？** 目前期望需要毕业几年大头兵干活的，毕业十几年的资深架构师也要。团队招了很久也没有招到一个精通后端工程 + 熟悉 LLM/AI 技术工程（非算法模型层）相关的资深架构师。如果有实力，也可以看看。不用看 JD。做事情就是 Hold 住整个团队的技术架构，把握团队整体的方案评审等等。感觉像高阶 IC，做技术的。不是带人的岗位。\n- **团队节奏如何？** 节奏上我们日常是早十晚九点半，周五一般六点撤，周末加班偶尔，可能版本发布赶一下那种（正常理由都可以申请加班，折扣双倍工资）\n- **为何招人？** 团队处于快速发展中，机会（事情）非常多。现在部门规划大方向都是全力扑向 Agent。外部的朋友可以考虑过来体验下，内部同学活水也欢迎~\n- **简历筛看什么？** 学历起步是本科。任意体现能力的事情都有机会面试，看是否符合？982/211 的学历 / 大厂后端工作经验 / 明星开源项目经验 / 生产级 Agent 工作经验\n- **年纪有要求么？** 这也不是我们研发能决定的。我大概隐约感觉得需要 <= 35 岁。大于这个年纪能面试，但是我目前基本还没看到几个过的。看到最大的年纪过的是 36 岁。\n- **如何投递？** 有兴趣请联系：[routerhex@qq.com](mailto:routerhex@qq.com) ；当然，你也可以通过此链接直接投递（JD 上的 Base 地忽略，可以任你选择的~）：https://job.toutiao.com/s/rTfalsFdlFg",
+      "company": "字节跳动",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "后端研发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海",
+        "深圳",
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "未提及",
+      "techStack": [
+        "Python",
+        "Go",
+        "Java",
+        "C++"
+      ],
+      "experienceReq": "5年以上后端开发经验",
+      "educationReq": "本科及以上学历",
+      "contact": "routerhex@qq.com"
+    },
+    {
+      "id": "8591-3771700458",
+      "issueNumber": 8591,
+      "commentId": 3771700458,
+      "yearMonth": "2026-01",
+      "author": "Meokie",
+      "rawContent": "### 社招内推｜ Cloud Software Group - CITRIX（思杰）南京研发中心\n\n> 美企，965，几乎不加班。\n> 主要是做云计算和虚拟化产品。\n> 公司地址：南京市江宁区九龙湖国际企业总部园C３栋\n\n公司福利：\n\n- 五险一金齐全\n- 补充商业保险、人身意外险\n- 入职即获15天年假（入司每满1年增加1天，上限20天）\n- 朝9晚6，周末双休\n\n目前在招职位：\n\n- Senior Systems Development Engineer: 6 年以上系统级编程经验，包括 Windows / Unix / Linux，或 iOS / Mac / Android / HTML5 平台。具备扎实的面向对象软件设计经验，优先考虑 C++ 背景。\n\n如果希望内推请把简历和目标职位发送到：[yujie.miao@citrix.com](mailto:yujie.miao@citrix.com)\n发送邮件时请备注来自阮大",
+      "company": "思杰",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "Senior Systems Development Engineer",
+          "category": "系统开发"
+        }
+      ],
+      "location": [
+        "南京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "20k–22k · 13 薪",
+      "techStack": [
+        "C++",
+        "Windows",
+        "Unix",
+        "Linux",
+        "iOS",
+        "Mac",
+        "Android",
+        "HTML5"
+      ],
+      "experienceReq": "6年以上系统级编程经验",
+      "educationReq": "本科及以上",
+      "contact": "yujie.miao@citrix.com"
+    },
+    {
+      "id": "8591-3777435519",
+      "issueNumber": 8591,
+      "commentId": 3777435519,
+      "yearMonth": "2026-01",
+      "author": "Londoncake-Gao",
+      "rawContent": "**浙江精准学科技有限公司** 阿里战投AI native\n\n【岗位名称】：AI应用开发工程师\n\n【关于我们】\n【智能精准学】—获阿里巴巴近 2 亿元战略投资的 AI Native 科技公司，正用大模型重塑教育的底层逻辑，让每个孩子都能拥有超拟人 1 对 1 AI 老师。官网链接 https://www.91jzx.cn/career/\n● 市场价值：全球首位超拟人 AI 家教「寒雪老师」，双十一销量破亿，登顶抖音高端学习机 TOP1；\n● 硬核背书：创始团队源自阿里 / 百度 / 哈工大 / 清华，阿里系技术基因贯穿核心；\n● 技术壁垒：结合通义干文模型的强大底座，自主研发了“心流知镜”大模型，致力于成为国内最强的教育垂直模型之一，解决大模型在教育行业落地应用的问题。\n\n【为什么选择这里】\n这里的成长 =「技术深度 × 业务影响力 × 全栈广度」，远超传统开发岗位：\n● 赛道稀缺性：\n    教育 AI 是大模型落地最具社会价值 + 商业潜力的赛道，你的代码将直接影响千万学生的学习轨迹，而非通用场景的 “技术重复”；\n● 全栈成长无边界：\n    有机会打破 “算法 / 工程二选一” 的局限，既能深耕 Java 底层、分布式架构，又能切入 AI Agent设计、LLM 评估测试对齐、VectorDB 优化，成长为 “AI + 工程” 双壁垒的全栈专家；\n● 极客氛围：\n    拒绝职级壁垒，可直接参与决策，技术讨论只看逻辑不看资历；\n● 实战密度：\n    入职即核心团队&岗位，你的优化将直接体现在产品的响应速度、交互流畅度上，快速获得 “技术落地” 的正反馈。\n\n【你将挑战什么】\n● LLM Agent 在 高并发、低延迟、强一致性 教育场景的工程化落地\n● 单机 万级长连接 + 毫秒级推送 + 消息零丢失\n● AI 教学链路中 推理性能、上下文管理、检索效率 的极限优化\n● 多模态（图文 / 语音）在真实学习流程中的可控与稳定性\n● 千万级教育数据的索引、缓存、实时更新与回溯\n【核心工作内容】\n● 构建 教育场景 LLM Agent（诊断、讲解、追问、个性化引导）\n● 与 ML Engineer 协作：\n    推理链路设计与优化\n    后训练（RL / 风格对齐 / 个性化适配）的工程支撑\n● 设计并实现高性能后端架构：\n    并发控制、消息系统、缓存体系\n    高可用、可观测、可扩展的系统设计\n● 把抽象模型能力，变成可复用、可维护、可规模复制的工程系统\n\n【我们在寻找这样的你】\n● 基础要求：\n    2024-2026 届本科及以上学历，QS前200/985优先，计算机 / 软件工程 / AI/NLP 等相关专业；\n\n● 技术背景：\n    扎实的 Java 基础，良好的工程习惯，熟悉或实际有Spring Boot / Spring Cloud/ Redis / Redisson/ RabbitMQ / Kafka/ MySQL / 分布式系统基础，对高并发、系统稳定性、性能优化有真实兴趣和经验；\n● 加分项：\n    头部 AI / 互联网公司核心部门实习经历；LLM / Agent / RAG / 向量检索 / 推理优化相关实践；\n    开源项目贡献、技术博客 / 分享\n    专利、顶会论文或技术竞赛经历\n    同时具备 算法 +AI理解+ 工程落地 能力请立刻投递！\n\n简历请投递至gaolinjun@jzx100.cn  文件命名为 【姓名+毕业年限+Github】解锁快速内推通道！",
+      "company": "浙江精准学科技有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "AI应用开发工程师",
+          "category": "AI应用开发"
+        }
+      ],
+      "location": [
+        "未提及"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "未提及",
+      "techStack": [
+        "Java",
+        "Spring Boot",
+        "Spring Cloud",
+        "Redis",
+        "RabbitMQ",
+        "Kafka",
+        "MySQL",
+        "分布式系统",
+        "AI",
+        "ML",
+        "LLM",
+        "RAG",
+        "向量检索"
+      ],
+      "experienceReq": "3年以上Python专业开发经验",
+      "educationReq": "2024-2026 届本科及以上学历",
+      "contact": "gaolinjun@jzx100.cn"
+    },
+    {
+      "id": "8591-3781496108",
+      "issueNumber": 8591,
+      "commentId": 3781496108,
+      "yearMonth": "2026-01",
+      "author": "dureachcom",
+      "rawContent": "\n##  增长及增长设计负责人\n\n**工作地点**：远程 / 混合办公\n**岗位性质**：全职/兼职 · 共同创始人/核心管理岗位\n\n### 关于 [Dureach](https://dureach.com) \n\nDureach.com 是一家 **AI-Native Revenue Engine（原生 AI 营收引擎）** 公司。\n我们通过 **AI 人工智能体（AI Agents）+ 硬核增长基础设施**，帮助 B2B 公司把「获客、调研、外联、转化、跟进」这一整条营收链路，彻底自动化。\n\n在 Dureach.com  ，你将直接驱动：\n\n* **AI 自动化销售经理**\n* **AI 实时研究员**\n* **AI 文案专家**\n* 以及 4.5 亿+ 全球 B2B 数据引擎、超级送达网络、购买信号探测器等核心能力\n\n这是一个为“增长而生”的产品。\n\n---\n\n### 你将负责什么（核心职责）\n\n作为增长负责人，包括但不限于：\n\n1. **制定并执行整体增长战略**\n\n   * 覆盖 Acquisition → Activation → Revenue → Retention → Expansion\n   * 明确 ICP、核心 use case、关键转化路径\n\n2. **搭建并持续优化增长引擎**\n\n   * 冷启动与规模化获客（Outbound / Inbound / AI-Driven Growth）\n   * 利用 Dureach 自身的 AI Sales Agent 作为核心增长武器\n\n3. **数据驱动的增长实验**\n   * 设计并推进高频增长实验\n\n\n---\n\n### 我们希望你具备\n\n* 5 年以上 **SaaS / B2B / 增长 / 商业化** 相关经验\n* 有 **从 0 → 1 或 1 → 10 的增长实战经验**\n* 对 **AI、自动化、Agent、B2B GTM** 有深度理解或强烈兴趣\n* 强数据意识，能用指标说话，而不是凭感觉\n* 创业心态：能亲自下场做事，而不只是“制定策略”\n\n**加分项**\n\n* 做过 Outbound、Sales Automation、CRM、MarTech、AI 产品\n\n---\n\n### 你将获得\n\n* 直接参与 **AI 原生营收系统** 的从 1 到 N\n* 对公司增长拥有 **极高话语权与决策权**\n* 具备竞争力的薪资 + 期权（视能力与阶段）\n* 一个真正“用 AI 驱动增长”的战场，而不是 PPT 增长\n\n简历请投递  jobs at dureach dot com\n",
+      "company": "Dureach",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "增长及增长设计负责人",
+          "category": "增长设计"
+        }
+      ],
+      "location": [
+        "远程 / 混合办公"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "salaryRange": "具竞争力的薪资 + 期权",
+      "techStack": [
+        "AI",
+        "AI Agents",
+        "自动化",
+        "B2B GTM",
+        "数据驱动",
+        "SaaS",
+        "B2B",
+        "增长",
+        "商业化"
+      ],
+      "experienceReq": "5年以上SaaS / B2B / 增长 / 商业化相关经验",
+      "educationReq": "未提及",
+      "contact": "jobs at dureach dot com"
+    },
+    {
+      "id": "8591-3805954362",
+      "issueNumber": 8591,
+      "commentId": 3805954362,
+      "yearMonth": "2026-01",
+      "author": "Yichuans",
+      "rawContent": "我们是一个成熟旅游行业（原乌镇旅游）团队的技术创业小分队，公司名CTMC。大目标是引入数据驱动和高科技提高传统旅游体验，小目标是开发海外市场获客系统/网站，目前小团队分布浙江，香港和剑桥，各样背景... 希望寻找有想在非技术行业，非大厂，在非技术领域发展但热爱技术的小伙伴一起加盟。\n\n以下是详情，可以email也可以直接pm我。\n\n# 後端工程師（Python）\n\n建設並整合面向國際客戶的獲客平台。\n\nLocation: 浙江鹽官\nType: 全職\nDepartment: 工程技術部\nApply_email: career@china-tourism.hk\n\n## 關於職位\n\nCTMC 正在招聘一名 Python 後端工程師，負責建設面向國際客戶的獲客系統，並與現有企業基礎設施深度整合。您將與浙江鹽官團隊及英國劍橋的外部網頁設計團隊緊密合作，交付穩定、可擴展的平台。本職位常駐鹽官，提供混合辦公選項。\n\n## 主要職責\n\n- 開發獲客平台的後端服務\n- 與中景雲及內部系統進行整合\n- 設計支持多目的地運營的 API 與資料流程\n- 保障系統可靠性、安全性與性能\n- 與中國及英國團隊協作交付\n- 編寫並維護系統架構與整合文檔\n\n## 任職要求\n\n- 計算機科學或高數理相關專業本科學歷\n- 3 年以上 Python 專業開發經驗\n- 具備生產級 Web 應用與 API 開發經驗\n- 具備軟體架構設計與系統整合能力\n- 熟悉 DevOps 與雲端部署\n- 具備良好的中英文專業溝通能力與獨立工作能力\n\n## 我們提供\n\n- 參與核心平台建設的關鍵角色\n- 具競爭力的薪酬（依經驗）\n- 鹽官為基地的混合辦公安排\n- 國際化、協作型團隊氛圍\n- 旅遊與目的地科技領域的成長機會\n\n## 如何申請\n\n請於 2 月 15 日（GMT 24:00）前電郵申請。請附上履歷（CV）與簡短求職意向信，並分享任何程式專案或既有作品集。僅會聯絡入選者並邀請面試。面試將於 2026 年 2 月 28 日前以線下或遠程方式進行。入職日期可協商，最好於 2026 年 3 月中旬前。\n",
+      "company": "CTMC",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "后端工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "浙江盐官"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "salaryRange": "具竞争力的薪酬（依经验）",
+      "techStack": [
+        "Python",
+        "Web应用",
+        "API",
+        "DevOps",
+        "云计算"
+      ],
+      "experienceReq": "3年以上Python专业开发经验",
+      "educationReq": "计算机科学或高数理相关专业本科学历",
+      "contact": "career@china-tourism.hk"
+    },
+    {
+      "id": "8591-3816722995",
+      "issueNumber": 8591,
+      "commentId": 3816722995,
+      "yearMonth": "2026-01",
+      "author": "TDZhengYan",
+      "rawContent": "# [Talkdesk] 武汉｜音视频全栈工程师\n\n**职位名称**：音视频全栈工程师  \n**薪资范围**：20k–22k · 13 薪  \n**工作地点**：湖北 · 武汉  \n**学历要求**：本科及以上  \n**工作经验**：3–5 年  \n\n---\n\n## 岗位职责\n\n- 负责桌面端**屏幕录制系统**的核心架构设计与**性能优化**，保障长时间录制的稳定性；\n- 集成第三方**音视频 SDK**，解决弱网、丢包、高延迟等网络问题；\n- 开发**内部性能测试工具**，模拟不同网络、CPU / 内存负载及多节点场景，验证系统稳定性；\n- 优化**大文件录制的流式处理**与资源使用效率；\n- 设计并开发 **Native 模块**，与 Electron 或桌面应用进行深度协作。\n\n---\n\n## 任职要求\n\n- 熟练使用 **React、Electron**，具备桌面端应用开发经验；\n- 熟练掌握 **C++ 或 Rust**，具备多线程与内存管理能力；\n- 熟悉**音视频采集、编解码或多媒体系统**，有弱网处理经验；\n- 有 **Windows / macOS** 平台开发经验者优先；\n- 具备良好的**性能调优、问题分析与定位能力**；\n- 具备**基本英语听说交流能力**。\n\n---\n\n## 工作地点\n\n武汉光谷新发展国际中心 **B 座 6 层**  \n拓德（武汉）软件有限公司\n\n---\n\n## 公司官网\n\n<https://www.talkdesk.com/>\n\n---\n\n## 联系方式\n\n📮 请将简历发送至：**501296054@qq.com**\n",
+      "company": "Talkdesk",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "音视频全栈工程师",
+          "category": "全栈"
+        }
+      ],
+      "location": [
+        "湖北武汉"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "20k–22k · 13 薪",
+      "techStack": [
+        "React",
+        "Electron",
+        "C++",
+        "Rust",
+        "音视频采集",
+        "编解码",
+        "多媒体系统"
+      ],
+      "experienceReq": "3–5 年工作经验",
+      "educationReq": "本科及以上",
+      "contact": "501296054@qq.com"
+    },
+    {
+      "id": "8591-3703875671",
+      "issueNumber": 8591,
+      "commentId": 3703875671,
+      "yearMonth": "2026-01",
+      "author": "qiurongren",
+      "rawContent": "# [集换社] TCG 技术团队扩编 | 用代码重塑卡牌交易生态\n**集换社是什么？**\n\n- 此时此刻，是中国 TCG （集换式卡牌）行业的 Top1 平台。\n- 在未来 2 年，应该会成为日本 TCG （集换式卡牌）行业的 Top1 平台。\n- 在未来 5 年，应该会成为 TCG （集换式卡牌）行业的 Top1 平台。\n\n**我们能为你提供什么？**\n\n- 朝 12 晚 6 ，6 小时工作制，简单直接，平衡生活与工作。\n- 14 薪，公司没有 C/D 绩效，没有 2/7/1 强制分配，保底绩效 2 薪。\n- 一年 12 个加薪窗口，每个月都有加薪机会，一年 12 次，每个月都有证明自己的机会。\n- 1000 元 TCG 启动基金，入职即享，还有顶级 KOL 、大赛冠军手把手教学，带你零门槛体验 TCG 的乐趣。\n\n**急招岗位：**\n\n1. Golang 技术专家（广州）\n\n    - 5-8 年以上相关开发经验，必须具备大型电商项目核心模块主导经验（含完整生命周期）；\n    - 精通分布式理论，熟练应用 gRPC、治理策略（熔断、限流、降级），具备复杂系统建模能力；\n    - 深入理解 Golang 调度/内存管理机制，熟悉 K8s/Docker 及其底层网络，云原生领域的架构及方案设计（如灰度、业务网关、A/BTest）；\n    - 精通 MySQL/PostgreSQL ，熟悉 Kafka/RabbitMQ 在高一致性场景的应用；\n    - 具备DevOps实战经验和良好的编程规范和代码风格；熟悉常用的数据结构和算法，有强烈的工程质量意识，能通过基建手段解决研发痛点；\n    - 加分项：拥有多语言开发经验或 PHP 转 Go 实战经验。\n\n\n2. Golang 工程师 - WMS/ERP方向（广州）\n\n    - 熟悉 Golang，熟知 Golang 语言特性和标准库，有 3 年以上的 Go 项目实际开发经验；\n    - 必须具备 WMS（仓储管理）、ERP、进销存或大型物流系统的设计与开发经验，对采购、入库、库内管理、拣货打包、发货、退货等全流程有深刻理解；\n    - 熟悉 SQL 数据库（MySQL/PostgreSQL），能够处理复杂的事务逻辑，在处理库存扣减、对账等场景下有丰富的一致性保证经验；\n    - 了解 Docker/k8s 容器相关的开发和部署，有微服务框架使用经验、对微服务设计理念熟悉者优先考虑；\n    - 具有良好的代码习惯，要求结构清晰、命名规范、逻辑性强，代码冗余率低；\n    - 工作态度严谨，有良好的团队合作精神和责任感，较强的沟通能力。工作主动，有较强的学习创新能力，在对新技术的掌握方面保持与时俱进和足够的热情。\n\n\n3. Golang 工程师 - 后端开发（广州）\n\n    - 3 年以上 Golang 开发经验，熟悉 Golang 语言特性和标准库；\n    - 有大规模分布式系统开发经验者优先；\n    - 熟悉常用的数据结构和算法，具备良好的编程习惯和代码风格；\n    - 熟悉微服务架构，了解 RPC 、RESTful API 设计和开发；\n    - 熟悉 SQL/NoSQL 数据库，如 MySQL 、PostgreSQL 、MongoDB 等；\n    - 熟悉消息队列系统，如 Kafka 、RabbitMQ 等；\n    - 熟悉容器化技术（如 Docker ）和编排工具（如 Kubernetes ）。\n\n\n4. SRE运维工程师（广州）\n\n    - 3年以上SRE、DevOps或相关领域的工作经验；\n    - 熟悉Linux/Unix系统管理和网络管理，精通容器化技术(如Docker)和编排工具(如Kubernetes)；\n    - 熟练掌握至少一种编程语言(如Python、Go等)；\n    - 熟悉监控工具(如Prometheus、Grafana)和日志管理工具(如Loki)，具备CI/CD工具(如Jenkins、Github Action)使用经验；\n    - 精通MySQL/PostgreSQL等数据库高可用架构与深度调优,具备线上重大故障快速定位能力；\n    - 熟悉海外云(AWS/GCP/Azure/阿里云海外)多区域架构及数据合规要求(如GDPR)；\n    - 具备基础设施规划能力,熟悉容量水位管理与成本控制手段,能够在保障稳定性的同时持续优化资源与云成本；\n    - 具备基于Service Mesh(如lstio)的全链路流量治理实战经验者优先；\n    - 具备分布式系统设计和管理经验优先。\n\n\n5. 测试工程师（广州）\n\n    - 参与产品测试工作的全流程，通过设计测试方案、识别质量风险、执行测试用例来达成质量保障目标；\n    - 负责App客户端、服务端等方向的功能、接口、兼容性等测试工作；\n    - 负责对测试中发现的问题能够进行分析定位，与开发人员、产品人员沟通解决方案，负责 BUG 的生命周期管理；\n    - 负责生产环境的日常质量监控，及时响应突发线上问题；\n    - 理解敏捷项目模型，能够深度参与敏捷产研活动；\n    - 熟悉软件测试流程，有较强的风险管控意识和流程规范意识，可以产出高质量的测试用例和报告；\n    - 熟悉移动端专项测试（兼容性、性能、弱网、异常恢复等）；\n    - 熟悉测试用例设计方法（等价类、边界值、场景法等），能独立完成复杂模块的测试方案；\n    - 熟练使用ADB、Monkey、Xcode/Android Studio调试工具；\n    - 良好的沟通能力和合作精神，执行力好，积极乐观，认真负责，乐于协作。\n\n\n此外还有许多岗位热招中，Flutter工程师、产品、运营、品牌营销都有岗位，有兴趣可留言。\n\n**投递方式 & 更多岗位**\n\n简历/作品集也可发送至：qiurongren@jihuanshe.com （标题注明：岗位-姓名）\n\n欢迎下载集换社 App 或微信搜索集换社小程序了解我们的产品技术理念！",
+      "company": "集换社",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Golang 技术专家",
+          "category": "后端"
+        },
+        {
+          "title": "Golang 工程师 - WMS/ERP方向",
+          "category": "后端"
+        },
+        {
+          "title": "Golang 工程师 - 后端开发",
+          "category": "后端"
+        },
+        {
+          "title": "SRE运维工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        }
+      ],
+      "location": [
+        "广州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "14 薪",
+      "techStack": [
+        "Golang",
+        "分布式理论",
+        "gRPC",
+        "治理策略",
+        "K8s",
+        "Docker",
+        "MySQL",
+        "PostgreSQL",
+        "Kafka",
+        "RabbitMQ",
+        "DevOps",
+        "编程规范",
+        "数据结构",
+        "算法",
+        "工程质量"
+      ],
+      "experienceReq": "5-8 年以上相关开发经验",
+      "contact": "qiurongren@jihuanshe.com"
+    },
+    {
+      "id": "8591-3707566501",
+      "issueNumber": 8591,
+      "commentId": 3707566501,
+      "yearMonth": "2026-01",
+      "author": "linxiaowu66",
+      "rawContent": "## AI 将重写短剧的生产方式，而你将重写前端的可能性。\n\n九州文化 AI 事业部正在打造一款“从脚本到成片”的短剧引擎：角色生成、场景布置、分镜预览、节奏控制与一键合成，创作在浏览器中实时发生。我们需要一位对体验、性能与工程质量同样执着的 React 前端工程师。\n\n感兴趣的同学可以发送简历到：linguang661990@126.com\n\n## 你会做什么：\n\n- 负责核心创作工作台的前端架构与组件化设计\n\n- 用 antd 快速搭建稳定的业务界面，并在关键模块做定制化扩展\n\n- 与模型/后端协作，封装推理结果，优化前端数据与渲染链路\n\n- 为创作者提供“所见即所得”的分镜、时轴、素材管理等能力\n\n## 你需要具备：\n\n- 扎实的 React 能力（组件设计、状态管理、性能优化）\n\n- 熟练使用 antd，能平衡开发效率与体验品质\n\n- 了解基础 AI 概念（推理、Prompt、数据流、调用性能）\n\n- 额外加分：音视频处理（WebAudio/Media）、图形渲染（Canvas/WebGL）、工程化与质量保障\n\n## 我们提供：\n\n- 对真实创作场景的深度介入与快速成长\n\n- 产品/设计/模型团队的紧密协作\n\n- 参与打造行业级平台的机会与广阔发展空间",
+      "company": "九州文化",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "React 前端工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "远程"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "React",
+        "antd",
+        "AI",
+        "音视频处理",
+        "图形渲染",
+        "工程化",
+        "质量保障"
+      ],
+      "contact": "linguang661990@126.com"
+    },
+    {
+      "id": "8591-3709603794",
+      "issueNumber": 8591,
+      "commentId": 3709603794,
+      "yearMonth": "2026-01",
+      "author": "bo-li-hct",
+      "rawContent": "智驾大陆(上海)智能科技有限公司社招（hc 量大管饱 100+，软件+算法+测试+产品经理均有岗位）\n内推码: RRZZ3AJ\n投递链接: https://c4298iusig.jobs.feishu.cn/s/_lywGuWdYy8\nKeywords：智驾、软件、算法、HC 紧急\n\n智驾软件框架开发工程师\n地点：南京、上海、北京\n职位描述\n\n负责智能驾驶AI模型算法部署框架设计/重构/开发工作\n负责AI模型算法适配、集成及部署开发工作\n负责协同AI模型算法，工具链，运行时，中间件进行AI模型集成流程优化，使模型集成高效、稳定，易扩展\n负责模型功能软件，模型一致性验证并具备自闭环和CICD的能力的流程框架搭建\n职位要求\n熟练掌握并使用现代C++编程技术，熟悉泛式编程及元编程技术，掌握C++17标准，具备良好的C++编码规范和代码风格\n熟悉Linux操作系统原理并能熟练使用开发工具进行嵌入式软件系统开发，调试，部署，诊断及分析等\n熟悉AI模型算法的工作流程及原理，熟练掌握AI模型算法适配，移植，部署到端侧通用方法\n具备检视AI模型算法运行的通用计算，专用计算的功能正确性，性能稳定性的能力\n有强烈的责任心，良好的沟通能力，良好的团队合作精神\n可选加分\n熟悉ros2，apollo，AP等中间件进行AI模型算法开发并有经验者优先\n具备多传感器模型算法适配集成相关开发经验者优先\n熟悉AI感知模型算法CNN，DCNN，不限于检测，分类，回归，Transformer，BEV等并有开发部署经验者优先\n具备现代化软件设计思想，善于归纳，总结，抽象并能进行设计或者重构软件架构且具备相关经验者优先\n\n公司介绍：\n\n<img width=\"1096\" height=\"495\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ef564658-a2a2-43a5-957a-6bd1ad612111\" />",
+      "company": "智驾大陆(上海)智能科技有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "智驾软件框架开发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "南京",
+        "上海",
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C++",
+        "Linux",
+        "AI模型算法",
+        "CICD",
+        "ros2",
+        "apollo",
+        "AP",
+        "AI感知模型算法",
+        "CNN",
+        "DCNN",
+        "Transformer",
+        "BEV"
+      ],
+      "experienceReq": "熟练掌握并使用现代C++编程技术",
+      "contact": "https://c4298iusig.jobs.feishu.cn/s/_lywGuWdYy8"
+    },
+    {
+      "id": "8591-3714143010",
+      "issueNumber": 8591,
+      "commentId": 3714143010,
+      "yearMonth": "2026-01",
+      "author": "lovelok666",
+      "rawContent": "### [阿里云]**国内第一云！在阿里云，亲手为金融巨头打造“AI大脑”！寻找定义大模型时代的AI架构师！**\n\n◎职位描述\n1. ﻿﻿负责大模型运行所需的XPU相关软硬件平台的适配和优化工作，解决适配和优化过程中的兼容性、系统性能、稳定性、高可用等方面的技术问题；\n2. ﻿﻿﻿为客户提供XPU相关软硬件平台交付方案设计和部署落地服务，聚焦算力资源评估、底层软件选型、训推环境搭建、训推性能优化、大模型评测等领域客户提供最佳实践和落地能力；\n3. ﻿﻿﻿为客户提供XPU算力资源池相关的高性能网络技术选型、规划设计、交付部署和性能优化服务，解决XPU、整机、POD接入和组网过程中的控制与转发技术问题；\n4. ﻿﻿﻿为客户提供训练数据集构建、数据合成、模型后训练、模型效果评测等服务。\n◎职位要求\n1. ﻿﻿﻿计算机通信或相关专业本科及以上学历，有XPU硬件适配和大模型底层软硬件工程落地交付工作经验；\n2. ﻿﻿﻿熟悉PyTorch或TensorFlow等机器学习框架，了解张量、梯度等的基本数据结构和前后向传播原理；\n3. ﻿﻿﻿熟悉大模型推理框架VLLM、SGLang等业界主流推理引擎。\n4. ﻿﻿﻿熟悉XPU虚拟化和RDMA网络，了解虚拟化和资源分配与调度工作原理，了解RDMA主流协议和网络设计方法；\n5. ﻿﻿﻿熟悉大模型Prompts、RAG、插件、Agent\n等的使用环境和开发方法，具备通过代码实现大模型应用开发的能力；\n1. ﻿﻿﻿精通Linux、kubernetes和容器技术，熟练使用Python/shell等编写自动化部署脚本；\n2. ﻿﻿﻿精通至少一种编程语言（如Python,C，C++）；\n3. ﻿﻿﻿有良好的沟通和协调能力，丰富的技术服务工作经验。\n\n◎学历要求\n一本，211起，年龄40岁以内！\n\n**钱不是问题！！！！！！！！！！**\n\n\n简历/作品集发送至：piqiu.wp@alibaba-inc.com（标题注明：应聘-姓名）收到简历，第一时间回复处理！！！！\n\n更多信息，欢迎扫码\n\n![Image](https://github.com/user-attachments/assets/7649bfec-357f-4a90-b92b-9b3708e88656)\n",
+      "company": "阿里云",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "AI架构师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "远程"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "salaryRange": "钱不是问题",
+      "techStack": [
+        "XPU",
+        "软硬件平台",
+        "大模型",
+        "PyTorch",
+        "TensorFlow",
+        "VLLM",
+        "SGLang",
+        "Linux",
+        "kubernetes",
+        "容器技术",
+        "Python",
+        "C",
+        "C++"
+      ],
+      "experienceReq": "计算机通信或相关专业本科及以上学历",
+      "educationReq": "一本，211起，年龄40岁以内",
+      "contact": "piqiu.wp@alibaba-inc.com"
+    },
+    {
+      "id": "8591-3714477316",
+      "issueNumber": 8591,
+      "commentId": 3714477316,
+      "yearMonth": "2026-01",
+      "author": "Bella20143",
+      "rawContent": "🇦🇪 **### Dubai | UPay Technology., Ltd**\n2026 年 1 月技术岗位招聘（直招）\n\n工作地点： UAE · Dubai · DIFC（迪拜国际金融中心）\n工作方式： 全职｜On-site（需坐班）\n\n🔍 **招聘岗位 & 薪资范围**\n薪资范围： USD 4,000 – 8,000 / 月（根据经验与岗位级别）\n\n· Web3 产品经理\n\n· IOS 开发工程师\n\n· 安卓开发工程师\n\n· C 端产品经理\n\n· B 端产品经理\n\n· Java 后端开发工程师\n\n· 测试工程师\n\n· 测试管理 / 测试专家\n\n💰 **薪酬与假期**\n年薪结构：最高保底 18 薪\n带薪年假：每满半年 15 天\n报销回国往返机票\n报销入职机票\n\n🏠 **住宿与餐食**\n提供 酒店式公寓住宿\n提供 中餐（三餐）\n\n🎁 **公司福利**\n零食、饮料、咖啡、下午茶免费供应\n节日红包 / 礼品不定期发放\n\n🏥 **健康保障**\n提供阿联酋当地医疗健康保险\n\n📮 简历投递\n📧 career@upay.com\n📌 邮件标题格式：GitHub + 岗位名称 + 姓名",
+      "company": "UPay Technology., Ltd",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Web3 产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "IOS 开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "安卓开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "C 端产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "B 端产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "Java 后端开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "测试管理 / 测试专家",
+          "category": "测试"
+        }
+      ],
+      "location": [
+        "迪拜国际金融中心"
+      ],
+      "isRemote": false,
+      "isOverseas": true,
+      "salaryRange": "USD 4,000 – 8,000 / 月",
+      "techStack": [
+        "Web3",
+        "IOS",
+        "安卓",
+        "Java",
+        "测试"
+      ],
+      "contact": "career@upay.com"
+    },
+    {
+      "id": "8591-3719611757",
+      "issueNumber": 8591,
+      "commentId": 3719611757,
+      "yearMonth": "2026-01",
+      "author": "lovelele2",
+      "rawContent": "## 【招聘】AI 陪伴 / 社交方向（出海项目）\n\n### 后端/研发工程师（远程兼职 → 上海全职）\n\n---\n\n### 🏢 公司信息\n\n* **公司名称**：CamusAI\n* **工作地点**：\n\n  * 前期：远程（春节前）\n  * 后期：上海线下办公\n\n---\n\n### 🕒 工作形式\n\n* **前期**：1–2 个月远程兼职，约 **10h / 周**\n* **后期**：转全职，北京线下办公（核心成员）\n\n---\n\n### 📌 项目介绍\n\nCamusAI 是一个 **AI 陪伴 / 社交方向** 的产品，目前处于 **产品定义与 MVP 搭建阶段**。\n目标是在春节前完成 MVP，并快速验证核心交互与技术路径。\n\n项目关注点包括但不限于：\n\n* **AI Agent / 多轮对话系统**\n* **情绪理解与陪伴型交互**\n* **可扩展的后端架构**，支持未来并发与功能演进\n\n---\n\n### 🧑‍💻 招聘岗位\n\n**后端工程师 / 研发工程师（1–2 人）**\n\n---\n\n### ✅ 职位要求\n\n* 有 **AI 项目相关经验**（LLM / Agent / RAG / 对话系统等方向优先）\n* 有 **AI 落地经验**，或 **高并发 / 可扩展系统设计经验**\n* 熟悉至少一门后端语言：**Python / Go / Java**\n* 能参与 **MVP 从 0 到 1 的技术决策与实现**\n* 对 **AI 陪伴 / AI 社交方向** 有兴趣，认可其长期价值\n\n---\n\n### 🛠 你将参与的工作\n\n* 参与产品早期 **技术方案设计**\n* 搭建 **MVP 后端服务与 AI 能力集成**\n* 与创始人直接协作，**快速迭代、快速决策**\n* 为后续规模化与性能优化 **预留架构空间**\n\n---\n\n### 👥 团队背景\n\n创始人\n复旦大学本科｜连续创业者\n曾成功售出一家公司｜获一线美元基金投资\n前大厂AI 增长负责人｜主导产品方向\n\n---\n\n### 📮 联系方式\n\n请将简历直接投送至：\n\n* **微信**：lianxuchuangye666\n* **邮箱**：[xuhaozhe186@gmail.com]",
+      "company": "CamusAI",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "后端工程师 / 研发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "AI",
+        "LLM",
+        "Agent",
+        "RAG",
+        "对话系统",
+        "Python",
+        "Go",
+        "Java",
+        "MVP",
+        "技术方案设计",
+        "后端服务",
+        "AI 能力集成"
+      ],
+      "experienceReq": "AI 项目相关经验",
+      "contact": "xuhaozhe186@gmail.com"
+    },
+    {
+      "id": "8591-3721758152",
+      "issueNumber": 8591,
+      "commentId": 3721758152,
+      "yearMonth": "2026-01",
+      "author": "lvxinliang",
+      "rawContent": "# 🎯 小米武汉生态链（音箱团队）招聘｜HC充足，虚位以待！🎉\n\n> 加入我们，在武汉研发中心，一起打造下一代顶尖的智能音频体验！🚀\n\n---\n\n## 📌 工作地点\n📍 **武汉** | 🔧 **全职**\n\n---\n\n## 🚀 招聘职位\n\n### **职位一：嵌入式应用软件工程师-智能音箱** 🖥️\n\n#### 📄 职位描述\n1.  🔨 负责智能硬件产品嵌入式软件架构设计，代码编写、调试、维护等全流程工作。\n2.  ✨ 负责智能硬件产品新功能的需求分析、开发与迭代维护。\n3.  📡 负责智能硬件前沿技术的分析、调研与技术预研。\n4.  📋 参与技术方案评审，撰写高质量的产品开发文档。\n5.  🛡️ 负责对已上市产品进行质量专项优化与售后问题分析攻关。\n\n#### 🎯 职位要求\n| 序号 | 要求内容 |\n| :--- | :--- |\n| **1** | **学历与经验**：本科及以上学历，计算机、电子、通信、自动化等相关专业；5年以上嵌入式开发经验。 |\n| **2** | **编程能力**：熟练掌握C/C++，具备优秀的编码习惯和工程实现能力。 |\n| **3** | **系统经验**：熟悉Linux/RTOS，精通Buildroot/OpenWrt等构建工具，具备丰富的多线程/多进程编程经验。 |\n| **4** | **专业知识**：熟悉HTTP、TCP/IP等网络协议及网络编程；熟悉语音唤醒、语音交互及Pipeline开发。 |\n| **5** | **优先项**：有ALSA、PortAudio、FFmpeg等任一多媒体框架开发经验者优先。 |\n| **6** | **优先项**：有Python/Shell等自动化脚本开发经验者优先。 |\n| **7** | **优先项**：有智能音箱、平板、手机等消费类智能硬件开发经验者优先。 |\n| **8** | **软实力**：责任心强，主动积极，具备优秀的沟通能力和团队协作精神。 |\n\n---\n\n### **职位二：嵌入式音频算法工程师-智能音箱** 🔊\n\n#### 📄 职位描述\n1.  🧠 负责小爱音箱音频核心算法的设计、实现、调试与持续优化。\n2.  🎚️ 负责音频效果器（混音、滤波器、均衡器、混响、压缩器等）的研发与集成。\n3.  ⚙️ 负责AEC（回声消除）、AGC（自动增益控制）、NS（降噪）、VAD（语音活动检测）等前端算法的开发。\n4.  🤖 负责空间音频校准等先进算法的研究与实现，推动sherpa-onnx等开源模型在端侧的高效部署。\n5.  📑 参与技术评审，编写设计文档。\n6.  🔧 负责线上产品的音频质量专项提升与复杂问题排查。\n\n#### 🎯 职位要求\n| 序号 | 要求内容 |\n| :--- | :--- |\n| **1** | **音频基础**：精通音频信号处理，熟悉滤波器设计、傅里叶变换等数字信号处理算法。 |\n| **2** | **AI与开源**：熟悉FunASR, sherpa-onnx, Whisper等开源技术，并能在嵌入式平台成功应用。 |\n| **3** | **端侧AI**：熟悉RKNN、TensorFlow Lite等框架在嵌入式设备上的模型部署、优化与调试。 |\n| **4** | **开发环境**：精通嵌入式Linux环境下的音频软件开发与调试。 |\n| **5** | **编程能力**：熟练掌握C/C++，能高效实现和优化音频处理算法。 |\n| **6** | **优先项**：有ALSA插件、PortAudio开发经验；熟悉Buildroot/OpenWrt等嵌入式系统构建工具。 |\n\n---\n\n## 💌 联系我们\n期待您的加入，共创新“声”活！\n\n| 联系项 | 具体信息 |\n| :--- | :--- |\n| **📱 微信** | `sciencelxl` (请备注“应聘-岗位-姓名”) |\n| **✉️ 邮箱** | `lvxinliang1@xiaomi.com` (主题请注明“应聘-岗位-姓名”) |\n\n---\n> ✨ *让全球每个人都能享受科技带来的美好生活* ✨",
+      "company": "小米武汉生态链（音箱团队）",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "嵌入式应用软件工程师-智能音箱",
+          "category": "后端"
+        },
+        {
+          "title": "嵌入式音频算法工程师-智能音箱",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "武汉"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C/C++",
+        "Linux",
+        "RTOS",
+        "Buildroot",
+        "OpenWrt",
+        "HTTP",
+        "TCP/IP",
+        "语音唤醒",
+        "语音交互",
+        "Pipeline",
+        "ALSA",
+        "PortAudio",
+        "FFmpeg",
+        "Python",
+        "Shell",
+        "AI",
+        "智能音箱",
+        "平板",
+        "手机",
+        "消费类智能硬件"
+      ],
+      "experienceReq": "5年以上嵌入式开发经验",
+      "educationReq": "本科及以上学历",
+      "contact": "lvxinliang1@xiaomi.com"
+    },
+    {
+      "id": "8591-3732898126",
+      "issueNumber": 8591,
+      "commentId": 3732898126,
+      "yearMonth": "2026-01",
+      "author": "zengxiaoluan",
+      "rawContent": "## 【深圳】国产电气工业软件 ecad 招聘前端工程师 20-30k\n\n简历发送：zenghaixia#sz-jlc.com\n\n## 产品体验：https://jlc-ecad.com/editor\n\n技术栈：React、canvas 2d、webgl、自建 UI 组件库\n\n一、岗位职责：\n\n负责 ecad 绘图软件的 UI 交互、基础组件搭建、核心 api 的设计；\n负责绘图功能的完善、性能调优、内存泄漏排查；\n设计开发者工具，优化团队的开发者体验，提升项目的稳定性、健壮性。\n\n二、任职要求：\n\n本科及以上学历，有 React 项目开发经验；\n熟练掌握 React 及其相关生态，如 jotai、zustand、ant design 等；\n精通 HTML5、CSS3，熟悉 ES6 + 语法，能够手写高性能的前端代码；\n了解 Vite 等前端构建工具，能够进行基本的配置与优化；\n具备良好的问题解决能力，能够独立分析和解决前端技术难题；\n具有较强的学习能力和创新精神，能够快速掌握新技术并应用到项目中；\n良好的团队协作精神，能够与不同部门的人员有效沟通与合作；\n有大型前端项目架构设计经验者优先，维护过开源 UI 组件者优先。",
+      "company": "ecad",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "20-30k",
+      "techStack": [
+        "React",
+        "canvas 2d",
+        "webgl",
+        "UI 组件库",
+        "ecad 绘图软件",
+        "UI 交互",
+        "基础组件搭建",
+        "核心 api",
+        "绘图功能",
+        "性能调优",
+        "内存泄漏排查",
+        "开发者工具",
+        "团队的开发者体验",
+        "项目的稳定性",
+        "健壮性"
+      ],
+      "experienceReq": "有 React 项目开发经验",
+      "educationReq": "本科及以上学历",
+      "contact": "zenghaixia#sz-jlc.com"
+    },
+    {
+      "id": "8591-3757942276",
+      "issueNumber": 8591,
+      "commentId": 3757942276,
+      "yearMonth": "2026-01",
+      "author": "zkdi666",
+      "rawContent": "TMALLCROUP\n邀请你投递 简历发送(https://talent.taotian.com/off-campus/position-detail?positionId=7000039116&shareCode=BTvDTqvzUqBCHh57DAxr0sSXz9HwH7WyTKS0GoW25Yxec8lvs34NXMVHgme7IPQ2)\n业务技术-高级AI前端开发工程师-直播业务\n杭州北京 | 淘天集团|社招\n职位描述：\n我们是淘天集团-直播用户终端技术团队，致力于建设完善的直播访问路径，汇集淘宝直播强大的音视频处理能力，提供直播、互动、营销一体化解决方案，实现「生态开放、直播未来」的愿景。\n1. 定义AI时代新研发范式：负责大淘宝直播前端AI基建的架构与实现，深度参与 研发 Agent、D2C（Design toCode）、智能代码评审（AI CR）等产品的研发，构建从需求到上线全链路的 AI辅助体系。\n2. 打造下一代直播体验：结合直播业务场景（如：AI 智能互动、AI搜、AI策略），联合视觉与算法专家探索 GenerativeUI（生成式 UI）与 AI驱动的创新交互方案。\n3. 核心基建与平台演进：构建面向终端开发者的智能解决方案，沉淀跨端（App &Web）的AI组件库与工具链，推动团队从“手工写码”向“智能装配”转型。\n4. 性能极致优化：在AI 功能引入的同时，持续攻克复杂业务下的前端性能难题，实现端到端极致渲染、内存管理及WebAssembly侧推理加速。\n5. 前沿技术探索：调研并探索前端领域与大模型结合的最新趋势（如：浏览器端推理、端侧模型量化、多模态输入处理等）。\n职位要求：\n1.深入了解计算机原理、数据结构、设计模式、网络编程、UI 框架等基本应用开发知识；\n2.深厚的前端功底：精通 React/ue 及其生态，深刻理解底层原理。具备大型复杂系统架构设计能力，对模块化、工程化、自动化有成熟的沉淀。\n3.AI 应用实践经验：具有实际的AI 原生应用（Al-NativeApp）开发经验，熟悉 VSCode Plugin 生态、智能 IDE 插件开发或 Agent编排平台者优先。\n4. 大模型技术理解力：\na. 熟练运用 Prompt Engineering，具备处理幻觉、优化长\n上下文（Context Engineering）的实战经验。\nb. 了解RAG（检索增强生成）架构，熟悉 Graph RAG，能配合后端或自行优化基于前端场景的技术知识库。\n5. 综合素质：全栈开发，拥有强烈的技术好奇心，不设边界，能从繁杂的业务逻辑中抽象出通用的技术模型。\n6. 有良好的数据意识，有通过数据发现、评估解决问题的能力及经验。\n7. Passion！\n加分项\n1. LLM进阶：\n熟悉 Llamalndex / LangChain 等框架；有模\n型微调（SFT）、量化、或 Agent评测经验。\n2. 底层突破：熟悉 WebAssembly、WebGPU，有在浏览器端部署/优化推理引擎（如 Transformers.js, ONNX Runtime）的经验。\n3. 跨界能力：在音视频处理、图形学（Canvas/WebGL）、或大型 App 跨端引擎方面有深度研究。\n4. 社区影响力：拥有高质量开源项目，或在 Al+前端领域有深度技术输出（如掘金/知乎专栏、技术会议演讲）。\n5. 有音视频/直播/营销/内容电商/智能决策/认知增强模型 相关Agent 开发经验 优先。\n我们提供\n•最硬核的场景：淘宝直播千亿级业务流量，为你提供的AI模型与工具提供最真实的使用场景。\n•最前沿的探索：内部极具生命力的 AI技术氛围，与顶尖算法专家共事。\n• 一群热爱技术、相信 AI能改变世界的伙伴。\n诚邀专业、有趣的小伙伴加入，一起实现「生态开放、直播未来」的愿景！\n长按识别二维码",
+      "company": "淘天集团",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "高级AI前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州",
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React",
+        "ue",
+        "AI",
+        "直播",
+        "音视频处理",
+        "图形学",
+        "Canvas/WebGL",
+        "WebAssembly",
+        "浏览器端推理",
+        "端侧模型量化",
+        "多模态输入处理",
+        "计算机原理",
+        "数据结构",
+        "设计模式",
+        "网络编程",
+        "UI 框架",
+        "大型复杂系统架构设计",
+        "模块化",
+        "工程化",
+        "自动化",
+        "AI 原生应用",
+        "VSCode Plugin",
+        "智能 IDE 插件开发",
+        "Agent编排平台",
+        "Prompt Engineering",
+        "RAG",
+        "Graph RAG",
+        "模型微调",
+        "量化",
+        "Agent评测",
+        "WebAssembly",
+        "WebGPU",
+        "Transformers.js",
+        "ONNX Runtime",
+        "音视频/直播/营销/内容电商/智能决策/认知增强模型"
+      ],
+      "experienceReq": "深入了解计算机原理、数据结构、设计模式、网络编程、UI 框架等基本应用开发知识",
+      "contact": "https://talent.taotian.com/off-campus/position-detail?positionId=7000039116&shareCode=BTvDTqvzUqBCHh57DAxr0sSXz9HwH7WyTKS0GoW25Yxec8lvs34NXMVHgme7IPQ2"
+    }
+  ],
+  "skipped": [
+    {
+      "commentId": 3766613643,
+      "author": "Nil-1",
+      "reason": "[other] 评论内容为招聘信息，但未提供具体公司或职位信息"
+    },
+    {
+      "commentId": 3827523682,
+      "author": "ruanyf",
+      "reason": "[other] Issue 作者汇总帖，跳过"
+    }
+  ],
+  "errors": []
+}

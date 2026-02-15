@@ -1,0 +1,218 @@
+{
+  "issueNumber": 3814,
+  "title": "谁在招人？（2024年1月）",
+  "yearMonth": "2024-01",
+  "state": "closed",
+  "body": "这里是免费的程序员招聘服务。\r\n\r\n如果你们团队正在招人，欢迎把招聘信息发在这个帖子里面。请简要描述，岗位名称、工作地点、岗位要求、团队简介、联系方式等等。\r\n\r\n**注意：同一个团队如果招聘多个岗位，请写在一起，不要分成多个部分张贴。**\r\n\r\n读者可以咨询，但请不要发布与招聘无关的内容，禁止对公司或岗位进行评论或抱怨。如果有意应聘，请直接与发帖人联系。\r\n\r\n谢绝中介和猎头发帖，违者拉黑。\r\n\r\n## 历史帖\r\n\r\n程序员的招聘往往长期有效，大家别忘了查看上月的岗位。\r\n\r\n- 2023年：[12月](https://github.com/ruanyf/weekly/issues/3684)，[11月](https://github.com/ruanyf/weekly/issues/3599)，[10月](https://github.com/ruanyf/weekly/issues/3529)，[9月](https://github.com/ruanyf/weekly/issues/3425)，[8月](https://github.com/ruanyf/weekly/issues/3324)，[7月](https://github.com/ruanyf/weekly/issues/3222)，[6月](https://github.com/ruanyf/weekly/issues/3157)，[5月](https://github.com/ruanyf/weekly/issues/3091)，[4月](https://github.com/ruanyf/weekly/issues/3022)，[3月](https://github.com/ruanyf/weekly/issues/2960)，[1月～2月](https://github.com/ruanyf/weekly/issues/2827)\r\n- 2022年：[12月](https://github.com/ruanyf/weekly/issues/2771)，[11月](https://github.com/ruanyf/weekly/issues/2715)，[10月](https://github.com/ruanyf/weekly/issues/2666)，[9月](https://github.com/ruanyf/weekly/issues/2599)，[8月](https://github.com/ruanyf/weekly/issues/2542)，[7月](https://github.com/ruanyf/weekly/issues/2483)，[6月](https://github.com/ruanyf/weekly/issues/2426)，[5月](https://github.com/ruanyf/weekly/issues/2356)，[4月](https://github.com/ruanyf/weekly/issues/2309)，[3月](https://github.com/ruanyf/weekly/issues/2234)，[2月](https://github.com/ruanyf/weekly/issues/2188)，[1月](https://github.com/ruanyf/weekly/issues/2139)\r\n- 2021年：[12月](https://github.com/ruanyf/weekly/issues/2092)，[11月](https://github.com/ruanyf/weekly/issues/2032)，[10月](https://github.com/ruanyf/weekly/issues/1980)，[9月](https://github.com/ruanyf/weekly/issues/1913)，[8月](https://github.com/ruanyf/weekly/issues/1870)，[7月](https://github.com/ruanyf/weekly/issues/1826)，[6月](https://github.com/ruanyf/weekly/issues/1784)，[5月](https://github.com/ruanyf/weekly/issues/1747)，[4月](https://github.com/ruanyf/weekly/issues/1709)，[3月](https://github.com/ruanyf/weekly/issues/1652)，[2月](https://github.com/ruanyf/weekly/issues/1629)，[1月](https://github.com/ruanyf/weekly/issues/1580)\r\n- 2020年：[12月](https://github.com/ruanyf/weekly/issues/1520)，[11月](https://github.com/ruanyf/weekly/issues/1473)，[9月-10月](https://github.com/ruanyf/weekly/issues/1392)，[7月-8月](https://github.com/ruanyf/weekly/issues/1315)，[5月-6月](https://github.com/ruanyf/weekly/issues/1206)，[4月](https://github.com/ruanyf/weekly/issues/1148)，[3月](https://github.com/ruanyf/weekly/issues/1106)， [1月-2月](https://github.com/ruanyf/weekly/issues/983)\r\n- 2019年：[12月](https://github.com/ruanyf/weekly/issues/983)，[9月-11月](https://github.com/ruanyf/weekly/issues/798)，[8月](https://github.com/ruanyf/weekly/issues/692)",
+  "comments": [
+    {
+      "id": 1871683662,
+      "author": "HuixiaoLiu",
+      "body": "## 【北京小而美外企】Tubi 比图科技招聘「大数据平台开发 Lead」！\r\n\r\n### 关于 Tubi\r\n\r\nTubi 是美国福克斯集团旗下、以广告获取收益的免费流媒体服务公司，引领着让人人都能享受高品质娱乐内容的行业浪潮。通过与 455 家好莱坞制片厂的深度合作，Tubi 拥有 200000 多部电影和电视剧集、200 多个新闻体育直播频道以及不断增加的原创剧集库，为观众提供了一个免费探索全新视频内容的便捷方式。Tubi 的内容库为多元化的观众群体而打造，与之对应，我们也希望打造一支多元化的团队。欢迎有创造力、能够自我激励并产生影响力的优秀人才加入 Tubi，让我们一起塑造流媒体的未来。\r\n\r\n2020 年，Tubi 荣登福布斯美国最佳创业雇主榜单；2021年，Tubi 被 Digiday 评为 The Best Streaming Service；2022 年，Tubi 中国团队被 HRTech 推举为“最佳工作场所奖”、“员工福利体验奖” 和 “员工认可与激励奖”。\r\n\r\n### 中国团队\r\n\r\n北京比图科技有限公司是 Tubi 在中国的注册企业，区别于大多数驻扎在中国的外企研发中心，Tubi 中国团队从建立伊始，我们的目标就是打造一支具有国际化视野的、能力一流、和总部研发团队并肩作战的精英团队。如今，这支百余人的队伍已然成为 Tubi 的核心开发力量，为数千万用户的观影体验保驾护航。\r\n\r\n[欢迎关注【比图科技】公众号](https://mp.weixin.qq.com/s?__biz=MzU4NzYxOTkyOQ==&mid=2247525173&idx=1&sn=4bd4ce82cdd6a31c1639fea2b9e22c22&chksm=fdeb6803ca9ce115cc525919f6d9a26029411ed480a8532fcb7f8366d50ee20e49d11bca088b&token=1184299177&lang=zh_CN#rd)，与 Tubi 中国团队保持联系！\r\n\r\n### 热招岗位\r\n\r\n近期，Tubi 大数据团队正在寻找一位大数据平台开发 Lead，他 / 她将领导数据开发团队，创建高质量、可扩展的流数据管道，与所有用户建立联系；将在开放创新的环境中与机器学习团队、产品经理、DevOps 团队和数据科学家合作，推动用户增长；对系统架构设计全面负责，解决性能、可扩展性、可重用性和灵活性等问题；并倡导工程最佳实践，培养与保持团队内的工程师文化；负责技术招聘和指导团队成员的职业发展，建立一支高效的开发团队。\r\n\r\n[点击此处，了解岗位信息，投递简历](https://boards.greenhouse.io/tubitvchina/jobs/5007360)\r\n\r\n### 我们提供\r\n\r\n弹性工作制，每周提供 1-2 天 Work From Home\r\n极具竞争力的薪酬待遇\r\n顶配 MBP+、人体工学椅及智能升降桌\r\n年假最多 20 天及员工关爱 EAP 计划\r\n超万元技术培训、英语学习、教育津贴\r\n工作日免费营养午餐、无限量零食饮料水果供应\r\n\r\n### 关注 Tubi\r\n\r\n北京比图科技有限公司是 Tubi 在中国的注册企业，全网搜索【比图科技】关注更多热招岗位！\r\n\r\n投递邮箱：[jobs.china@tubi.tv](https://github.com/ruanyf/weekly/issues/jobs.china@tubi.tv)\r\n技术博客：https://www.zhihu.com/org/bi-tu-ke-ji\r\n中国官网：https://tubi.tech/careers/\r\n加入 Elixir CN group：https://github.com/elixircn-meetup/elixir-meetup\r\n加入 Scala CN group：https://github.com/scalacn/scala-meetup",
+      "createdAt": "2023-12-29T02:29:52Z",
+      "updatedAt": "2023-12-29T02:29:52Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1871697036,
+      "author": "thesunnysky",
+      "body": "拼多多容器平台招聘: (工作地点: 上海, 长期有效)\r\n岗位职责:\r\n\r\n* 负责拼多多容器平台的工程和产品化建设，构建业内一流的超大规模资源管理和调度系统，解决业务和集群规模增长带来的可用性、稳定性以及性能问题；\r\n* 服务于公司内部多种业务，提供针对不同计算场景的通用框架和解决方案；\r\n* 以数据驱动的方式，通过技术手段提升资源调度效率、提高集群和节点的资源利用率；\r\n* 负责容器平台相关新技术的架构演进，包括但不限于在离线混布、容量托管、安全容器、Serverless基础设施、边缘计算、新硬件等；\r\n任职要求:\r\n* 计算机、数学、电子工程、通信、自动化等相关专业，基础知识扎实；\r\n* 自我驱动，对技术充满热情，有云计算、虚拟化、Kubernetes、Docker 等相关研发经验者优先；\r\n* 优秀的表达能力、沟通能力和团队协作能力，良好的服务意识；对技术和业务有前瞻性的思考，能够参与容器平台领域方向性的决策并推进落地\r\n* 熟练掌握C/C++/Golang/Java中的至少一种语言；\r\n* 内部可细分为: 各种workload控制器的开发维护, 调度, 网络,存储, 内核, 资源运营等各个不同的方向;\r\n\r\n我们有规模庞大的k8s集群, 有多种多样的业务场景, 同时能提供行业内领先的薪酬待遇, 欢迎有意向的大佬垂询, 谢谢\r\nEmail: [jianyungsun@gmail.com](mailto:jianyungsun@gmail.com)(如需添加微信可发送邮件后添加)",
+      "createdAt": "2023-12-29T03:13:07Z",
+      "updatedAt": "2023-12-29T03:13:07Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1871895023,
+      "author": "Apifox-Hr",
+      "body": "### [Apifox]([apifox.com](http://apifox.com/)) 介绍\r\n\r\nApifox 是广受开发者欢迎的 API 研发协同工具，我们力求为工程师提供极致的开发体验，截止 2022 年 API 研发生态的领域总市值超过了 100 亿美金。Apifox 的管理团队由来自腾讯的的资深工程师构成，您将与一群活力、坦诚、卓越的工程师一同工作，Apifox 一同促进国内乃至全球范围内早日实现「API 化」。\r\n\r\n我们的办公室位于天河 CBD，交通与环境便利。加入 Apifox 您将获得与您的潜力匹配的期权、奖金，入职均配备 Macbook Pro 与 4K 显示器。\r\n\r\n`Apifox = Postman + Swagger + Mock + JMeter`\r\n\r\nApifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台。官网：[[apifox.com](http://apifox.com/)](https://apifox.com/)\r\n\r\n### 招聘职位\r\n\r\n初中级前端开发工程师 12~25K\r\n\r\n高级前端开发工程师 20~40K\r\n\r\n专家前端开发工程师 35~60K\r\n\r\n### 岗位描述\r\n\r\n参与 Apifox （ [apifox.cn](https://www.apifox.cn) ）项目开发（专注于研发工程效率的 SaaS 平台，API 文档、API 调试、API Mock 、API产品自动化测试一体化协作平台，纯技术型项目，没有不懂技术的产品经理给你提需求）;\r\n\r\n负责核心业务功能的前端研发工作；\r\n\r\n配合产品经理和设计师，通过各种前端技术手段，提高用户体验并满足性能要求；\r\n\r\n负责前端页面开发和维护，并根据需求优化产品性能；\r\n\r\n研究前沿的前端技术并参与维护前端框架和规范;\r\n\r\n技术栈：前端 TypeScript+React+Ant Design+Electron，后端 TypeScript+Node.js;\r\n\r\n### 岗位要求\r\n\r\n本科及以上学历，至少 1 年以上 web 前端开发工作经验；\r\n\r\n精通使用各种 web 前端技术，包括 HTML5/CSS/Javascript/TypeScript 等；\r\n\r\n熟悉一种或多种常用前端框架，如（ React 、Vue 、Angular 等）；\r\n\r\n熟悉使用 webpack 等模块化、工程化工具；\r\n\r\n拥有开发流程中的代码规范意识、配置管理规范意识、文档撰写规范意识；\r\n\r\n### 我们希望你是\r\n\r\n1.  认同我们的理念：追求效率，推行自动化，持续改善的文化\r\n    \r\n2.  有代码洁癖和工程思想：我们期望你是创造价值的工程师，不是售卖劳力的程序员\r\n    \r\n3.  有 Geek 范： 认同 UNIX 设计哲学，熟练使用各种 Geek 工具\r\n    \r\n4.  善于协作沟通：有团队沟通协作、项目进度及时间管理实践基础\r\n    \r\n5.  是一个终身学习者：保持学习，热爱分享，技术视野开阔，对业界新技术敏感\r\n\r\n### 关于我们，投简历前希望你了解\r\n\r\n1.  我们是 Geek 团队，只招优秀的技术人（能力强，或者目前能力一般但是爱学习能快速成长）\r\n    \r\n2.  我们注重团队技术氛围，注重技术人员的学习成长，每周都有技术学习分享会、Code Review\r\n    \r\n3.  我们注重代码质量，垃圾代码是不可接受的\r\n    \r\n4.  如果你不是一个爱学习爱折腾的人，请不要投我们，因为即使来了也融入不了团队\r\n    \r\n5.  我们相信优秀的人只愿意与优秀的人共事\r\n    \r\n6.  我们扁平化管理，没有职场的勾心斗角，没有条条框框，我们相信优秀的技术人不需要管理\r\n    \r\n7.  来这里，让优秀的你，只与优秀的人共事\r\n    \r\n### Apifox 产品\r\n<img width=\"1023\" alt=\"image\" src=\"https://user-images.githubusercontent.com/56781994/166113222-361f9036-305f-48eb-9463-b642410b8197.png\">\r\n\r\n### 公司地址\r\n\r\n广州市天河区天河北路233路中信广场（林和西地铁站上盖）\r\n\r\n### 应聘直升机\r\n\r\n微信：19925696874，添加备注：【岗位-姓名-GitHub】\r\n\r\n### 办公环境\r\n\r\n[![](https://camo.githubusercontent.com/626c19474271d9c621d8feef83bd61878d6ea76ef5e51c40bbe0c40e713330c2/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d312e6a7067)](https://camo.githubusercontent.com/626c19474271d9c621d8feef83bd61878d6ea76ef5e51c40bbe0c40e713330c2/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d312e6a7067)  \r\n[![](https://camo.githubusercontent.com/52b1f03ca71e99a05bbd2743854a156b8076571058ed9b5ea76e4e9c9a42b913/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d322e6a7067)](https://camo.githubusercontent.com/52b1f03ca71e99a05bbd2743854a156b8076571058ed9b5ea76e4e9c9a42b913/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d322e6a7067)  \r\n[![](https://camo.githubusercontent.com/2179e7377c1a675d7f3c99a0b8e567fc33855e255f7a70fd9524e2f2140b8577/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d332e6a7067)](https://camo.githubusercontent.com/2179e7377c1a675d7f3c99a0b8e567fc33855e255f7a70fd9524e2f2140b8577/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d332e6a7067)  \r\n[![](https://camo.githubusercontent.com/2b8dbda12996ad2e596892ca8ecfb898c7625b5dd45ba6678a3b5359de8ad0d4/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d342e6a7067)](https://camo.githubusercontent.com/2b8dbda12996ad2e596892ca8ecfb898c7625b5dd45ba6678a3b5359de8ad0d4/68747470733a2f2f63646e332e617069666f782e636e2f7777772f6173736574732f696d6167652f6a6f62732f617069666f782d6f66666963652d342e6a7067)",
+      "createdAt": "2023-12-29T10:00:09Z",
+      "updatedAt": "2023-12-29T10:00:09Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1872179387,
+      "author": "furmie8686",
+      "body": "【上海菲咪宠物服务有限公司】\r\n小程序前端工程师 \r\n12-15k*13薪\r\n\r\n我们是宠物赛道的初创企业，立志在这个领域闯出一片天！如果你热爱宠物，有过硬的技术，欢迎加入我们！\r\n\r\n需要熟悉Uniapp, HTML5、JavaScript、Vue全家桶、微信小程序开发相关技术，具备独立完成项目的能力，有独立开发小程序上线项目优先。\r\n\r\n能力要求：\r\n1.计算机及相关专业毕业，全日制二本以上。\r\n2.熟悉uniapp微信小程序开发，做过和商城类似的相关项目\r\n3.能独立完成项目，有实际上线运营的项目优先\r\n4. 熟悉HTML5，JavaScript、Vue全家桶、微信小程序开发相关技术\r\n5.了解Nodejs，Webpack，Less等相关前端技术\r\n6.有良好的沟通能力，可以团队协作完成人物，有责任心，工作主动积极\r\n7. 有一年以上相关工作经验，自研优先。\r\n\r\n岗位职责：\r\n1. 实现ui落地\r\n2. 配合后端工程师完成微信小程序迭代\r\n3. 负责对页面代码优化，提升用户体验和访问速度\r\n4. 积极沟通，有良好的工作态度\r\n\r\n福利：\r\n1. 五险一金 社保\r\n2. 下午茶 团建\r\n3. 撸猫撸狗，携宠上班\r\n\r\n简历直通车：huiyil@furmie.cn 备注github",
+      "createdAt": "2023-12-29T15:43:50Z",
+      "updatedAt": "2023-12-29T15:43:50Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1873637472,
+      "author": "Meokie",
+      "body": "### 社招内推｜ Cloud Software Group - CITRIX（思杰）南京研发中心\r\n美企，965，几乎不加班。\r\n主要是做云计算和虚拟化产品。\r\n公司地址：南京市江宁区九龙湖国际企业总部园C３栋\r\n\r\n公司福利：\r\n- 五险一金齐全\r\n- 补充商业保险、人身意外险\r\n- 入职即获15天年假（入司每满1年增加1天，上限20天）\r\n- 男性陪产假18周\r\n- 朝9晚6，周末双休\r\n\r\n目前在招职位：\r\n- Senior Software Engineer: 5+年开发经验，熟悉云产品/平台优先。\r\n\r\n如果希望内推请把简历和目标职位发送到：[yujie.miao@cloud.com](mailto:yujie.miao@cloud.com)\r\n发送邮件时请备注来自阮大",
+      "createdAt": "2024-01-02T05:37:13Z",
+      "updatedAt": "2024-01-19T06:46:29Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1873671799,
+      "author": "hotoo",
+      "body": "【社招】 欢迎各位达人加入（字节）抖音生活服务达人团队，共同助力实体经济发展。有前端、后端岗位，HC 充足，可以 Base 上海、杭州、成都，团队氛围融洽，多元兼容。有意可以直接扫码投递简历，或邮件 hotoo.cn+jobs@gmail.com 咨询投递。\r\n\r\n点击链接投递：\r\nhttps://job.toutiao.com/s/iRc5WVcB\r\n\r\n<img src=\"https://private-user-images.githubusercontent.com/143572/287213585-6229701a-5c70-4144-a7f1-a65d6f5ed29a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxNzg3MzEsIm5iZiI6MTcwNDE3ODQzMSwicGF0aCI6Ii8xNDM1NzIvMjg3MjEzNTg1LTYyMjk3MDFhLTVjNzAtNDE0NC1hN2YxLWE2NWQ2ZjVlZDI5YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwMlQwNjUzNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNDg4MTA4ZDg0NTZjODc2NTYyYjg1NWY4ZjhiOTk2MjU0ZGE5MGMzYjZhMzcxNTczODUwMmQ0OWM3OWZhMzZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.P600TqNCHkHd-nM_hB3uJORR6tJYiebgPSfvCG8F3pI\" width=\"300\" />\r\n\r\n【校招】 https://job.toutiao.com/s/iRKDkpsX\r\n职位名称：\r\n抖音-生活服务-达人-前端工程师\r\n\r\n岗位职责：\r\n我们负责抖音生活服务达人 & 撮合相关产品的建设，致力于满足商家生态推广与达人生态成长变现诉求，撮合商达合作，提供业内先进的达人营销解决方案，帮助各方在平台上实现共赢，最终让抖音用户能够更好、更快、更省的吃喝玩乐。\r\n1、负责抖音生活服务-达人-前端部分开发工作；\r\n2、负责相关业务支撑的 Hybrid 工具链/平台的前后端部分开发工作；\r\n3、用高质量的设计和代码实现，创造出极致的用户体验，支撑抖音生活服务生态快速发展；\r\n4、探索实践高效的横跨前&后&客户端、异地远程的沟通和开发模式，提升整体团队效率。\r\n\r\n岗位要求：\r\n1、本科学历及以上，计算机相关专业在读生\r\n2、计算机基础扎实，熟练掌握Javascript，ES5/6，CSS，熟练掌握各种布局 ；\r\n3、了解常见的前端技术栈和工具；\r\n4、具备较强的学习能力、有较好的协作沟通能力；\r\n5、有 Hybrid 开发经验（Weex/React Native/Flutter 等）优先；\r\n6、有过其他相关实习经历优先。",
+      "createdAt": "2024-01-02T06:56:29Z",
+      "updatedAt": "2024-01-02T06:56:29Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1876252478,
+      "author": "CYMWN211",
+      "body": "### 【社招】【长期有效】**欢迎各位加入帆软软件**\r\n国内BI数据赛道头部厂商 整体节奏平缓 基本可实现WLB。\r\n研发岗主要base南京 无锡 两地任选。\r\n\r\n有意愿可直接官网：https://join.fanruan.com/social 使用内推码：Mi17n0k进行投递。\r\n任何疑问可邮件：benjamincy211@gmail.com 或 加wechat：goodJobCYM 沟通咨询(备注来源：ryf谁在招人)\r\n\r\n主要社招研发类岗位有: 3D前端开发工程师、后台开发工程师、算法工程师、运维开发工程师\r\n\r\n### 【2024届校招】【研发后场】**欢迎各位2024届同学加入帆软软件** \r\n2024校招研发后场也已开启，2024届同学有兴趣亦可投递，链接：https://join.fanruan.com/campus\r\nSP待遇丰厚，任何疑问可同上面联系方式沟通咨询(备注来源：ryf谁在招人)",
+      "createdAt": "2024-01-04T03:15:28Z",
+      "updatedAt": "2024-01-04T05:38:32Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1876531873,
+      "author": "PochiLv",
+      "body": "【飞猪-大模型应用-高级开发工程师】\r\nBase：杭州\r\n1. 负责AI创新项目相关的产品服务端研发工作, 包括不限于业产研协调、技术预研、架构设计、业务模型抽象、功能开发等工作；\r\n2. 推动业务和技术的融合, 提升组织效率, 降低组织成本，拥抱AI，重塑行业工作流；\r\n3. 对技术有自己的思考, 能够独立完成模块设计、研发工作；\r\n4. 有强业务感觉，较强协调能力，0到1产品主导经验者优先；\r\n5. 创新业务，需要有钻研，有韧性的人才一同加入\r\n6. 核心语言JAVA，有Python开发经验者加分\r\n\r\n有兴趣的可以直接发送简历到邮件 fubi.llh@alibaba-inc.com",
+      "createdAt": "2024-01-04T06:58:57Z",
+      "updatedAt": "2024-01-04T07:18:35Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1876677183,
+      "author": "SQYun",
+      "body": "## **社招内推｜ 蚂蚁集团-前端开发-重庆**\r\n注意：工作地在重庆\r\n### 内推方式\r\n1. 微信：SQYuns\r\n2. 邮箱：shenqiyun.sqy@antgroup.com\r\n### 职位描述\r\n1. 依据产品需求完成高质量的跨终端Web(PC+Mobile)/Node.js/Hybrid App的前端开发和维护；\r\n3. 在理解前端开发流程的同时，结合前端实际建立或优化提升工作效率的工具；\r\n4. 在理解产品业务的同时，提升产品的用户体验，通过技术驱动业务的发展；\r\n5.  关注前沿技术研究，并通过新技术服务团队和业务。\r\n### 职位要求\r\n#### 移动端方向：\r\n1. 精通各种前端技术，包括HTML/CSS/JavaScript/Node.JS等；\r\n2. 具备跨终端的前端开发能力，在Web（PC+Mobile）/小程序/Hybrid App/Native App 三个方向上至少精通一个方向，具备多个的更佳；\r\n3. 对前端工程化与模块化开发有一定了解，并有实践经验（如Webpack/Gulp/NPM/YARN等）；\r\n4. 至少熟悉一门非前端的语言（如 Node.js/Java/PHP/C/C++/Python/Ruby），并有实践经验；\r\n6. 具备良好的团队协作精神，能利用自身技术能力提升团队整体研发效率，提高团队影响力；\r\n7. 对前端技术有持续的热情，个性乐观开朗，逻辑性强，且有良好的沟通能力。\r\n#### 中后台方向：\r\n1. 三年以上 Web 开发经验，熟练运用 JavaScript、HTML、CSS、Node.js 等前端技术；\r\n2. 至少精通一款流行前端框架，如 React/Vue 等，具备中大型复杂网站架构设计能力；\r\n3. 主导开发过中大型 Web 应用程序，熟悉前端工程化体系，在开发效率、性能优化、可访问性、稳定性、自动化测试等方面有一定的认知和实践；\r\n4. 具有良好的逻辑思维能力和业务敏感度，乐于创新，良好的团队沟通和协作能力，善于挖掘用户需求，能够利用技术推动业务发展和提升用户体验。\r\n#### 加分项：\r\n1. 有机器学习/深度学习、自然语言处理等人工智能相关开发经验;\r\n2. 有优秀的独立开源项目或深度参与过业界知名的开源项目。\r\n\r\n\r\n",
+      "createdAt": "2024-01-04T08:08:51Z",
+      "updatedAt": "2024-01-04T08:08:51Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1880948306,
+      "author": "tracywmo",
+      "body": "## 【内推】【北京】【字节-业务中台-信息服务中台】服务端/后端研发工程师  \r\n\r\n\r\n团队发展阶段，初级、中级、高级都有HC，Golang / Python / Java 等语言不限\r\n\r\n部门内另有前端、算法、大数据等职位，也可帮忙内推\r\n\r\n\r\n## 【简历投递】\r\n\r\n简历请发送至邮箱：[tracywmo1@gmail.com](mailto:tracywmo1@gmail.com)\r\n\r\n欢迎随时咨询、沟通\r\n\r\n\r\n## 【团队方向介绍】\r\n\r\n团队是字节跳动-业务中台-信息服务中台，负责公司内外数据信息的获取、加工处理和应用。\r\n\r\n此外，团队也在大模型应用落地方向上积极探索，已有数款线上产品服务于公司内外的用户/团队。\r\n\r\n## 【技术栈介绍】\r\n\r\n主要是 Python 和 Golang，辅以公司内各种中间件、开发工具和平台\r\n\r\n\r\n## 【福利待遇】\r\n\r\n- 高竞争力的薪酬，六险一金\r\n- 免费三餐+下午茶，免费健身房，每月1.5k的租房补贴\r\n- 体检福利，医疗福利，生育礼品等\r\n- 个人综合消费贷款，低价享受英语在线课程等\r\n\r\n## 【岗位优势】\r\n\r\n- 海量数据的处理经验\r\n- 前沿 AI 技术/大模型技术的实际应用\r\n- 多样化且充足的业务落地场景\r\n\r\n\r\n_以下为后端（Python/Golang）研发职位的 JD，如需其他职位信息，可发邮件进一步沟通_\r\n\r\n## 【岗位职责】\r\n\r\n1. 参与字节跳动信息服务中台的研发工作，用最前沿的工程技术和AI算法能力赋能海量的数据资源，做最激动人心的技术，强力支撑字节各条业务；\r\n2. 参与信息服务中台的总体设计、功能实现与模型优化，保证系统优秀的数据整合能力和高效、稳定的服务质量；\r\n3. 构建从离线海量数据生产、内容理解、数据存储引擎到搜索的全流程，无论擅长工程架构还是算法策略，这里都是你理想的舞台；\r\n4. 不断创新，推动中台的快速发展和高效迭代，深入分析各种复杂场景的数据模型，持续扩展平台的支撑场景和应用范围，探索孵化信息服务ToB的应用场景。\r\n\r\n\r\n##  【岗位要求】\r\n\r\n1. 出色的问题分析和解决能力，总是能从纷繁复杂的现象中一眼看出问题本质；\r\n2. 优秀的系统设计或算法模型能力，能够深入复杂的业务场景及数据模型，不设边界的驱动平台持续优化；\r\n3. 强悍的编程功底，能够举一反三，从容的用代码解决日常工作中面临的各种工程难题和算法挑战；\r\n4. 对产品有强烈的责任心，具备良好的产品意识、沟通能力和自我驱动能力；\r\n5. 有搜索、舆情、内容质量等相关数据平台开发经验的加分；\r\n6. 具备不错的跨团队合作和沟通能力，较强的学习能力，能承担一定的工作压力。\r\n\r\n\r\n## 【简历投递】\r\n\r\n简历请发送至邮箱：[tracywmo1@gmail.com](mailto:tracywmo1@gmail.com)\r\n\r\n欢迎随时咨询、沟通\r\n\r\n            ",
+      "createdAt": "2024-01-08T12:50:41Z",
+      "updatedAt": "2024-01-08T12:58:35Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1882356372,
+      "author": "dopcn",
+      "body": "# 内推岗位\r\n中级客户端开发工程师（iOS）\r\n# 公司\r\n大疆创新\r\n# 工作地点\r\n深圳\r\n# 工作职责\r\n1. 负责 DJI Fly 中特定功能集的技术方案设计、业务开发以及解决技术难题；\r\n2. 持续参与所负责功能集的架构演进，确保其合理性和代码的健康度；\r\n3. 沉淀并总结项目流程规范及方法论，对团队其他成员产生积极影响，提升软件质量和开发效率。\r\n任职要求\r\n1. 本科及以上学历，拥有不少于3年的 iOS 开发经验；\r\n2. 精通 Objective-C 和 Swift 开发，具备一定的 C++ 开发能力优先，熟悉常用算法及数据结构；\r\n3. 具备良好的编码习惯，对质量高度关注，熟练运用技术方案设计、单元测试、编译优化等卓越实践；\r\n4. 具备独立架构设计能力优先，能够在编码和代码审查中践行 SOLID 原则，保持代码的高内聚和低耦合；\r\n5. 在敏捷开发团队中有实际工作经验，熟悉 Scrum 或其他敏捷开发方法者优先考虑。\r\n# 投递方式\r\nshiwoow@gmail.com\r\n备注来源阮一峰博客，可帮助跟进进度，公司邮箱信息太多容易错过",
+      "createdAt": "2024-01-09T03:39:35Z",
+      "updatedAt": "2024-01-09T03:39:35Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1882474180,
+      "author": "li-xiao-shuang",
+      "body": "### 岗位\r\nJava 开发工程师\r\n### 公司\r\n杭州阿信网络科技有限公司\r\n### 工作地点\r\n杭州\r\n### 岗位要求\r\n1、计算机相关专业统招本科或硕士学历，2年以上相关Java研发工作经验。\r\n2、具有扎实Java功底，对JVM的原理有一定的了解，具有较好的Java IO、多线程、网络等方面的编程能力。\r\n3、对常用 Java 开源框架或者库，比如Spring、MyBatis、Tomcat等运行原理有较好的理解。\r\n4、精通数据库设计，优秀的SQL编写及调优能力；熟悉常见NoSQL存储，如redis、mongodb等。\r\n5、有大规模高并发互联网应用的设计和开发经验，熟悉常规的分布式架构，熟悉缓存、消息队列等开源中间件。\r\n6、热爱技术，快速学习，行胜于言，具有代码质量和编码规范意识。\r\n7、沟通顺畅，主动思考，能独立分析和解决问题，具有团队合作意识\r\n### 简历投递\r\n简历发送至邮箱：[lixiaoshuang@apache.org](mailto:lixiaoshuang@apache.org)\r\n\r\n目前有大量hc，主做旅游分销业务，欢迎大家投递，流程短，速度快。\r\n",
+      "createdAt": "2024-01-09T06:18:57Z",
+      "updatedAt": "2024-01-09T06:18:57Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1882588924,
+      "author": "lixiangqi7",
+      "body": "### 2024届校招内推｜北京&上海｜服务端&前端&客户端多类研发岗位\r\n![img_v3_0263_1db1a86e-e17b-444e-a209-5e51390311fg](https://github.com/ruanyf/weekly/assets/82263395/96940d2a-c274-4b2f-9dcf-26b3292869ab)\r\n\r\n### About MiniMax？\r\n什么是宝藏公司？——不走捷径，技术驱动，2022年完成自研通用大模型+产品技术全链路的跑通\r\n什么是神仙企业？——**文化氛围多元**，Efficiency&Happiness最优化\r\n什么是硬核科技独角兽？——快速增长，拥有三个模态的自研**通用大模型（foundation model）**\r\n\r\nMiniMax成立于2021年12月，是国内唯一一家拥有文本、语音、视觉多种模态融合的通用大模型引擎能力并打通产品技术全链路的科技创业公司。\r\n\r\n- 国内第一家同时拥有文本、语音、视觉三模态融合的通用大模型引擎能力，并实现产品落地的创业公司；\r\n- 全栈自研大模型，**领先的通用大模型能力和多元产品矩阵**，单周高效迭代；\r\n- 成熟的**大模型商业化解决方案**，与数百家企业客户达成合作；\r\n- 由全球顶级机构背书，资源和资金丰富，是业内领先且持续快速发展的**AIGC独角兽**公司。\r\n- 工作高效愉快、成就感强、文化氛围多元，Efficiency&Happiness最优化！\r\n\r\n\r\n### **We wanted**\r\n- 技术实力硬，技术驱动，学习能力强\r\n- 有创业心态，敢想敢拼\r\n\r\n\r\n### **优势：**\r\n1. **高竞争力薪酬&期权激励**：表现优异的2024届校招之星，期权激励，offer薪酬极具竞争力。\r\n2. AIGC**全链路岗位**需求：从算法模型层到应用层研发，一定能找到合适你的职位方向！\r\n3. **搭乘免笔试&面试直通车，与创始团队面对面交流**\r\n- 已拿到大厂校招头部计划offer（“校招星”“头部XX计划”“SSP”）的Offer大牛，**可直通二面+三面**。\r\n4. **做有意思的事**：一起探索加入核心团队，直接参与挑战性的核心项目，打开视角，直面大模型，了解底层技术\r\n\r\n工作地点：北京/上海\r\n![image](https://github.com/ruanyf/weekly/assets/82263395/bf2b2ba1-3861-47fb-8ffd-51b2287c2f38)\r\n![img_v3_0251_ba823b33-ff90-48b3-9350-7d004c4cb4fg](https://github.com/ruanyf/weekly/assets/82263395/09609457-e5bb-43bc-b757-46414b31529b)\r\n\r\n\r\n",
+      "createdAt": "2024-01-09T08:13:32Z",
+      "updatedAt": "2024-01-09T08:13:32Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1882656825,
+      "author": "lixiangqi7",
+      "body": "> ### 2024届校招内推｜北京&上海｜服务端&前端&客户端多类研发岗位\r\n> ![img_v3_0263_1db1a86e-e17b-444e-a209-5e51390311fg](https://private-user-images.githubusercontent.com/82263395/295140557-96940d2a-c274-4b2f-9dcf-26b3292869ab.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ3ODgzMTMsIm5iZiI6MTcwNDc4ODAxMywicGF0aCI6Ii84MjI2MzM5NS8yOTUxNDA1NTctOTY5NDBkMmEtYzI3NC00YjJmLTlkY2YtMjZiMzI5Mjg2OWFiLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA5VDA4MTMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3M2YxMDk3ZGU5ODRkYTE4MjkzNTQ5MjlmYzI0NDA1MjViMWFlZWQ1YzFjNTRkMDVmOTNlNzA2NmJkNTQxNjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WSS6BeWEJV3_8frxKJfIHVMVu7dLeVlbROZDXNpcNHk)\r\n> \r\n> ### About MiniMax？\r\n> 什么是宝藏公司？——不走捷径，技术驱动，2022年完成自研通用大模型+产品技术全链路的跑通 什么是神仙企业？——**文化氛围多元**，Efficiency&Happiness最优化 什么是硬核科技独角兽？——快速增长，拥有三个模态的自研**通用大模型（foundation model）**\r\n> \r\n> MiniMax成立于2021年12月，是国内唯一一家拥有文本、语音、视觉多种模态融合的通用大模型引擎能力并打通产品技术全链路的科技创业公司。\r\n> \r\n> * 国内第一家同时拥有文本、语音、视觉三模态融合的通用大模型引擎能力，并实现产品落地的创业公司；\r\n> * 全栈自研大模型，**领先的通用大模型能力和多元产品矩阵**，单周高效迭代；\r\n> * 成熟的**大模型商业化解决方案**，与数百家企业客户达成合作；\r\n> * 由全球顶级机构背书，资源和资金丰富，是业内领先且持续快速发展的**AIGC独角兽**公司。\r\n> * 工作高效愉快、成就感强、文化氛围多元，Efficiency&Happiness最优化！\r\n> \r\n> ### **We wanted**\r\n> * 技术实力硬，技术驱动，学习能力强\r\n> * 有创业心态，敢想敢拼\r\n> \r\n> ### **优势：**\r\n> 1. **高竞争力薪酬&期权激励**：表现优异的2024届校招之星，期权激励，offer薪酬极具竞争力。\r\n> 2. AIGC**全链路岗位**需求：从算法模型层到应用层研发，一定能找到合适你的职位方向！\r\n> 3. **搭乘免笔试&面试直通车，与创始团队面对面交流**\r\n> \r\n> * 已拿到大厂校招头部计划offer（“校招星”“头部XX计划”“SSP”）的Offer大牛，**可直通二面+三面**。\r\n> \r\n> 4. **做有意思的事**：一起探索加入核心团队，直接参与挑战性的核心项目，打开视角，直面大模型，了解底层技术\r\n> \r\n> 工作地点：北京/上海 ![image](https://private-user-images.githubusercontent.com/82263395/295139726-bf2b2ba1-3861-47fb-8ffd-51b2287c2f38.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ3ODgzMTMsIm5iZiI6MTcwNDc4ODAxMywicGF0aCI6Ii84MjI2MzM5NS8yOTUxMzk3MjYtYmYyYjJiYTEtMzg2MS00N2ZiLThmZmQtNTFiMjI4N2MyZjM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA5VDA4MTMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmMTk2NGE2MTg5ZTM1MTA1NjBhYTBjYWU5M2ZmYzYxM2YxYzEwMjkyOWM0NTEyYzVjZGVkNzUyMjFlNDVhMmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YmzRiOSk1ripXuikcRV8lqIlk6nPwca7MwuAEWGG8wY) ![img_v3_0251_ba823b33-ff90-48b3-9350-7d004c4cb4fg](https://private-user-images.githubusercontent.com/82263395/295139858-09609457-e5bb-43bc-b757-46414b31529b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ3ODgzMTMsIm5iZiI6MTcwNDc4ODAxMywicGF0aCI6Ii84MjI2MzM5NS8yOTUxMzk4NTgtMDk2MDk0NTctZTViYi00M2JjLWI3NTctNDY0MTRiMzE1MjliLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA5VDA4MTMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhZWZjYzIyMWJjZWRiZmY3YjdlNjBkYTM0OGE2NzFlY2ZjY2E2M2U1ZDRhM2Q4MTQ3M2ExNjViYmY3MTg3ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yqnQAmfHTN6Z96r3Ji_K9SME9wYGYuem3C1_YyV1PFg)\r\n\r\n前端实习生——2025届也招聘，base北京，熟用React，有过实习经验优先",
+      "createdAt": "2024-01-09T09:02:28Z",
+      "updatedAt": "2024-01-09T09:02:28Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1886114241,
+      "author": "GGLEWO",
+      "body": "### 腾讯微信视频号前端开发工程师 24 - 46k * 16\r\n\r\n岗位职责\r\n - 负责微信视频号直播带货的前端开发工作;\r\n - 负责优化业务体验,包括但不限于:业务流程、交互、性能、安全等;\r\n - 参与技术基础建设，持续优化工程效能，提升团队工作效率\r\n\r\n岗位要求\r\n - 本科及以上学历，计算机相关专业，5年以上前端开发经验;\r\n - 计算机学科基础、前端知识扎实，熟悉ES6/HTML5/CSS3，拥有良好的编程习惯;\r\n - 至少熟练掌握一种主流JavaScript框架(Vue/React等);\r\n - 有Node.is开发经验，用过至少一种主流Node.is框架(Express/Koa/Nestis等) ;\r\n - 有使用Webpack、Gulp、Vite等工具进行前端工程化经验;\r\n - 具备良好的沟通能力、团队协作精神，较强的学习能力和逻辑分析能力\r\n\r\nbase: 深圳/上海/成都/北京\r\n投递邮箱：[g1195817329@gmail.com](mailto:g1195817329@gmail.com)",
+      "createdAt": "2024-01-11T02:39:12Z",
+      "updatedAt": "2024-01-11T02:39:12Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1888419971,
+      "author": "fty1990",
+      "body": "\r\n# 字节跳动-抖音电商-业务解决方案-前端（杭州/上海）\r\n```diff\r\n- 新开放多个HC，初中高阶岗位均有，流程快，欢迎各路大牛加入！！！\r\n```\r\n**IM团队**（**_Base地：上海/杭州_**）：\r\n- 提供电商场景下商家与用户的沟通桥梁，帮助商家又快又好解决用户问题。\r\n- 建设电商体系内的标准通信能力，沉淀通信平台化能力，支持电商多场景聊天。\r\n- C端用户电商咨询聊天。\r\n- 商家一站式工作台（类比旺旺/千牛卖家客户端）。\r\n\r\n涉及前端技术能力：\r\n- 移动端跨端技术\r\n- 桌面端技术（Electron/Rust/C++/Native）\r\n- 实时通信，关注稳定性与健壮性\r\n- 高在线时长，复杂web应用的性能优化\r\n- 平台化通用IM能力建设\r\n\r\n---\r\n![image](https://github.com/ruanyf/weekly/assets/18021913/c99ea3af-5f70-49e3-a820-27dac286ca09)\r\n\r\n```diff\r\n- 岗位具体信息也可与我VX: oohaha507 进行联系\r\n```\r\n",
+      "createdAt": "2024-01-12T04:37:09Z",
+      "updatedAt": "2024-01-12T04:37:09Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1890858934,
+      "author": "tangle329",
+      "body": "# 内推｜拼多多｜基础平台大量岗位急招 (该招聘长期有效)\r\n---\r\n\r\n拼多多基础平台计算，网络，存储，中间件等各个方向P6/P7/P8都有多个职位空缺，欢迎交流和邮件沟通：\r\n\r\n------\r\n### 云原生开发工程师（K8s集群管理方向）\r\n**岗位职责**\r\n- 负责拼多多的容器平台的工程和产品化建设。\r\n- 负责K8s集群自动化高可用部署，自动化更新，自动化扩缩容，自动化故障发现和自愈。\r\n- 负责K8s集群服务能力和规模上限的压测和优化，集群预警指标的建设以及容灾演练。\r\n- 负责K8s集群内和多集群间的编排能力，插件发布，系统配置变更等。\r\n- 负责边缘K8s系统的设计，部署和运营工作。\r\n\r\n**任职要求**\r\n- 计算机、数学、电子工程、通信、自动化等相关专业，基础知识扎实；\r\n- 熟练掌握C/C++/Golang/Java中的至少一种语言；\r\n- 有基础架构，云计算相关工作经验优先；\r\n- 对K8s, mesos，docker有使用和开发经验优先；\r\n- 优秀的表达能力，沟通能力和团队协作能力；对工作和项目有责任心；对技术和业务有前瞻性的思考，能够参与容器平台领域方向性的决策并推进落地；\r\n\r\n------\r\n### 云原生开发工程师（k8s编排调度方向）\r\n**岗位职责**\r\n- 负责拼多多内部复杂多样的业务发布部署需求的工程和产品化建设。\r\n- 负责拼多多内部的无状态和有状态编排系统开发。\r\n- 负责yarn on k8s，spark on k8s，批任务的编排发布系统开发。\r\n- 负责拼多多内部复杂多样的资源类型的调度系统开发。\r\n- 负责在离线混部和资源隔离的调度能力开发。\r\n\r\n**任职要求**\r\n- 计算机、数学、电子工程、通信、自动化等相关专业，基础知识扎实；\r\n- 熟练掌握C/C++/Golang/Java中的至少一种语言；\r\n- 有发布和调度系统相关工作经验优先；\r\n- 对K8s, yarn，spark，flink等有使用和开发经验优先；\r\n- 优秀的表达能力，沟通能力和团队协作能力；对工作和项目有责任心；对技术和业务有前瞻性的思考，能够参与容器平台领域方向性的决策并推进落地；\r\n\r\n------\r\n### 云原生开发工程师（K8s 容器/网络/存储/设备管理方向）\r\n**岗位职责**\r\n- 负责容器使用cpu，内存的性能问题和隔离问题的优化。\r\n- 负责容器网络SDN能力开发和优化：包括但不限于网络弹性能力，隔离能力，出外网能力，带宽限流能力和网络指标可视化能力。\r\n- 负责对象存储，块存储和文件存储的容器挂载能力，io隔离能力，存储空间隔离能力的开发。\r\n- 负责拼多多内部RDMA，GPU设备的管理，监控和虚拟化分配能力的开发。\r\n\r\n**任职要求**\r\n- 计算机、数学、电子工程、通信、自动化等相关专业，基础知识扎实；\r\n- 熟练掌握C/C++/Golang/Java中的至少一种语言；\r\n- 有网络，存储，RMDA，GPU等相关工作经验者优先。\r\n- 有linux内核开发和ebpf相关工作经验者优先。\r\n- 优秀的表达能力，沟通能力和团队协作能力；对工作和项目有责任心；对技术和业务有前瞻性的思考，能够参与容器平台领域方向性的决策并推进落地；\r\n\r\n------\r\n### 云原生开发工程师（资源运营：财务ops，数据可视化方向）\r\n**岗位职责**\r\n- 负责拼多多内部K8s集群的资源运营和用户配额管理相关工作。\r\n- 负责K8s集群成本和业务使用成本的数据计算和优化。\r\n- 负责不同资源类型和型号的保有量，成本优劣分析，并推动资源的优胜劣汰。\r\n- 负责资源分别情况和业务部署使用情况的全面可视化，并分析更合理的部署匹配数据给调度使用。\r\n\r\n**任职要求**\r\n- 计算机、数学、电子工程、通信、自动化等相关专业，基础知识扎实；\r\n- 熟练掌握C/C++/Golang/Java中的至少一种语言；\r\n- 有资源运营或财务ops相关工作经验者优先。\r\n- 有数据分析，推荐系统相关工作经验者优先。\r\n- 优秀的表达能力，沟通能力和团队协作能力；对工作和项目有责任心；对技术和业务有前瞻性的思考，能够参与容器平台领域方向性的决策并推进落地；\r\n\r\n\r\n### 其他方向\r\n- 分布式图数据库[研发工程师/技术专家]      \r\n- 分布式通用KV/缓存系统[研发工程师/技术专家]      \r\n- 表格存储(HBase)平台[研发工程师/技术专家]       \r\n- ElasticSearch服务平台[研发工程师/技术专家]       \r\n- 存储管控平台[研发工程师/技术专家] \r\n- 大数据应用开发平台[研发工程师/技术专家]     \r\n- 分布式文件系统[[研发工程师/技术专家]  \r\n- 分析型数据库[研发工程师/技术专家] \r\n- 数据服务查询引擎[研发工程师/专家]  \r\n- 消息队列（Kafka） [研发工程师/技术专家]  \r\n- 数据传输平台(DRC/DTS/CDC) [研发工程师/技术专家] \r\n- DAL数据库访问中间件 [研发工程师/技术专家]  \r\n- 图机器学习算法平台[研发工程师/技术专家]    \r\n- 接入网关开发工程师 [研发工程师/技术专家]    \r\n- API网关开发工程师 [研发工程师/技术专家]    \r\n- 基础网络开发工程师 [研发工程师/技术专家]    \r\n- 网络产品管控开发工程师 [研发工程师/技术专家]    \r\n- 音视频实时传输网开发工程师 [研发工程师/技术专家]    \r\n- 对象存储研发工程师/专家（图片处理/CDN/P2P/Golang）[研发工程师/技术专家]    \r\n- Serverless平台研发工程师/专家（Golang）[研发工程师/技术专家]    \r\n- Serverless任务编排调度工程师/专家（Java）[研发工程师/技术专家]    \r\n- 基础架构开发（配置中心方向）[研发工程师/技术专家]    \r\n- 资深开发工程师（基础架构RPC方向）[研发工程师/技术专家]    \r\n- 高级开发工程师-基础架构微服务方向 [研发工程师/技术专家]    \r\n- 架构师-基础架构微服务方向 [研发工程师/技术专家]    \r\n- 基础架构开发（Monitor方向）[研发工程师/技术专家]    \r\n- 监控告警研发工程师/技术专家 [研发工程师/技术专家]    \r\n- 高级/资深后端开发工程师（日志方向) [研发工程师/技术专家]    \r\n- 分布式数据库开发工程师/技术专家 [研发工程师/技术专家]    \r\n- 高级/资深后端开发工程师（Golang，弹性方向） [研发工程师/技术专家]    \r\n- 移动平台开发工程师 [研发工程师/技术专家]    \r\n- 研发效能工程师/专家 [研发工程师/技术专家]    \r\n- Golang工程师/专家（Devops、云原生方向）[研发工程师/技术专家]    \r\n- Java工程师/专家（Devops、微服务方向）[研发工程师/技术专家]    \r\n  \r\n------\r\n工作地点：上海\r\n邮箱：at28997146@163.com",
+      "createdAt": "2024-01-14T06:05:57Z",
+      "updatedAt": "2024-01-14T06:05:57Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1894983968,
+      "author": "melmaa-M",
+      "body": " ## 邦辰信息招聘高级JAVA（成都）\r\n### 关于邦辰\r\n邦⾠信息成⽴于2014年，是⼀家专注于网络与信息安全产品研发、 软件开发和信息系统安全集成服务的⾼新技术企业。我们一直致力于提供具有核心竞争力的网络与信息安全产品、应用软件开发和信息系统安全集成服务。2024年，我们开启全新的自研测试平台业务线，热切期盼你的加入！官网指路👉https://bestsec.cn\r\n\r\n\r\n### 热招岗位\r\n#### 高级Java开发工程师     18-30K\r\n##### 岗位职责\r\n\r\n1. 负责公司测试平台的研发，协助技术经理完成系统架构和核心功能设计;\r\n2. 负责后端功能的技术选型、开发和维护，提升产品后端服务的健壮度、性能和安全性;\r\n3. 负责产品相关文档的撰写工作;\r\n4. 指导初中级工程师完成开发任务，通过技术影响力营造创新的技术文化。\r\n\r\n##### 任职要求\r\n\r\n1. 本科及以上学历，计算机及相关专业，5年以上Java开发经验；\r\n2. Java基础扎实，具有丰富的类库设计经验，对代码质量要求高；\r\n3. 熟悉SpringCloud分布式架构，熟悉缓存、消息队列等开源中间件；\r\n4. 熟悉MongoDB，具有数据一致性保证与性能调优经验；\r\n5. 具有自动化测试工具开发经验者优先；\r\n6. 深入理解敏捷开发与DevOps理念，熟悉Docker和K8S者优先。\r\n\r\n##### 加分项\r\n\r\n1. 测试平台项目经验；\r\n2. 架构设计实战经验；\r\n3. 团队管理经验。\r\n\r\n**备注：条件优秀者，薪酬可谈**\r\n\r\n**其他福利**：五险一金、周末双休、年度体检、节日福利、零食供应等\r\n\r\n**工作地址**：成都市成华区西希中环国际2606（请确认通勤距离是否OK）\r\n\r\n如果你感兴趣，欢迎投递简历至邮箱：**HR@bestsec.cn**。邮件主题请备注：**应聘岗位+名字+招聘来源**。如评估通过，我们会在2-3个工作日内与你联系。\r\n\r\n感谢你对邦辰信息的关注:）",
+      "createdAt": "2024-01-17T05:51:17Z",
+      "updatedAt": "2024-01-17T05:51:17Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1897719227,
+      "author": "709724526",
+      "body": "#深圳# #小波微粒# #AIGC# #海外方向#招图像算法、语音算法、NLP、java开发、java架构师等岗位\r\n\r\n欢迎考虑我司职位，我司介绍如下：\r\n【公司】专注海外市场, 深耕AIGC领域4年+, 是全球AIGC行业先行者.\r\n【产品】依据美国知名机构公允数据,  多款产品排名全球AI应用榜前列. \r\n【团队】核心团队成员来自知名top高校，有连续创业成功经验, 实战中锤炼出来的团队.\r\n【盈利】公司处于大规模盈利状态，且收入利润持续高速增长.\r\n小波微粒希望能吸引更多高素质实战型人才，打造世界知名的产品，成为世界知名的公司。\r\n\r\njava开发工程师\r\n岗位职责：\r\n1. 负责公司互联网产品Java后端的设计、开发、CR（CodeReview）和维护工作；  \r\n2. 参与后端架构演进和配套业务落地，持续提升各系统安全性、稳定性、可用性、扩展性。\r\n\r\n任职要求：\r\n1. 有一定的深度和广度，掌握基本的互联网应用技术解决方案，深谙性能之道，有一定的BestPractice情结；\r\n2. 计算机或者相关专业，统招全日制本科及以上学历；  \r\n3. 3年以上Java开发经验，基础扎实，有良好的编码规范，能独立分析和解决问题；  \r\n4. 熟悉各种常用框架和技术及其基本原理，包括但不限于Spring Cloud Alibaba、MySQL、Redis/Redisson、Kafka/SCSt、K8s、CDN、Async等；  \r\n5. 熟悉Aliyun、AWS等至少一种云服务商及其主要产品栈，有全球化产品研发经验的优先。\r\n\r\nPS：简历通过有笔试（很简单，纯逻辑编程题，不考算法），团队开发都是很正规的流程（严格的 UT + 实时 Code Review）\r\n\r\n\r\n算法类\r\n【深度学习算法工程师（视觉）】\r\n岗位职责：\r\n负责计算机视觉相关的技术系统与产品的算法研究与实现工作；\r\n负责计算机视觉相关方向的技术难点攻关与前瞻研究；\r\n自主学习，跟随业内AI技术发展动态，匹配业务诉求，识别关键技术点与实现准备。\r\n任职要求：\r\n硕士及以上学历，计算机相关专业毕业，AI相关专业研究方向两年及以上经历；\r\n对计算机视觉、图像处理、深度学习等有浓厚兴趣，在计算机视觉方面有较深入的研究；\r\n熟悉GAN、Diffusion等图像生成算法，超分辨率，语义分割等技术，具有较强的算法创新能力和实现能力者优先；\r\n熟悉python，C/C++或java等一门或多门编程语言；\r\n熟悉PyTorch，TensorFlow或其他深度学习工具；\r\n具有较强的逻辑思维能力、良好的沟通能力和团队合作精神。\r\n\r\n【NLP算法工程师】\r\n岗位职责：\r\n1.负责参与对话文本分类、语义相似度、序列标注、预训练语言模型等基础NLP算法能力建设；\r\n2.跟踪nlp方向最新研究成果，用以持续提升算法应用效果，研究方向包括但不限于文本分类，实体识别，语义匹配，关系抽取，文本生成，小样本学习，知识蒸馏等；\r\n3.负责参与对话管理、多轮对话算法能力建设，包括不限于任务型多轮、多轮闲聊等场景。\r\n任职要求：\r\n1.计算机相关专业硕士及以上学历，3年以上nlp算法研究与开发经验；\r\n2.熟悉linux操作系统，熟练使用至少一门编程语言（python或c++优先)，有优秀的工程实践能力，代码风格好；\r\n3.熟悉主流的预训练模型，至少从事过(文本分类或实体识别或语义匹配或关系抽取)其中一方向的算法模型开发任务并有实际业务落地经验；\r\n4.熟悉常用文本分析工具，熟悉掌握pytorch或tensorflow或keras等主流深度学习框架。\r\n加分项：\r\n1.有强悍工程能力，大规模数据处理经验。\r\n2.有开源大模型调优经验。\r\n\r\n【语音算法工程师】\r\n岗位职责：\r\n1. 负责语音合成、语音识别、数字人方向的算法研发；\r\n2. 负责虚拟人交互场景下的AIGC音频大模型、个性化实时情感对话语音合成、低资源音色克隆、变声、说话人识别和分割、语种识别、关键词唤醒等技术研发；\r\n3. 跟进学术界、行业最新的研究趋势，产出新的科研成果，并落地于实际产品。\r\n任职要求：\r\n1. 硕士及以上学历，人工智能、语音、自然语言处理、机器学习、计算机等相关专业方向，基础扎实；\r\n2. 深刻理解 TTS 原理，熟悉TTS前端TN、G2P、韵律预测等，熟悉开源架构声学模型 Tacotron、FastSpeech、VITS和声码器WaveGlow、WaveRNN、HifiGAN等；\r\n3. 熟悉主流的语音识别模型算法，如RNN-T、conformer，熟悉kaldi / K2 / wenet / espnet 等工具；\r\n4. 有较强的算法实现能力，熟练掌握 Python/C++/Shell编程，熟悉Linux系统，至少熟练使用一种深度学习训练框架，如Pytorch、Tensorflow等；\r\n5. 学习能力强，优秀的分析问题和解决问题的能力，对解决具有挑战性的问题充满激情。\r\n加分项：\r\n1.  有音色克隆变声相关的项目经验。\r\n\r\n\r\n联系方式：tangxu@xbwl.tech",
+      "createdAt": "2024-01-18T03:24:23Z",
+      "updatedAt": "2024-01-18T03:24:23Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1897809707,
+      "author": "zjdznl",
+      "body": "# 【社招/校招/实习】 字节跳动-抖音电商-搜索服务端\r\n\r\n欢迎加微信沟通！面试进度全程跟进！各个职级都需要\r\nwx: pungentz\r\nemail: guozhen@bytedance.com\r\n\r\n## 【部门介绍】\r\n我们是抖音电商搜索服务端，负责电商搜索能力建设，包含综搜场景电商意图、商品tab、商城搜索的产品能力；同时提供频道、私域场景搜索解决方案，最终满足消费者导购需求、平台营收增加及商家曝光转化。\r\n\r\nTO C：负责快速迭代，提供丰富的产品功能。\r\nTO B：负责提供搜索商机和流量，牵引商家主动运营的链路和工具能力建设。\r\nTO 平台：提供流量调控和长尾case的运营能力。\r\n\r\n## 【挑战和空间】\r\n作为电商最核心的业务之一，搜索在高速发展中，对研发带来的也是极速成长。\r\n在这里，你将面临的技术挑战有：\r\n1、流量挑战大，用户体验要求高，需要有极致的性能和稳定性要求。\r\n2、业务发展快，需要有快速的业务建模->系统抽象建模的能力，提升研发工作效率。\r\n3、搜索是需要全域协同的场景：和商品、供给、营销都有较深的联动，需要有全局思考和长链路协作能力。\r\n\r\n",
+      "createdAt": "2024-01-18T05:09:26Z",
+      "updatedAt": "2024-01-18T05:09:26Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1905511647,
+      "author": "lianxuify",
+      "body": "# 【招聘】字节跳动-飞书文档\r\n\r\n欢迎加微信沟通, 高优招聘中！\r\nwx: 18767104460\r\nemail: [chenqinhui@bytedance.com](mailto:chenqinhui@bytedance.com)\r\n\r\n## 关键字\r\n- 前端工程师\r\n- Nodejs 工程师\r\n- 全栈工程师\r\n\r\n## 团队介绍\r\n飞书文档公共前端团队-Platform-Frontend-Infrastructure，字节 ToB 业务基础架构方向，负责核心产品的架构品质（质量、性能、可维护性），以及超大型工程的研发体验与效率。团队持续探索复杂前端架构的演进方向（高可用BFF/SSR、remix/微应用/微模块架构、BDD），许多成果已在业务上广泛应用；近期在围绕大模型面向开发者提效以及研发模式升级的方向也有一定的进展。团队朝气有活力，成员背景多元，行业经验丰富，工作节奏上也相对比较灵活。目前各个层级都有 HC，base 地主要在杭州/深圳。\r\n\r\n## 前端开发 \r\n工作职责\r\n- 负责飞书文档前端基础架构的治理和优化工作，提升文档的技术品质（质量/性能/可用性）。\r\n- 持续优化前端基础工具链及CI/CD流程，提升研发效率及版本发布稳定性，\r\n- 负责文档BFF及SSR服务的建设工作，协同业务研发团队探索高可用场景下的最佳实践，持续提升文档的首屏体验。\r\n\r\n任职要求\r\n- 良好的设计和编码能力，热爱写代码，能产出高质量的设计和代码。\r\n- 前端基础扎实，对React.js，Vue.js，Angular.js等MVVM框架能熟练运用至少一种，且了解其基本原理。\r\n- 对实现高性能、高可用、优秀用户体验的 Web 应用有实际的了解和实践经验。\r\n- 良好的责任心、沟通能力、学习能力。\r\n\r\n## Nodejs 开发\r\n工作职责\r\n- 负责文档BFF及SSR服务的建设工作，协同业务研发团队探索高可用场景下的最佳实践，持续提升文档的体验。\r\n- 负责负责飞书文档前端基础架构的治理和优化工作，提升文档的技术品质（质量/性能/可用性）。\r\n- 负责AI等新技术探索、推进系统架构的演化与研发效率提升。\r\n\r\n任职要求\r\n- 熟悉 Node.JS，有 Node.JS 大型 Web 应用开发/运维/性能/稳定性保障经验。\r\n- 对实现高性能、高可用、优秀用户体验的 Web 应用有实际的了解和实践经验。\r\n- 良好的责任心、沟通能力、学习能力。\r\n",
+      "createdAt": "2024-01-23T08:17:54Z",
+      "updatedAt": "2024-01-23T08:19:17Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1908179985,
+      "author": "winchesHe",
+      "body": "# 【社招】 MoeGo 前端工程师\r\n\r\n25-40k 15薪\r\n\r\n简历发送：329487092@qq.com 备注年限-姓名-岗位\r\n\r\n---\r\n\r\n我们是一家做宠物 SaaS 的初创公司, 已在行业深耕 5 年, 主要用户在北美, 有持续稳定的现金流.\r\n\r\n宠物行业是疫情期间为数不多的保持正增长的行业. 在美国, 2022 年全美人民共花费了 1300 多亿美金在宠物身上, 相比 2021 年增加了 10% 以上. 参考这里.\r\n\r\n我们目前只覆盖了宠物行业的一个细分领域: 宠物美容 (Grooming), 但是目前平台年线上交易额也已超过 1 亿美金 (预计还有 100x 增长空间). 我们正计划扩大产品的覆盖范围, 包括更多的细分领域, 以及上下游, 包括 C 端. 因此正在大规模扩大我们的产研团队, 半年内的研发 HC 有 10+ ！！！\r\n\r\n# 岗位职责\r\n\r\n1. 编写高质量的前端代码\r\n2. 负责设计与实现 MoeGo 前端各业务模块功能, 包括 PC, H5 和 App\r\n3. 查找并解决线上 Bug, Crash 及性能问题\r\n4. 前端相关前沿技术探索\r\n\r\n# 任职要求\r\n\r\n1. 对编程富有激情, 追求性能极限, 逻辑严谨, 热衷于端到端交付产品\r\n2. 自我驱动, 能快速适应环境变化\r\n3. 一年以上相关工作经验\r\n4. 熟悉 React, TypeScript 生态, 有相关项目经验\r\n5. 了解 Web 相关基础技术, 如 HTTP, WebSocket, 编码, 浏览器等\r\n6. 加分项：有移动端原生开发经验\r\n\r\n【期待中的你】\r\n\r\n- 超强的问题分析、定位及解决能力\r\n- 对打造一款好的产品有极致的追求\r\n- 优秀的沟通、协作能力\r\n- 耐心、同理心和理解能力强\r\n- 自驱力强并随时准备接受挑战\r\n\r\n【关于我们】\r\n\r\n- MoeGo始于美国洛杉矶，期待一起打造全世界最好的宠物服务互联网产品；\r\n- 产品上线至今接近完成 10 亿美金的订单；\r\n- 用户覆盖美国，加拿大，澳大利亚和英国等多个宠物大国。\r\n\r\n【Why Us】\r\n\r\n- 你一起参与的这个产品，会在一个垂直领域，在全世界范围内做到第一；\r\n- 我们极度产品导向，技术导向，用户价值导向；\r\n- 专注，扎实，渴望成长，对结果高要求，一群渴望实现自身价值的团队；\r\n- 有竞争力的薪资和福利。\r\n",
+      "createdAt": "2024-01-24T14:00:06Z",
+      "updatedAt": "2024-01-27T03:24:28Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1911509668,
+      "author": "codecoron",
+      "body": "> ### 社招内推｜ Cloud Software Group - CITRIX（思杰）南京研发中心\r\n> 美企，965，几乎不加班。 主要是做云计算和虚拟化产品。 公司地址：南京市江宁区九龙湖国际企业总部园C３栋\r\n> \r\n> 公司福利：\r\n> \r\n> * 五险一金齐全\r\n> * 补充商业保险、人身意外险\r\n> * 入职即获15天年假（入司每满1年增加1天，上限20天）\r\n> * 男性陪产假18周\r\n> * 朝9晚6，周末双休\r\n> \r\n> 目前在招职位：\r\n> \r\n> * Senior Software Engineer: 5+年开发经验，熟悉云产品/平台优先。\r\n> \r\n> 如果希望内推请把简历和目标职位发送到：[yujie.miao@cloud.com](mailto:yujie.miao@cloud.com) 发送邮件时请备注来自阮大\r\n\r\n这个真实？因为之前看新闻说思杰退出中国市场\r\nhttps://www.sdnlab.com/26388.html",
+      "createdAt": "2024-01-26T05:30:56Z",
+      "updatedAt": "2024-01-26T05:30:56Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1913403014,
+      "author": "xuxia2013",
+      "body": "# 内推｜北京领雁科技股份有限公司\r\n\r\n# 联系\r\n如果希望内推请把简历和目标职位发送到投递邮箱：[xuxia@leadingtek.com](mailto:xuxia@leadingtek.com)\r\n\r\n# 介绍\r\n\r\n北京领雁科技股份有限公司（原名中信网络科技股份有限公司）是中信集团子公司，于2001年在北京正式成立，是北京市认定的软件企业和高新技术企业，并通过系统集成贰级认证和ISO9001国际质量体系认证。公司业务主要涵盖应用软件开发、系统集成、IT服务和IT咨询服务，已为许多大、中型客户提供了市场领先的IT解决方案。 公司业务主要涵盖应用软件开发、系统集成、IT服务和IT咨询服务。\r\n#### [官网](https://www.leadingtek.com/cms/html/home.html)\r\n#### [boss直达](https://www.zhipin.com/gongsi/4c4044cc898140e31Xx829u6.html?ka=company-intro)\r\n\r\n# 岗位\r\n\r\n## 前端开发工程师（中、高级）\r\n#### 地点\r\n北京,广州,武汉,青岛,佛山\r\n\r\n#### 工作职责\r\n1、高度还原 UI 设计稿与交互实现，处理各种浏览器兼容问题；\r\n2、能够编写语义化的 HTML ，模块化的 CSS ，实现较为复杂的布局，能够基于不同设备和浏览器，完成对不同设备和浏览器的兼容；\r\n3、与同事保持良好沟通，能快速理解、消化各方需求，并落实为具体的开发工作；\r\n4、参与项目需求分析，能给出良好的解决方案；\r\n5、关注用户体验，负责对产品易用性改进、界面技术优化和性能优化，提高代码的加载运行效率。\r\n\r\n#### 任职资格\r\n1.毕业1年以上，学历学信网可查本科，具有至少1年前端开发经验，；\r\n2.精通HTML5、CSS3，熟悉页面架构和布局，保证对主流浏览器的兼容；\r\n3.熟练使用VUE、Node.JS等一种或者多种前端开发技术；\r\n4.优秀的代码编写能力、思路清晰、分层明确、代码可读性强，复用性高；\r\n5.自我管理能力强，有良好的执行力，有较好的沟通交流、团队协作能力。\r\n\r\n## Java软件开发工程（中、高级）\r\n#### 地点\r\n北京,上海,深圳,苏州,武汉,广州,佛山,宁波\r\n\r\n#### 工作职责\r\n1、负责产品的开发与维护，定期完成量化的工作要求,能独立处理和解决所负责的任务；\r\n2、根据产品需求完成需求分析、模块设计、编码工作；\r\n3、主动发现问题，提出合理化建议，积极优化项目开发手段。\r\n\r\n#### 任职资格\r\n1、本科1年以上java开发经验；\r\n2、熟练掌握JAVA语言，具备独立完成模块开发的能力，了解Spring，Springboot；\r\n3、对数据库有深刻认识、对SQL熟练编写；\r\n4、参与过银行业项目经验优先；\r\n5、有较强的业务理解能力，善于业务分析，思维灵活，接受新知识能力强，自我学习能力强；\r\n6、有较强的沟通协调能力和团队精神，善于协作；工作踏实，积极主动，有很强的责任心，能承受较大的工作压力。\r\n\r\n\r\n\r\n\r\n",
+      "createdAt": "2024-01-28T01:37:13Z",
+      "updatedAt": "2024-01-28T01:37:13Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1913407846,
+      "author": "morefreeze",
+      "body": "# 字节跳动（抖音）服务端研发工程师-研发环境方向\r\n\r\n请【逐字】仔细阅读以下要求。\r\n岗位职责：字节跳动研发环境团队，致力于面向字节跳动所有产研团队提供业界领先的线下环境及灰度环境的建设、治理能力，以及相关解决方案，目标为万级规模研发组织下研发自测、QA测试、线上预览、灰度、混沌演练、压测等开发测试活动，（你应当拼凑所有括号中内容）提供所需环境，让研发测试更简单，产品交付更可靠。\r\n\r\n1、负责字节跳动研发环境的建设和技术方案落地；\r\n2、负责字节跳动研发环境的流量接入体系以及PaaS（as.al）平台建设；\r\n3、负责字节跳动研发相关数据治理系统及数据仓库、数据模型的建设；\r\n4、提供面向公司级的微服务研发环境解决方案；\r\n5、推动研发活动流程优化和自动化，提高整体研发效率；\r\n6、持续推进底层系统能力优化，降低系统成本。\r\n任职要求：1、本科及以上学历，计算机及相关专业，两年及以上开发经验；\r\n2、熟悉Linux系统，掌握 Golang/Python（/detail/4） 等至少一门编程语言；\r\n3、具有云原生相关技术背景，如Kubernetes、Service Mesh 等；\r\n4、具备良好的沟通协调、团队协作以及复杂问题的分析解决能力。\r\n\r\n具有以下经验者优先：\r\n1、具有 DevOps 相关研发经历或者 PaaS、SaaS （Jw3ea）平台研发经验；\r\n2、熟悉计算机网络结构，对负载均衡、网络代理等有一定了解；\r\n3、具备测试环境、预发环境等研发环境相关平台及中间件建设经验。",
+      "createdAt": "2024-01-28T01:50:01Z",
+      "updatedAt": "2024-01-28T01:50:01Z",
+      "isMinimized": false
+    },
+    {
+      "id": 1920439566,
+      "author": "ruanyf",
+      "body": "本月招聘帖关闭，欢迎访问下月 https://github.com/ruanyf/weekly/issues/4002 ，新岗位请发布到那里。",
+      "createdAt": "2024-02-01T03:31:18Z",
+      "updatedAt": "2024-02-01T03:31:18Z",
+      "isMinimized": false
+    }
+  ],
+  "fetchedAt": "2026-02-13T13:09:40.264Z"
+}
