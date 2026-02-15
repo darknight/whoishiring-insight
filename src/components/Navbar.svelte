@@ -1,24 +1,24 @@
 <script lang="ts">
-  interface Props {
-    currentPath: string;
-  }
-
-  let { currentPath }: Props = $props();
-
   let menuOpen = $state(false);
   let dark = $state(false);
+  let activeSection = $state('overview');
 
   const navItems = [
-    { href: '/', label: '首页' },
-    { href: '/trends', label: '趋势' },
-    { href: '/cities', label: '地域' },
-    { href: '/tech', label: '技术栈' },
-    { href: '/companies', label: '公司' },
+    { href: '#overview', label: '首页' },
+    { href: '#trends', label: '趋势' },
+    { href: '#cities', label: '地域' },
+    { href: '#tech', label: '技术栈' },
+    { href: '#companies', label: '公司' },
   ];
 
-  function isActive(href: string): boolean {
-    if (href === '/') return currentPath === '/';
-    return currentPath.startsWith(href);
+  function handleNavClick(e: MouseEvent, href: string) {
+    e.preventDefault();
+    menuOpen = false;
+    if (href === '#overview') {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } else {
+      document.querySelector(href)?.scrollIntoView({ behavior: 'smooth' });
+    }
   }
 
   function toggleTheme() {
@@ -31,16 +31,33 @@
     menuOpen = !menuOpen;
   }
 
-  // Initialize theme on mount
   $effect(() => {
     dark = document.documentElement.classList.contains('dark');
+
+    const sections = navItems.map((item) => document.querySelector(item.href)).filter(Boolean) as Element[];
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            activeSection = entry.target.id;
+          }
+        }
+      },
+      { rootMargin: '-50% 0px' }
+    );
+
+    for (const section of sections) {
+      observer.observe(section);
+    }
+
+    return () => observer.disconnect();
   });
 </script>
 
 <nav class="sticky top-0 z-50 border-b border-(--color-border) bg-(--color-surface)/80 backdrop-blur-lg">
   <div class="mx-auto flex h-14 max-w-7xl items-center justify-between px-4 sm:px-6">
     <!-- Logo -->
-    <a href="/" class="flex items-center gap-2 font-semibold text-(--color-text-primary) no-underline">
+    <a href="#overview" onclick={(e) => handleNavClick(e, '#overview')} class="flex items-center gap-2 font-semibold text-(--color-text-primary) no-underline">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
         <polyline points="7.5 4.21 12 6.81 16.5 4.21"></polyline>
@@ -57,8 +74,9 @@
       {#each navItems as item}
         <a
           href={item.href}
+          onclick={(e) => handleNavClick(e, item.href)}
           class="rounded-md px-3 py-1.5 text-sm font-medium transition-colors no-underline
-            {isActive(item.href)
+            {activeSection === item.href.slice(1)
               ? 'bg-(--color-surface-tertiary) text-(--color-text-primary)'
               : 'text-(--color-text-secondary) hover:text-(--color-text-primary) hover:bg-(--color-surface-tertiary)'}"
         >
@@ -122,8 +140,9 @@
       {#each navItems as item}
         <a
           href={item.href}
+          onclick={(e) => handleNavClick(e, item.href)}
           class="block rounded-md px-3 py-2 text-sm font-medium transition-colors no-underline
-            {isActive(item.href)
+            {activeSection === item.href.slice(1)
               ? 'bg-(--color-surface-tertiary) text-(--color-text-primary)'
               : 'text-(--color-text-secondary) hover:text-(--color-text-primary) hover:bg-(--color-surface-tertiary)'}"
         >

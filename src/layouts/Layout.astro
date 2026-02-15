@@ -9,7 +9,6 @@ interface Props {
 }
 
 const { title, description = '基于阮一峰周刊「谁在招人」栏目的招聘数据可视化分析' } = Astro.props;
-const currentPath = Astro.url.pathname;
 ---
 
 <!doctype html>
@@ -37,7 +36,7 @@ const currentPath = Astro.url.pathname;
     </script>
   </head>
   <body class="flex min-h-screen flex-col">
-    <Navbar currentPath={currentPath} client:load />
+    <Navbar client:load />
     <main class="flex-1">
       <slot />
     </main>
