@@ -711,6 +711,292 @@
       "experienceReq": "精通前端技术： HTML、CSS、JavaScript",
       "educationReq": "未提及",
       "contact": "emigliore@sustech.edu.cn"
+    },
+    {
+      "id": "4911-2270451527",
+      "issueNumber": 4911,
+      "commentId": 2270451527,
+      "yearMonth": "2024-08",
+      "author": "chidaozhi",
+      "rawContent": "### Rakuten 乐天创研 （大连外企）\r\n_**内推**_\r\n\r\nWe are finding Java, Devops, Front-end, PM, QA...\r\n\r\n**Contact me: 2279285919@qq.com**\r\n\r\n\r\nJob description:\r\n\r\n[Required Skills]\r\n\r\n - 3-year experience in Java development\r\n\r\n - Experience in Spring/Spring Boot\r\n\r\n - Experience in Git\r\n\r\n - Experience in CICD(Jenkins)\r\n\r\n - Experience in Container technology(Docker, Kubernetes)\r\n\r\n - English: Communication level\r\n\r\n\r\n\r\n[Welcome Skills]\r\n\r\n - Japanese: Communication level\r\n\r\n - Agile development experience\r\n\r\n - React experience\r\n\r\n - Experience in monitoring tools (Prometheus, Grafana, New Relic)\r\n\r\n\r\n\r\n[Attendance]\r\n\r\n - Flexibility to work 2-5 night shifts per month.\r\n\r\n - Following night shifts, you will have the option to take compensatory rest days.\r\n\r\n\r\n\r\n[Mindset]\r\n\r\n - Strong sense of responsibility and ownership\r\n\r\n - Excellent self-management skills.\r\n\r\n - proactive work attitude, with the ability to independently investigate issues and propose solutions.",
+      "company": "Rakuten 乐天创研",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "Java",
+          "category": "后端"
+        },
+        {
+          "title": "Devops",
+          "category": "DevOps"
+        },
+        {
+          "title": "Front-end",
+          "category": "前端"
+        },
+        {
+          "title": "PM",
+          "category": "产品"
+        },
+        {
+          "title": "QA",
+          "category": "测试"
+        }
+      ],
+      "location": [
+        "大连"
+      ],
+      "isRemote": false,
+      "isOverseas": true,
+      "techStack": [
+        "Java",
+        "Spring",
+        "Spring Boot",
+        "Git",
+        "CICD",
+        "Docker",
+        "Kubernetes",
+        "English",
+        "Japanese",
+        "React",
+        "Prometheus",
+        "Grafana",
+        "New Relic"
+      ],
+      "experienceReq": "3-year experience in Java development",
+      "contact": "2279285919@qq.com"
+    },
+    {
+      "id": "4911-2271101062",
+      "issueNumber": 4911,
+      "commentId": 2271101062,
+      "yearMonth": "2024-08",
+      "author": "Lilihx",
+      "rawContent": "# 字节跳动-系统部 （社招： 后端/运维方向）\r\n投递邮箱：lihengxin.123@bytedance.com\r\n![20240806-194510](https://github.com/user-attachments/assets/a5ebcdec-e70b-4d27-9c12-ee8bbe5e761f)\r\n\r\n",
+      "company": "字节跳动-系统部",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "后端",
+          "category": "后端"
+        },
+        {
+          "title": "运维",
+          "category": "DevOps"
+        }
+      ],
+      "location": null,
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "contact": "lihengxin.123@bytedance.com"
+    },
+    {
+      "id": "4911-2272521284",
+      "issueNumber": 4911,
+      "commentId": 2272521284,
+      "yearMonth": "2024-08",
+      "author": "Meokie",
+      "rawContent": "### 社招内推｜ Cloud Software Group - CITRIX（思杰）南京研发中心\r\n美企，965，几乎不加班。\r\n主要是做云计算和虚拟化产品。\r\n公司地址：南京市江宁区九龙湖国际企业总部园C３栋\r\n公司福利：\r\n- 五险一金齐全\r\n- 补充商业保险、人身意外险\r\n- 入职即获15天年假（入司每满1年增加1天，上限20天）\r\n- 男性陪产假18周\r\n- 朝9晚6，周末双休\r\n\r\n目前在招职位：\r\n- Senior Software Engineer: 5+年开发经验，基本掌握Linux Shells/Golang/Python，熟悉虚拟化平台（OpenStack, ESXi...）以及网络协议 (RPC, Restful API, TCP/IP, HTTP, TLS....）。\r\n\r\n如果希望内推请把简历和目标职位发送到：[yujie.miao@cloud.com](mailto:yujie.miao@cloud.com)\r\n发送邮件时请备注来自阮大",
+      "company": "Cloud Software Group - CITRIX（思杰）",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "Senior Software Engineer",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "南京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Linux Shells",
+        "Golang",
+        "Python",
+        "OpenStack",
+        "ESXi",
+        "RPC",
+        "Restful API",
+        "TCP/IP",
+        "HTTP",
+        "TLS"
+      ],
+      "experienceReq": "5+年开发经验",
+      "contact": "yujie.miao@cloud.com"
+    },
+    {
+      "id": "4911-2290799636",
+      "issueNumber": 4911,
+      "commentId": 2290799636,
+      "yearMonth": "2024-08",
+      "author": "danachy",
+      "rawContent": "## 【深圳】【一起练琴】招聘 Flutter、Android、iOS 开发\r\n### **一起练琴** 是谁\r\n---\r\n* 2016 年创立，至今 8 年；\r\n* 专注音乐教育领域，主要产品「一起练琴」App 取得成功；\r\n* 创始人是某上市公司的联合创始人；\r\n* 联合创始人是美国罗彻斯特大学教授，研究团队有多位计算机音乐人才；\r\n* 推崇工程师文化，致力于组建高效、专注的研发团队；\r\n* 音乐氛围好，大部分员工有音乐经历。\r\n<br>\r\n\r\n### 我们需要什么样的人\r\n---\r\n如果您想要：\r\n* 在靠谱的创业公司里，通过拥有期权获得财务自由的机会；\r\n* 给自己一个快速学习、成长的环境；\r\n* 做对的事情；\r\n* 工作中还与音乐相伴。\r\n\r\n如果您是这样：\r\n* 有梦想，有创业激情，能自我激励；\r\n* 有 Geek 精神；\r\n* 具备看英文原版文档的能力；\r\n* 使用的工具都体现出逼格；\r\n* 不用国内某搜索引擎；\r\n* 喜欢音乐，玩点乐器。\r\n\r\n欢迎加入我们。\r\n<br>\r\n\r\n### 你能得到什么？\r\n---\r\n我们能给的只有：\r\n* 团队不断成长的阅历；\r\n* 一群优秀的同事；\r\n* 用户的认可；\r\n* 有竞争力的薪水；\r\n* 期权；\r\n* 拒绝 996；\r\n<br>\r\n\r\n### 联系方式\r\n---\r\n微信: danachy\r\n联系邮箱：dana@17lianqin.cn",
+      "company": "一起练琴",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Flutter、Android、iOS 开发",
+          "category": "移动端"
+        }
+      ],
+      "location": [
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Flutter",
+        "Android",
+        "iOS"
+      ],
+      "contact": "微信: danachy，联系邮箱：dana@17lianqin.cn"
+    },
+    {
+      "id": "4911-2304088830",
+      "issueNumber": 4911,
+      "commentId": 2304088830,
+      "yearMonth": "2024-08",
+      "author": "NoCode-Tech",
+      "rawContent": "# 无码科技（杭州）有限公司\r\n无码科技团队于 2016 年在杭州成立，是一家技术驱动的互联网医疗科技公司。\r\n\r\n我们致力于通过数据及算法解决医疗领域信息不对称的问题。现已陆续出品多款医疗相关领域的产品。\r\n\r\n公司官网：www.nocode.com\r\n\r\n简历投递：recruit@nocode.com，如果有任何对岗位的问题，也欢迎来邮咨询。\r\n\r\n微信/电话：13615814021\r\n# 团队福利\r\n* 考勤及节假日：弹性办公、不打卡；双休、法定节假日、带薪休假。\r\n* 社险配置：五险一金，全额缴纳。\r\n* 健康福利：年度体检及洁牙。\r\n* 团建福利：定期聚餐打球小团建、每年集体旅游；不虚头巴脑、不喊口号，团建旅游只走自由行。近几年分别去了日本京都、泰国清迈、云南西双版纳、成都、泉州等地。\r\n* 其他：节日福利 / 生日福利 / 全天候免费零食及饮料 / 人体工学办公椅 / Mac 电脑等。\r\n# 我们期待你\r\n* 热爱创业公司文化，乐于面对挑战和变化；\r\n* 具备良好的学习能力和技术好奇心；\r\n* 具备自我驱动力和自律性，能够在开放的环境中高效工作；\r\n* 具有良好的沟通能力和团队合作精神。\r\n\r\n# 前端开发工程师\r\n\r\n**工作职责：**\r\n1. 负责公司产品 Web 端、微信小程序的前端开发。\r\n2. 负责产品易用性改进和产品性能优化。\r\n3. 参与公司前端业务的需求落地，并持续推进架构演进。\r\n\r\n**任职要求：**\r\n1. 一年以上、三年以内的前端开发经验。\r\n2. 编码风格具备可读性，有较强的团队沟通能力。\r\n3. 熟悉 React，并深入理解 Hooks 的开发方式。\r\n4. 熟悉微信小程序开发，具备分包优化的实践经验。\r\n5. 对 Web 安全（如 XSS、CSRF 等）有基本认识和防范知识。\r\n6. 自驱力强，有独立思考能力，喜欢用代码解决实际问题。\r\n\r\n**加分项：**\r\n* 有个人作品或开源代码贡献经验者优先。\r\n* 熟悉如 ChatGPT 等大语言模型工具，具备利用工具能力辅助开发过程经验者优先。\r\n* 熟悉 Next.js、TypeScript、React Native、Bun、Vercel 者优先。\r\n* 有编程比赛参赛经验或技术文章撰写经验者优先。\r\n\r\n# 后端开发工程师\r\n**工作职责：**\r\n1. 负责后端项目的设计与开发，按照产品需求确保高质量的产品交付。\r\n2. 参与现有系统的维护与优化，定位并解决系统瓶颈，提升系统性能及稳定性。\r\n\r\n**任职要求：**\r\n1. 两年以上后端开发经验，具有良好的编码习惯和责任心。\r\n2. 熟悉至少两种后端开发语言，如 Python、Node.js、Golang、Java ，不局限于单一技术栈。\r\n3. 扎实的计算机基础，包括数据结构、算法、设计模式。\r\n4. 熟练使用至少一种关系型数据库（如 PostgreSQL、MySQL）和缓存数据库（如 Redis）。\r\n5. 深入理解网络协议（如 HTTP、TCP/IP），熟悉 RESTful API 设计和实现。\r\n6. 熟悉 Linux 操作系统，熟练使用 Shell 指令及 Git 版本控制工具。\r\n7. 熟悉至少一种消息队列系统，包括但不限于 RabbitMQ/RocketMQ/Kafka。\r\n⠀\r\n**加分项：**\r\n* 拥有大规模高可用服务端服务的研发经验。\r\n* 熟悉 Kubernetes、Docker 等容器技术。\r\n* 熟练掌握 Python，具有相关开发经验者优先。\r\n* 在开源社区有贡献，积极参与技术交流。",
+      "company": "无码科技（杭州）有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "后端开发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React",
+        "微信小程序",
+        "Python",
+        "Node.js",
+        "Golang",
+        "Java",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "RabbitMQ",
+        "Kafka"
+      ],
+      "experienceReq": "前端开发工程师：一年以上、三年以内；后端开发工程师：两年以上",
+      "contact": "简历投递：recruit@nocode.com，微信/电话：13615814021"
+    },
+    {
+      "id": "4911-2308140228",
+      "issueNumber": 4911,
+      "commentId": 2308140228,
+      "yearMonth": "2024-08",
+      "author": "running-dog",
+      "rawContent": "### 拼多多-TEMU-跨境搜索推荐组 [组内直招 长期有效]\r\n\r\n**组内直招 简历直达业务负责人 可全程向我跟踪流程进度 可传授面试经验**\r\n待遇从优 认可技术价值 薪资open可谈\r\nTEMU核心组 部门还在扩张 岗位稳定 组内氛围融洽 技术er待的很舒服\r\nbase上海\r\n\r\n**现组内开放岗位如下：**\r\n- 推荐算法工程师\r\n- 搜索算法工程师\r\n- 大模型算法工程师\r\n- 大模型推理研发工程师\r\n- 排序模型算法工程师\r\n- 引擎开发工程师\r\n- 大数据研发工程师\r\n\r\n\r\n\r\n**跨境搜索推荐-大模型算法工程师（急招）**\r\n技术类上海若干\r\n岗位职责\r\n1、大模型算法研发：构建电商领域的大模型LLM底座，融合电商的知识，快速落地业务。持续建设和优化NLP/LLM/CV/多模态模型预训练算法，利用RAG、Long Context、RLHF、COT等技术，提升模型的理解、推理能力；\r\n2、负责设计、开发和优化电商领域的自然语言处理（NLP）算法，提高搜索、推荐系统的性能和效果；\r\n3、使用NLP/LLM/CV/多模态大模型，对搜索推荐全链路进行算法优化，改进商品创意生成、理解用户行为、理解商品内容等，以提升用户体验和系统智能化水平；\r\n4、大模型评估与调优：设计和实施算法评估框架，对模型性能进行监测和评估，并根据结果进行模型调优，确保系统的稳定性和可靠性；\r\n5、跨团队协作：与产品团队、工程团队和数据团队等紧密合作，理解业务需求，制定并实施相应的算法解决方案；\r\n6、持续学习与创新：跟踪最新的NLP/LLM/CV/多模态大模型研究进展，不断学习新技术和算法，将最新的科研成果应用到实际工程中，保持团队的竞争力；\r\n任职要求\r\n1、有良好的数据分析和挖掘能力，熟练使用数据分析工具和编程语言，有良好的团队协作和沟通能力优先；\r\n2、对新技术和算法有强烈的学习欲望，能够快速适应工作中的挑战；\r\n3、熟悉主流大模型的训练和微调流程、Prompt Engineering等，熟悉相关训练和部署工具的使用如Transformers、DeepSpeed、Megatron-LM等；\r\n4、熟悉深度学习框架，如TensorFlow、PyTorch等，熟悉大模型的开发和优化。\r\n\r\n**跨境搜索推荐-大模型推理研发工程师（急招）**\r\n任职要求：\r\n熟悉至少一种主流深度学习框架（pytorch/tensorflow）\r\n熟悉至少一种主流模型推理框架\r\n有大模型训练/推理及调优经验者，优先考虑\r\n熟悉cuda编程，有算子开发经验者，优先考虑\r\n\r\n**跨境搜索推荐-搜索算法工程师**\r\n技术类上海若干\r\n岗位职责\r\n1、负责跨境电商搜索场景Query理解、召回、排序、CTR/CVR模型、搜索相关性等算法模型策略优化；\r\n2、负责提升跨境电商搜索场景的各项业务指标，包括搜索GMV、用户增长等；\r\n3、负责提升多国家、多语言环境下跨境电商搜索相关性体验；\r\n4、负责优化跨境电商搜索导流场景，包括底纹词、下拉推荐、相关搜索等Query推荐场景。\r\n任职要求\r\n1、计算机或软件工程相关专业，有机器学习和模式识别相关经验；\r\n2、在搜索，广告，推荐等大规模分发系统中有一定的算法开发优化经验；\r\n3、熟悉Linux系统，熟练使用Java/C++/Python其中任一编程语言，有TF/Hadoop/Spark/等大数数据和机器学习平台经验；\r\n4、有较好的数理基础和逻辑思维能力，热爱算法，热爱思考，较好的主动性和沟通协作能力。\r\n加分项\r\n1、有海外多国家、多语言实际业务经验者优先；\r\n2、有搜索、推荐、广告的实际产品化经验优先；\r\n3、在机器学习、人工智能、数值优化等领域有优秀论文发表记录优先。\r\n\r\n**跨境搜索推荐-引擎开发工程师**\r\n岗位职责\r\n1、负责跨境电商搜索推荐服务架构设计，打造高性能、高可用、可扩展的架构，支撑业务快速发展；\r\n2、负责端到端全链路的研发和优化， 包括检索、打分、排序等相关后端服务架构， 包括前后端链路的交互方案把控， 优化搜索推荐引擎的计算和存储性能，提升单机吞吐；\r\n3、维护和开发基础组件，包括索引库、检索服务、服务框架、资源管控等，提高系统的性能和扩展性；\r\n4、深刻的理解业务，抽象和设计合理的技术架构，保证架构的合理性和前瞻性, 以适应不断变化的需求；\r\n5、维护线上环境的稳定性，做好限流、熔断、降级等系统保护措施； 做好监控、告警等问题发现手段，及时响应问题修复和排查。\r\n任职要求\r\n1、具有扎实的计算机基础，熟悉操作系统和网络，精通C/C++或者JAVA任一语言， 对数据结构&算法设计有较深刻的理解；\r\n2、有良好的沟通和逻辑思维能力，有足够的技术和业务好奇心，善于学习，善于分析和解决实际问题；\r\n3、至少有搜索、推荐、电商、大规模检索系统或者分布式系统中的一项特长；\r\n4、责任心强，思路清晰，技术视野开阔，对业界新技术敏感，喜欢钻研，具有良好的学习能力并注重团队合作。\r\n加分项\r\n1、有海外电商经验者优先，熟悉多国家、多语言环境下的架构设计者优先；\r\n2、大型互联网系统（广告、搜索、推荐）开发经验者优先；\r\n3、熟悉分布式计算、存储、机器学习系统加分，如es、k8s、Hadoop、MPI、Spark、Flink、tensoflow、HBase等系统。\r\n\r\n**跨境搜索推荐-推荐算法工程师**\r\n岗位职责\r\n1、通过业界领先的推荐技术提升跨境推荐业务的各项指标，包括点击率、转化率、GMV等；\r\n2、负责推荐系统的各阶段效果优化，包括召回/排序/重排等；\r\n3、负责提升用户的推荐体验，包括推荐多样性、惊喜性、相关性等；\r\n4、深入理解用户在跨境电商的各类行为，分析驱动业务的增长点，并推动落地；\r\n5、研究深度学习、自然语言理解、计算机视觉等领域的前沿算法，结合业务做算法改进和技术创新。\r\n任职要求\r\n1、有召回、排序模型、排序机制等相关经验，有电商大场景算法背景优先；\r\n2、熟悉机器学习领域常用算法和工具，有优秀的建模思维，熟悉Tensorflow/PyTorch等至少一种深度学习框架；\r\n3、熟悉大规模数据处理的常用方法，熟悉Hadoop/Spark/Strom等至少一种分布式系统；\r\n4、熟悉Java/Python等编程语言及常用数据结构，具备良好的编程功底；\r\n5、具备良好的学习能力和沟通能力，对算法驱动数据增长怀有热情。\r\n加分项\r\n1、有大型互联网公司推荐/搜索/广告相关业务实战背景优先；\r\n2、有ACM相关竞赛获奖、顶会论文发表优先。\r\n\r\n**跨境搜索推荐-排序模型算法工程师**\r\n技术类上海若干\r\n岗位职责\r\n1、负责跨境搜索推荐业务的CTR/CVR/创意优化模型算法优化，与来自国内外顶级名校、业界大厂经验同学合作，为用户提供一流的产品体验\r\n2、优化跨境搜索推荐在全场景、全链路的核心模型算法，包括召回、粗排、精排、混排等，提升搜索推荐的转化效率，促进GMV增长\r\n3、利用最新的深度学习技术包括多任务学习、多模态技术、超长序列建模、图神经网络等，结合业务实际问题做好技术探索和应用\r\n4、探索大模型在电商搜索推荐领域的应用，如用户行为理解、创意生成、CTR/CVR模型优化等，通过大模型提升业务效果\r\n5、深入理解用户在平台的各类行为，分析驱动业务的增长点，对数据进行建模，优化效果，并推动落地\r\n任职要求\r\n1、熟悉机器学习基础知识、在搜索、推荐、广告等相关领域有经验者优先\r\n2、熟悉深度学习框架，如TensorFlow、PyTorch等优先，具有扎实的算法基础，熟悉主流的模型和算法，有相关工作经验者优先\r\n3、有大模型的开发和优化经验、有Prompt Engineering经验者优先\r\n4、具备良好的问题分析、解决能力，有热情、乐于学习、积极思考和创新\r\n\r\n**跨境搜索推荐-引擎开发工程师**\r\n岗位职责\r\n1、负责跨境电商搜索推荐服务架构设计，打造高性能、高可用、可扩展的架构，支撑业务快速发展；\r\n2、负责端到端全链路的研发和优化， 包括检索、打分、排序等相关后端服务架构， 包括前后端链路的交互方案把控， 优化搜索推荐引擎的计算和存储性能，提升单机吞吐；\r\n3、维护和开发基础组件，包括索引库、检索服务、服务框架、资源管控等，提高系统的性能和扩展性；\r\n4、深刻的理解业务，抽象和设计合理的技术架构，保证架构的合理性和前瞻性, 以适应不断变化的需求；\r\n5、维护线上环境的稳定性，做好限流、熔断、降级等系统保护措施； 做好监控、告警等问题发现手段，及时响应问题修复和排查。\r\n任职要求\r\n1、具有扎实的计算机基础，熟悉操作系统和网络，精通C/C++或者JAVA任一语言， 对数据结构&算法设计有较深刻的理解；\r\n2、有良好的沟通和逻辑思维能力，有足够的技术和业务好奇心，善于学习，善于分析和解决实际问题；\r\n3、至少有搜索、推荐、电商、大规模检索系统或者分布式系统中的一项特长；\r\n4、责任心强，思路清晰，技术视野开阔，对业界新技术敏感，喜欢钻研，具有良好的学习能力并注重团队合作。\r\n加分项\r\n1、有海外电商经验者优先，熟悉多国家、多语言环境下的架构设计者优先；\r\n2、大型互联网系统（广告、搜索、推荐）开发经验者优先；\r\n3、熟悉分布式计算、存储、机器学习系统加分，如es、k8s、Hadoop、MPI、Spark、Flink、tensoflow、HBase等系统。\r\n\r\n**跨境搜索推荐-大数据研发工程师**\r\n技术类上海若干\r\n岗位职责\r\n1、负责搜索推荐服务数据体系的研发设计和建设，通过数据产品和数据服务等方式，赋能商家、运营的业务增长；\r\n2、负责搜索推荐服务的数据建设、数据服务化的设计、开发、性能优化，为上层分析和挖掘提供可靠、统一的离线+实时数据服务；\r\n3、负责搜索推荐场景的用户画像、正倒排索引开发；\r\n4、负责搜索推荐系统的实时监控大盘、实验指标监控、数据质量监控等功能的开发。\r\n任职要求\r\n1、计算机相关专业，本科及以上学历，1-5年大数据开发相关工作经验，有电商搜索/推荐系统相关研发经验者优先；\r\n2、熟悉Kafka/Spring/MyBatis/Elastic Search/Redis等相关开发技术；\r\n3、精通Java/Python/Scala等至少一门语言，熟悉Hadoop/Spark/Hive/HBase/Flink等大数据研发工具；\r\n4、对流式计算系统有深入的了解，深入掌握Flink DataStream、FlinkSQL、Flink Checkpoint、Flink State等模块，有Flink源码阅读经验优先；\r\n5、熟悉常见消息队列原理，有Kafka、Plusar、RocketMQ等项目源码阅读经验优先；\r\n6、优秀的自我驱动力和责任心，良好的沟通表达能力和团队合作精神，学习能力强有责任心，不断挑战自己。\r\n加分项\r\n1、有海外电商经验者优先，熟悉多国家、多语言环境下的架构设计者优先；\r\n2、大型互联网系统（广告、搜索、推荐）开发经验者优先。\r\n\r\n**有意向的朋友：penghuakang001@163.com**",
+      "company": "拼多多-TEMU-跨境搜索推荐组",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "推荐算法工程师",
+          "category": "数据"
+        },
+        {
+          "title": "搜索算法工程师",
+          "category": "数据"
+        },
+        {
+          "title": "大模型算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "大模型推理研发工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "排序模型算法工程师",
+          "category": "数据"
+        },
+        {
+          "title": "引擎开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "大数据研发工程师",
+          "category": "数据"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "待遇从优 认可技术价值 薪资open可谈",
+      "techStack": [
+        "NLP",
+        "LLM",
+        "CV",
+        "多模态",
+        "深度学习",
+        "TensorFlow",
+        "PyTorch",
+        "Java",
+        "C++",
+        "Python",
+        "Hadoop",
+        "Spark",
+        "Flink",
+        "Kafka"
+      ],
+      "experienceReq": "各岗位有具体要求",
+      "contact": "有意向的朋友：penghuakang001@163.com"
+    },
+    {
+      "id": "4911-2309262148",
+      "issueNumber": 4911,
+      "commentId": 2309262148,
+      "yearMonth": "2024-08",
+      "author": "jk2K",
+      "rawContent": "## 京东-北京/深圳-移动研发平台后端工程师\r\n组内直招，2 个 hc\r\n\r\n### 部门介绍\r\n为京东端侧应用的设计、开发、运营及运维提供云到端的一站式能力，帮助业务降低技术门槛，减少研发成本，快速打造稳定高质量的动态化应用\r\n\r\n### 业务介绍\r\n移动研发平台是面向开发者的工具平台，分为门户、APP 接口两部分，功能涵盖开发框架、持续集成、发布、监控、配置、行为分析等，系统能够应对海量请求。服务端技术栈涉及 Java 、TiDB 、redis 、Elasticsearch 、Flink 、ClickHouse 、ZooKeeper 、RPC 、对象存储、审批流、配置中心、xxl-job 、MyBatis-Plus 、GitHub Actions\r\n\r\n### 岗位职责\r\n1. 参与 mPaaS 平台研发及功能迭代，深入发掘和分析业务需求，按时、高质量完成产品交付，对产品质量和研发效率负责\r\n2. 分析和发现系统的优化点，负责推动系统的性能、可用性、可维护性的提升\r\n\r\n### 任职资格\r\n1. 统招本科及以上学历，熟练掌握 Java 编程语言，愿意从其他语言转的也可以\r\n2. 扎实的编程能力，熟悉常用数据结构，掌握常用的设计模式\r\n3. 有较强的学习能力和抽象能力，有强烈的求知欲、好奇心和进取心，能及时关注和学习业界最新技术；\r\n4. 较好的产品意识，关注数据，愿意将产品效果做为工作最重要的驱动因素\r\n5. 积极乐观，认真负责，执行力强，责任心强，具备良好的沟通能力和优秀的团队协作能力\r\n6. 能够设计、开发、维护高性能、高可用的 api 服务\r\n\r\n### 办公地点\r\n北京亦庄 或 深圳卓越前海壹号\r\n\r\n\r\n有意愿的请发简历至 eWVtZW5nMUBqZC5jb20= 邮箱经过 base64 加密\r\n",
+      "company": "京东",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "移动研发平台后端工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "北京",
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Java",
+        "TiDB",
+        "redis",
+        "Elasticsearch",
+        "Flink",
+        "ClickHouse",
+        "ZooKeeper",
+        "RPC",
+        "对象存储",
+        "审批流",
+        "配置中心",
+        "xxl-job",
+        "MyBatis-Plus",
+        "GitHub Actions"
+      ],
+      "experienceReq": "统招本科及以上学历，熟练掌握 Java 编程语言",
+      "educationReq": "统招本科及以上学历",
+      "contact": "有意愿的请发简历至 eWVtZW5nMUBqZC5jb20= 邮箱"
     }
   ],
   "skipped": [
@@ -723,168 +1009,22 @@
       "commentId": 2322869735,
       "author": "ruanyf",
       "reason": "[other] Issue 作者汇总帖，跳过"
+    },
+    {
+      "commentId": 2271103334,
+      "author": "Lilihx",
+      "reason": "[other] 发布校招信息，无招聘职位描述"
+    },
+    {
+      "commentId": 2289036709,
+      "author": "guojiabing",
+      "reason": "[job_seeking] 描述个人技能和经验，表达求职意愿"
+    },
+    {
+      "commentId": 2306024300,
+      "author": "yexia553",
+      "reason": "[job_seeking] 希望找到对LLM应用开发或者机器人应用开发有兴趣的小伙伴，共同进行side projects"
     }
   ],
-  "errors": [
-    {
-      "commentId": 2289036709,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CY9JKNFQeDQVV3gE7d\"}"
-    },
-    {
-      "commentId": 2271103334,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CY9Lnv1dxnnPUodcCE\"}"
-    },
-    {
-      "commentId": 2270451527,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CY9GpxfoyZTENLsZTa\"}"
-    },
-    {
-      "commentId": 2272521284,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CY9KZ8rHJVmXLKLJw4\"}"
-    },
-    {
-      "commentId": 2271101062,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CY9KZ2iMU6rzfKh5rL\"}"
-    },
-    {
-      "commentId": 2304088830,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CYAbSrLKd3KjVpm8gK\"}"
-    },
-    {
-      "commentId": 2308140228,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CYAbwkGhZiLhjeoGwu\"}"
-    },
-    {
-      "commentId": 2306024300,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CYAdgJd7TTP9pDupnb\"}"
-    },
-    {
-      "commentId": 2290799636,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CYAhtxmoN5sw22RiRD\"}"
-    },
-    {
-      "commentId": 2309262148,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CYAgf2uSgqtvLyUcaX\"}"
-    },
-    {
-      "commentId": 2270451527,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2271101062,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2271103334,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2272521284,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2289036709,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2290799636,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2304088830,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2306024300,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2308140228,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2309262148,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2270451527,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2271101062,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2271103334,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2272521284,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2289036709,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2290799636,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2304088830,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2306024300,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2308140228,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2309262148,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 2270451527,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    },
-    {
-      "commentId": 2271101062,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    },
-    {
-      "commentId": 2271103334,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    },
-    {
-      "commentId": 2272521284,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    },
-    {
-      "commentId": 2289036709,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    },
-    {
-      "commentId": 2290799636,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    },
-    {
-      "commentId": 2304088830,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    },
-    {
-      "commentId": 2306024300,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    },
-    {
-      "commentId": 2308140228,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    },
-    {
-      "commentId": 2309262148,
-      "error": "Unterminated string in JSON at position 11100 (line 143 column 7980)"
-    }
-  ]
+  "errors": []
 }

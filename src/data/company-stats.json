@@ -2,15 +2,15 @@
   "rankings": [
     {
       "name": "字节跳动",
-      "count": 124
+      "count": 128
     },
     {
       "name": "拼多多",
-      "count": 61
+      "count": 76
     },
     {
       "name": "阿里巴巴",
-      "count": 39
+      "count": 40
     },
     {
       "name": "Apifox",
@@ -18,7 +18,7 @@
     },
     {
       "name": "无码科技（杭州）有限公司",
-      "count": 23
+      "count": 24
     },
     {
       "name": "蚂蚁集团",
@@ -33,19 +33,19 @@
       "count": 16
     },
     {
+      "name": "腾讯",
+      "count": 15
+    },
+    {
+      "name": "网易云音乐",
+      "count": 14
+    },
+    {
       "name": "深圳保诚科技有限公司",
       "count": 14
     },
     {
-      "name": "腾讯",
-      "count": 13
-    },
-    {
       "name": "慧算账（北京公瑾科技有限公司）",
-      "count": 13
-    },
-    {
-      "name": "网易云音乐",
       "count": 13
     },
     {
@@ -69,6 +69,14 @@
       "count": 11
     },
     {
+      "name": "MiniMax",
+      "count": 11
+    },
+    {
+      "name": "思杰",
+      "count": 11
+    },
+    {
       "name": "翼辉信息",
       "count": 10
     },
@@ -77,7 +85,7 @@
       "count": 10
     },
     {
-      "name": "思杰",
+      "name": "泽鹿视界",
       "count": 10
     },
     {
@@ -101,12 +109,12 @@
       "count": 9
     },
     {
-      "name": "MiniMax",
+      "name": "Cloud Software Group - CITRIX（思杰）",
       "count": 9
     },
     {
-      "name": "泽鹿视界",
-      "count": 9
+      "name": "京东",
+      "count": 8
     },
     {
       "name": "趋势科技",
@@ -137,10 +145,6 @@
       "count": 6
     },
     {
-      "name": "京东",
-      "count": 6
-    },
-    {
       "name": "京东物流",
       "count": 6
     },
@@ -157,6 +161,10 @@
       "count": 6
     },
     {
+      "name": "Cryptape",
+      "count": 6
+    },
+    {
       "name": "固胜智能",
       "count": 6
     },
@@ -166,6 +174,10 @@
     },
     {
       "name": "猿辅导",
+      "count": 5
+    },
+    {
+      "name": "滴滴",
       "count": 5
     },
     {
@@ -181,11 +193,11 @@
       "count": 5
     },
     {
-      "name": "Cloud Software Group - CITRIX（思杰）",
+      "name": "WiseTech Global",
       "count": 5
     },
     {
-      "name": "WiseTech Global",
+      "name": "小波微粒",
       "count": 5
     },
     {
@@ -197,7 +209,19 @@
       "count": 5
     },
     {
-      "name": "Cryptape",
+      "name": "天演资本",
+      "count": 5
+    },
+    {
+      "name": "拼多多集团",
+      "count": 5
+    },
+    {
+      "name": "集换社",
+      "count": 5
+    },
+    {
+      "name": "鹰角网络",
       "count": 5
     },
     {
@@ -205,7 +229,7 @@
       "count": 4
     },
     {
-      "name": "滴滴",
+      "name": "众安保险",
       "count": 4
     },
     {
@@ -214,6 +238,10 @@
     },
     {
       "name": "抖音电商（字节跳动）",
+      "count": 4
+    },
+    {
+      "name": "网易",
       "count": 4
     },
     {
@@ -253,10 +281,6 @@
       "count": 4
     },
     {
-      "name": "小波微粒",
-      "count": 4
-    },
-    {
       "name": "iMile",
       "count": 4
     },
@@ -277,7 +301,11 @@
       "count": 4
     },
     {
-      "name": "天演资本",
+      "name": "聚水潭",
+      "count": 4
+    },
+    {
+      "name": "ecad",
       "count": 4
     },
     {
@@ -306,10 +334,6 @@
     },
     {
       "name": "安恒信息",
-      "count": 3
-    },
-    {
-      "name": "网易",
       "count": 3
     },
     {
@@ -429,19 +453,19 @@
       "count": 3
     },
     {
+      "name": "南京宝马诚迈",
+      "count": 3
+    },
+    {
+      "name": "上海人工智能实验室",
+      "count": 3
+    },
+    {
       "name": "未知公司",
       "count": 3
     },
     {
       "name": "乐天创研（Rakuten）",
-      "count": 3
-    },
-    {
-      "name": "聚水潭",
-      "count": 3
-    },
-    {
-      "name": "ecad",
       "count": 3
     },
     {
@@ -453,7 +477,11 @@
       "count": 3
     },
     {
-      "name": "集换社",
+      "name": "杭州铭师堂",
+      "count": 3
+    },
+    {
+      "name": "淘天集团交易终端团队",
       "count": 3
     },
     {
@@ -474,10 +502,6 @@
     },
     {
       "name": "青云QingCloud",
-      "count": 2
-    },
-    {
-      "name": "众安保险",
       "count": 2
     },
     {
@@ -637,6 +661,10 @@
       "count": 2
     },
     {
+      "name": "奇安信",
+      "count": 2
+    },
+    {
       "name": "太初(无锡)电子科技公司",
       "count": 2
     },
@@ -681,6 +709,14 @@
       "count": 2
     },
     {
+      "name": "三六零",
+      "count": 2
+    },
+    {
+      "name": "大疆创新",
+      "count": 2
+    },
+    {
       "name": "哈啰出行",
       "count": 2
     },
@@ -705,11 +741,7 @@
       "count": 2
     },
     {
-      "name": "南京宝马诚迈",
-      "count": 2
-    },
-    {
-      "name": "上海人工智能实验室",
+      "name": "一起练琴",
       "count": 2
     },
     {
@@ -757,19 +789,23 @@
       "count": 2
     },
     {
-      "name": "杭州铭师堂",
+      "name": "南方仕通",
       "count": 2
     },
     {
-      "name": "拼多多集团",
+      "name": "Rakuten",
       "count": 2
     },
     {
-      "name": "淘天集团交易终端团队",
+      "name": "深圳氛悦科技有限公司",
       "count": 2
     },
     {
       "name": "淘天集团",
+      "count": 2
+    },
+    {
+      "name": "Solara云数科技",
       "count": 2
     },
     {
@@ -785,7 +821,15 @@
       "count": 2
     },
     {
-      "name": "鹰角网络",
+      "name": "瓴岳科技",
+      "count": 2
+    },
+    {
+      "name": "Saas5.0技术服务中心",
+      "count": 2
+    },
+    {
+      "name": "九州文化",
       "count": 2
     },
     {
@@ -2009,10 +2053,6 @@
       "count": 1
     },
     {
-      "name": "奇安信",
-      "count": 1
-    },
-    {
       "name": "火线安全",
       "count": 1
     },
@@ -2197,10 +2237,6 @@
       "count": 1
     },
     {
-      "name": "三六零",
-      "count": 1
-    },
-    {
       "name": "猫眼娱乐",
       "count": 1
     },
@@ -2226,6 +2262,14 @@
     },
     {
       "name": "北京领雁科技股份有限公司",
+      "count": 1
+    },
+    {
+      "name": "杭州阿信网络科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "邦辰信息",
       "count": 1
     },
     {
@@ -2353,7 +2397,15 @@
       "count": 1
     },
     {
-      "name": "一起练琴",
+      "name": "Rakuten 乐天创研",
+      "count": 1
+    },
+    {
+      "name": "字节跳动-系统部",
+      "count": 1
+    },
+    {
+      "name": "拼多多-TEMU-跨境搜索推荐组",
       "count": 1
     },
     {
@@ -2382,6 +2434,14 @@
     },
     {
       "name": "ATLASV",
+      "count": 1
+    },
+    {
+      "name": "NVIDIA",
+      "count": 1
+    },
+    {
+      "name": "HIX.AI",
       "count": 1
     },
     {
@@ -2653,6 +2713,22 @@
       "count": 1
     },
     {
+      "name": "Autowise.ai",
+      "count": 1
+    },
+    {
+      "name": "WLB外企",
+      "count": 1
+    },
+    {
+      "name": "百度网盘",
+      "count": 1
+    },
+    {
+      "name": "宇树科技（Unitree）",
+      "count": 1
+    },
+    {
       "name": "SoulApp",
       "count": 1
     },
@@ -2685,10 +2761,6 @@
       "count": 1
     },
     {
-      "name": "南方仕通",
-      "count": 1
-    },
-    {
       "name": "WorkMagic",
       "count": 1
     },
@@ -2697,11 +2769,11 @@
       "count": 1
     },
     {
-      "name": "Rakuten",
+      "name": "Plaud AI",
       "count": 1
     },
     {
-      "name": "深圳氛悦科技有限公司",
+      "name": "瓴岳科技集团（洋钱罐）",
       "count": 1
     },
     {
@@ -2721,6 +2793,18 @@
       "count": 1
     },
     {
+      "name": "高德",
+      "count": 1
+    },
+    {
+      "name": "北京卓诚博源",
+      "count": 1
+    },
+    {
+      "name": "UPay technology.,LTD",
+      "count": 1
+    },
+    {
       "name": "阿联酋迪拜Saas5.0技术服务中心",
       "count": 1
     },
@@ -2730,6 +2814,10 @@
     },
     {
       "name": "Pallas AI",
+      "count": 1
+    },
+    {
+      "name": "ALMA",
       "count": 1
     },
     {
@@ -2805,23 +2893,11 @@
       "count": 1
     },
     {
-      "name": "大疆创新",
-      "count": 1
-    },
-    {
       "name": "银联",
       "count": 1
     },
     {
       "name": "天闻数媒",
-      "count": 1
-    },
-    {
-      "name": "瓴岳科技",
-      "count": 1
-    },
-    {
-      "name": "Saas5.0技术服务中心",
       "count": 1
     },
     {
@@ -2837,6 +2913,22 @@
       "count": 1
     },
     {
+      "name": "数字马力",
+      "count": 1
+    },
+    {
+      "name": "嘉立创",
+      "count": 1
+    },
+    {
+      "name": "瀚海擎天科技",
+      "count": 1
+    },
+    {
+      "name": "UPay Technology Co., Ltd.",
+      "count": 1
+    },
+    {
       "name": "浙江精准学科技有限公司",
       "count": 1
     },
@@ -2846,10 +2938,6 @@
     },
     {
       "name": "CTMC",
-      "count": 1
-    },
-    {
-      "name": "九州文化",
       "count": 1
     },
     {
@@ -2866,6 +2954,14 @@
     },
     {
       "name": "小米武汉生态链（音箱团队）",
+      "count": 1
+    },
+    {
+      "name": "南京宝马诚迈科技有限公司",
+      "count": 1
+    },
+    {
+      "name": "小红书社交 & LabSociAI",
       "count": 1
     },
     {
@@ -2902,14 +2998,14 @@
     }
   ],
   "byType": {
-    "创业": 658,
-    "大厂": 571,
+    "创业": 699,
+    "大厂": 598,
     "国企": 53,
     "大厚": 1,
-    "外企": 215,
+    "外企": 228,
     "远程": 3,
-    "其他": 3,
-    "合资": 2,
+    "其他": 4,
+    "合资": 3,
     "合资企业": 1
   },
   "salaryDistribution": [
@@ -2927,24 +3023,24 @@
     },
     {
       "range": "20k-25k",
-      "count": 63
+      "count": 66
     },
     {
       "range": "25k-30k",
-      "count": 25
+      "count": 30
     },
     {
       "range": "30k-40k",
-      "count": 60
+      "count": 64
     },
     {
       "range": "40k-50k",
-      "count": 18
+      "count": 20
     },
     {
       "range": "50k+",
-      "count": 23
+      "count": 25
     }
   ],
-  "salaryValidSamples": 262
+  "salaryValidSamples": 278
 }

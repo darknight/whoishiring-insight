@@ -350,6 +350,686 @@
       "experienceReq": "3年以上工作经验",
       "educationReq": "本科及以上",
       "contact": "648588267@qq.com"
+    },
+    {
+      "id": "7832-3375753755",
+      "issueNumber": 7832,
+      "commentId": 3375753755,
+      "yearMonth": "2025-10",
+      "author": "orangelunatics",
+      "rawContent": "## 【校招&社招】拼多多 C 端前端招人（海外业务，地点上海，长期有效 | 也负责招其他岗位）\n\n### 2026 届校招\n\n【拼多多集团-PDD 校园招聘】内推链接：https://careers.pddglobalhr.com/campus/grad?t=S8VIhyzJi2\n内推码：S8VIhyzJi2。期待你的加入！我们一起，无拼不青春！（通过此链接投递计入内推，内推简历优先筛选~）\n\n### 社招： C 端前端开发工程师/专家-跨境业务基础电商\n\n- 岗位职责\n\n1. 支撑拼多多海外电商平台 C 端客户端内 H5/端外 H5/PC Web 日常需求分析和功能开发，优化用户体验；\n2. 与上下游团队密切配合，分析并给出最优的前端结构解决方案和效果实现；\n3. 参与 Web 端整体的架构设计、性能优化，提升整体研发质量和效率\n\n- 任职要求\n\n1. 计算机基础扎实\n2. 至少掌握 react/vue/angular 主流框架中一种，理解框架背后的思想；\n\n- 加分项\n\n1. 具有国际化项目开发经验\n2. 具有 SEO 经验\n3. 具有 PWA 经验\n\n### 社招：C 端前端动效平台研发工程师（跨境业务）\n\n- 岗位职责\n  负责跨境业务的前端动效研发工作，包括不限于：\n\n1. 参与内部自研动效平台动效/渲染模块架构设计/功能开发/性能优化及相关技术研究\n2. 参与各类营销活动的前端开发工作，深入优化前端动效体验；\n\n- 任职要求\n\n1. 熟悉 AE 软件的基本使用及相关插件原理（如 Lottie ）\n2. 熟悉 css/canvas/svg 动画，精通 H5 业务动画开发；\n3. 熟悉 OpenGL/WebGL/WebGPU ，有 shader 开发和优化经验\n4. 掌握至少一种主流前端框架（ react 、vue 等），有大型项目研发经验；\n5. 对前端技术有持续热情，具备良好的团队协作精神，个性乐观开朗，善于与人沟通合作。\n\n- 加分项\n\n1. 熟悉 threejs/babylonjs 等 3d 项目开发\n2. 熟悉 cocos2d/unity/pixi/phaser 等游戏项目开发\n3. 数学计算能力较好\n\n### 社招其他职位\n\n1. Java 后端\n2. 客户端（安卓/iOS/鸿蒙/Windows/Mac）\n3. 算法/数据\n4. 安全\n5. 产品经理/运营\n6. 设计\n7. 法务\n8. ...\n\n### 联系方式\n\n社招简历发送至邮件 suedesneaker@gmail.com，校招用内推链接自行投递即可\n看见之后就会推 效率极高 有其他问题可以邮件里备注~",
+      "company": "拼多多",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "C端前端开发工程师/专家-跨境业务基础电商",
+          "category": "前端"
+        },
+        {
+          "title": "C端前端动效平台研发工程师（跨境业务）",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": true,
+      "techStack": [
+        "react",
+        "vue",
+        "angular",
+        "H5",
+        "PC Web",
+        "SEO",
+        "PWA",
+        "AE",
+        "Lottie",
+        "css",
+        "canvas",
+        "svg",
+        "OpenGL",
+        "WebGL",
+        "WebGPU",
+        "shader",
+        "threejs",
+        "babylonjs",
+        "cocos2d",
+        "unity",
+        "pixi",
+        "phaser",
+        "math",
+        "3d",
+        "redis",
+        "C++",
+        "Kafka",
+        "RMQ",
+        "RocketMQ",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "Kubernetes"
+      ],
+      "contact": "suedesneaker@gmail.com"
+    },
+    {
+      "id": "7832-3383880284",
+      "issueNumber": 7832,
+      "commentId": 3383880284,
+      "yearMonth": "2025-10",
+      "author": "ChassWind",
+      "rawContent": "# 拼多多跨境（temu） 基础架构 招聘: (工作地点: 上海, 长期有效)\n## 部门简介\n我们是一个充满活力、讲究务实、鼓励每位成员提出新想法，共同成长的团队，在这里你可以接触到微服务的前沿技术，挑战大规模高并发的技术难题，积累到最扎实的技术功底。\n\n## 我们团队的主要方向:\n🌟新一代微服务架构 Serverless 平台的研发和建设，重塑传统的开发方式，让业务告别繁琐、专注创新。\n🌟微服务控制面-注册中心研发 (NameServer), 完成超大规模场景下的服务治理，为微服务保驾护航。\n🌟基础中间件能力研发 (RPC/Mesh/Tracer…), 构建微服务分布式世界的基石, 旨在为业务提供舒畅的微服务生\n\n## 校园招聘\n26 年校园招聘进行中\n主要招聘以下岗位 可以通过链接点击投递 内推链接：https://careers.pddglobalhr.com/campus/grad?t=6U8PSGz529\n\n客户端研发工程师\n服务端研发工程师\n算法工程师\nWeb前端研发工程师\n数据分析师\n安全工程师\n\n## 社会招聘\n社招需要单独内推 麻烦发送邮件到 [zephyrcong@gmail.com](mailto:zephyrcong@gmail.com) 附带具体职位\n\n跨境-DTS数据传输服务\n跨境-数据库中间件\n跨境-分布式数据库\n跨境-数据库内核\n跨境-Serverless平台研发工程师/专家 (Golang/Java/Node.js)\n跨境-基础架构微服务研发工程师/专家（Golang/Java）\n跨境-基础架构研发工程师/专家(中台/配置中心/国际化/i18n)\n跨境-基础架构研发工程师/专家（可观测性）\n跨境-基础架构研发工程师/专家（服务托管/弹性伸缩）\n跨境-基础架构开发工程师/专家（TSDB/时序数据库）\n跨境-基础架构研发工程师/专家（日志/log/OLAP)\n跨境-Golang研发工程师/专家（DevOps/云原生/CICD）\n跨境-Java研发工程师/专家（DevOps/微服务\n跨境-全栈工程师/专家（DevOps）\n跨境-OLAP分析型数据库内核及平台研发工程师/专家\n跨境-存储统一查询服务研发工程师/专家（SQLEngine/SQL）\n跨境-HBase内核及平台化研发工程师/专家(HBase/HDFS)\n跨境-大数据应用开发平台研发工程师/专家(ETL/Spark/Flink)\n跨境-ElasticSearch搜索引擎内核及平台工程师/专家(ES/Solr/Lucene)\n跨境-分布式通用KV/缓存系统研发工程师/专家（redis/C++）\n跨境-消息队列研发工程师/专家 (Kafka/RMQ/RocketMQ/Java)\n跨境-DTS数据传输服务研发工程师/专家（MySQL/binlog/Canal）\n跨境-数据库中间件研发工程师/专家(DAL/MySQL)\n跨境-分布式数据库研发工程师/专家(MySQL/PostgreSQL)\n跨境-数据库内核研发工程师/专家(MySQL/PostgreSQL)\n跨境-存储PaaS平台Java研发工程师/专家(DevOps/管控）\n跨境-深度学习推理引擎研发工程师/专家（LLM/GPU/CUDA/模型编译优化）\n跨境-图数据库研发工程师/专家(neo4j/图算法/向量检索)\n跨境-云网络平台开发工程师/专家(LB/网关/WAF/防护)\n跨境-接入网关开发工程师/专家(网络/HTTP/QUIC)\n跨境-API网关开发工程师/专家(Nginx/HTTP)\n跨境-基础网络开发工程师/专家(eBPF/SDN)\n跨境-音视频实时传输网开发工程师/专家(WebRTC/直播)\n跨境-容器平台研发工程师/专家（K8s/云原生/Golang）\n跨境-容器平台架构师（K8s/云原生/Golang）\n跨境音频算法工程师\n跨境-图数据库研发工程师/专家(neo4j/图算法/向量检索)\n跨境基础架构开发工程师（Monitor方向）\n跨境-对象存储研发工程师/专家（图片处理/CDN/P2P/Golang）\n跨境-云平台资深研发工程师（CMDB/Go/Java/云原生）\n跨境-资深内核开发工程师（Linux/Kernel）",
+      "company": "拼多多",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "客户端研发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "服务端研发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "算法工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "Web前端研发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "数据分析师",
+          "category": "数据"
+        },
+        {
+          "title": "安全工程师",
+          "category": "安全"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": true,
+      "techStack": [
+        "微服务",
+        "Serverless",
+        "NameServer",
+        "RPC",
+        "Mesh",
+        "Tracer",
+        "SQL",
+        "NoSQL",
+        "Kafka",
+        "RabbitMQ",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "Kubernetes",
+        "Golang",
+        "Java",
+        "Node.js",
+        "TSDB",
+        "时序数据库",
+        "日志",
+        "OLAP",
+        "SQL",
+        "ES",
+        "Solr",
+        "Lucene",
+        "redis",
+        "C++",
+        "Kafka",
+        "RMQ",
+        "RocketMQ",
+        "Java",
+        "DevOps",
+        "微服务",
+        "全栈",
+        "OLAP",
+        "SQL",
+        "SQLEngine",
+        "HBase",
+        "HDFS",
+        "ETL",
+        "Spark",
+        "Flink",
+        "ElasticSearch",
+        "TSDB",
+        "时序数据库",
+        "日志",
+        "OLAP",
+        "LLM",
+        "GPU",
+        "CUDA",
+        "模型编译优化",
+        "neo4j",
+        "图算法",
+        "向量检索",
+        "LB",
+        "网关",
+        "WAF",
+        "防护",
+        "网络",
+        "HTTP",
+        "QUIC",
+        "Nginx",
+        "eBPF",
+        "SDN",
+        "WebRTC",
+        "直播",
+        "K8s",
+        "云原生",
+        "Golang",
+        "Java",
+        "云原生",
+        "CMDB",
+        "Go",
+        "云原生",
+        "Linux",
+        "Kernel"
+      ],
+      "contact": "zephyrcong@gmail.com"
+    },
+    {
+      "id": "7832-3383920869",
+      "issueNumber": 7832,
+      "commentId": 3383920869,
+      "yearMonth": "2025-10",
+      "author": "qiurongren",
+      "rawContent": "# [集换社] TCG 技术团队扩编 | 用代码重塑卡牌交易生态\n\n**集换社是什么？**\n\n- 此时此刻，是中国 TCG （集换式卡牌）行业的 Top1 平台。\n\n- 在未来 2 年，应该会成为日本 TCG （集换式卡牌）行业的 Top1 平台。\n\n- 在未来 5 年，应该会成为 TCG （集换式卡牌）行业的 Top1 平台。\n\n**我们能为你提供什么？**\n\n- 朝 12 晚 6 ，6 小时工作制，简单直接，平衡生活与工作。\n\n- 14 薪，公司没有 C/D 绩效，没有 2/7/1 强制分配，保底绩效 2 薪。\n\n- 一年 12 个加薪窗口，每个月都有加薪机会，一年 12 次，每个月都有证明自己的机会。\n\n- 1000 元 TCG 启动基金，入职即享，还有顶级 KOL 、大赛冠军手把手教学，带你零门槛体验 TCG 的乐趣。\n\n- 员工股份激励，2025 年有员工股份激励计划，分享公司快速成长的红利。\n\n**急招岗位：**\n\n1.**Golang 工程师**（广州/上海）\n\n- 3 年以上 Golang 开发经验，熟悉 Golang 语言特性和标准库；\n- 有大规模分布式系统开发经验者优先；\n- 熟悉常用的数据结构和算法，具备良好的编程习惯和代码风格；\n- 熟悉微服务架构，了解 RPC 、RESTful API 设计和开发；\n- 熟悉 SQL/NoSQL 数据库，如 MySQL 、PostgreSQL 、MongoDB 等；\n- 熟悉消息队列系统，如 Kafka 、RabbitMQ 等；\n- 熟悉容器化技术（如 Docker ）和编排工具（如 Kubernetes ）\n\n2.**Golang/PHP 工程师**（广州）\n- 熟悉 Golang，熟知 Golang 语言特性和标准库，有 2 年以上的 Go 项目实际开发经验；\n- 熟悉 PHP ，掌握 MVC 和面向对象的设计方法。熟悉Laravel，有 2 年以上的 PHP 项目实际开发经验；\n- 掌握 LNMP 开发技能，熟悉 MySQL 数据库优化。有电商或 C2C 平台开发经验优先；\n- 了解 Docker/k8s 容器相关的开发和部署，有微服务框架使用经验、对微服务设计理念熟悉者优先考虑；\n- 具有良好的代码习惯，要求结构清晰、命名规范、逻辑性强，代码冗余率低；\n- 工作态度严谨，有良好的团队合作精神和责任感，较强的沟通能力。工作主动，有较强的学习创新能力，在对新技术的掌握方面保持与时俱进和足够的热情。\n\n3.**Web 前端工程师**（广州/上海）\n\n-  3 年以上前端开发经验，精通 HTML5/CSS3/JavaScript （ ES6+），对 Web 标准和工程化有深刻理解;\n- 深入理解 React 核心机制（如 Fiber 架构、Hooks 原理、虚拟 DOM Diff 算法）;\n- 有复杂 React 项目开发经验，能高效使用 Context API/Redux Toolkit 进行状态管理;\n- 熟悉 SSR/SSG/ISR 等渲染模式及优化策略（如流式渲染、增量静态再生）;\n- 有中大型 Next.js 项目架构设计经验，熟悉服务端组件（ RSC ）等新特性\n\n4.**Flutter 工程师**（广州）\n\n- 使用 Flutter 技术栈进行 iOS/Android 应用开发；\n- 负责高质量的程序设计和编码，承担重难点的技术攻坚；\n- 对客户端质量和体验负责，不断提升工程质量。\n\n5.**iOS工程师**（广州）\n\n - 5年以上 iOS 开发经验，能够独立开发中大型 App；\n - 熟悉 Swift、Objective-C 语言，具有扎实的编程功底；\n - 深入理解网络通信、操作系统原理及多线程机制，有性能优化落地经验者优先；\n - 良好的沟通能力和合作精神，执行力好，积极乐观，认真负责，乐于协作；\n - 具有一定的产品思维能力，完成从需求评审到版本上线的全流程推进；\n - 具有一定的代码审美与架构设计审美能力，有较强的学习能力，针对新技术有良好的适应性；\n - 具有 Android、Flutter 经验者优先\n \n6.**Android工程师**（广州）\n\n - 5 年以上 Android 开发经验，具备扎实的 Kotlin/Java 基础，能够独立开发中大型 App；\n - 熟练掌握协程、Compose、Jetpack 组件体系；\n - 深入理解网络通信、操作系统原理及多线程机制，有性能优化落地经验者优先；\n - 良好的沟通能力和合作精神，执行力好，积极乐观，认真负责，乐于协作；\n - 具有一定的产品思维能力，完成从需求评审到版本上线的全流程推进；\n - 有海外产品研发经历的加分；\n \n7.**测试工程师**（广州）\n\n - 参与产品测试工作的全流程，通过设计测试方案、识别质量风险、执行测试用例来达成质量保障目标\n - 负责App客户端、服务端等方向的功能、接口、兼容性等测试工作\n - 熟悉软件测试流程，有较强的风险管控意识和流程规范意识，可以产出高质量的测试用例和报告\n - 熟悉移动端专项测试（兼容性、性能、弱网、异常恢复等）\n - 熟悉测试用例设计方法（等价类、边界值、场景法等），能独立完成复杂模块的测试方案。\n - 熟练使用ADB、Monkey、Xcode/Android Studio调试工具。\n - 良好的沟通能力和合作精神，执行力好，积极乐观，认真负责，乐于协作。\n\n\n\n此外还有许多岗位热招中，AI解决方案经理、SEO、产品、运营、品牌营销、财务、客服都有岗位，有兴趣可留言\n\n**投递方式 & 更多岗位**\n\n简历/作品集也可发送至：qiurongren@jihuanshe.com （标题注明：岗位-姓名）\n\n欢迎下载集换社 app 或微信搜索集换社小程序了解我们的产品技术理念！",
+      "company": "集换社",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Golang 工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Golang/PHP 工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Web 前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "Flutter 工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "iOS工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "Android工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        }
+      ],
+      "location": [
+        "广州",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "朝 12 晚 6 ，6 小时工作制，14 薪，公司没有 C/D 绩效，没有 2/7/1 强制分配，保底绩效 2 薪。",
+      "techStack": [
+        "Golang",
+        "PHP",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Flutter",
+        "iOS",
+        "Swift",
+        "Objective-C",
+        "Android",
+        "Kotlin",
+        "Java",
+        "微服务",
+        "RPC",
+        "RESTful API",
+        "SQL",
+        "NoSQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Kafka",
+        "RabbitMQ",
+        "Docker",
+        "Kubernetes",
+        "消息队列",
+        "容器化技术",
+        "LNMP",
+        "电商",
+        "C2C",
+        "软件测试",
+        "兼容性",
+        "性能",
+        "弱网",
+        "异常恢复",
+        "测试用例设计",
+        "ADB",
+        "Monkey",
+        "Xcode",
+        "Android Studio"
+      ],
+      "experienceReq": "3 年以上",
+      "contact": "qiurongren@jihuanshe.com"
+    },
+    {
+      "id": "7832-3388084355",
+      "issueNumber": 7832,
+      "commentId": 3388084355,
+      "yearMonth": "2025-10",
+      "author": "jalr4ever",
+      "rawContent": "### 字节跳动-后端研发工程师-大模型应用\n\n工作地点\n北上广深杭，一切好商量。最好是在深圳。\n\n职责\n1、负责各个行业大模型智能体应用的开发与探索；\n2、推动产品架构和核心技术改进和优化，解决工程技术难题；\n3、关注大模型前沿技术，跟进业内最新研究进展和应用趋势，提出创新思路和方向，并落地。\n\n职位要求\n1、具备熟练的Python/Go语言编程能力和良好的编程习惯和代码管理能力；\n2、对语言大模型、多模态大模型、智能代理Agent技术以及大模型的部署流程有基本的了解和认识；\n3、能够独立负责模块级别的服务开发，完成复杂组件的技术设计和实现；\n4、熟练掌握常用的数据库，缓存，消息队列等，了解具体使用场景和性能区别、优缺点；\n5、热爱技术，主动负责，乐于直面挑战；能够保持开放、持续学习，善于发现问题，具备良好的团队合作精神。\n\n加分项：\n1、熟悉大模型应用算法能力优先，包括并不限于SFT、RAG、Agent、PE等；\n2、有大模型相关项目或使用经验者优先，熟悉Langchain、Dify等框架；\n3、熟悉云原生相关开发使用经验者优先。\n\n------\n\n我们团队是做 ToB 领域的大模型应用。有做 Agent，也有做后端。\n\n我们组主要做 Agent 相关工程。但是团队同时也有其他的项目，例如任务调度引擎之类的。项目技术栈都是 Py / Go。\n\nJD 的要求，也是好商量。我之前是 Java + Python 两开花，但 Python 也不是特别熟悉。进来也是写 Python / Go。做的事情有些纯后端，有些是 Agent 后端。\n\n此外，团队招了很久也没有招到一个精通后端工程 + 熟悉 LLM/AI 技术工程（非算法模型层）相关的资深架构师。如果有实力，也可以看看。不用看 JD。做事情就是 Hold 住整个团队的技术架构，把握团队整体的方案评审等等。感觉像高阶 IC，做技术的，不是带人的岗位。\n\n最近 Q4 没那么忙了，节奏 1095，周五一般可以早点下班\n\n团队处于快速发展中，机会（事情）非常多。现在部门规划大方向都是全力扑向 Agent。\n\n我们今年的收益也不错。也是这个原因在不断招人把。可以考虑过体验体验。\n\n有兴趣请联系：`routerhex@qq.com`\n\n",
+      "company": "字节跳动",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "后端研发工程师-大模型应用",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "北上广深杭"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Python",
+        "Go",
+        "语言大模型",
+        "多模态大模型",
+        "智能代理Agent",
+        "大模型部署流程",
+        "数据库",
+        "缓存",
+        "消息队列",
+        "云原生"
+      ],
+      "contact": "routerhex@qq.com"
+    },
+    {
+      "id": "7832-3350178379",
+      "issueNumber": 7832,
+      "commentId": 3350178379,
+      "yearMonth": "2025-10",
+      "author": "aphelios95",
+      "rawContent": "# 鹰角网络（上海） 多个社招岗位开放中\n\n**鹰角网络是中国知名游戏开发商，代表作二次元塔防手游《明日方舟》全球爆火，以高质量美术、深度剧情及独特世界观著称；坚持技术驱动，自建技术中台支持跨平台开发，持续投入引擎优化与云游戏等前沿领域。**\n\n多个社招岗位开放中（前端开发，SRE，golang后端，QA测试，数据分析，客户端，，还有游戏和职能等等相关的岗位，可以通过链接里的列表查看），福利非常好，公司整体氛围也非常不错。\n\n可以通过内推链接或者内推码进行投递，可以跟进进度 （如果最近投递过的话，可能就不能继续推了）\n\n内推链接：https://app.mokahr.com/recommendation-apply/hypergryph/28713?recommendCode=NTAfjXE&hash=%23%2Fjobs%3Fkeyword%3D\n\n内推码：NTAfjXE\n\n## SRE工程师（网络基础设施方向）\n\n### 岗位职责：\n- 负责鹰角基础云网络、全球网络、加速网络及CDN的规划、建设和运维；\n- 负责网络性能评估、容量规划、安全评估等，从网络架构侧提升业务稳定性和可用性；\n- 参与基础设施自动化体系建设，实现配置标准化、自动化、可视化；\n\n### 岗位要求：\n- 计算机相关专业，本科学历，3年以上基础设施相关经验；\n- 熟悉一种或多种编程语言，例如Python/Go/Java等；\n- 熟悉业界主流网络架构，具备丰富的网络架构设计能力；\n- 有良好的计算、网络、存储、安全等计算机体系结构的知识；\n- 熟悉国内外常见云服务商（如阿里云、腾讯云、AWS、GCP等）的网络产品体系，有实践经验；\n- 有优秀的逻辑分析能力，有很好的沟通技巧，有很强的责任心，具备优秀的推动力，做事追求极致；\n\n\n## 前端开发工程师（信息化）\n\n### 岗位职责：\n- 按信息化规划，跟进或参与信息化基建项目，跟进需求分析、技术评审、前端选型。负责搭建、交付、上线以及后期迭代开发工作；\n- 与项目组成员（产品、UI、后端、测试）紧密合作，提出用户体验优化建议，把控项目风险，保证项目稳健推进和按期交付；\n- 持续参与前端团队的基建/工程化建设，提高开发效率；\n- 持续持续关注前端技术发展趋势，了解更好的用户交互形式。\n\n### 岗位要求：\n- 计算机相关专业，统招本科以上学历，3年以上前端开发经验；\n- 熟练掌握前端领域相关技术，包括但不限于 HTML5、CSS3、JS、TS、SASS/LESS；\n- 熟练掌握 React 前端框架及衍生技术，熟悉相关通用工具库的使用；\n- 了解 WebPack 等常见打包工具的原理和使用方式，了解编译流程，对前端工程化有一定理解；\n- 良好的理解、沟通和表达能力，能和设计、产品经理、后端开发、测试共同协作推进和完成项目；\n- 有责任心、务实，具备良好的学习能力和解决问题的能力；；\n\n## Go服务器开发工程师（明日方舟：终末地）\n\n### 岗位职责：\n- 负责游戏服务端关卡逻辑功能的开发和维护；\n- 负责游戏服务端系统功能、工具项开发等工作；\n- 负责游戏服务端系统性能优化，线上维护等工作。\n\n### 职位要求：\n- 本科及以上学历，计算机相关专业优先；\n- 熟悉常用数据结构、算法，熟悉nosql数据库，网络编程，具有较好的计算机基础知识；\n- 3年及以上的游戏服务端开发经验，有大型rpg游戏内容项开发经验者优先，有游戏上线经验者优先；\n- 熟悉C/C++或golang开发，熟悉linux系统下的开发；\n- 具有高度的责任心，良好的沟通能力以及优秀的团队合作能力。\n\n## QA工程师（海外支付/云游戏/包体管理平台）\n\n### 岗位职责：\n- 参与海外支付/管理后台相关业务的需求评审，制定测试计划，并分析测试需求、设计测试流程及编写测试case；\n- 执行具体测试任务并确认测试结果、缺陷跟踪，完成测试报告以及测试结果分析；\n- 跟进需求、开发、测试、发布及线上各阶段的质量情况；\n- 部署自动化脚本，保证已上线产品出现问题时能及时预警；\n\n### 任职要求：\n- 本科及以上学历，3年以上工作经验，能够独立负责SDK产品的测试工作；\n- 熟练掌握charles、adb等工具的使用；\n- 熟练掌握mysql、redis等主流数据库的增删改查；\n- 熟练掌握linux的基本命令；\n- 有海外支付、管理系统相关业务测试经验者优先；\n- 有客户端专项，包括但不限于弱网、性能、兼容性相关经验优先；\n- 具有较好的人际沟通协调能力，有较强的责任感、进取精神和团队精神。\n\n\n其他游戏开发或者产品运营，市场职能等的岗位也非常多，可以通过内推链接查看。\n\n# 公司福利清单\n\n## 💰 薪酬与奖金\n- **保底年薪：** 保底16薪，其余年终看绩效和公司整体情况\n- **五险一金：** 按最高标准缴纳（12%）\n- **商业保险：** MSH 商业医疗保险\n\n## 🏠 住房与交通\n- **租房补贴：** 1500元/月（不限工龄，要求公司公共交通通勤30min内），**校招入职翻倍**\n- **交通补贴：** 30元/工作日\n- **异地入职：** 交通费及酒店住宿费报销\n\n## 🍽️ 餐饮与日常\n- **工作餐：** 免费提供 **午餐 & 晚餐**；**早餐** 以 **20元/天** 餐补形式发放\n- **日常福利：** 零食、饮料、咖啡免费无限量供应\n- **节日福利：** 下午茶、节日礼包等不定期发放\n\n## 🏥 健康与关怀\n- **年度体检：** 员工本人免费年度体检\n- **家属体检：** 父母/岳父母每人每年 1000元 体检报销额度\n- **医疗报销：** 每年 6000元 额度，可用于健身、培训课程、购买 3C 数码产品等报销\n- **全薪病假：** 8天/年\n- **女性生理假：** 5天/年 (女员工专享，60%薪资)\n- **免费理疗服务**\n\n## ⏰ 工作与休假\n- **工作时间：** 早10点 - 晚7点，**双休**（我一般是早上10点半之前到，7点半到8点左右走）\n- **弹性打卡：** 支持弹性工作制\n\n## 🏢 办公环境\n- **舒适环境：** 标配电动升降桌、人体工学椅\n- **休息设施：** 配备睡眠舱\n- **特色空间：** 健身房、猫房\n\n## 🎉 团队活动\n- **部门团建：** 定期举行\n- **年会：** 丰厚奖品\n\n投递链接：https://app.mokahr.com/recommendation-apply/hypergryph/28713?recommendCode=NTAfjXE&hash=%23%2Fjobs%3Fkeyword%3D\n\n<img width=\"986\" height=\"2707\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7beb2457-0f29-4279-99f4-f6b0ca1bc004\" />",
+      "company": "鹰角网络",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "SRE工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "Go服务器开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "QA工程师",
+          "category": "测试"
+        },
+        {
+          "title": "数据分析",
+          "category": "数据"
+        },
+        {
+          "title": "客户端",
+          "category": "前端"
+        },
+        {
+          "title": "游戏",
+          "category": "其他"
+        },
+        {
+          "title": "职能",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "保底16薪，其余年终看绩效和公司整体情况",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "JS",
+        "TS",
+        "SASS/LESS",
+        "React",
+        "Python",
+        "Go",
+        "Java",
+        "C/C++",
+        "Linux",
+        "数据库",
+        "云服务",
+        "自动化",
+        "Kubernetes",
+        "Docker",
+        "C++",
+        "nosql",
+        "网络编程",
+        "C/C++",
+        "Golang",
+        "Java",
+        "MySQL",
+        "Redis",
+        "Linux",
+        "WebPack",
+        "SASS/LESS",
+        "Canvas",
+        "ECharts",
+        "VTable",
+        "SpreadJS",
+        "AI",
+        "BI",
+        "管报",
+        "数据引擎"
+      ],
+      "experienceReq": "3年以上",
+      "educationReq": "本科",
+      "contact": "内推链接：https://app.mokahr.com/recommendation-apply/hypergryph/28713?recommendCode=NTAfjXE&hash=%23%2Fjobs%3Fkeyword%3D\n内推码：NTAfjXE"
+    },
+    {
+      "id": "7832-3350418657",
+      "issueNumber": 7832,
+      "commentId": 3350418657,
+      "yearMonth": "2025-10",
+      "author": "thesunnysky",
+      "rawContent": "🔥拼多多集团-PDD｜2026届校招正式批启动啦|\n\n💌7大职类，3000+OFFER，岗位招满即止\n📣网申时间：9月1日-次年1月31日\n📮点击查看在招岗位，简历一键投递～\n\n﻿\n【拼多多集团-PDD校园招聘】内推链接：https://careers.pddglobalhr.com/campus/grad?t=d4m8kLDYqq ，内推码：d4m8kLDYqq。期待你的加入！我们一起，无拼不青春！（通过此链接投递计入内推，内推简历优先筛选~）\n\n相关QA（常见问题都能解决）：https://mp.weixin.qq.com/s/oHViBZNElwtXIF0mYSebVg",
+      "company": "拼多多集团",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "校招",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "不限"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "contact": "内推链接：https://careers.pddglobalhr.com/campus/grad?t=d4m8kLDYqq\n内推码：d4m8kLDYqq"
+    },
+    {
+      "id": "7832-3350423121",
+      "issueNumber": 7832,
+      "commentId": 3350423121,
+      "yearMonth": "2025-10",
+      "author": "thesunnysky",
+      "rawContent": "### 拼多多容器平台招聘: (工作地点: 上海, 长期有效)\n岗位职责:\n\n* 负责拼多多容器平台的工程和产品化建设，构建业内一流的超大规模资源管理和调度系统，解决业务和集群规模增长带来的可用性、稳定性以及性能问题；\n* 服务于公司内部多种业务，提供针对不同计算场景的通用框架和解决方案；\n* 以数据驱动的方式，通过技术手段提升资源调度效率、提高集群和节点的资源利用率；\n* 负责容器平台相关新技术的架构演进，包括但不限于在离线混布、容量托管、安全容器、Serverless基础设施、边缘计算、新硬件等；\n### 任职要求:\n* 计算机、数学、电子工程、通信、自动化等相关专业，基础知识扎实；\n* 自我驱动，对技术充满热情，有云计算、虚拟化、Kubernetes、Docker 等相关研发经验者优先；\n* 优秀的表达能力、沟通能力和团队协作能力，良好的服务意识；对技术和业务有前瞻性的思考，能够参与容器平台领域方向性的决策并推进落地\n* 熟练掌握C/C++/Golang/Java中的至少一种语言；\n内部可细分为: 各种workload控制器的开发维护, 调度, 网络,存储, 内核, 资源运营等各个不同的方向;\n我们有规模庞大的k8s集群, 有多种多样的业务场景, 同时能提供行业内领先的薪酬待遇, 欢迎有意向的大佬垂询, 谢谢\n\n### 其他方向\n- 分布式图数据库[研发工程师/技术专家]\n- 分布式通用KV/缓存系统[研发工程师/技术专家]\n- 表格存储(HBase)平台[研发工程师/技术专家]\n- ElasticSearch服务平台[研发工程师/技术专家]\n- 存储管控平台[研发工程师/技术专家]\n- 大数据应用开发平台[研发工程师/技术专家]\n- 分布式文件系统[[研发工程师/技术专家]\n- 分析型数据库[研发工程师/技术专家]\n- 数据服务查询引擎[研发工程师/专家]\n- 消息队列（Kafka） [研发工程师/技术专家]\n- 数据传输平台(DRC/DTS/CDC) [研发工程师/技术专家]\n- DAL数据库访问中间件 [研发工程师/技术专家]\n- 图机器学习算法平台[研发工程师/技术专家]\n- 接入网关开发工程师 [研发工程师/技术专家]\n- API网关开发工程师\n[研发工程师/技术专家]\n- 基础网络开发工程师 [研发工程师/技术专家]\n- 网络产品管控开发工程师 [研发工程师/技术专家]\n- 音视频实时传输网开发工程师 [研发工程师/技术专家]\n- 对象存储研发工程师/专家（图片处理/CDN/P2P/Golang）[研发工程师/技术专家]\n- Serverless平台研发工程师/专家（Golang）[研发工程师/技术专家]\n- Serverless任务编排调度工程师/专家（Java）[研发工程师/技术专家]\n- 基础架构开发（配置中心方向）[研发工程师/技术专家]\n- 资深开发工程师（基础架构RPC方向）[研发工程师/技术专家]\n- 高级开发工程师-基础架构微服务方向 [研发工程师/技术专家]\n- 架构师-基础架构微服务方向 [研发工程师/技术专家]\n- 基础架构开发（Monitor方向）[研发工程师/技术专家]\n- 监控告警研发工程师/技术专家 [研发工程师/技术专家]\n- 高级/资深后端开发工程师（日志方向) [研发工程师/技术专家]\n- 分布式数据库开发工程师/技术专家 [研发工程师/技术专家]\n- 高级/资深后端开发工程师（Golang，弹性方向） [研发工程师/技术专家]\n- 移动平台开发工程师 [研发工程师/技术专家]\n- 研发效能工程师/专家 [研发工程师/技术专家]\n- Golang工程师/专家（Devops、云原生方向）[研发工程师/技术专家]\n- Java工程师/专家（Devops、微服务方向）[研发工程师/技术专家]\n\nEmail: [jianyungsun@gmail.com](mailto:jianyungsun@gmail.com)(如需添加微信可发送邮件后添加)",
+      "company": "拼多多",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "容器平台招聘",
+          "category": "DevOps"
+        },
+        {
+          "title": "分布式图数据库[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "分布式通用KV/缓存系统[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "表格存储(HBase)平台[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "ElasticSearch服务平台[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "存储管控平台[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "大数据应用开发平台[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "分布式文件系统[[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "分析型数据库[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "数据服务查询引擎[研发工程师/专家]",
+          "category": "后端"
+        },
+        {
+          "title": "消息队列（Kafka） [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "数据传输平台(DRC/DTS/CDC) [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "DAL数据库访问中间件 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "图机器学习算法平台[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "接入网关开发工程师 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "API网关开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "基础网络开发工程师 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "网络产品管控开发工程师 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "音视频实时传输网开发工程师 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "对象存储研发工程师/专家（图片处理/CDN/P2P/Golang）[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "Serverless平台研发工程师/专家（Golang）[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "Serverless任务编排调度工程师/专家（Java）[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "基础架构开发（配置中心方向）[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "资深开发工程师（基础架构RPC方向）[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "高级开发工程师-基础架构微服务方向 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "架构师-基础架构微服务方向 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "基础架构开发（Monitor方向）[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "监控告警研发工程师/技术专家 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "高级/资深后端开发工程师（日志方向) [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "分布式数据库开发工程师/技术专家 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "高级/资深后端开发工程师（Golang，弹性方向） [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "移动平台开发工程师 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "研发效能工程师/专家 [研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "Golang工程师/专家（Devops、云原生方向）[研发工程师/技术专家]",
+          "category": "后端"
+        },
+        {
+          "title": "Java工程师/专家（Devops、微服务方向）[研发工程师/技术专家]",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C/C++",
+        "Golang",
+        "Java",
+        "Kubernetes",
+        "Docker",
+        "云服务",
+        "容器",
+        "分布式系统",
+        "数据库",
+        "存储",
+        "网络",
+        "大数据",
+        "机器学习",
+        "AI",
+        "数据仓库",
+        "数据湖",
+        "消息队列",
+        "中间件",
+        "微服务",
+        "DevOps"
+      ],
+      "contact": "Email: [jianyungsun@gmail.com](mailto:jianyungsun@gmail.com)"
+    },
+    {
+      "id": "7832-3358350939",
+      "issueNumber": 7832,
+      "commentId": 3358350939,
+      "yearMonth": "2025-10",
+      "author": "shuo-alma",
+      "rawContent": "# 后端工程师（硅谷初创公司）\n\n我们正在寻找一位出色且富有雄心的后端工程师，能够在充满未解难题的高强度环境中茁壮成长，并致力于打造革命性的产品。\n\n我们的团队行动迅速，工作努力，解决重大问题。我们专注于快速执行并在法律领域创造巨大影响。\n\n这是一个远程办公的职位，现有研发团队在硅谷，我们需要您跟硅谷时间有相当多的重合，到达美西时间下午一点钟。\n\n**👋🏼 您好！我们是 ALMA**\n\n在 Bling Capital、Forerunner、Village Global、NFX、Conviction、MVP Ventures、NEA 和 Silkroad Innovation Hub 等领先风投机构的支持下，Alma 致力于永久改变移民行业！\n\n我们专注于为企业和个人简化复杂的移民流程，颠覆这个从未见过优秀产品的百亿美元市场！\n\n**🧠 创始团队**\n\n创始团队在法律行业、咨询以及构建机器学习平台方面拥有丰富的背景：\n\n* **Shuo - 首席技术官兼联合创始人**：Shuo 在 Uber 构建机器学习平台（Michelangelo）超过 5 年，之后担任 SupportLogic（一家 B 轮创业公司，使用预测和生成式人工智能进行客户支持）的人工智能与机器学习团队负责人。在Uber之前，Shuo是初创公司Jelli的创始团队，公司在2018年被收购。Jelli之前，Shuo在ebay工作过一年。Shuo是清华本科，UCLA硕士。\n\n* **Aizada - 首席执行官兼联合创始人**：Aizada 毕业于哈佛法学院，是一名拥有 7 年以上经验的律师，曾在 Cooley 等顶级律师事务所工作，也是前麦肯锡顾问。\n\n* **Assel - 首席产品官兼联合创始人**：Assel 毕业于哈佛商学院，在 SoFi 和 Step 等金融科技公司以及在安永工作期间的大型金融机构拥有 7 年的产品构建经验。\n\n**🔍 我们在寻找什么**\n\n我们正在寻找一位技术精湛且富有雄心的后端工程师，拥有 5 年以上开发可扩展平台解决方案的经验。您需要对构建人工智能原生产品以简化移民流程充满热情。您将端到端地负责平台，与前端工程师合作交付产品功能，并将我们的平台扩展 100 倍。\n\n**✅ 职责**\n\n* 与创始团队和早期客户密切合作，构建世界级的人工智能驱动产品。\n* 架构、开发和维护服务器端逻辑、数据库、API 和其他后端流程，以满足应用程序需求。\n* 与前端开发人员协作，确保面向用户的元素无缝集成。\n* 参与整个应用程序生命周期，并在编码、调试和部署方面保持高标准，重点关注高质量、可扩展的代码。\n\n**🛠 职位要求**\n\n* 享受在快节奏环境中工作并担任多重角色。\n* 5 年以上后端开发经验。\n* 具有基于大型语言模型（LLM）/ 机器学习构建产品的经验。\n* 精通 Python、FastAPI、PostgreSQL、容器化和扩展微服务。\n* 具有从零到一构建产品的经验。\n* 能够寻找并找到解决开放性问题的正确资源。\n* 位于旧金山湾区或愿意搬迁。\n* 计算机科学、工程或相关技术领域的学士/硕士学位\n* 顺畅的英语交流\n\n**⭐️ 加分项**\n\n* 在小型创业公司环境（种子轮或 A 轮）工作的经验。\n* 全栈工作经验。\n* 了解数据湖/数据仓库。\n* 了解 Transformer / Attention / GPU 推理。\n* 具有 AWS、Supabase、LaunchDarkly 和 Betterstack 的使用经验。\n\n你可以把简历发给shuo@tryalma.ai",
+      "company": "ALMA",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "后端工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "远程"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "容器化",
+        "微服务",
+        "机器学习",
+        "LLM",
+        "AI",
+        "数据湖",
+        "数据仓库",
+        "Transformer",
+        "Attention",
+        "GPU",
+        "AWS",
+        "Supabase",
+        "LaunchDarkly",
+        "Betterstack"
+      ],
+      "experienceReq": "5年以上",
+      "educationReq": "本科",
+      "contact": "shuo@tryalma.ai"
+    },
+    {
+      "id": "7832-3375433601",
+      "issueNumber": 7832,
+      "commentId": 3375433601,
+      "yearMonth": "2025-10",
+      "author": "kitee0325",
+      "rawContent": "## 前端开发工程师【网易】\n### 职位描述\n1. 负责数据产品中心可视化图表、BI、管报、数据引擎等业务系统和平台的前端技术设计和开发工作；\n2. 关注系统质量、性能和体验，解决系统开发中的技术难点，并参与架构的持续升级；\n3. 能够高效的借助各类技术工具，排查系统问题，给出初步方案并跟进解决；\n4. 参与各系统需求分析和评审，并给出技术可行性方案，并确保后续交付过程的准确性和还原度；\n5. 参与团队内前端基础设施建设，如数据可视化组件库封装；\n6. 和团队内外做好协同，主动沟通工作，及时上报风险，按期保质保量交付需求；\n\n### 职位要求\n1、本科及以上学历，计算机相关专业，3年以上前端经验，具备较好的沟通和表达能力，责任心强，工作务实并坚持长期主义，对业务有 Owner 意识；\n2、扎实的前端技术基础，深入理解 React 底层机制，具备较强的源码分析能力，有大型平台系统开发、项目性能优化和系统重构的经验；\n3、熟悉 Canvas、ECharts、VTable、SpreadJS 两种或以上技术，具备较好的前端数据可视化平台、工具开发能力，具备低码数据搭建平台、数据图表的定制化开发经验；\n4、学习能力和主动性强，能积极发现并解决工作中各类问题，能够通过技术方式减少或替代重复性工作，提升业务交付效率和质量；\n5、有AI辅助研发、AI辅助数据分析等相关实践可加分；\n\n有意愿请发送简历到[此邮箱](lishaojie@corp.netease.com)",
+      "company": "网易",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "不限"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React",
+        "Canvas",
+        "ECharts",
+        "VTable",
+        "SpreadJS",
+        "AI",
+        "BI",
+        "管报",
+        "数据引擎"
+      ],
+      "experienceReq": "3年以上",
+      "educationReq": "本科",
+      "contact": "lishaojie@corp.netease.com"
     }
   ],
   "skipped": [
@@ -357,168 +1037,12 @@
       "commentId": 3465876120,
       "author": "ruanyf",
       "reason": "[other] Issue 作者汇总帖，跳过"
+    },
+    {
+      "commentId": 3392732690,
+      "author": "Nil-1",
+      "reason": "[other] 评论内容为图片和联系方式，不包含招聘信息"
     }
   ],
-  "errors": [
-    {
-      "commentId": 3358350939,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca1usD7TRBLFHhHRTR\"}"
-    },
-    {
-      "commentId": 3350423121,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca1uNLLzekWPbJixS2\"}"
-    },
-    {
-      "commentId": 3375433601,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca1wbuLfyEWRjZrMLS\"}"
-    },
-    {
-      "commentId": 3350178379,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca1w79EWpYLjXp4RmR\"}"
-    },
-    {
-      "commentId": 3350418657,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca215RnD8NNepkSyoL\"}"
-    },
-    {
-      "commentId": 3383920869,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca3AGzTbE4FzE4TKCh\"}"
-    },
-    {
-      "commentId": 3375753755,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca3B29PcLg2XUqWwrH\"}"
-    },
-    {
-      "commentId": 3388084355,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca3BX3vfmy4VVgcaHm\"}"
-    },
-    {
-      "commentId": 3392732690,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca3MBxhyqUtVyvmTCw\"}"
-    },
-    {
-      "commentId": 3383880284,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Ca3D1J6meNCrDhvYyo\"}"
-    },
-    {
-      "commentId": 3350178379,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3350418657,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3350423121,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3358350939,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3375433601,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3375753755,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3383880284,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3383920869,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3388084355,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3392732690,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3375753755,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3383880284,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3383920869,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3388084355,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3392732690,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3350178379,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3350418657,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3350423121,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3358350939,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3375433601,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3350178379,
-      "error": "Unexpected end of JSON input"
-    },
-    {
-      "commentId": 3350418657,
-      "error": "Unexpected end of JSON input"
-    },
-    {
-      "commentId": 3350423121,
-      "error": "Unexpected end of JSON input"
-    },
-    {
-      "commentId": 3358350939,
-      "error": "Unexpected end of JSON input"
-    },
-    {
-      "commentId": 3375433601,
-      "error": "Unexpected end of JSON input"
-    },
-    {
-      "commentId": 3375753755,
-      "error": "Unexpected end of JSON input"
-    },
-    {
-      "commentId": 3383880284,
-      "error": "Unexpected end of JSON input"
-    },
-    {
-      "commentId": 3383920869,
-      "error": "Unexpected end of JSON input"
-    },
-    {
-      "commentId": 3388084355,
-      "error": "Unexpected end of JSON input"
-    },
-    {
-      "commentId": 3392732690,
-      "error": "Unexpected end of JSON input"
-    }
-  ]
+  "errors": []
 }

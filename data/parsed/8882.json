@@ -1,152 +1,419 @@
 {
   "issueNumber": 8882,
   "yearMonth": "2026-02",
-  "postings": [],
-  "skipped": [],
-  "errors": [
+  "postings": [
     {
-      "commentId": 3834031633,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZa7udofm6aaMkB6V\"}"
-    },
-    {
-      "commentId": 3830534127,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZbMkKeYTbYMkieC9\"}"
-    },
-    {
-      "commentId": 3838165719,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZb7kKaexmYm9H6Xh\"}"
-    },
-    {
-      "commentId": 3833055618,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZbrv4qnQmJVN9q3M\"}"
-    },
-    {
-      "commentId": 3830130799,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CaZbN4iMub7EX4K9ds\"}"
-    },
-    {
-      "commentId": 3867177476,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Cab7tbLK8L2CRHaixa\"}"
-    },
-    {
-      "commentId": 3857631892,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Cab7eC97UqovHHUfr9\"}"
-    },
-    {
+      "id": "8882-3845606783",
+      "issueNumber": 8882,
       "commentId": 3845606783,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Cab9d6AtVde8F532pK\"}"
+      "yearMonth": "2026-02",
+      "author": "wanghanzhen",
+      "rawContent": "## 腾讯 PCG 社交线 QQ 前端团队实习生招聘\n### 工作地点\n深圳\n\n### 岗位要求\n热爱计算机编程，丰富的编码实战经验；\n熟悉JS/TS/HTML/CSS等前端开发语言；\n了解一门后台技术，如JSP/python/php/Node.js；\n了解常见前端开发框架以及devops工具；\n了解常见的web/app/小程序前后端系统架构；\n掌握常见的算法能力；掌握常见网络协议和相关的其他底层网络协议的全面知识；\n有过项目或实习经验者优先，能够长期实习优；\n必须具备的： 计算机相关专业本科及以上学历；\n\n加分项：希望你能够有 Vibe Coding 的经验，能利用 AI 提高自己的效率，同时能有自己对 AI 的独特见解与想法。\n\n### 联系方式\n发送简历到 [867484528@qq.com](mailto:867484528@qq.com)，注明来处。",
+      "company": "腾讯",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "前端团队实习生",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "JS",
+        "TS",
+        "HTML",
+        "CSS",
+        "JSP",
+        "python",
+        "php",
+        "Node.js"
+      ],
+      "experienceReq": "丰富的编码实战经验",
+      "educationReq": "计算机相关专业本科及以上学历",
+      "contact": "867484528@qq.com"
     },
     {
-      "commentId": 3882245393,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6Cab9sgMHGWrMG2hnnG\"}"
-    },
-    {
-      "commentId": 3845606783,
-      "error": "Not Found"
-    },
-    {
+      "id": "8882-3857631892",
+      "issueNumber": 8882,
       "commentId": 3857631892,
-      "error": "Not Found"
+      "yearMonth": "2026-02",
+      "author": "yexia553",
+      "rawContent": "# Generative AI Developer\n\n## 公司\n\n南京宝马诚迈科技有限公司是宝马和诚迈合资成立的，主要为宝马做软件开发。 **12%公积金，965，不加班**。\n\n\n## Job Description\n\nAs a Generative AI Developer at BATW, you will play a pivotal role in enhancing and developing our AI-driven products and platform. Your key responsibilities will include:\n\n- Leading the design and development of software in close collaboration with the Product Owner.\n- Working closely with BATW and BMW teams in an international, interdisciplinary environment to deliver innovative solutions.\n- Contributing to the development and optimization of our products/platform by leveraging your expertise and collaborating with cross-functional teams.\n- Working effectively according to an agile development methodology like SCRUM.\n\n## Key Competences\n\n### MUST-have Skills\n\n**Domain-specific know-how in the field of AI:**\n- Proven hands-on project experience (including personal projects) in Generative AI/LLMs.\n- Familiarity with one or more relevant frameworks/tools (e.g., LangChain, Claude Agent SDK, Vercel AI SDK).\n- Experience in implementing or applying Retrieval-Augmented Generation (RAG) solutions.\n\n**Domain-specific know-how in the field of AWS Services.**\n\n**Domain-specific know-how in the field of Security** (e.g., Cloud Security, Application Security, DevSecOps).\n\n**Domain-specific know-how in the field of OpenSource** (as a Contributor or Compliance Officer).\n\n**Domain-specific know-how in the field of CI/CD** (e.g., GitHub Actions).\n\n**Domain-specific know-how in running one of the following services:**\n- GitHub\n- Artifactory or JFrog Platform\n- Atlassian Products\n- ELK/Loki\n- Prometheus/Grafana\n\n**Solid programming language skills in Python; experience with Django, Flask, or FastAPI is a plus.**\n\n**Fluent in English.**\n\n**Multiple years of developing and testing software in a professional environment under Windows and Linux** – experience (e.g., macOS, Ubuntu) in the automotive industry would be beneficial.\n\n### Beneficial Skills\n\n- A strategic mindset, good communication skills, and a strong technical background.\n- Experience with leading smaller teams or steering external suppliers.\n\n\n简历发邮件：p_zhixiang@163.com 【备注来自软大，否则会忽略】\n",
+      "company": "南京宝马诚迈科技有限公司",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "Generative AI Developer",
+          "category": "AI/ML"
+        }
+      ],
+      "location": [
+        "远程"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "salaryRange": "12%公积金，965，不加班",
+      "techStack": [
+        "LangChain",
+        "Claude Agent SDK",
+        "Vercel AI SDK",
+        "AWS Services",
+        "Security",
+        "OpenSource",
+        "CI/CD",
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI"
+      ],
+      "experienceReq": "Generative AI/LLMs 项目经验",
+      "contact": "p_zhixiang@163.com"
     },
     {
+      "id": "8882-3867177476",
+      "issueNumber": 8882,
       "commentId": 3867177476,
-      "error": "Not Found"
+      "yearMonth": "2026-02",
+      "author": "zengxiaoluan",
+      "rawContent": "## 【深圳】国产电气工业软件 ecad 招聘前端工程师 20-30k\n简历发送：zenghaixia#sz-jlc.com\n\n## 产品体验：https://jlc-ecad.com/editor\n技术栈：React、canvas 2d、webgl、自建 UI 组件库\n\n一、岗位职责：\n\n负责 ecad 绘图软件的 UI 交互、基础组件搭建、核心 api 的设计；\n负责绘图功能的完善、性能调优、内存泄漏排查；\n设计开发者工具，优化团队的开发者体验，提升项目的稳定性、健壮性。\n\n二、任职要求：\n\n本科及以上学历，有 React 项目开发经验；\n熟练掌握 React 及其相关生态，如 jotai、zustand、ant design 等；\n精通 HTML5、CSS3，熟悉 ES6 + 语法，能够手写高性能的前端代码；\n了解 Vite 等前端构建工具，能够进行基本的配置与优化；\n具备良好的问题解决能力，能够独立分析和解决前端技术难题；\n具有较强的学习能力和创新精神，能够快速掌握新技术并应用到项目中；\n良好的团队协作精神，能够与不同部门的人员有效沟通与合作；\n有大型前端项目架构设计经验者优先，维护过开源 UI 组件者优先。",
+      "company": "ecad",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "前端工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "深圳"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "20-30k",
+      "techStack": [
+        "React",
+        "canvas 2d",
+        "webgl"
+      ],
+      "experienceReq": "React 项目开发经验",
+      "educationReq": "本科及以上学历",
+      "contact": "zenghaixia#sz-jlc.com"
     },
     {
+      "id": "8882-3882245393",
+      "issueNumber": 8882,
       "commentId": 3882245393,
-      "error": "Not Found"
+      "yearMonth": "2026-02",
+      "author": "aphelios95",
+      "rawContent": "# 【鹰角网络】【上海】 多个社招岗位开放中\n\n鹰角网络是中国知名游戏开发商，代表作《明日方舟》《明日方舟：终末地》全球爆火，以高质量美术、深度剧情及独特世界观著称；坚持技术驱动，自建技术中台支持跨平台开发，持续投入引擎优化与云游戏等前沿领域；\n\n多个社招岗位开放中（目前游戏发行岗位热招中，前端，客户端，golang，产品还有游戏和职能等等相关的岗位，可以通过链接里的列表查看），福利非常好，公司整体氛围也非常不错。\n\n可以通过内推链接进行投递（如果最近投递过的话，可能就不能继续推了）\n薪资区间：和大厂差不多，具体可以参考boss直聘上面的薪资区间\n内推链接：https://app.mokahr.com/recommendation-apply/hypergryph/28713?recommendCode=NTAfjXE&hash=%23%2Fjobs%3Fkeyword%3D\n\n\n## Go服务器开发工程师（明日方舟：终末地）\n\n### 岗位职责：\n- 负责游戏服务端系统功能的开发和维护；\n- 负责游戏服务端工具项开发等工作；\n- 负责游戏服务端系统性能优化，线上维护等工作。\n\n### 岗位要求：\n- 本科及以上学历，计算机相关专业优先；\n- 熟悉常用数据结构、算法，熟悉nosql数据库，网络编程，具有较好的计算机基础知识；\n- 3年及以上的游戏服务端开发经验，有大型rpg游戏内容项开发经验者优先，有游戏上线经验者优先；\n- 熟悉C/C++或golang开发，熟悉linux系统下的开发；\n- 具有高度的责任心，良好的沟通能力以及优秀的团队合作能力。\n\n\n## SRE工程师（平台方向）\n\n### 岗位职责：\n- 负责平台、社区、信息化等业务的技术保障工作，包括但不限于日常变更、容量规划、故障处理、活动保障；\n- 推动提升业务的稳定性性、可扩展性以及性能优化，保障业务SLA；\n- 积累SRE最佳实践，为业务架构设计与组件选型提供指导，输出标准技术文档；\n\n### 职位要求：\n- 计算机相关专业，本科学历，3年以上SRE相关经验；\n- 熟悉一种或多种编程语言，例如Python/Go/Java等；\n- 有良好的计算、网络、存储、安全等计算机体系结构的知识；\n- 熟悉游戏或互联网技术架构，对TCP/IP、服务化架构、中间件等技术有较深入的理解；\n- 熟悉国内外常见云服务商（如阿里云、腾讯云、AWS 等）的产品体系，有实践经验；\n- 熟悉K8s、Istio等云原生开源项目，有K8s集群生产运维经验优先；\n- 熟悉Grafana、Prometheus、OpenTelemetry等监控体系架构，有落地经验；\n- 熟悉Nginx、Mysql、Redis等常见软件的运作原理和配置方法，能排查故障；\n- 有优秀的逻辑分析能力，性格开朗外向，有很好的沟通技巧，有很强的责任心，具备优秀的推动力，做事追求极致；\n\n\n## 服务端研发工程师（海外支付）\n\n### 岗位职责：\n- 负责公司海外支付系统的设计、维护和迭代，解决支付相关的技术和业务问题；\n- 兼容现有支付流程下，参与设计并落地符合PCI-DSS标准的支付系统架构，保障持卡人数据安全；\n- 具备海外支付经验，熟悉海外卡组织规则及海外支付链路流程，有海外收单机构对接经验；\n- 与安全、风控、合规、QA、产品等团队协作，推动支付系统在海外的合规落地；\n- 主动发现系统问题，持续优化支付系统性能、成功率与稳定性，处理支付异常、通道故障及合规审计相关问题；\n- 与团队其他成员合作，共同完成海外支付项目的高质量交付。\n\n### 职位要求：\n- 本科及以上学历，计算机相关专业毕业，5年及以上相关工作经验，3年及以上支付系统相关开发经验；\n- 有良好的计算机基础知识，熟练掌握操作系统、数据结构、网络等知识；\n- 熟练使用Golang进行开发，有良好的代码书写规范和编程技巧，熟练使用Mysql、Redis、RabbitMQ、Kafka等常见数据库或中间件；\n- 具备PCI-DSS合规经验，对卡数据存储、传输、加密、Tokenization等安全机制有相关经验；\n- 了解常见的加密算法(AES/RSA/DES/HMAC等)，有相关密钥管理(KMS等)实践经验；\n- ⼯作独立自主有责任心，热爱技术，对自己有要求，能不断学习新知识，具备良好的问题定位和跨团队协作能力；\n- 熟悉云原生、容器化等技术，有一定的分布式、⾼并发、⾼可用、大流量等相关经验。\n\n\n## 大数据开发工程师（数据基建）\n\n### 岗位职责：\n- 负责数据管理平台核心模块（涵盖埋点管理、数据集成、数据地图等）的需求分析、技术方案设计、开发与持续迭代优化。\n- 参与数据管理平台成本治理项目\n- 参与数据管理平台实时+离线任务的性能深度优化。\n- 监控数据质量，完善告警体系，确保数据的准确性和完整性。\n\n### 职位要求：\n- 统招本科及以上，大数据、软件工程、计算机科学相关专业，5年以上大数据研发经验。\n- 熟练掌握Spark，Flink，Kafka等大数据组件的使用。\n- 对java，jvm有一定的了解，有过相关优化经验的优先\n- 具备良好的沟通和协作能力，能够与不同背景的团队成员有效合作。\n- 对技术和业务有强烈的好奇心，具备良好的自驱力和主人翁意识，能主动发现并解决问题。\n\n\n# 公司福利清单\n\n## 💰 薪酬与奖金\n- **保底年薪：** 保底16薪，其余年终看绩效和公司整体情况\n- **五险一金：** 按最高标准缴纳（12%）\n- **商业保险：** MSH 商业医疗保险\n\n## 🏠 住房与交通\n- **租房补贴：** 1500元/月（不限工龄，要求公司公共交通通勤30min内），**校招入职翻倍**\n- **交通补贴：** 30元/工作日\n- **异地入职：** 交通费及酒店住宿费报销\n\n## 🍽️ 餐饮与日常\n- **工作餐：** 免费提供 **午餐 & 晚餐**；**早餐** 以 **20元/天** 餐补形式发放\n- **日常福利：** 零食、饮料、咖啡免费无限量供应\n- **节日福利：** 下午茶、节日礼包等不定期发放\n\n## 🏥 健康与关怀\n- **年度体检：** 员工本人免费年度体检\n- **家属体检：** 父母/岳父母每人每年 1000元 体检报销额度\n- **医疗报销：** 每年 6000元 额度，可用于健身、培训课程、购买 3C 数码产品等报销\n- **全薪病假：** 8天/年\n- **女性生理假：** 5天/年 (女员工专享，60%薪资)\n- **免费理疗服务**\n\n## ⏰ 工作与休假\n- **工作时间：** 早10点 - 晚7点，**双休**（我一般是早上10点半之前到，7点半到8点半左右走）\n- **弹性打卡：** 支持弹性工作制\n\n## 🏢 办公环境\n- **舒适环境：** 标配电动升降桌、人体工学椅\n- **休息设施：** 配备睡眠舱\n- **特色空间：** 健身房、猫房\n\n## 🎉 团队活动\n- **部门团建：** 定期举行\n- **年会：** 丰厚奖品\n\n投递链接：https://app.mokahr.com/recommendation-apply/hypergryph/28713?recommendCode=NTAfjXE&hash=%23%2Fjobs%3Fkeyword%3D",
+      "company": "鹰角网络",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Go服务器开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "SRE工程师（平台方向）",
+          "category": "DevOps"
+        },
+        {
+          "title": "服务端研发工程师（海外支付）",
+          "category": "后端"
+        },
+        {
+          "title": "大数据开发工程师（数据基建）",
+          "category": "数据"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "和大厂差不多",
+      "techStack": [
+        "C/C++",
+        "golang",
+        "Python",
+        "Go",
+        "Java",
+        "Linux",
+        "nosql数据库",
+        "网络编程",
+        "Spark",
+        "Flink",
+        "Kafka",
+        "Mysql",
+        "Redis",
+        "RabbitMQ",
+        "Kafka",
+        "PCI-DSS",
+        "AES/RSA/DES/HMAC",
+        "KMS",
+        "云原生",
+        "容器化",
+        "分布式",
+        "高并发",
+        "高可用",
+        "大流量"
+      ],
+      "experienceReq": [
+        "3年及以上的游戏服务端开发经验",
+        "3年以上SRE相关经验",
+        "5年及以上相关工作经验",
+        "5年以上大数据研发经验"
+      ],
+      "educationReq": [
+        "本科及以上学历",
+        "计算机相关专业",
+        "统招本科及以上"
+      ],
+      "contact": "https://app.mokahr.com/recommendation-apply/hypergryph/28713?recommendCode=NTAfjXE&hash=%23%2Fjobs%3Fkeyword%3D"
     },
     {
+      "id": "8882-3830130799",
+      "issueNumber": 8882,
       "commentId": 3830130799,
-      "error": "Not Found"
+      "yearMonth": "2026-02",
+      "author": "thesunnysky",
+      "rawContent": "### 拼多多容器平台招聘: (工作地点: 上海, 长期有效)\n岗位职责:\n\n* 负责拼多多容器平台的工程和产品化建设，构建业内一流的超大规模资源管理和调度系统，解决业务和集群规模增长带来的可用性、稳定性以及性能问题；\n* 服务于公司内部多种业务，提供针对不同计算场景的通用框架和解决方案；\n* 以数据驱动的方式，通过技术手段提升资源调度效率、提高集群和节点的资源利用率；\n* 负责容器平台相关新技术的架构演进，包括但不限于在离线混布、容量托管、安全容器、Serverless基础设施、边缘计算、新硬件等；\n### 任职要求:\n* 计算机、数学、电子工程、通信、自动化等相关专业，基础知识扎实；\n* 自我驱动，对技术充满热情，有云计算、虚拟化、Kubernetes、Docker 等相关研发经验者优先；\n* 优秀的表达能力、沟通能力和团队协作能力，良好的服务意识；对技术和业务有前瞻性的思考，能够参与容器平台领域方向性的决策并推进落地\n* 熟练掌握C/C++/Golang/Java中的至少一种语言；\n内部可细分为: 各种workload控制器的开发维护, 调度, 网络,存储, 内核, 资源运营等各个不同的方向;\n我们有规模庞大的k8s集群, 有多种多样的业务场景, 同时能提供行业内领先的薪酬待遇, 欢迎有意向的大佬垂询, 谢谢\n\n### 其他方向\n- 分布式图数据库[研发工程师/技术专家]\n- 分布式通用KV/缓存系统[研发工程师/技术专家]\n- 表格存储(HBase)平台[研发工程师/技术专家]\n- ElasticSearch服务平台[研发工程师/技术专家]\n- 存储管控平台[研发工程师/技术专家]\n- 大数据应用开发平台[研发工程师/技术专家]\n- 分布式文件系统[[研发工程师/技术专家]\n- 分析型数据库[研发工程师/技术专家]\n- 数据服务查询引擎[研发工程师/专家]\n- 消息队列（Kafka） [研发工程师/技术专家]\n- 数据传输平台(DRC/DTS/CDC) [研发工程师/技术专家]\n- DAL数据库访问中间件 [研发工程师/技术专家]\n- 图机器学习算法平台[研发工程师/技术专家]\n- 接入网关开发工程师 [研发工程师/技术专家]\n- API网关开发工程师\n[研发工程师/技术专家]\n- 基础网络开发工程师 [研发工程师/技术专家]\n- 网络产品管控开发工程师 [研发工程师/技术专家]\n- 音视频实时传输网开发工程师 [研发工程师/技术专家]\n- 对象存储研发工程师/专家（图片处理/CDN/P2P/Golang）[研发工程师/技术专家]\n- Serverless平台研发工程师/专家（Golang）[研发工程师/技术专家]\n- Serverless任务编排调度工程师/专家（Java）[研发工程师/技术专家]\n- 基础架构开发（配置中心方向）[研发工程师/技术专家]\n- 资深开发工程师（基础架构RPC方向）[研发工程师/技术专家]\n- 高级开发工程师-基础架构微服务方向 [研发工程师/技术专家]\n- 架构师-基础架构微服务方向 [研发工程师/技术专家]\n- 基础架构开发（Monitor方向）[研发工程师/技术专家]\n- 监控告警研发工程师/技术专家 [研发工程师/技术专家]\n- 高级/资深后端开发工程师（日志方向) [研发工程师/技术专家]\n- 分布式数据库开发工程师/技术专家 [研发工程师/技术专家]\n- 高级/资深后端开发工程师（Golang，弹性方向） [研发工程师/技术专家]\n- 移动平台开发工程师 [研发工程师/技术专家]\n- 研发效能工程师/专家 [研发工程师/技术专家]\n- Golang工程师/专家（Devops、云原生方向）[研发工程师/技术专家]\n- Java工程师/专家（Devops、微服务方向）[研发工程师/技术专家]\n\nEmail: [jianyungsun@gmail.com](mailto:jianyungsun@gmail.com)(如需添加微信可发送邮件后添加)         ",
+      "company": "拼多多",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "容器平台工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "研发工程师/技术专家",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C/C++",
+        "Golang",
+        "Java",
+        "Kubernetes",
+        "Docker"
+      ],
+      "experienceReq": "相关研发经验",
+      "educationReq": "相关专业本科及以上学历",
+      "contact": "jianyungsun@gmail.com"
     },
     {
+      "id": "8882-3830534127",
+      "issueNumber": 8882,
       "commentId": 3830534127,
-      "error": "Not Found"
+      "yearMonth": "2026-02",
+      "author": "Marco-Osima",
+      "rawContent": "### **阿联酋迪拜Saas5.0技术服务中心**\n\n工作地点：阿联酋迪拜国际金融中心\n工作方式：需全职坐班\n\n🏠 住房与餐食\n提供美味中餐（三餐）\n提供酒店式公寓（公司附近）\n\n🎁日常福利\n零食、饮料、咖啡免费无限量供应\n\n🧧节日福利\n下午茶、节日礼包等不定期发放\n\n💰 其他福利\n提供当地工作签证\n提供当地医疗健康保险\n报销入职机票\n每满半年15天带薪年假，并报销往返机票\n保底13——18薪\n\n### **C端产品经理 （2位）**\n\n薪资待遇：5000 — 8000美元\n\n📌岗位要求：\n1、3年以上C端产品经验，主导过电商/社区/游戏类产品功能从0到1上线以及1-2迭代优化；\n2、精通用户增长方法论，熟练使用SQL/Excel分析数据，有A/B测试实战经验；\n3、掌握Axure/Figma（基础原型）、SQL（基础数据查询）、Excel/Tableau（数据分析）。\n\n📌岗位职责：\n1、通过用户调研、数据分析（如用户行为埋点、NPS反馈）、竞品分析等手段，挖掘C端用户痛点与需求；\n2、整理用户路径规划,从而减少操作步骤，提高任务完成率；\n3、跟踪行业趋势（如新兴技术、用户习惯变化），预判市场机会并提出产品方向建议。\n\n### **B端产品经理 （1位）**\n\n薪资待遇： 5000 — 8000美元\n\n📌岗位要求：\n1、3年以上B端产品经验，主导过电商/社区/游戏类产品功能从0到1上线以及1-2迭代优化；\n2、精通B端产品设计方法论（如RBAC权限模型、审计追踪），出色的逻辑思维与文档撰写能力，能清晰表达复杂业务逻辑；\n3、掌握Axure/Figma（业务流程原型）、Visio（流程图）、SQL（基础数据查询）。\n\n📌岗位职责：\n1、分析市场需求和竞争情况，理解业内各解决方案的异同，制定符合业务策略的产品策略；\n2、跟踪行业趋势, 制定用户裂变模式以及用户留存模式 ,对传统系统模式进行改造升级/创新策略(代理系统,活动系统,风控系统,VIP系统等)；\n3、制定产品功能流程,标准化设计,简化操作流程，提升操作效率，降低人工错误。\n\n### **高级JAVA后端开发工程师 （2位）**\n\n薪资待遇： 6000 — 8500美元\n\n📌岗位要求：\n工作年限：5-8年及以上\n优先条件：有大型 SaaS 架构经验、海量数据处理实战经验\n\n基本要求：\n· 计算机科学或相关专业本科及以上学历，5-8年以上后端开发经验。\n· 精通 Java 编程语言，具备扎实的编程功底和工程实践经验。\n· 熟悉常用的数据结构和算法，具备扎实的计算机基础知识。\n\nSaaS架构经验：\n· 有大型SaaS平台的设计和开发经验，熟悉多租户架构、权限管理和计费系统。\n· 熟悉微服务架构，了解服务治理、服务发现、负载均衡等技术。\n· 有分布式系统设计经验，熟悉CAP理论、一致性哈希、分布式锁等概念。\n\n海量数据处理经验：\n· 有海量数据处理实战经验，熟悉分布式数据库（如MySQL分库分表、TiDB、Clickhouse）。\n· 熟悉消息队列（如Kafka、RabbitMQ）和缓存技术（如Redis、Memcached）。\n· 有大数据处理经验者优先（如Hadoop、Spark、Flink）。\n\n性能优化经验：\n· 有丰富的性能优化经验，能够定位和解决系统瓶颈。\n· 熟悉数据库优化（如索引优化、查询优化）和服务器调优（如Linux内核参数优化）。\n\n工具和框架：\n· 熟悉 Java 生态常用开发框架（如 Spring Boot、Spring Cloud、Mybatis）。\n· 熟悉容器化技术（如Docker、Kubernetes）和CI/CD工具（如Jenkins、GitLab CI）。\n\n软技能：\n· 具备良好的沟通能力和团队协作精神。\n· 有较强的学习能力和解决问题的能力。\n· 热爱技术，乐于分享，持续关注技术前沿，推动团队技术进步。\n\n📌 岗位职责：\n\n系统架构设计：\n· 负责大型SaaS平台的后端架构设计，确保系统的高可用性、可扩展性和安全性。\n· 设计和实现微服务架构，优化服务间的通信和数据流转。\n· 制定技术方案，解决高并发、高负载场景下的性能瓶颈。\n\n海量数据处理：\n· 设计和优化海量数据的存储、查询和分析方案。\n· 使用分布式数据库、消息队列、缓存等技术处理大规模数据。\n· 实现数据分片、分区、压缩等优化策略。\n\n性能优化：\n· 分析和优化系统性能，解决慢查询、高延迟等问题。\n· 进行代码优化、数据库优化和服务器参数调优。\n· 设计和实施缓存策略，提升系统响应速度。\n\n技术攻关：\n· 解决复杂技术问题，提供高性能、高可靠的技术解决方案。\n· 研究和引入新技术，推动团队技术能力的提升。\n\n代码质量 & 技术规范：\n· 参与代码Review，确保代码质量，提升团队开发效率。\n· 参与编写技术文档，形成最佳实践，优化开发流程。\n\n团队协作：\n· 与产品经理、前端工程师、测试工程师等紧密合作，确保项目按时高质量交付。\n· 分享技术经验，提升团队整体技术水平。\n\n### **测试工程师 （1位）**\n\n薪资待遇： 4500 —— 6000美元\n\n📌岗位要求：\n1、计算机、软件工程、信息技术或相关专业大专及以上学历，有中大型项目测试经验者优先；\n2、熟悉功能测试、接口测试、性能测试、用户体验测试等；\n3、精通至少一种编程语言，并能熟练编写测试脚本，熟悉测试框架（如 Pytest、Robot Framework）及持续集成工具（如 Jenkins）；\n4、熟悉常用的测试工具（如 Postman、JMeter、Selenium、LoadRunner 等）；\n5、具备数据库操作能力（熟练使用 SQL），能够验证数据正确性；\n6、逻辑思维清晰，能快速定位问题并提出解决方案，有较强的学习能力和自驱力，能快速掌握新技术；具备良好的沟通与团队协作能力，能够在紧张的工作环境中保持细致和耐心；\n7、有测试管理经验，能组织和管理测试团队，持有 ISTQB 或 CSTE 等软件测试认证；有大数据、微服务、区块链等领域测试经验。\n\n📌岗位职责：\n1、根据产品需求文档与设计方案，编写测试计划、测试策略和测试用例；\n2、执行产品的功能测试、接口测试和系统测试，发现缺陷并及时记录，协助开发定位问题原因，并验证缺陷修复的有效性，直到问题解决关闭；\n3、负责测试脚本的开发、维护及优化，提升测试执行效率，设计并实现自动化测试方案，构建测试框架；\n4、设计并实施性能测试方案（如负载测试、压力测试），定位性能瓶颈，提交性能报告并协助开发团队优化系统性能；\n5、探索和引入新的测试工具和方法，持续改进测试流程；开发和维护测试工具，提升团队效率；\n6、参与产品生命周期的质量保障工作，从测试角度评估风险，提出质量改进方案，并协助推动质量改进计划的实施，与开发、产品、运维等团队紧密合作，确保项目的顺利推进，并符合产品质量要求。\n\n### **测试管理 （测试专家）**\n\n薪资待遇：6000 — 8000美元\n\n📌岗位要求：\n1、五年以上软件测试或测试平台开发经验，其中至少两年担任自动化测试框架／平台搭建负责人，具备风险识别和测试闭环能力\n2、精通 Java、Python 或 Groovy 中至少一种语言，具备扎实的编码和脚本开发能力；\n3、熟悉主流自动化测试框架（如 Selenium、Appium、Playwright）及性能测试工具（如 JMeter、Locust、Gatling），能设计性能测试场景，分析 TPS、响应时间、瓶颈定位等。\n4、掌握分布式任务调度与执行技术（如 Kubernetes、Docker、消息队列）；\n5、熟练运用 Prometheus、Grafana、ELK 等监控与日志中台，具备性能数据可视化经验，具备一定的代码调试能力或日志分析能力；\n6、精通 Git、Jenkins/GitLab CI、Maven/Gradle 等 DevOps 工具链；\n7、拥有大型测试平台或中台系统的架构设计与实践经验，能够独立撰写高可用、高并发系统的设计文档，有能力指导初中级测试工程师，推动团队技术成长。\n\n📌岗位职责：\n1、执行产品的功能测试、接口测试和系统测试，发现缺陷并及时记录，协助开发定位问题原因，并验证缺陷修复的有效性，直到问题解决关闭。\n2、负责公司自动化测试与性能测试一体化平台的整体架构设计与搭建；\n3、制定平台开发规范、技术选型和扩展方案，推动测试工具链标准化与流程自动化；\n4、领导并组织团队完成核心模块研发与迭代，包括脚本管理、数据驱动、分布式执行、监控告警、报表展示等；\n5、与研发、运维、产品等团队紧密协作，深度集成 CI/CD 流程，确保平台在多环境下稳定交付；\n6、跟踪业界最新测试技术与工具，评估并引入合适的开源或商业方案，持续提升团队测试效率和质量，主导关键项目测试工作，承担团队中高级别质量把控任务。\n\n### **Web3产品经理**\n\n薪资待遇：4500 —— 6000美元\n\n📌岗位职责：\n1、制定并推动产品策略和路线图，确保产品与公司愿景和市场需求保持一致；\n2、负责产品需求收集、分析和优先级确定，与开发团队合作确保交付符合质量标准的产品；\n3、管理产品生命周期，包括产品定义、设计、开发、测试、上线和后续迭代；\n4、分析市场竞争情况和客户反馈，调整出符合市场预期的产品；\n5、协调跨职能团队，确保产品需求、开发和上市的顺利进行；\n6、确保产品的质量、性能和安全性，同时关注用户体验和界面设计；\n7、监测产品性能指标，定期汇报并提供关于产品表现的建议。\n\n📌岗位要求：\n1、熟悉常用的产品开发工作，如：熟练使用基本的软件如 Figma、Axure, Visio 等进行产品原型\n设计、思维导图、流程图的绘制；\n2、出色的项目管理和团队协作技能；\n3、出色的沟通和问题解决能力，能够有效与技术和非技术团队成员沟通；\n4、了解敏捷开发和产品管理工具，如Jira、Trello等；\n5、对用户研究、用户体验和界面设计有自己的体验理解；\n6、具有至少一款成功产品的设计与管理经验；\n7、有过交易所或金融产品相关经验\n\n### **Flutter开发工程师（Android）**\n\n薪资待遇：4000 —— 5000美元\n\n📌岗位职责：\n1、负责 Android 应用软件的设计、开发；\n2、根据产品设计要求和项目进度完成新项目开发任务，保证开发质量；\n3、与设计师和产品经理紧密配合，实现手机或者电视终端应用；\n4、根据业务进展、不断改善升级已有产品，保证系统的性能、稳定性。\n\n📌岗位要求：\n1、熟练使用 Flutter 语言开发；\n2、熟悉Android移动应用开发环境、开发技术、框架原理和底层库，熟悉系统相关的开发调试工具；\n3、撑握kotlin、ndk、jni、rxjava、retrifit、okhttp和jetpack等开发框架；\n4、精通Android Studio开发工具；\n5、精通网络异步加载，缓存，Http等协议；\n6、精通java，熟悉andriod设计理念，熟练使用svn和git。\n\n📌关于flutter:\n1、深入了解State生命周期，以及响应widget生命周期事件；\n2、对Flutter中事件流、状态流传播方式有深入研究；\n3、对StatelessWidget、StatefulWidget的使用场景有非常清晰的思路；\n4、有flutter开源包和插件者优先；\n5、特殊考虑：由原生转flutter开发者或者对部分复杂场景（如可视化？）有变通思路者着重考虑\n录用。\n\n📌其他要求：\n1、对敏捷开发方法和工具（如Scrum、JIRA）有经验者优先考虑；\n2、具备良好的团队合作精神，适应快节奏的工作环境；\n3、持续学习和自我提升的意愿。\n\n### **Flutter开发工程师（IOS）**\n\n薪资待遇：4000 —— 5000美元\n\n📌岗位职责：\n1、负责 IOS App产品的详细设计，构架设计以及开发工作；\n2、根据项目任务计划按时完成软件编码和单元测试工作；\n3、按照开发流程编写相应模块的设计文档；\n4、解决研发过程中的关键问题和技术难题;\n5、保证研发工作的质量和进度。\n\n📌岗位要求：\n1、熟练使用 Flutter 语言开发；\n2、丰富的Objective-C经验，熟悉设计模式，能够设计灵活的iOS产品架构;\n3、精通Cocoa/UIKit Framework，熟悉CoreAnimation，熟悉iPhone/iPad各个版本之间的差异，并且能够\n提供良好的解决方案;\n4、精通HTTP/JSON和XML等网络协议，熟悉多线程及面向对象编程，熟悉SQLite数据库编程；\n5、丰富的iOS性能优化经验;\n6、熟练使用XCode的Instrument来诊断和调试问题;\n7、熟练编写XCode下的单元测试，了解XCode下的自动化测试;\n8、具备良好的沟通能力和团队合作精神。\n\n📌关于flutter:\n1、深入了解State生命周期，以及响应widget生命周期事件；\n2、对Flutter中事件流、状态流传播方式有深入研究；\n3、对StatelessWidget、StatefulWidget的使用场景有非常清晰的思路；\n4、有flutter开源包和插件者优先；\n5、特殊考虑：由原生转flutter开发者或者对部分复杂场景（如可视化）有变通思路者着重考虑录用。\n\n📌其他要求：\n1、对敏捷开发方法和工具（如Scrum、JIRA）有经验者优先考虑；\n2、具备良好的团队合作精神，适应快节奏的工作环境；\n3、持续学习和自我提升的意愿。\n\n📮简历投递至：career@upay.com\n",
+      "company": "Saas5.0技术服务中心",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "C端产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "B端产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "高级JAVA后端开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "测试管理",
+          "category": "测试"
+        },
+        {
+          "title": "Web3产品经理",
+          "category": "产品"
+        },
+        {
+          "title": "Flutter开发工程师（Android）",
+          "category": "移动端"
+        },
+        {
+          "title": "Flutter开发工程师（IOS）",
+          "category": "移动端"
+        }
+      ],
+      "location": [
+        "阿联酋迪拜"
+      ],
+      "isRemote": false,
+      "isOverseas": true,
+      "salaryRange": "5000 — 8500美元",
+      "techStack": [
+        "Java",
+        "C++",
+        "Golang",
+        "Kubernetes",
+        "Docker",
+        "Redis",
+        "Memcached",
+        "Hadoop",
+        "Spark",
+        "Flink",
+        "Spring Boot",
+        "Spring Cloud",
+        "Mybatis"
+      ],
+      "experienceReq": "相关经验",
+      "educationReq": "相关学历",
+      "contact": "career@upay.com"
     },
     {
+      "id": "8882-3833055618",
+      "issueNumber": 8882,
       "commentId": 3833055618,
-      "error": "Not Found"
+      "yearMonth": "2026-02",
+      "author": "Meokie",
+      "rawContent": "### 社招内推｜ Cloud Software Group - CITRIX（思杰）南京研发中心\n\n> 美企，965，几乎不加班。\n> 主要是做云计算和虚拟化产品。\n> 公司地址：南京市江宁区九龙湖国际企业总部园C３栋\n\n公司福利：\n\n- 五险一金齐全\n- 补充商业保险、人身意外险\n- 入职即获15天年假（入司每满1年增加1天，上限20天）\n- 朝9晚6，周末双休\n\n目前在招职位：\n\n- Senior Systems Development Engineer: 6 年以上系统级编程经验，包括 Windows / Unix / Linux，或 iOS / Mac / Android / HTML5 平台。具备扎实的面向对象软件设计经验，优先考虑 C++ 背景。\n\n如果希望内推请把简历和目标职位发送到：[yujie.miao@citrix.com](mailto:yujie.miao@citrix.com)\n发送邮件时请备注来自阮大",
+      "company": "Cloud Software Group - CITRIX（思杰）",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "Senior Systems Development Engineer",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "南京市江宁区"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "C++",
+        "Windows",
+        "Unix",
+        "Linux",
+        "iOS",
+        "Mac",
+        "Android",
+        "HTML5"
+      ],
+      "experienceReq": "6 年以上系统级编程经验",
+      "educationReq": "相关学历",
+      "contact": "yujie.miao@citrix.com"
     },
     {
+      "id": "8882-3834031633",
+      "issueNumber": 8882,
       "commentId": 3834031633,
-      "error": "Not Found"
+      "yearMonth": "2026-02",
+      "author": "YangXinlei",
+      "rawContent": "# 小红书社交 & LabSociAI 招聘（工作地点：北京、上海任选）\n\n联系方式：📧 [shengjiang@xiaohongshu.com](mailto:shengjiang@xiaohongshu.com)\n\n## AI 工程实习生 （可转正）\n### 基本信息\n工作地点： 北京市,上海市\n工作经验： 在读学生\n学历要求： 本科及以上\n### 工作职责\n本次实习计划围绕 AI编程提效 和 端智能开发 两大方向展开，具体内容如下：\n1、AI编程提效方向\n目标：通过AI技术优化软件开发流程，提升代码生成、测试、调试等环节的效率。\n实习内容：\n参与基于Agentic RAG 等技术构建企业级别知识库问答等LLM上层应用。\n参与AI 加辅助编程工具的开发与优化（如代码自动补全、智能Bug检测等）；\n基于大语言模型（LLM）探索代码生成与重构的可行性方案；\n研究AI在软件工程中的落地场景（如需求分析、文档生成、Figma生成代、测试用例生成与结果分析码等）。\n2、端智能开发方向\n目标：在移动端设备等资源受限场景下实现高效的AI模型部署与推理。\n实习内容：\n参与端侧AI模型的轻量化设计与优化（如模型剪枝、量化、蒸馏等）；\n探索端云协同的智能应用方案（如模型动态更新、数据隐私保护等）；\n落地实际场景的端智能应用（如移动端图像识别、用户行为分析等）。\n### 任职资格\n1、专业背景：计算机科学、软件工程、人工智能、电子信息等相关专业在校生（本科大三/大四、硕士、博士优先）；\n2、技能要求：\n熟悉Python/C++/Java等至少一门编程语言；\n了解深度学习框架（如TensorFlow、PyTorch）或端侧开发技术（如Android、iOS开发）；\n有RAG、大模型、知识图谱对应相关技术的开发经验优先；\n有预训练基础技术，包括高效训练和封装部署服务化，NLP、CV、视频等相关的预训练模型及其下游应用优先；\n3、综合素质：具备较强的学习能力、逻辑思维和团队协作精神，能适应快节奏的研发环境。\n\n---\n\n## 客户端研发实习生 （可转正）\n### 基本信息\n工作地点： 北京市,上海市\n工作经验： 在读学生\n学历要求： 本科及以上\n### 工作职责\n1、负责小红书产品的客户端（Android/IOS）研发\n2、和产品经理配合，深度参与产品需求讨论、开发、维护等环节\n3、参与客户端基础组件及架构设计, 推进研发效率\n\n### 任职资格\n1、2026届及以后毕业，本科及以上学历在读，计算机相关专业\n2、熟练掌握至少一门编程语言，包括但不限于：Java、Kotlin、Objective-C、Swift\n3、熟悉数据结构、算法、计算机网络和操作系统，具备良好的分析、解决问题的能力\n4、有客户端技术经验的加分，算法能力出色的加分\n5、每周可出勤4-5天，长期实习4-6个月以上\n6、Base 北京或上海，实习优秀者优先考虑转正\n加分项：1）有个人技术博客；2）有个人Github开源项目；3）关注业界的技术分享\n\n---\n\n## Android开发工程师-社交方向\n###  基本信息\n工作地点： 上海市,北京市\n工作经验： 1-3年\n学历要求： 本科及以上\n### 工作职责\n1、负责小红书社交方向及相关衍生产品的研发工作；\n2、和产品经理、设计师、数据分析师配合，深度参与社交产品需求讨论和业务探索；\n3、设计良好的技术架构，与团队共同推进优化代码的健壮性、可维护性。持续不断的迭代升级工程、业务架构、用户体验等。\n4、调研新技术，将新技术分享并应用到现有产品开发中，提高客户端的技术能力，推动团队技术体系建设；\n### 任职资格\n1、大学本科或以上学历，计算机相关专业优先。\n2、有深厚的编程功底，精通Java/Kotlin中的一种或多种语言，热爱Android及其相关技术领域，愿意在移动应用开发领域持续深耕。\n3、具备一定的架构设计能力，能够在负责子系统中独当一面，推动技术架构的升级，熟悉App开发的主流框架和开发模式。\n4、具备较好的Owner意识和业务Sense，能够与团队内外多种角色高效协作。\n5、 责任心强，执行力强，具备良好的沟通能力和团队协作能力。\n6、有IM业务开发经验者、客户端数据库优化经验者、长链开发经验者优先。\n\n---\n\n##  iOS开发工程师-社交方向\n\n### 基本信息\n工作地点： 北京市,上海市,杭州市\n工作经验： 1-3年\n学历要求： 本科及以上\n### 工作职责\n1、负责小红书社交方向及相关衍生产品的研发工作\n2、和产品经理、设计师、数据分析师配合，深度参与社交产品需求讨论和业务探索；\n3、设计良好的技术架构，与团队共同推进优化代码的健壮性、可维护性。持续不断的迭代升级工程、业务架构、用户体验等。\n4、调研新技术，将新技术分享并应用到现有产品开发中，提高客户端的技术能力，推动团队技术体系建设；\n### 任职资格\n1、大学本科或以上学历，计算机相关专业优先。\n2、有深厚的编程功底，熟练掌握Objective-C或Swift，熟悉App开发的主流框架和开发模式，热爱iOS及其相关技术领域，愿意在移动应用开发领域持续深耕。\n3、具备一定的架构设计能力，能够在负责子系统中独当一面，推动技术架构的升级，熟悉App开发的主流框架和开发模式。\n4、具备较好的Owner意识和业务Sense，能够与团队内外多种角色高效协作。\n5、 责任心强，执行力强，具备良好的沟通能力和团队协作能力。\n6、有IM业务开发经验者、客户端数据库优化经验者、长链开发经验者优先\n\n---\n\n## Lab SociAI - AI 后端工程师\n### 我们要找的人\n不仅仅是为 AI 产品写后端，更是用 AI 重新定义编程的先行者。如果你厌倦了传统的 CRUD，渴望在 Agent 时代探索“人机结对编程”的极致效率，这里是你的最佳战场。\n### 你将负责\nAI 业务落地：负责 AI 创新产品的后端核心设计，应对快速变化的业务需求，保证服务的高性能与高可用。\n架构沉淀：搭建适应 AI 业务特性的后端基础设施，构建可复用的服务能力。\n研发范式革命：全面拥抱 AI Coding。你将利用最新的 AI 工具链实现开发闭环（需求拆解->代码实现->测试发布），探索“一人抵一个团队”的超级个体模式。\n### 我们需要你\n硬核技术：3年以上经验，玩转 Java/Go/Python/C++ 任一语言，对分布式、高并发、微服务架构有深刻理解。\n生产经验：在 DB、中间件、网关、监控等方面有扎实的生产环境实战经验。\n自驱与好奇：对 AI Agent、LLM 应用有发自内心的钻研欲望，不仅仅是使用者，更是探索者。\n### 加分项（Highlight）\nFull Stack：能写后端，也能搞定 React/Vue 或客户端，具备独立交付能力。\nVibe Coding 玩家：不仅懂代码，更懂如何与 AI \"Vibe\"（共频），熟练使用 AI 极大提升编码流速。\nAgent 先锋：了解或实践过 MCP 协议、Agent to Agent 交互，对 AI 智能体架构有独到见解。\n\n---\n\n## 前端开发工程师-创新方向\n### 基本信息\n工作地点： 上海市,北京市,杭州市\n工作经验： 不限\n学历要求： 本科及以上\n### 工作职责\n1、负责小红书创新业务核心场景的 React Native 跨端架构设计与实现，确保高性能、高可用性，通过模块化架构支持业务快速迭代；\n2、聚焦小红书前端领域的 AI Coding 探索，从需求分析到上线，全流程推动 AI 驱动开发，提升编码准确度与研发效率，实现研发模式的突破性创新；\n3、参与创新场景运营活动开发，运用动态化技术拓宽用户内容心智，提升用户参与度和社区活跃度；\n4、推动前端技术突破，攻克跨端、AI Agent、互动渲染、工程化等垂类问题，聚焦体验优化和性能稳定性，构建一流的用户体验。\n\n### 任职资格\n1、本科及以上学历，计算机、软件工程、人工智能、电子信息、数学等相关专业优先；\n2、熟练掌握 Vue/React 等现代前端框架中至少一种；至少一种非前端语言，例如Objective-C/Swift/C++/Rust。\n3. 熟悉/React Native/Flutter/小程序等跨端方案，具备优化和建设能力；\n4、熟悉前端工程化相关及原理，具备良好的架构设计和工程设计能力；\n5、熟悉大模型应用（如 GPT-4、Claude、LLaMA），包括微调（LoRA/RLHF）、RAG 检索增强、Prompt 优化；了解多模态（文本/语音/视觉）交互设计与优化，有 AI Coding项目经验者加分；\n6、具备良好的沟通能力和团队协作精神，热爱技术，积极乐观，具备强烈的责任心、自驱性，能主动推动技术落地和创新。\n\n---\n\n## Android开发工程师-AI 创新应用\n\n### 基本信息\n工作地点： 北京市,上海市,杭州市\n工作经验： 不限\n学历要求： 本科及以上\n### 工作职责\n1、以 AI Coding 为核心驱动，从 0 到 1 研发独立 App，探索并打造“AI Native”产品形态。\n2、 参与AI创新产品的远期规划、需求分析和技术方案制定；\n3、与算法、音视频等团队紧密配合，完成相关原子能力建设，保障高质量迭代。\n### 任职资格\n1、本科及以上学历，计算机或相关专业；1年及以上客户端（Android/跨端优先）研发经验。\n2、熟悉主流 App 框架与开发模式，有独立 App 从 0-1 上线经验者优先。\n3、精通性能分析与优化者优先，包括内存占用、耗电、网络、启动速度、UI 渲染与卡顿治理。\n4、具备良好的分析解决问题能力，开发技术工具高效地完成线上问题追踪定位，能主动推动项目进展并达成项目目标，有良好的学习能力和技术文档撰写能力；\n5、对技术有热情和好奇心，愿意主动投入精力了解新技术的结合应用，以及推动技术Topic的落地；\n6、有较强的学习意愿，有LLM、视觉生成、音视频等技术经验的加分。\n\n---\n\n## iOS开发工程师-AI 创新应用\n### 基本信息\n工作地点： 北京市,上海市,杭州市\n工作经验： 不限\n学历要求： 本科及以上\n### 工作职责\n1、以 AI Coding 为核心驱动，从 0 到 1 研发独立 App，探索并打造“AI Native”产品形态。\n2、 参与AI创新产品的远期规划、需求分析和技术方案制定；\n3、与算法、音视频等团队紧密配合，完成相关原子能力建设，保障高质量迭代。\n### 任职资格\n1、本科及以上学历，计算机或相关专业；1年及以上客户端（iOS/跨端优先）研发经验。\n2、熟悉主流 App 框架与开发模式（Swift/SwiftUI/UIKit；MVVM/VIPER 等），有独立 App 从 0-1 上线经验者优先。\n3、精通性能分析与优化者优先，包括内存占用、耗电、网络、启动速度、UI 渲染与卡顿治理。\n4、具备良好的分析解决问题能力，开发技术工具高效地完成线上问题追踪定位，能主动推动项目进展并达成项目目标，有良好的学习能力和技术文档撰写能力；\n5、对技术有热情和好奇心，愿意主动投入精力了解新技术的结合应用，以及推动技术Topic的落地；\n6、有较强的学习意愿，有LLM、视觉生成、音视频等技术经验的加分。\n\n---\n\n## Agent技术专家-AI应用与创新\n### 基本信息\n工作地点： 北京市,上海市,杭州市\n工作经验： 不限\n学历要求： 本科及以上\n### 工作职责\n1、负责小红书创新业务在泛体验、范效率方向下的大模型工程化能力建设；\n2、探索业界前沿的大模型工程研发（LLMOps）相关技术，打造高效工具链和应用系统，包括并不限于Agent、RAG、任务调度、推理加速、评测、PE等，持续优化效果和性能，保障服务高可用性；\n3、深度参与项目研发，与产品、算法、质量等同学保持密切配合，不断优化项目整体效益，提升产品体验。\n### 任职资格\n1、3年以上研发工作经验，本科及以上学历，计算机相关专业，具有LLM工程化相关研发经验；\n2、扎实的后台研发能力，熟练掌握Golang/Java/Python任一编程语言，熟悉MySQL、ES等常用基础组件；\n3、具备强烈的技术好奇心与自驱力，优秀的问题分解与抽象能力，善于在不确定性中快速推进。\n4、对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力，有较好的需求抽象能力和架构能力。\n5、有 Agent 框架/工具链（如 LangChain、AutoGen、OpenAI Assistants 或自研）的设计与实践经验者优先；具备提示工程、工具调用、工作流编排与质量保障经验更佳。\n\n---\n联系方式：📧 shengjiang@xiaohongshu.com",
+      "company": "小红书社交 & LabSociAI",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "AI 工程实习生",
+          "category": "AI"
+        },
+        {
+          "title": "客户端研发实习生",
+          "category": "移动端"
+        },
+        {
+          "title": "Android开发工程师-社交方向",
+          "category": "移动端"
+        },
+        {
+          "title": "iOS开发工程师-社交方向",
+          "category": "移动端"
+        },
+        {
+          "title": "AI 后端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "前端开发工程师-创新方向",
+          "category": "前端"
+        },
+        {
+          "title": "Android开发工程师-AI 创新应用",
+          "category": "移动端"
+        },
+        {
+          "title": "iOS开发工程师-AI 创新应用",
+          "category": "移动端"
+        },
+        {
+          "title": "Agent技术专家-AI应用与创新",
+          "category": "AI"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Python",
+        "C++",
+        "Java",
+        "TensorFlow",
+        "PyTorch",
+        "Android",
+        "iOS",
+        "React",
+        "Vue",
+        "Flutter",
+        "Swift",
+        "Kotlin",
+        "Objective-C"
+      ],
+      "experienceReq": "相关经验",
+      "educationReq": "相关学历",
+      "contact": "shengjiang@xiaohongshu.com"
     },
     {
+      "id": "8882-3838165719",
+      "issueNumber": 8882,
       "commentId": 3838165719,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3845606783,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3857631892,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3867177476,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3882245393,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3830130799,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3830534127,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3833055618,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3834031633,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3838165719,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3830130799,
-      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
-    },
-    {
-      "commentId": 3830534127,
-      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
-    },
-    {
-      "commentId": 3833055618,
-      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
-    },
-    {
-      "commentId": 3834031633,
-      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
-    },
-    {
-      "commentId": 3838165719,
-      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
-    },
-    {
-      "commentId": 3845606783,
-      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
-    },
-    {
-      "commentId": 3857631892,
-      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
-    },
-    {
-      "commentId": 3867177476,
-      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
-    },
-    {
-      "commentId": 3882245393,
-      "error": "Unterminated string in JSON at position 11357 (line 152 column 8320)"
+      "yearMonth": "2026-02",
+      "author": "linxiaowu66",
+      "rawContent": "## AI 将重写短剧的生产方式，而你将重写前端的可能性。\n九州文化 AI 事业部正在打造一款“从脚本到成片”的短剧引擎：角色生成、场景布置、分镜预览、节奏控制与一键合成，创作在浏览器中实时发生。我们需要一位对体验、性能与工程质量同样执着的 React 前端工程师。\n\n感兴趣的同学可以发送简历到：[linguang661990@126.com](mailto:linguang661990@126.com)\n\n## 你会做什么：\n负责核心创作工作台的前端架构与组件化设计\n\n用 antd 快速搭建稳定的业务界面，并在关键模块做定制化扩展\n\n与模型/后端协作，封装推理结果，优化前端数据与渲染链路\n\n为创作者提供“所见即所得”的分镜、时轴、素材管理等能力\n\n## 你需要具备：\n扎实的 React 能力（组件设计、状态管理、性能优化）\n\n熟练使用 antd，能平衡开发效率与体验品质\n\n了解基础 AI 概念（推理、Prompt、数据流、调用性能）\n\n额外加分：音视频处理（WebAudio/Media）、图形渲染（Canvas/WebGL）、工程化与质量保障\n\n## 我们提供：\n对真实创作场景的深度介入与快速成长\n\n产品/设计/模型团队的紧密协作\n\n参与打造行业级平台的机会与广阔发展空间\n\n## 其他\n其他岗位也同时开放招聘（服务端开发（Go语言）、大模型开发（Python）、测试、UI/UX、产品等）",
+      "company": "九州文化",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "React 前端工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "中国"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React",
+        "antd",
+        "AI"
+      ],
+      "experienceReq": "扎实的 React 能力",
+      "educationReq": "相关学历",
+      "contact": "linguang661990@126.com"
     }
-  ]
+  ],
+  "skipped": [],
+  "errors": []
 }

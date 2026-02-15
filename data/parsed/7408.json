@@ -1575,6 +1575,500 @@
       "experienceReq": "5年以上相关经验",
       "educationReq": "计算机相关专业本科及以上",
       "contact": "Meet-Yyyou"
+    },
+    {
+      "id": "7408-3148944112",
+      "issueNumber": 7408,
+      "commentId": 3148944112,
+      "yearMonth": "2025-08",
+      "author": "Meokie",
+      "rawContent": "### 社招内推｜ Cloud Software Group - CITRIX（思杰）南京研发中心\n\n- 美企，965，几乎不加班。\n- 主要是做云计算和虚拟化产品。\n- 公司地址：南京市江宁区九龙湖国际企业总部园C３栋\n\n公司福利：\n- 五险一金齐全\n- 补充商业保险、人身意外险\n- 入职即获15天年假（入司每满1年增加1天，上限20天）\n- 朝9晚6，周末双休\n\n目前在招职位：\n- Senior Systems Development Engineer: 6+年相关经验，熟悉 Windows/Unix/Linux 系统级编程，C++/C# 优先。\n- Senior software engineer: 6+年相关经验，精通 Web 服务相关技术，对 Windows 内部机制及 Windows 服务的工作原理有良好理解，C#/Java 优先。\n- Senior QA Engineer: 5+ 年软件质量保证经验，熟悉云平台（如 Azure、AWS、GCP）及相关技术，理解 CI/CD 及 DevOps 实践。\n- Lead Escalation Engineer: 至少拥有 6 年 Citrix 产品的实操故障排查经验，其中包括至少 2 年在技术支持团队与工程师团队合作、处理企业级环境问题的经验。具备商务级日语和英语能力。\n\n如果希望内推请把简历和目标职位发送到：[yujie.miao@cloud.com](mailto:yujie.miao@cloud.com)\n发送邮件时请备注来自阮大",
+      "company": "Cloud Software Group - CITRIX（思杰）",
+      "companyType": "外企",
+      "positions": [
+        {
+          "title": "Senior Systems Development Engineer",
+          "category": "后端"
+        },
+        {
+          "title": "Senior software engineer",
+          "category": "后端"
+        },
+        {
+          "title": "Senior QA Engineer",
+          "category": "测试"
+        },
+        {
+          "title": "Lead Escalation Engineer",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "南京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "Windows",
+        "Unix",
+        "Linux",
+        "C++",
+        "C#",
+        "Web 服务",
+        "Java",
+        "Azure",
+        "AWS",
+        "GCP",
+        "CI/CD",
+        "DevOps",
+        "日语",
+        "英语"
+      ],
+      "experienceReq": "6+年相关经验",
+      "contact": "yujie.miao@cloud.com"
+    },
+    {
+      "id": "7408-3149289130",
+      "issueNumber": 7408,
+      "commentId": 3149289130,
+      "yearMonth": "2025-08",
+      "author": "orangelunatics",
+      "rawContent": "## 【校招&社招】拼多多 C 端前端招人（海外业务，地点上海，长期有效 | 也负责招其他岗位）\n\n### 校招\n\n【拼多多集团-PDD 校园招聘】内推链接：https://careers.pddglobalhr.com/campus/grad?t=S8VIhyzJi2\n内推码：S8VIhyzJi2。期待你的加入！我们一起，无拼不青春！（通过此链接投递计入内推，内推简历优先筛选~）\n\n### 社招： C 端前端开发工程师/专家-跨境业务基础电商\n\n- 岗位职责\n\n1. 支撑拼多多海外电商平台 C 端客户端内 H5/端外 H5/PC Web 日常需求分析和功能开发，优化用户体验；\n2. 与上下游团队密切配合，分析并给出最优的前端结构解决方案和效果实现；\n3. 参与 Web 端整体的架构设计、性能优化，提升整体研发质量和效率\n\n- 任职要求\n\n1. 计算机基础扎实\n2. 至少掌握 react/vue/angular 主流框架中一种，理解框架背后的思想；\n\n- 加分项\n\n1. 具有国际化项目开发经验\n2. 具有 SEO 经验\n3. 具有 PWA 经验\n\n### 社招：C 端前端动效平台研发工程师（跨境业务）\n\n- 岗位职责\n  负责跨境业务的前端动效研发工作，包括不限于：\n\n1. 参与内部自研动效平台动效/渲染模块架构设计/功能开发/性能优化及相关技术研究\n2. 参与各类营销活动的前端开发工作，深入优化前端动效体验；\n\n- 任职要求\n\n1. 熟悉 AE 软件的基本使用及相关插件原理（如 Lottie ）\n2. 熟悉 css/canvas/svg 动画，精通 H5 业务动画开发；\n3. 熟悉 OpenGL/WebGL/WebGPU ，有 shader 开发和优化经验\n4. 掌握至少一种主流前端框架（ react 、vue 等），有大型项目研发经验；\n5. 对前端技术有持续热情，具备良好的团队协作精神，个性乐观开朗，善于与人沟通合作。\n\n- 加分项\n\n1. 熟悉 threejs/babylonjs 等 3d 项目开发\n2. 熟悉 cocos2d/unity/pixi/phaser 等游戏项目开发\n3. 数学计算能力较好\n\n### 社招其他职位\n\n1. Java 后端\n2. 客户端（安卓/iOS/鸿蒙/Windows/Mac）\n3. 算法/数据\n4. 安全\n5. 产品经理/运营\n6. 设计\n7. 法务\n8. ...\n\n### 联系方式\n\n社招简历发送至邮件 suedesneaker@gmail.com，校招用内推链接自行投递即可\n看见之后就会推 效率极高 有其他问题可以邮件里备注~",
+      "company": "拼多多",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "C 端前端开发工程师/专家-跨境业务基础电商",
+          "category": "前端"
+        },
+        {
+          "title": "C 端前端动效平台研发工程师（跨境业务）",
+          "category": "前端"
+        },
+        {
+          "title": "Java 后端",
+          "category": "后端"
+        },
+        {
+          "title": "客户端（安卓/iOS/鸿蒙/Windows/Mac）",
+          "category": "移动端"
+        },
+        {
+          "title": "算法/数据",
+          "category": "数据"
+        },
+        {
+          "title": "安全",
+          "category": "安全"
+        },
+        {
+          "title": "产品经理/运营",
+          "category": "产品"
+        },
+        {
+          "title": "设计",
+          "category": "设计"
+        },
+        {
+          "title": "法务",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "react",
+        "vue",
+        "angular",
+        "H5",
+        "PC Web",
+        "css",
+        "canvas",
+        "svg",
+        "OpenGL",
+        "WebGL",
+        "WebGPU",
+        "shader",
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "Java",
+        "Rust"
+      ],
+      "contact": "suedesneaker@gmail.com"
+    },
+    {
+      "id": "7408-3157137127",
+      "issueNumber": 7408,
+      "commentId": 3157137127,
+      "yearMonth": "2025-08",
+      "author": "lpflpf",
+      "rawContent": "# 社招 ｜ 三六零 - 北京 (Golang 资深后端）\n\n## 工作职责：\n1、架构设计：负责Web服务端的设计、开发和维护，确保系统的高性能、高可用性、可扩展性、可维护性。\n2、研发效能：参与需求分析、技术方案设计、代码编写和单元测试，确保代码质量和系统稳定性。\n3、系统调优：数据分析、系统分析能力；针对关键系统，优化现有系统性能，解决系统难题，提升系统的响应速度和处理能力。\n4、项目管理：负责与产品、前端、测试、运营团队协作，推动项目有序进展。\n5、知识文档：强有力撰写文档能力、保证架构设计文档、接口文档、会议文档等清晰明了，促进团队明确共识、顺利沟通、项目落地。\n7、持续创新：跟踪并研究最新的Web服务端技术与大模型技术，持续优化现有系统，提升团队的技术水平。\n\n## 任职要求：\n1、学历要求：\t计算机科学、软件工程或相关专业本科及以上学历\n2、工作经验： \t5年以上Web服务端开发经验，有高并发系统开发经验者优先。\n3、技术栈要求：\n   - 熟练使用 数据分析工具、系统分析工具、快速形成业务、技术认知。\n   - 熟练使用 PHP ，Golang 及Web框架，如gin、yiic 、lavarel等，具备良好的接口设计能力。\n   - 熟悉数据库设计及优化，熟练使用MySQL、Oceanbase等数据库。\n   - 熟悉中间件：缓存技术，如Redis、Memcached等。消息队列技术，如Kafka、RabbitMQ等。\n   - 熟悉操作系统，Centos、Docker、Kubernete等容器化技术经验者优先。\n4、其他技能：\n   - 具备良好的代码规范和文档编写习惯，熟悉Git等版本控制工具。\n   - 具备良好的问题分析和解决能力，能够独立完成复杂模块的设计与开发。\n   - 具备良好的沟通能力和团队协作精神，能够与团队成员高效合作。\n   - 有强烈的责任心和自我驱动力，能够在压力下高效工作。\n   - 熟悉Linux 操作系统，具备基本的服务器运维能力，能够独立部署和调试服务\n\n## 加分项：\n1、有广告系统开发经验优先。\n2、有项目协调管理经验优先。\n\n## 联系方式:\n  简历发送至邮件 [lipengfei5@360.cn](mailto:lipengfei5@360.cn)",
+      "company": "三六零",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "Golang 资深后端",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "PHP",
+        "Golang",
+        "gin",
+        "yiic",
+        "lavarel",
+        "MySQL",
+        "Oceanbase",
+        "Redis",
+        "Memcached",
+        "Centos",
+        "Docker",
+        "Kubernete"
+      ],
+      "experienceReq": "5年以上Web服务端开发经验",
+      "educationReq": "本科及以上学历",
+      "contact": "lipengfei5@360.cn"
+    },
+    {
+      "id": "7408-3157226814",
+      "issueNumber": 7408,
+      "commentId": 3157226814,
+      "yearMonth": "2025-08",
+      "author": "Cryptape1005",
+      "rawContent": "## 【远程】Cryptape 区块链前端/全栈工程师招聘\n\n[[Cryptape](https://cryptape.com/)] 是一家专注于区块链底层技术的创新公司，致力于推动去中心化生态的发展。我们的 DevRel（开发者关系）团队负责向全球开发者传播 [[Nervos CKB](https://github.com/nervosnetwork/ckb)]的技术理念，并通过优质内容、工具和社区互动，吸引更多开发者加入 Nervos 生态。我们需要一位有想法、对区块链世界有热情的全栈工程师，加入 DevRel 团队，用代码、文档、演示、工具甚至“奇思妙想”的实验性项目来展示我们的产品和理念。\n\n### 工作内容\n\n- 制作吸引开发者的技术内容（文档、教程、Demo、工具链优化）。\n- 开发可视化工具、演示产品或实验性项目，帮助开发者理解 CKB 技术。\n- 参与开源社区，与开发者互动，收集反馈并改进产品体验。\n- 探索如何用创意方式（如 Hackathon、趣味项目）扩大 CKB 的开发者影响力。\n\n### 最低要求\n\n- 1 年以上软件开发经验。\n- 精通至少一种编程语言，例如 JavaScript / TypeScript，Go，Java，Rust等。\n- 虽然不是必需的技能，但需要在工作时使用 JavaScript / TypeScript 进行编码。\n- 有全栈开发经验，熟悉前后端基本组件。\n- 良好的团队合作和沟通能力。\n\n### 加分项\n\n- 开源贡献者：在参与开源项目经历，或是开源社区的活跃成员。\n- 技术传播者：写过技术博客、做过技术演讲，或擅长用易懂的方式讲解技术。\n- 区块链爱好者：对区块链技术有了解，甚至写过智能合约或 DApp。\n- 产品思维：喜欢做“小而美”的工具/产品，对技术审美有追求。\n- 英语能力：能流畅阅读/撰写技术文档，甚至用英文与全球开发者交流。\n\n### **我们更看重的特质**\n\n- 独立开发者：有做过独立产品、拥有产品思维，能证明你的创造力和执行力。\n- 开源贡献/技术博客：GitHub、技术文章、社区影响力等能体现你的技术热情。\n- 基础全栈能力：能快速上手开发，但“会写代码”只是基础，我们更希望你有额外亮点。\n\n### **为什么加入我们？**\n\n- 你的工作直接影响全球开发者对 CKB 的认知和采用。\n- 高度自由的工作氛围，鼓励创新和实验性想法。\n- 与顶尖区块链开发者合作，深度参与开源生态。\n- 远程办公友好，薪资竞争力强。\n\n### **了解更多**\n\n- Cryptape CKB team 开发进度: https://x.com/CKBdev\n- Nervos 开发文档: https://docs.nervos.org/\n\n### **如何申请？**\n\n如果你喜欢折腾技术、热爱分享、有产品思维，对区块链技术和开源文化都非常感兴趣，欢迎投递简历，简历请发送至 [join@cryptape.com](mailto:join@cryptape.com), 合适的简历会在 1-2 个工作日内与您联系（备注阮大），期待您的加入！",
+      "company": "Cryptape",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "区块链前端/全栈工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "远程"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "Java",
+        "Rust",
+        "区块链",
+        "Nervos CKB"
+      ],
+      "experienceReq": "1 年以上软件开发经验",
+      "contact": "join@cryptape.com"
+    },
+    {
+      "id": "7408-3158487043",
+      "issueNumber": 7408,
+      "commentId": 3158487043,
+      "yearMonth": "2025-08",
+      "author": "lixiaolong2114",
+      "rawContent": "### Solara云数科技游戏电商团队前后端招聘\n### JAVA架构师（技术专家）\n薪资待遇：40~65K/月，具体面议\n招聘人数：2人\n紧急程度：非常紧急\n\n岗位职责\n1、核心功能开发、技术攻坚\n2、线上疑难杂症问题处理及维护\n3、系统瓶颈模块性能优化\n4、技术创新以及调研\n5、技术方案评审\n\n任职要求\n1、7年以上JAVA开发经验，3年以上大型java项目架构经验。至少熟悉另外一门编程语言；\n2、计算基础扎实，熟悉常用数据结构和算法，较强的逻辑思维能力；\n3、熟悉常用缓存redis，数据库mysql,mongodb,消息中间件rocketmq,kafka等核心组件; \n4、熟悉spring cloud alibaba,dubbo, spring \nboot等常用框架组件\n5、精通jvm原理；\n6、有很强的系统优化经验，数据库和中间件优化经验；\n7、 有较强的架构分析能力和架构设计能力；\n8、 沟通态度良好，责任心强，积极主动。\n\n### JAVA高级开发工程师\n薪资待遇：35~55K/月，具体面议\n招聘人数：14人\n紧急程度：紧急\n\n岗位职责\n1、负责公司相关软件系统的设计、开发和维护工作。\n2、参与系统需求分析和技术方案设计。\n3、根据项目计划按时完成开发任务，保证代码质量。\n4、参与代码评审，确保代码的规范性和可维护性。\n5、负责解决开发过程中遇到的技术难题。\n6、配合测试团队进行软件测试和缺陷修复。\n7、参与系统性能优化和技术改进。\n\n任职要求\n1、精通 Java 开发语言，掌握 SpringCloud、SpringBoot、MyBatis 等流行框架。\n2、深入理解 Java 面向对象程序设计原则，深入理解设计模式并合理运用。\n3、对 Java 基础 API（集合容器、多线程、IO流）有深入的认知，了解 JVM 内存机制。\n4、深入理解 Java 面向对象程序设计原则，了解部分设计模式并合理运用。\n5、会使用 MySQL 关系型数据库，能进行基本的 SQL 优化，了解存储引擎、索引、大量数据分区分表等技术者优先考虑。\n6、熟悉至少一种常用的缓存技术，如 Memcached，Redis 等。\n7、有大数据、分布式、高并发、多线程开发及调优经验者优先考虑。\n8、有较强的团队协作精神，独立工作能力、沟通及表达能力强，工作责任心强，能够承受压力。\n\n### 大数据开发工程师\n薪资待遇：35~55K/月，具体面议\n招聘人数：1人\n紧急程度：紧急\n\n岗位职责\n1、负责公司大数据平台的架构设计和优化，确保数据处理的高效性和可靠性。制定并推行大数据技术标准和规范。\n2、评估和引入合适的大数据技术栈，推动技术创新和性能优化。解决大数据项目中的关键技术问题和瓶颈。\n3、设计和实施大规模数据处理、存储和分析方案。优化数据处理流程和算法，提升数据处理效率。\n4、对团队成员进行大数据技术的指导和培训，提升整体技术水平。组织和主持技术分享会，推动大数据技术知识的传播和交流。\n5、参与大数据项目的需求分析、技术方案设计和开发计划制定。跟进项目进度，确保按时交付高质量的数据处理和分析系统。\n\n任职要求\n1、计算机科学、数据科学、软件工程或相关专业本科及以上学历。\n2、5年以上大数据开发和架构设计经验。有大规模数据处理和分析项目的实际经验。 \n3、熟悉Hadoop、精通Flink等大数据处理框架。\n4、熟悉Kafka、maxwell、canal等大数据生态系统组件。\n5、有SQL和NoSQL、新SQL数据库（如MySQL、tidb、starrocks等）的实际使用经验。\n6、熟悉大数据平台的性能调优和优化方法。\n7、具备丰富的数据分析和建模经验，能够处理和分析大规模数据集。有实际项目经验。\n8、良好的沟通能力和团队协作能力，能够与团队成员和其他部门有效合作。\n9、具备良好的学习能力和技术敏感性，能够快速掌握和应用新技术。\n\n### APP研发主管\n薪资待遇：35~55K/月，具体面议\n招聘人数：1人\n紧急程度：非常紧急\n\n岗位职责\n1.负责移动端技术选型与架构设计；\n2.参与需求讨论，并能够指导团队成员完成开发；\n3.负责技术难题，疑难问题的攻关，新技术的研发和推动；\n4.负责研发团队建设与能力提升。\n\n任职要求\n1.统招本科及以上，有7年以上工作经验，有一定的团队管理经验；\n2.有成功主导大型移动端产品从0到1上线及迭代优化的项目经历；\n3.过往经验中有研发经历，具备丰富的跨平台开发经验或混合开发框架（Flutter3年以上）应用经验者优先考虑；\n4.熟悉常用通信协议，包括但不限于 Https、MQTT、Hls、Rtmp，了解常见的抓包工具使用；\n5.有丰富的性能优化经验，包括内存优化、省电优化、包瘦身；\n6.具备较强的执行力，能够积极探索，及时解决问题；\n7.具备大型互联网产品研发经验优先。\n\n### 测试工程师\n薪资待遇：15000~30000元/月，具体面议\n招聘人数：2人\n紧急程度：紧急\n\n岗位职责\n1.根据游戏项目需求，设计和编写测试计划、测试用例，覆盖功能测试、兼容性测试、性能测试等。\n2.执行手动测试和自动化测试，发现并记录游戏中的Bug，推动问题解决。\n3.与开发团队、策划团队密切合作，提供测试反馈，优化游戏品质。\n4.参与游戏上线前的回归测试，确保版本稳定性。\n5.分析游戏测试数据，提出改进建议，提升用户体验。\n6.跟踪行业内游戏测试趋势，优化测试流程和工具使用。\n\n任职要求\n1.三至五年软件测试经验，其中至少三年以上游戏测试相关经验。\n2.具备扎实的测试用例设计能力，编写清晰、可复现的测试用例，了解等价类划分、边界值分析等技术。\n3.熟练掌握接口测试及工具（如postman、fiddler）\n4.熟练掌握测试工具（如JIRA、禅道）以及缺陷管理流程。\n5.有自动化测试经验者优先（如Selenium、Appium或自研脚本）。\n6.具备良好的问题分析能力和沟通能力，能够清晰描述Bug并推动解决。\n7.参与过至少一款游戏产品（如王者荣耀、各种棋牌类等）从立项到上线的完整测试周期\n\n### 运维工程师\n薪资待遇：35K~45K/月，具体面议\n招聘人数：2人\n紧急程度：紧急\n\n岗位职责\n1、主要负责公司生产环境应用的运维建设，对服务稳定性负责\n2、业务系统的发布/维护/监控/调优/故障排查等\n3、跟进特定项目生命周期内的部署上线\n4、配合开发人员构建开发测试环境\n\n任职要求\n1、3年以上linux系统管理经验，精通linux系统的管理和维护；\n2、熟悉zabbix/prometheus/grafana等监控软件的使用;\n3、熟悉各位应用服务器的部署与优化；\n4、熟悉shell,掌握python/go优先考虑;\n5、熟悉docker容器相关原理和技术细节，有生产环境CI/CD自动化部署流程经验优先；\n6、责任心强，工作积极主动且具备良好的团队合作精神和抗压能力\n\n### 产品经理/产品设计师\n薪资待遇：35K~45K/月，具体面议\n招聘人数：3人\n紧急程度：紧急\n\n岗位职责\n1、本科及以上学历\n2、负责产品业务线的前后台产品设计和项目管理\n3、参与公司产品战略制定、产品线的整体规划设计和全业务流程管理\n4、负责产品业务线的需求分析，原型设计等\n5、负责产品开发周期和进度把控，协调相关人员按时保质完成产品开发、测试和完善\n6、深入研究市场和用户需求，不断提升产品的用户体验，.与相关项目组紧密配合，协调研发、测试、运营等部门，推动产品的研发与运营\n7、追求极致的用户体验，注重数据驱动\n8、较强的问题分析能力，判断能力，及独立思考能力\n9、对互联网产品的用户体验设计和人机交互有优秀的直觉\n10、逻辑思维能力强，对新技术、新产品、新需求感觉敏锐，关注互联网产品发展趋势\n\n任职要求\n1、关注并分析互联网用户行为，能从用户行为中发现所负责产品的潜在用户需求\n2、针对用户需求进行研究，并设计出相应的产品功能\n3、与各其他团队密切配合一起工作，推动产品功能实现并取得预期的效果\n4、对产品进行数据分析，验证产品的健康状况并及时发现产品的潜在问题\n5、跟进用户反馈并与用户交流，深入了解用户的心声\n6、熟悉常用的产品设计工具（如AXure等）\n\n### 美术宣传（游戏方向）\n薪资待遇：15000~25000元/月，具体面议\n招聘人数：1人\n紧急程度：较急\n\n岗位职责\n1、负责游戏产品类宣传素材绘制（logo，icon，立绘，海报，场景，宣传KV等）；\n2、负责游戏产品营销创意视觉表现（平面，H5，banner，网站等）以及为游戏运营活动、版本内容提供视觉设计支持。\n3、良好的美术设计基础，在图形，版式，字体设计，色彩方面有系统的积累，具备一定的创意策划能力和提案能力；\n4、有游戏运营相关设计经验，熟悉国内外游戏行业动态，对游戏、美宣等领域有深入的了解，对不同题材的视觉元素构成有系统的认知；\n\n任职要求\n1、大专及以上，美术类相关专业毕业，热衷游戏行业；\n2、3年以上美宣相关工作经验；\n3、有敏锐的色彩感觉、极强审美能力、扎实美术基础和设计能力\n\n### 2D/3D特效师\n薪资待遇：15000~25000元/月，具体面议\n招聘人数：1人\n紧急程度：较急\n\n岗位职责\n1、设计游戏中角色、怪物的法术或技能、UI特效等各种效果，并对特效资源进行优化；\n2、参与具体特效设计任务，审核外包提交的特效资源，指导外包制作；\n3、根据特效设计流程，参与审核；\n4、积累和共享特效设计经验，分享设计经验；\n\n任职要求\n1、具有一定的美术功底，富于想象力和创造力，3年及以上游戏特效制作经验；\n2、能够熟练运用Spine、AE，PS，MAX等特效软件者优先；\n3、有较强的学习能力，主动研究或学习新技术运用到工作中；\n4、具备1个完整项目经验者加分；\n5、有团队精神，积极主动，较强学习能力，善于沟通，热爱游戏，能承受工作压力 ；\n6、有较强的责任心，工作投入度高，配合团队完成目标\n\n### 高级UI设计师（游戏方向）\n薪资待遇：15000~30000元/月，具体面议\n招聘人数：3人\n紧急程度：较急\n\n岗位职责：\n1、具备优秀的国际化审美能力，合理应用色彩、线条、局部等元素，创造出具备吸引力和个性的设计作品。\n2、负责游戏化产品的UI设计，提供设计执行、对接、复盘、优化的工作。\n3、具有优秀的沟通和项目推动能力，与产品、开发、测试进行紧密配合，确保效果图高度还原和严格验收。\n4、能独立完成大型项目设计，创新思考，输出高质量的UI设计和UE用户体验方案。\n5、能驾驭多种视觉表现手法，UI技法卓越，有手搓玻璃质感/拟物质感图标经验。\n6、负责UI层级之间交互动画，设计UI动画演示方案，配合开发输出序列帧动画。\n7、负责重点项目的UI动效攻坚，提升整体UI动效的人机体验。\n\n任职要求：\n1、大专以上学历，设计、美术或相关专业，熟练使用 Photoshop、 illustrator、Figma、Sketch、 Protopie等。\n2、5年以上设计经验，有一线大型互联网公司的上线项目者优先考虑。（附带作品或链接）\n3、具备扎实的设计功底，较强的审美能力，熟悉多种平台(ios、Android、Web)设计规范，搭建figma\n组件库，具备色彩理论和娴熟的设计技巧。\n4、具备一定手绘能力，能用手绘板进行设计元素和图标绘制等工作。\n5、熟练使用AE或pritopie实现页面交互动效展示。\n\n关键字：\n美术/艺术类专业，扁平类app大型项目实操经验，必须具备手绘基础，会app的交互动效/动画展示，培训班或纯UI设计不考虑\n\n### 高级美术设计（视觉KV）\n薪资待遇：15000~30000元/月，具体面议\n招聘人数：1人\n紧急程度：一般\n\n岗位职责：\n1、负责游戏宣传的创意和视觉设计，如KV、海报、推广图、官网、活动专题等。\n2、负责制定可行性的视觉方案，符合品牌形象调性的设计，保证整体设计风格的一致性。\n3、具备扎实手绘能力，能独立场景合成和概念表现，良好色彩搭配，平面排版和造型设计能力强。\n4、具备丰富的设计知识架构，熟悉国际化游戏设计趋势，对游戏、动漫、电影、电商等领域有一定的了解，能够驾驭不同的设计风格。\n5、触达AI领域前沿技术应用，探索AI产品创新设计形态的无限可能，熟练使用Stable \nDiffusion的webui或comfyui进行辅助性设计工作，深入应用controlnet等插件，负责lora模型各种参数调校优化，确保高质量的AIGC内容。\n\n任职要求：\n1、大专以上学历，设计、美术或相关专业，熟练使用 Photoshop、 illustrator、3dsmax、C4D、 Bleder等。\n2、5年以上游戏行业品牌、电商、4A广告视觉设计经验。（附带作品或链接）\n3、优秀的审美力，创意的概念输出，扎实的美术功底，独特的场景合成能力，色彩感强，设计作品要求整体和谐统一，设计细节细致。\n4、熟悉游戏风格类型，了解游戏设计流行趋势，具备较强市场意识和敏锐时尚触角\n5、良好沟通协作能力和团队合作意识，抗压力强，创新欲望和责任感强。\n\n关键字：\n美术/艺术类专业，电商视觉/广告公司实操经验，必须会手绘，合成能力要强，对光影细节精准把握，\n能根据需求合成影视海报级画面。熟练使用AI工具进行设计，会用3D软件进行元素建模\n\n### 其它在招岗位：\nAndroid开发工程师、IOS开发工程师、UI/UX开发工程师、Flutter开发工程师、前端WEB(H5/Vue)开发工程师、DBA、运维主管、运维总监、技术总监、产品总监、项目经理、开发主管等各种岗位受篇幅所限，不再详述，有意者请投递简历后加TG详聊。\n\nTelegram：@xiaoyuer4218\n简历投递：ld21144218@gmail.com\n工作方式：远程办公/驻场办公/薪资面议\n招聘来源： [Solara云数科技-多宝游戏团队招聘](https://github.com/lixiaolong2114/jobs/issues/1)",
+      "company": "Solara云数科技",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "JAVA架构师（技术专家）",
+          "category": "后端"
+        },
+        {
+          "title": "JAVA高级开发工程师",
+          "category": "后端"
+        },
+        {
+          "title": "大数据开发工程师",
+          "category": "数据"
+        },
+        {
+          "title": "APP研发主管",
+          "category": "移动端"
+        },
+        {
+          "title": "测试工程师",
+          "category": "测试"
+        },
+        {
+          "title": "运维工程师",
+          "category": "DevOps"
+        },
+        {
+          "title": "产品经理/产品设计师",
+          "category": "产品"
+        },
+        {
+          "title": "美术宣传（游戏方向）",
+          "category": "设计"
+        },
+        {
+          "title": "2D/3D特效师",
+          "category": "设计"
+        },
+        {
+          "title": "高级UI设计师（游戏方向）",
+          "category": "设计"
+        },
+        {
+          "title": "高级美术设计（视觉KV）",
+          "category": "设计"
+        }
+      ],
+      "location": [
+        "北京",
+        "上海"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "40~65K/月, 35~55K/月, 35~55K/月, 35~55K/月, 15000~30000元/月, 35K~45K/月, 35K~45K/月, 15000~25000元/月, 15000~25000元/月, 15000~30000元/月, 15000~30000元/月",
+      "techStack": [
+        "JAVA",
+        "Spring Cloud Alibaba",
+        "Dubbo",
+        "Spring Boot",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "RocketMQ",
+        "Kafka",
+        "Hadoop",
+        "Flink",
+        "Kafka",
+        "maxwell",
+        "canal",
+        "SQL",
+        "NoSQL",
+        "MySQL",
+        "tidb",
+        "starrocks",
+        "Hadoop",
+        "Flink",
+        "Spine",
+        "AE",
+        "PS",
+        "MAX",
+        "Photoshop",
+        "illustrator",
+        "3dsmax",
+        "C4D",
+        "Bleder"
+      ],
+      "experienceReq": "7年以上JAVA开发经验, 3年以上大型java项目架构经验, 5年以上大数据开发和架构设计经验, 7年以上工作经验, 3年以上linux系统管理经验",
+      "educationReq": "本科及以上学历",
+      "contact": "ld21144218@gmail.com"
+    },
+    {
+      "id": "7408-3162078825",
+      "issueNumber": 7408,
+      "commentId": 3162078825,
+      "yearMonth": "2025-08",
+      "author": "linxiaowu66",
+      "rawContent": "## 【杭州】泽鹿视界\n有意向的同学可联系 [linguang@nextmar.com](mailto:linguang@nextmar.com)\n\n### 公司介绍\n[ZEELOOL](https://www.zeelool.com/) 专注于跨境电商垂直领域 - 眼镜的设计和销售。公司有强大的供应链体系以及工厂生产加工，目前客户集中在北美和欧洲相关国家，目前对于成立了7年的泽鹿，处于技术和业务转型和发展红利期，需要大量的高阶技术人才加入，一起去达成未来5年的公司目标。我们目前有两个独立站：[ZEELOOL](https://www.zeelool.com/) 和 [VOOGLAM](https://www.vooglam.com/) , 公司氛围扁平化和规范化，不加班不卷，真正达到五个幸福中的“员工幸福”。这在杭州是不多见的，感兴趣的同学都来投递简历吧~\n另外，前端团队目前是本人在当TL，管理风格属于活泼、有温度的，个人博客主页可以看：[豆米博客](https://blog.5udou.cn/)，之前在[掘金](https://juejin.cn/user/1873223542902429)和知乎也分享过很多技术文章，欢迎大家一起来探讨技术；\n\n### 中级/高级前端开发工程师(2个HC)\n#### 职位描述\n与产品经理、设计师和后端工程师沟通，理解业务需求，参与技术方案的制定，并完成前端功能的开发与实现，确保代码的高质量和可维护性；\n参与前端架构设计与优化，确保系统具有良好的扩展性、稳定性和高性能；\n参与前端工程化体系建设，满足团队基础能力需求\n参与用户端侧的用户体验提升，并能够提出性能优化、交互优化、视觉优化的前端性意见\n\n#### 任职要求\n3年以上前端项目开发经验，大专及以上学历；\n熟练掌握HTML、CSS和JavaScript等前端开发基础技术，熟悉页面架构和布局；\n熟练使用至少一种前端开发框架，如Vue、React，了解其基本原理，react优先；\n熟练使用MUI、antd、Nextjs，能够自主书写业务组件完成业务开发工作，熟悉vite配置，了解工程化模块化开发\n有C端相关实践经验并且有过性能优化经验的优先；\n具备良好的沟通能力和团队协作意识，需求评审中能够自主发现提出疑问并提供方案；\n善于学习新知识和运用新知识，具备独立解决中等难度问题的能力；\n\n#### 加分项\n对于C端有综合性能优化经验的，有低代码搭建经验的优先",
+      "company": "泽鹿视界",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "中级/高级前端开发工程师",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "35~55K/月",
+      "techStack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue",
+        "React",
+        "MUI",
+        "antd",
+        "Nextjs"
+      ],
+      "experienceReq": "3年以上前端项目开发经验",
+      "educationReq": "大专及以上学历",
+      "contact": "linguang@nextmar.com"
+    },
+    {
+      "id": "7408-3162885229",
+      "issueNumber": 7408,
+      "commentId": 3162885229,
+      "yearMonth": "2025-08",
+      "author": "evaaaaaaaayl",
+      "rawContent": "招聘啦！！！！！\n🔥 加入Plaud AI：用算法重新定义人类信息获取方式！\n坐标深圳南山 | 全员技术极客 | 全球百万用户的AI硬件标杆\n\n🚀 我们是谁？\nPlaud AI是全球AI音频硬件领导品牌，2021年创立至今，以“连接AI与现实世界”为使命，凭借首款ChatGPT融合的卡片录音机PLAUD NOTE横扫全球市场：\n\n🌍 用户超100万，产品登顶亚马逊BSR榜首，年销售额破1亿美元59；\n\n🏆 众筹神话：Kickstarter 110万美金破类目纪录，Indiegogo 238万美金持续引爆9；\n\n⚡️ 技术标签：Whisper+GPT-4o/Claude 3.5多模型集成、60种语言实时转录、脑图生成、待办事项提取\n\n📮 投递通道\n邮箱：eva.yao@plaud.ai\n\nWeb 前端 owner\n地点：北京\n职位描述：\n负责 PlaudAI Web 平台前端基础技术与核心产品的整体规划、技术架构设计及开发落地，带领团队持续提升产品技术竞争力与用户体验；\n主导并推进前端技术架构演进，应用新技术、新思路，持续优化前端基础框架的功能、性能及可扩展性，打造高性能、可维护、可持续演进的前端技术体系；\n与产品、设计、后端及算法团队紧密配合，在复杂业务背景下把握技术方向并高效落地。\n\n职位要求：\n本科及以上学历，3年以上 Web 前端开发经验；\n熟悉 Web 和 H5 应用系统开发，熟悉 HTTP 基本原理，能熟练运用主流框架（Vue/React）构建高性能的 Web 应用程序；\n有服务端开发经验，熟悉Node或其他服务端语言（Java/Python/Go等）；\n对用户体验和产品性能有较高敏感度，具备良好的浏览器/移动端 UI 交互实现能力；\n具备技术攻坚能力，乐于学习新技术；\n有良好的沟通与合作精神，有强烈的自驱力和创业精神，不断挑战自我并取得突破。\n\n加分项：\n熟悉AI大模型领域的基本概念，有相关产品的项目经历；\n有浏览器音视频（ FFmpeg / WebRTC / WebAudio ）领域的经验；\n具有海外产品开发经验。\n\n----------------------------------------\n\n移动端开发工程师\n地点：深圳/北京\n1、负责公司核心产品的 Flutter 跨平台应用 开发与维护，确保高性能、高可用性及卓越用户体验；\n2、与产品经理、设计师和后端工程师紧密协作，参与需求分析、技术方案设计与落地；\n3、优化应用性能，解决复杂场景下的内存管理、渲染效率及多端适配问题；\n4、探索 Flutter 与原生（iOS/Android）的混合开发模式，结合 AI 能力（如模型部署、端侧推理）实现创新功能；\n5、编写高质量代码，推动团队技术沉淀，参与代码评审、技术文档编写及自动化测试体系建设；\n6、跟踪 Flutter 生态前沿技术（如 Impeller、Flutter 3+ 新特性），推动团队技术升级。\n职位要求\n1、3年以上 Flutter 开发经验，精通 Dart 语言 及 Flutter 框架核心原理（Widget 机制、状态管理、动画等）；\n2、熟悉 Flutter 与原生平台的交互（MethodChannel/Plugin 开发），了解 iOS（Swift/Objective-C）或 Android（Kotlin/Java）基础开发；\n3、熟悉常用状态管理方案（如 Provider、Riverpod、Bloc），熟练使用 Dio、Retrofit 等网络请求库；\n4、掌握 Flutter 性能优化工具（DevTools、性能追踪），具备复杂 UI 开发及多端适配经验；\n5、熟悉 Git 工作流，了解 CI/CD 流程，有良好的代码规范和工程化意识。\n\n加分项：\n1、有已上线的 Flutter 应用开发经验（可提供作品或 GitHub 链接）；\n2、了解 Native 端 AI 框架（如 Core ML、TensorFlow Lite）或 Flutter 与 AI 模型集成经验；\n3、熟悉后端开发（Node.js/Python/Go）或云服务（AWS/Firebase）；\n4、对跨端技术（React Native、UniApp）有对比研究，或参与过开源项目贡献。\n\n---------------------------------------\n\n岗位：AI Agent 工程师\n地点：北京\n职位描述\n全链路开发ASK系统：主导音频转写/场景总结/知识库问答核心模块，基于LangChain构建Agent协作流，通过Prompt工程优化GPT/Gemini等大模型性能；\n设计RAG系统解决Agentic检索难题，集成多模态知识库与Web搜索，实现工具调用与跨协议通信；\n联合硬件与产品团队，将算法部署至全球热销的AI硬件产品，持续通过评测迭代模型表现。\n\n职位要求\n硬核技术栈：精通Python，掌握LLM/RAG/Agent技术链，具备LangGraph编排经验；\n系统架构能力：有ASK系统开发全流程经验（Prompt/Tool Calling/RAG），能独立设计AI模块；\n计算机/AI专业背景，兼具工程化思维与跨团队协作能力，追求产品级效果交付。\n\n---------------------------------------\n\n岗位：LLM算法工程师\n地点：北京\n职位描述\n全栈LLM开发：独立构建低延迟/高性价比的LLM Workflow与Agent方案（不依赖LangChain等框架），完成开源模型SFT/DPO微调及数据闭环；\n\n工程化落地：主导数据清洗-模型调优-效果评测全流程，驱动AI能力在硬件产品中交付。\n\n职位要求\n1年+LLM实战经验（应届可放宽），精通Python且具备独立开发LLM后端能力；\n\n热衷底层创新，有RAG深度优化/模型微调/Claude Code工具链实战经验者优先。",
+      "company": "Plaud AI",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "Web 前端 owner",
+          "category": "前端"
+        },
+        {
+          "title": "移动端开发工程师",
+          "category": "移动端"
+        },
+        {
+          "title": "AI Agent 工程师",
+          "category": "AI/ML"
+        },
+        {
+          "title": "LLM算法工程师",
+          "category": "AI/ML"
+        }
+      ],
+      "location": [
+        "深圳",
+        "北京"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "未提及",
+      "techStack": [
+        "Vue/React",
+        "Node.js",
+        "Java/Python/Go",
+        "AI",
+        "Whisper+GPT-4o/Claude 3.5",
+        "60种语言实时转录",
+        "脑图生成",
+        "待办事项提取",
+        "Flutter",
+        "Dart",
+        "Widget 机制",
+        "状态管理",
+        "动画",
+        "MethodChannel/Plugin",
+        "Provider",
+        "Riverpod",
+        "Bloc",
+        "Dio",
+        "Retrofit",
+        "DevTools",
+        "性能追踪",
+        "Impeller",
+        "Flutter 3+ 新特性",
+        "Python",
+        "LLM/RAG/Agent",
+        "LangGraph",
+        "Prompt/Tool Calling/RAG",
+        "MySQL",
+        "C++",
+        "Rust",
+        "XCode",
+        "AndroidStudio",
+        "DevEco",
+        "Instruments",
+        "Systrace",
+        "模块化",
+        "组件化",
+        "动态化",
+        "Flutter/RN/WEEX/KMP",
+        "游戏开发",
+        "嵌入式开发",
+        "端安全",
+        "AI Prompt",
+        "3D/XR"
+      ],
+      "experienceReq": "3年以上 Web 前端开发经验, 3年以上 Flutter 开发经验, 精通Python，掌握LLM/RAG/Agent技术链，具备LangGraph编排经验，1年+LLM实战经验",
+      "educationReq": "本科及以上学历",
+      "contact": "eva.yao@plaud.ai"
+    },
+    {
+      "id": "7408-3164239215",
+      "issueNumber": 7408,
+      "commentId": 3164239215,
+      "yearMonth": "2025-08",
+      "author": "tianlanse93",
+      "rawContent": "淘天集团交易终端团队2026应届校招\n\n我们是淘天集团交易终端团队，负责手淘交易域（购物车、下单、订单、物流等）核心链路的业务研发和基础能力建设。\n📚面向对象：2026届应届毕业生（2025年11月-2026年10月毕业）\n📍工作地点：北京、杭州\n⭐特别说明：提前批多一次投递机会，结果不影响后续批次的简历投递，放心大胆投！\n💻业务发展快，发展空间大\n🔝全方位培养，成长不设限\n🍰年轻化氛围，扁平化管理\n💰竞争力薪酬，多样化福利\n\n职位描述\n在这里，你将有机会：\n● 深度参与亿级DAU移动端产品开发，构建高性能/高可用性的客户端App架构，支撑千万级在线用户的稳定流畅使用。\n● 使用SwiftUI/Compose/ArkUI等业界前沿的开发范式，主导技术方案设计与开发实践，打造极致流畅的交互体验。\n● 面向iOS/Android/HarmonyOS演进三端跨平台架构，面向多终端打造自适应布局与动效，不断提升多屏使用体验。\n● 探索iOS/Android/HarmonyOS的系统底层技术原理，结合厂商新系统特性不断功能创新，攻克系统级技术难题。\n● 面向AI/3DXR时代突破移动端技术边界，构建终端智能化能力与创新场景落地，探索XR设备探索沉浸式使用体验。\n加入我们，你与业界顶尖技术团队合作，将利用前沿技术为亿万用户打造优秀终端体验，也将亲历双11等顶级流量项目实战机会，并有机会成为阿里巴巴鸿蒙应用生态的早期建设者，及参与到阿里移动技术中台的架构演进与深度实践，也有技术大牛带教的成长加速计划。\n职位要求\n【职位要求】\n● 熟悉iOS（Swift/Objective-C）或Android（Kotlin/Java）或HarmonyOS（ArkTS/C++）开发体系，熟悉内存管理/多线程/网络优化。\n● 熟悉客户端开发环境 (至少一项)（XCode/AndroidStudio/DevEco）及性能调优工具（Instruments/Systrace），能够具备独立解决复杂线上问题。\n● 深入理解移动端架构设计（模块化/组件化/动态化），有复杂业务需求的开发经验，具备一定iOS/Android/HarmonyOS跨端开发经验。\n● 熟练掌握以下开发知识 (至少一项)：客户端、跨平台、Flutter/RN/WEEX/KMP、游戏开发、嵌入式开发、端安全、AI Prompt、3D/XR等领域技能。\n\n【加分项】\n● 有C/C++/Rust等跨平台语言相关开发经验，有终端框架引擎、图形图像、嵌入式系统开发经验者更佳。\n● 有大型互联网公司相关岗位的项目开发经历，有AppStore/GooglePlay/AppGallery等应用上架经验者更佳。\n● 有开源社区代码贡献、IoT设备互联开发经验、C++性能调优或驱动开发者更佳。\n● 有智能化项目应用经验，参与过 AI Agent的技术方案设计等经验者更佳。\n● 国内外 TOP 开源项目的 Owner 或 Maintainer，并有相应的代码提交或贡献。\n● 在相关领域国际顶级会议、期刊发表论文或相关学术会议组织的权威比赛中获奖。\n\n简历投递邮箱：[minghao.zl@alibaba-inc.com](mailto:minghao.zl@alibaba-inc.com)\n官网投递：https://talent.taotian.com/campus/qrcode/home?code=cro2xku6ql3TChcQIzDImcZ2nUKmMawDWaR4ZUqc9Cv5CrxW8OPKMCk1dCr0zx4%2F",
+      "company": "淘天集团交易终端团队",
+      "companyType": "大厂",
+      "positions": [
+        {
+          "title": "2026届应届毕业生",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "北京",
+        "杭州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "未提及",
+      "techStack": [
+        "SwiftUI",
+        "Compose",
+        "ArkUI",
+        "iOS",
+        "Android",
+        "HarmonyOS",
+        "C/C++/Rust",
+        "XCode",
+        "AndroidStudio",
+        "DevEco",
+        "Instruments",
+        "Systrace",
+        "模块化",
+        "组件化",
+        "动态化",
+        "Flutter/RN/WEEX/KMP",
+        "游戏开发",
+        "嵌入式开发",
+        "端安全",
+        "AI Prompt",
+        "3D/XR"
+      ],
+      "experienceReq": "熟悉iOS（Swift/Objective-C）或Android（Kotlin/Java）或HarmonyOS（ArkTS/C++）开发体系，熟悉内存管理/多线程/网络优化，深入理解移动端架构设计，有复杂业务需求的开发经验，具备一定iOS/Android/HarmonyOS跨端开发经验",
+      "educationReq": "本科及以上学历",
+      "contact": "minghao.zl@alibaba-inc.com"
+    },
+    {
+      "id": "7408-3166506779",
+      "issueNumber": 7408,
+      "commentId": 3166506779,
+      "yearMonth": "2025-08",
+      "author": "BeeBongor",
+      "rawContent": "# 瓴岳科技集团招聘 Java 开发\n\n🎯 我们在招人啦！\n🚀 加入 [瓴岳科技集团（洋钱罐）] ，一起做有挑战、有价值的风控研发！\n\n📌 招聘岗位\n\n风控研发工程师（ P6 / P7 ）\n其他业务线研发岗位也可聊\n💰 薪资范围：20K - 45K / 月\n📍 地点：北京·朝阳·三里屯 中青大厦\n你会做的事\n\n搭建 & 开发风控数据平台\n数据接入、存储、管理、挖掘\n决策引擎、特征工程、模型平台迭代\n和算法大佬们并肩作战 🚀\n我们希望你\n\n本科及以上学历（ 985/211 优先）\n2-6 年 Java 开发经验，熟悉 Spring/MyBatis/Redis/Kafka/Maven\n会 MySQL ，懂数据库设计\n加分项：Hive/Spark 、大数据经验、风控业务背景\n福利亮点\n\n🌟 早 10 晚 8 ，包中晚餐\n🍒 每天下午茶送到工位（今天是车厘子）\n🏖 入职就有 10 天年假，每年 +1 天\n🏅 每月 1 天免假条病假\n🤝 入职有 mentor ，全员 nice ，氛围简单直接\n✈ 每年 outing：\n2023 青岛 + 瑞吉酒店\n2024 苏州\n2025 成都（进行中）\n投递方式\n\n📧 邮箱：mingliangdeng@fintopia.tech\n💬 微信：A1109170273（邮件没回可加我微信）\n\n💡 来吧，让我们一起把风控做到极致！",
+      "company": "瓴岳科技集团（洋钱罐）",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "风控研发工程师（ P6 / P7 ）",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "北京·朝阳·三里屯 中青大厦"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "20K - 45K / 月",
+      "techStack": [
+        "JAVA",
+        "Spring",
+        "MyBatis",
+        "Redis",
+        "Kafka",
+        "Maven",
+        "MySQL"
+      ],
+      "experienceReq": "2-6 年 Java 开发经验",
+      "educationReq": "本科及以上学历",
+      "contact": "mingliangdeng@fintopia.tech"
     }
   ],
   "skipped": [
@@ -1607,168 +2101,12 @@
       "commentId": 3239711469,
       "author": "ruanyf",
       "reason": "[other] Issue 作者汇总帖，跳过"
+    },
+    {
+      "commentId": 3148362923,
+      "author": "caichen-yi",
+      "reason": "[job_seeking] 评论中提到个人技能、经验，求职嵌入式MCU开发，列出个人技术栈，有联系方式"
     }
   ],
-  "errors": [
-    {
-      "commentId": 3148362923,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZhhzV9qr1g7sjj3rU\"}"
-    },
-    {
-      "commentId": 3157137127,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZhjj1UpxBZjZ5UoYY\"}"
-    },
-    {
-      "commentId": 3148944112,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZhjyeRMjkooWCbjfZ\"}"
-    },
-    {
-      "commentId": 3157226814,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZhsfQPg7koNmDpFen\"}"
-    },
-    {
-      "commentId": 3149289130,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZiFjRhZhhoVBCevTq\"}"
-    },
-    {
-      "commentId": 3158487043,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZisCGTYXv1FdY1fUJ\"}"
-    },
-    {
-      "commentId": 3162885229,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZj37JpwN4dQJ2Bz9p\"}"
-    },
-    {
-      "commentId": 3162078825,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZjJjbWucBfEvPgiJS\"}"
-    },
-    {
-      "commentId": 3164239215,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZjZrnbZqoXwMjC7Q1\"}"
-    },
-    {
-      "commentId": 3166506779,
-      "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CY6CZjzQtoZZGJCfzvKar\"}"
-    },
-    {
-      "commentId": 3158487043,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3162078825,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3162885229,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3164239215,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3148362923,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3148944112,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3149289130,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3157137127,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3157226814,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3166506779,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3148362923,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3148944112,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3149289130,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3157137127,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3157226814,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3158487043,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3162078825,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3162885229,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3164239215,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3166506779,
-      "error": "Not Found"
-    },
-    {
-      "commentId": 3148362923,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    },
-    {
-      "commentId": 3148944112,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    },
-    {
-      "commentId": 3149289130,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    },
-    {
-      "commentId": 3157137127,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    },
-    {
-      "commentId": 3157226814,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    },
-    {
-      "commentId": 3158487043,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    },
-    {
-      "commentId": 3162078825,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    },
-    {
-      "commentId": 3162885229,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    },
-    {
-      "commentId": 3164239215,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    },
-    {
-      "commentId": 3166506779,
-      "error": "Unterminated string in JSON at position 10551 (line 221 column 4696)"
-    }
-  ]
+  "errors": []
 }

@@ -31,7 +31,7 @@ import type { JobPosting, Position } from "../src/types/index.ts";
 // ── 配置 ──────────────────────────────────────────────
 
 const DEFAULT_MODEL = "zhipu:glm-4-flash";
-const BATCH_SIZE = 10;
+const BATCH_SIZE = 5;
 const MAX_CONCURRENCY = 2;
 const MAX_RETRIES = 3;
 const BASE_DELAY_MS = 500;
