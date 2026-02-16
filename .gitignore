@@ -20,3 +20,9 @@ Thumbs.db
 
 # wrangler
 .wrangler/
+
+# claude code
+.claude/
+
+# playwright mcp
+.playwright-mcp/
