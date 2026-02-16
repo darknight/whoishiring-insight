@@ -23,7 +23,7 @@ jobs:
         run: pnpm run update
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          AI_MODEL: ${{ vars.AI_MODEL || 'zhipu:glm-5' }}
+          AI_MODEL: ${{ vars.AI_MODEL || 'zhipu:glm-4-flash' }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
       - name: Commit updated data
         run: |
