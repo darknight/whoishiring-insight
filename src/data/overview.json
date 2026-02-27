@@ -1,5 +1,5 @@
 {
-  "totalPostings": 1675,
+  "totalPostings": 1678,
   "totalMonths": 71,
   "dateRange": {
     "start": "2019-08",
@@ -12,7 +12,7 @@
     },
     {
       "name": "上海",
-      "count": 501
+      "count": 503
     },
     {
       "name": "杭州",
@@ -20,7 +20,7 @@
     },
     {
       "name": "深圳",
-      "count": 318
+      "count": 319
     },
     {
       "name": "广州",
@@ -50,11 +50,11 @@
   "topTechStack": [
     {
       "name": "Java",
-      "count": 672
+      "count": 674
     },
     {
       "name": "React",
-      "count": 636
+      "count": 639
     },
     {
       "name": "JavaScript",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Vue",
-      "count": 459
+      "count": 462
     },
     {
       "name": "Python",
@@ -70,7 +70,7 @@
     },
     {
       "name": "HTML",
-      "count": 450
+      "count": 451
     },
     {
       "name": "CSS",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Node.js",
-      "count": 380
+      "count": 383
     }
   ],
   "topCompanies": [
@@ -131,6 +131,6 @@
       "count": 14
     }
   ],
-  "remotePercentage": 9.31,
-  "overseasPercentage": 4.24
+  "remotePercentage": 9.3,
+  "overseasPercentage": 4.29
 }

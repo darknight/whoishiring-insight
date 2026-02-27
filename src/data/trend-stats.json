@@ -282,7 +282,7 @@
     },
     {
       "yearMonth": "2026-02",
-      "count": 9
+      "count": 12
     }
   ],
   "categoryTrend": {
@@ -569,7 +569,7 @@
       },
       {
         "yearMonth": "2026-02",
-        "count": 4
+        "count": 6
       }
     ],
     "产品": [
@@ -1999,7 +1999,7 @@
       },
       {
         "yearMonth": "2026-02",
-        "count": 2
+        "count": 4
       }
     ],
     "数据": [
@@ -4931,7 +4931,7 @@
     {
       "yearMonth": "2026-02",
       "count": 1,
-      "percentage": 11.11
+      "percentage": 8.33
     }
   ],
   "overseasTrend": [
@@ -5287,8 +5287,8 @@
     },
     {
       "yearMonth": "2026-02",
-      "count": 1,
-      "percentage": 11.11
+      "count": 2,
+      "percentage": 16.67
     }
   ],
   "experienceTrend": {
@@ -6147,7 +6147,7 @@
       },
       {
         "yearMonth": "2026-02",
-        "count": 0
+        "count": 2
       }
     ],
     "3-5年": [

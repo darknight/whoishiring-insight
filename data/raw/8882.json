@@ -24,9 +24,9 @@
     {
       "id": 3833055618,
       "author": "Meokie",
-      "body": "### 社招内推｜ Cloud Software Group - CITRIX（思杰）南京研发中心\n\n> 美企，965，几乎不加班。\n> 主要是做云计算和虚拟化产品。\n> 公司地址：南京市江宁区九龙湖国际企业总部园C３栋\n\n公司福利：\n\n- 五险一金齐全\n- 补充商业保险、人身意外险\n- 入职即获15天年假（入司每满1年增加1天，上限20天）\n- 朝9晚6，周末双休\n\n目前在招职位：\n\n- Senior Systems Development Engineer: 6 年以上系统级编程经验，包括 Windows / Unix / Linux，或 iOS / Mac / Android / HTML5 平台。具备扎实的面向对象软件设计经验，优先考虑 C++ 背景。\n\n如果希望内推请把简历和目标职位发送到：[yujie.miao@citrix.com](mailto:yujie.miao@citrix.com)\n发送邮件时请备注来自阮大",
+      "body": "### 社招内推｜ Cloud Software Group - CITRIX（思杰）南京研发中心\n\n> 美企，965，几乎不加班。\n> 主要是做云计算和虚拟化产品。\n> 公司地址：南京市江宁区九龙湖国际企业总部园C３栋\n\n公司福利：\n\n- 五险一金齐全\n- 补充商业保险、人身意外险\n- 入职即获15天年假（入司每满1年增加1天，上限20天）\n- 朝9晚6，周末双休\n\n目前在招职位：\n\n- Senior Systems Development Engineer: 6 年以上系统级编程经验，包括 Windows / Unix / Linux，或 iOS / Mac / Android / HTML5 平台。具备扎实的面向对象软件设计经验，优先考虑 C++ 背景。\n- Lead Software Development Engineer in Test: 8 年以上 Windows 或 Unix/Linux 平台系统级编程及测试经验。熟练掌握 C#、PowerShell 和 Python，或具备同等经验。具有使用 Robot Framework、Selenium 等测试框架的经验，以及使用 Terraform、Ansible 和持续集成流水线等自动化工具的经验。\n\n如果希望内推请把简历和目标职位发送到：[yujie.miao@citrix.com](mailto:yujie.miao@citrix.com)\n发送邮件时请备注来自阮大",
       "createdAt": "2026-02-02T05:43:30Z",
-      "updatedAt": "2026-02-02T05:43:30Z",
+      "updatedAt": "2026-02-24T09:24:41Z",
       "isMinimized": false
     },
     {
@@ -76,7 +76,31 @@
       "createdAt": "2026-02-11T05:25:57Z",
       "updatedAt": "2026-02-11T05:25:57Z",
       "isMinimized": false
+    },
+    {
+      "id": 3948700785,
+      "author": "lzzlzz",
+      "body": "# 阿里国际站-研发工程师 IOS/Android/Web 开发\n\n## 客户端研发\n### 职位描述\n1. 负责alibaba国际站客户端（iOS、Android）产品的功能开发，与PD、UED、Java 工程师协作，完成设计交互实现、数据交互、动态信息展现，确保功能交付质量与性能优化\n\n2. 参与产品需求分析，设计并实现可维护、易扩展的代码结构；在AI工具与能力的帮助下，独立完成多端（iOS、Android、前端、后端等）功能的实现\n\n3. 与团队协作，解决线上用户体验类问题，体验类问题包括：跨平台兼容性问题，多语言问题、功能bug、交互体验等。\n\n4. 持续关注移动开发的趋势和技术，结合业务特点解决研发过程中的问题、为产品交付效率、产品升级和创新提供技术支持。\n### 职位要求\n1. 计算机或相关专业；2年以上 iOS/Android 开发经验；\n\n2. 精通 Objective-C/Java程序设计；熟悉 iOS/Android 框架及各种特性，熟练使用 iOS/Android 的各种UI、网络、数据库、XML/JSON 解析等开发技巧，了解基本的交互知识;\n\n3. 有完整的项目经验，至少参加过一个完整的商业级手机应用或游戏开发项目；\n\n4. 对技术有热情，个性乐观开朗，逻辑思维良好，善于团队合作；有好奇心，能够使用AI能力提升个人工作效率，拓展个人技术能力边界。\n\n#### 加分项：\n\n5. 对Flutter/React Native/H5跨端、移动端动态化解决方案有知识储备；\n\n6. 理解主流大模型基本概念、原理、应用场景和工程架构，掌握Prompt Engineering常见设计模式和优化方法，能用AI结合自己的实际场景研发工具提升生产力；\n\n7. 有电商类业务相关经验的优先，有导购类、搭投系统、IM沟通类产品经验；\n\n8. 有国际化工作经验或具备英文沟通能力。\n\n投递链接：[http://aidc-jobs.alibaba.com/off-campus/position-detail?lang=zh&positionId=100012395013](投递链接)\n\n## WEB 开发\n### 职位描述\n1. 负责alibaba国际站私域产品的相关系统架构设计及研发，与产品密切配合，从需求出发主导和参与开发工作，高效交付，解决各类潜在系统技术风险，保证系统的安全、稳定、高效运行。\n\n2. 具有独立完成复杂的系统分析、设计的能力，高质量高效率的完成核心编码开发；积极参与团队卓越工程，持续提升系统整体性能和稳定性。\n\n3. 在做好业务能力支撑的前提下，具有技术调研、架构优化、性能调优能力，能深入理解并参与业务研发；积极参与业务方向讨论，提出优化建议，技术驱动业务发展\n\n4. 有良好的自驱力，能紧跟技术前沿，主动学习新技术，针对不断增长/变化的业务需求，积极使用AIGC等新技术，完成项目的技术选型、设计和落地。\n### 职位要求\n#### 基础能力：\n1. 计算机相关专业,3年以上Java开发经验，Java基础扎实，熟练掌握面向对象设计和编程方法，有多线程使用经验，熟悉IO、分布式、缓存、消息中间件等机制和技术能力。\n\n2. 熟练使用SpringBoot等主流框架，熟悉Linux下的常用命令、MySQL等主流的数据库；有丰富的系统架构和设计的经验，善于解决高并发，分布式通信，存储等方面的问题。\n\n#### 软性能力：\n\n3. 具备良好的系统和架构抽象设计能力，思路清晰，善于思考，能独立分析和解决问题，责任心强，具备良好的团队合作精神和承受压力的能力。\n\n4. 有良好的项目规划和决策能力，善于捕捉业务需求、架构设计中存在的问题，并给出有效的解决措施和方法\n\n#### 加分项：\n\n5. 掌握主流前端框架（React/Vue）和组件（Antd等），熟悉Node.js技术栈，能够进行全栈开发者优先\n\n6. 熟悉主流大模型技术原理，具有大模型应用开发经验，了解Prompt Engineering原理，有实际调优经验；熟悉RAG架构/AI评测及大模型部署优化，熟练使用主流AI辅助工具技术者优先\n\n7. 有国际化工作经验或具备英文沟通能力者优先\n\n投递链接：[http://aidc-jobs.alibaba.com/off-campus/position-detail?lang=zh&positionId=100012375014](url)",
+      "createdAt": "2026-02-24T03:28:54Z",
+      "updatedAt": "2026-02-24T03:31:05Z",
+      "isMinimized": false
+    },
+    {
+      "id": 3957840671,
+      "author": "acton3930",
+      "body": "### 拼多多 TEMU - iOS/Android/Web 开发 招聘\n\n### 工作地点 \n上海\n\n联系方式：acton3930@gmail.com\n\n",
+      "createdAt": "2026-02-25T09:10:39Z",
+      "updatedAt": "2026-02-25T09:11:22Z",
+      "isMinimized": false
+    },
+    {
+      "id": 3963372060,
+      "author": "ShineKidd",
+      "body": "## [店小秘](https://www.dianxiaomi.com/) 前端开发🔥急招🔥\n\n> 内推 shinekidd@163.com\n\n### 职位描述【深圳】【海外仓业务】\n\n- 负责前端技术攻坚、基础建设、团队协同\n- 负责项目UI交互标准化规范落地\n- 负责 AI 辅助开发流程落地\n\n### 任职要求\n- 3年以上前端开发经验（优秀者可放宽年限要求）\n- 精通 vuejs 或 react\n- 主导过大型项目，有项目架构经验\n- 懂 node SSR 加分\n- 懂 flutter 加分\n- 有 AI 提效经验加分\n\n### 其他职位\n\n<img width=\"1080\" height=\"3069\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/8ecd451c-2926-4b68-9398-3c991963abdd\" />",
+      "createdAt": "2026-02-26T01:44:19Z",
+      "updatedAt": "2026-02-26T01:44:19Z",
+      "isMinimized": false
     }
   ],
-  "fetchedAt": "2026-02-20T01:32:47.131Z"
+  "fetchedAt": "2026-02-27T01:32:39.498Z"
 }
