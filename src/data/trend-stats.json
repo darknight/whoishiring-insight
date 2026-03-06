@@ -283,6 +283,10 @@
     {
       "yearMonth": "2026-02",
       "count": 12
+    },
+    {
+      "yearMonth": "2026-03",
+      "count": 10
     }
   ],
   "categoryTrend": {
@@ -570,6 +574,10 @@
       {
         "yearMonth": "2026-02",
         "count": 6
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 3
       }
     ],
     "产品": [
@@ -856,6 +864,10 @@
       {
         "yearMonth": "2026-02",
         "count": 1
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 2
       }
     ],
     "后端": [
@@ -1142,6 +1154,10 @@
       {
         "yearMonth": "2026-02",
         "count": 4
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 8
       }
     ],
     "测试": [
@@ -1428,6 +1444,10 @@
       {
         "yearMonth": "2026-02",
         "count": 1
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 2
       }
     ],
     "运营": [
@@ -1713,6 +1733,10 @@
       },
       {
         "yearMonth": "2026-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
         "count": 0
       }
     ],
@@ -2000,6 +2024,10 @@
       {
         "yearMonth": "2026-02",
         "count": 4
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 3
       }
     ],
     "数据": [
@@ -2286,6 +2314,10 @@
       {
         "yearMonth": "2026-02",
         "count": 1
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 2
       }
     ],
     "DevOps": [
@@ -2572,6 +2604,10 @@
       {
         "yearMonth": "2026-02",
         "count": 2
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 0
       }
     ],
     "其他": [
@@ -2858,6 +2894,10 @@
       {
         "yearMonth": "2026-02",
         "count": 1
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 0
       }
     ],
     "AI/ML": [
@@ -3144,6 +3184,10 @@
       {
         "yearMonth": "2026-02",
         "count": 2
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 1
       }
     ],
     "设计": [
@@ -3429,6 +3473,10 @@
       },
       {
         "yearMonth": "2026-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
         "count": 0
       }
     ],
@@ -3716,6 +3764,10 @@
       {
         "yearMonth": "2026-02",
         "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 0
       }
     ],
     "安全": [
@@ -4001,6 +4053,10 @@
       },
       {
         "yearMonth": "2026-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
         "count": 0
       }
     ],
@@ -4288,6 +4344,10 @@
       {
         "yearMonth": "2026-02",
         "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 0
       }
     ],
     "管理": [
@@ -4573,6 +4633,10 @@
       },
       {
         "yearMonth": "2026-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
         "count": 0
       }
     ]
@@ -4932,6 +4996,11 @@
       "yearMonth": "2026-02",
       "count": 1,
       "percentage": 8.33
+    },
+    {
+      "yearMonth": "2026-03",
+      "count": 0,
+      "percentage": 0
     }
   ],
   "overseasTrend": [
@@ -5289,6 +5358,11 @@
       "yearMonth": "2026-02",
       "count": 2,
       "percentage": 16.67
+    },
+    {
+      "yearMonth": "2026-03",
+      "count": 1,
+      "percentage": 10
     }
   ],
   "experienceTrend": {
@@ -5576,6 +5650,10 @@
       {
         "yearMonth": "2026-02",
         "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 0
       }
     ],
     "应届/实习": [
@@ -5862,6 +5940,10 @@
       {
         "yearMonth": "2026-02",
         "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 1
       }
     ],
     "1-3年": [
@@ -6148,6 +6230,10 @@
       {
         "yearMonth": "2026-02",
         "count": 2
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 0
       }
     ],
     "3-5年": [
@@ -6434,6 +6520,10 @@
       {
         "yearMonth": "2026-02",
         "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 1
       }
     ],
     "5-10年": [
@@ -6720,6 +6810,10 @@
       {
         "yearMonth": "2026-02",
         "count": 1
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 2
       }
     ],
     "10年+": [
@@ -7005,6 +7099,10 @@
       },
       {
         "yearMonth": "2026-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
         "count": 0
       }
     ],
@@ -7292,6 +7390,10 @@
       {
         "yearMonth": "2026-02",
         "count": 8
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 5
       }
     ]
   },
@@ -7580,6 +7682,10 @@
       {
         "yearMonth": "2026-02",
         "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 0
       }
     ],
     "大专及以上": [
@@ -7865,6 +7971,10 @@
       },
       {
         "yearMonth": "2026-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
         "count": 0
       }
     ],
@@ -8152,6 +8262,10 @@
       {
         "yearMonth": "2026-02",
         "count": 3
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 3
       }
     ],
     "硕士及以上": [
@@ -8437,6 +8551,10 @@
       },
       {
         "yearMonth": "2026-02",
+        "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
         "count": 0
       }
     ],
@@ -8724,6 +8842,10 @@
       {
         "yearMonth": "2026-02",
         "count": 0
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 0
       }
     ],
     "其他": [
@@ -9010,6 +9132,10 @@
       {
         "yearMonth": "2026-02",
         "count": 5
+      },
+      {
+        "yearMonth": "2026-03",
+        "count": 2
       }
     ]
   }

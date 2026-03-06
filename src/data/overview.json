@@ -1,34 +1,34 @@
 {
-  "totalPostings": 1678,
-  "totalMonths": 71,
+  "totalPostings": 1688,
+  "totalMonths": 72,
   "dateRange": {
     "start": "2019-08",
-    "end": "2026-02"
+    "end": "2026-03"
   },
   "topCities": [
     {
       "name": "北京",
-      "count": 524
+      "count": 527
     },
     {
       "name": "上海",
-      "count": 503
+      "count": 510
     },
     {
       "name": "杭州",
-      "count": 379
+      "count": 380
     },
     {
       "name": "深圳",
-      "count": 319
+      "count": 321
     },
     {
       "name": "广州",
-      "count": 171
+      "count": 172
     },
     {
       "name": "南京",
-      "count": 140
+      "count": 142
     },
     {
       "name": "成都",
@@ -44,17 +44,17 @@
     },
     {
       "name": "武汉",
-      "count": 53
+      "count": 54
     }
   ],
   "topTechStack": [
     {
       "name": "Java",
-      "count": 674
+      "count": 676
     },
     {
       "name": "React",
-      "count": 639
+      "count": 641
     },
     {
       "name": "JavaScript",
@@ -62,15 +62,15 @@
     },
     {
       "name": "Vue",
-      "count": 462
+      "count": 463
     },
     {
       "name": "Python",
-      "count": 453
+      "count": 456
     },
     {
       "name": "HTML",
-      "count": 451
+      "count": 452
     },
     {
       "name": "CSS",
@@ -78,11 +78,11 @@
     },
     {
       "name": "C++",
-      "count": 411
+      "count": 415
     },
     {
       "name": "Go",
-      "count": 391
+      "count": 395
     },
     {
       "name": "Node.js",
@@ -92,11 +92,11 @@
   "topCompanies": [
     {
       "name": "字节跳动",
-      "count": 128
+      "count": 129
     },
     {
       "name": "拼多多",
-      "count": 76
+      "count": 77
     },
     {
       "name": "阿里巴巴",
@@ -119,18 +119,18 @@
       "count": 19
     },
     {
-      "name": "多家公司招聘汇总",
+      "name": "腾讯",
       "count": 16
     },
     {
-      "name": "腾讯",
-      "count": 15
+      "name": "多家公司招聘汇总",
+      "count": 16
     },
     {
       "name": "网易云音乐",
       "count": 14
     }
   ],
-  "remotePercentage": 9.3,
-  "overseasPercentage": 4.29
+  "remotePercentage": 9.24,
+  "overseasPercentage": 4.32
 }

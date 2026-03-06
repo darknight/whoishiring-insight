@@ -9744,5 +9744,58 @@
     },
     "remoteCount": 1,
     "overseasCount": 2
+  },
+  {
+    "yearMonth": "2026-03",
+    "totalPostings": 10,
+    "byCity": {
+      "武汉": 1,
+      "上海": 7,
+      "南京": 2,
+      "北京": 3,
+      "深圳": 2,
+      "杭州": 1,
+      "迪拜": 1,
+      "广州": 1
+    },
+    "byTechStack": {
+      "React": 2,
+      "Electron": 1,
+      "Kubernetes": 2,
+      "Docker": 1,
+      "Android": 3,
+      "C++": 4,
+      "Linux": 1,
+      "Go": 4,
+      "Java": 2,
+      "Vue": 1,
+      "Python": 3,
+      "Flutter": 1,
+      "iOS": 2,
+      "C#": 1,
+      "PowerShell": 1,
+      "Windows": 1,
+      "Unix/Linux": 1,
+      "HTML": 1,
+      "RPC中间件": 1,
+      "CI/CD": 1,
+      "LLM": 1
+    },
+    "byCategory": {
+      "前端": 4,
+      "后端": 11,
+      "数据": 2,
+      "移动端": 4,
+      "产品": 4,
+      "测试": 3,
+      "AI/ML": 1
+    },
+    "byCompanyType": {
+      "创业": 5,
+      "大厂": 3,
+      "外企": 2
+    },
+    "remoteCount": 0,
+    "overseasCount": 1
   }
 ]
