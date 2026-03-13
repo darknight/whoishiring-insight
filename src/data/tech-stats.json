@@ -2,19 +2,19 @@
   "rankings": [
     {
       "name": "Java",
-      "count": 676
+      "count": 677
     },
     {
       "name": "React",
-      "count": 641
+      "count": 644
     },
     {
       "name": "JavaScript",
-      "count": 509
+      "count": 510
     },
     {
       "name": "Vue",
-      "count": 463
+      "count": 464
     },
     {
       "name": "Python",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Go",
-      "count": 395
+      "count": 396
     },
     {
       "name": "Node.js",
@@ -42,7 +42,7 @@
     },
     {
       "name": "MySQL",
-      "count": 283
+      "count": 284
     },
     {
       "name": "Linux",
@@ -50,7 +50,7 @@
     },
     {
       "name": "TypeScript",
-      "count": 254
+      "count": 255
     },
     {
       "name": "Kubernetes",
@@ -78,7 +78,7 @@
     },
     {
       "name": "ES6+",
-      "count": 167
+      "count": 168
     },
     {
       "name": "iOS",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Git",
-      "count": 127
+      "count": 128
     },
     {
       "name": "Kafka",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Spring",
-      "count": 102
+      "count": 103
     },
     {
       "name": "MyBatis",
@@ -133,16 +133,16 @@
       "count": 85
     },
     {
+      "name": "Flutter",
+      "count": 82
+    },
+    {
       "name": "C#",
       "count": 82
     },
     {
       "name": "Rust",
       "count": 82
-    },
-    {
-      "name": "Flutter",
-      "count": 81
     },
     {
       "name": "Spring Cloud",
@@ -1369,7 +1369,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 2
+        "count": 3
       }
     ],
     "React": [
@@ -1659,7 +1659,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 2
+        "count": 5
       }
     ],
     "JavaScript": [
@@ -1949,7 +1949,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 0
+        "count": 1
       }
     ],
     "Vue": [
@@ -2239,7 +2239,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 1
+        "count": 2
       }
     ],
     "Python": [
@@ -3689,7 +3689,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 3
+        "count": 4
       }
     ],
     "Node.js": [
@@ -4269,7 +4269,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 0
+        "count": 1
       }
     ],
     "Linux": [
@@ -4849,7 +4849,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 0
+        "count": 1
       }
     ],
     "Kubernetes": [
@@ -6879,7 +6879,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 0
+        "count": 1
       }
     ]
   },
@@ -6887,11 +6887,11 @@
     "语言": [
       {
         "name": "Java",
-        "count": 676
+        "count": 677
       },
       {
         "name": "JavaScript",
-        "count": 509
+        "count": 510
       },
       {
         "name": "Python",
@@ -6903,11 +6903,11 @@
       },
       {
         "name": "Go",
-        "count": 395
+        "count": 396
       },
       {
         "name": "TypeScript",
-        "count": 254
+        "count": 255
       },
       {
         "name": "C",
@@ -6973,11 +6973,11 @@
     "前端": [
       {
         "name": "React",
-        "count": 641
+        "count": 644
       },
       {
         "name": "Vue",
-        "count": 463
+        "count": 464
       },
       {
         "name": "HTML",
@@ -6997,7 +6997,7 @@
       },
       {
         "name": "ES6+",
-        "count": 167
+        "count": 168
       },
       {
         "name": "Electron",
@@ -7139,7 +7139,7 @@
       },
       {
         "name": "Spring",
-        "count": 102
+        "count": 103
       },
       {
         "name": "MyBatis",
@@ -7205,7 +7205,7 @@
     "数据库": [
       {
         "name": "MySQL",
-        "count": 283
+        "count": 284
       },
       {
         "name": "Redis",
@@ -7275,7 +7275,7 @@
       },
       {
         "name": "Git",
-        "count": 127
+        "count": 128
       },
       {
         "name": "Nginx",
@@ -7377,7 +7377,7 @@
       },
       {
         "name": "Flutter",
-        "count": 81
+        "count": 82
       },
       {
         "name": "Weex",

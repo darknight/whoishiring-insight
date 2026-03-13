@@ -286,7 +286,7 @@
     },
     {
       "yearMonth": "2026-03",
-      "count": 10
+      "count": 18
     }
   ],
   "categoryTrend": {
@@ -577,7 +577,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 3
+        "count": 7
       }
     ],
     "产品": [
@@ -867,7 +867,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 2
+        "count": 3
       }
     ],
     "后端": [
@@ -1157,7 +1157,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 8
+        "count": 12
       }
     ],
     "测试": [
@@ -2317,7 +2317,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 2
+        "count": 3
       }
     ],
     "DevOps": [
@@ -2897,7 +2897,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 0
+        "count": 1
       }
     ],
     "AI/ML": [
@@ -3767,7 +3767,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 0
+        "count": 1
       }
     ],
     "安全": [
@@ -4999,8 +4999,8 @@
     },
     {
       "yearMonth": "2026-03",
-      "count": 0,
-      "percentage": 0
+      "count": 1,
+      "percentage": 5.56
     }
   ],
   "overseasTrend": [
@@ -5362,7 +5362,7 @@
     {
       "yearMonth": "2026-03",
       "count": 1,
-      "percentage": 10
+      "percentage": 5.56
     }
   ],
   "experienceTrend": {
@@ -5943,7 +5943,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 1
+        "count": 2
       }
     ],
     "1-3年": [
@@ -6233,7 +6233,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 0
+        "count": 2
       }
     ],
     "3-5年": [
@@ -6523,7 +6523,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 1
+        "count": 2
       }
     ],
     "5-10年": [
@@ -8265,7 +8265,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 3
+        "count": 5
       }
     ],
     "硕士及以上": [
@@ -9135,7 +9135,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 2
+        "count": 3
       }
     ]
   }

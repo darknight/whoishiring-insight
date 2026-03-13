@@ -9747,30 +9747,37 @@
   },
   {
     "yearMonth": "2026-03",
-    "totalPostings": 10,
+    "totalPostings": 18,
     "byCity": {
       "武汉": 1,
-      "上海": 7,
+      "上海": 9,
       "南京": 2,
       "北京": 3,
-      "深圳": 2,
+      "深圳": 4,
       "杭州": 1,
       "迪拜": 1,
-      "广州": 1
+      "广州": 2,
+      "桂林路": 1,
+      "西安": 1,
+      "成都": 1,
+      "福州": 1,
+      "城市未提及": 1,
+      "海内外": 1,
+      "海外仓业务": 1
     },
     "byTechStack": {
-      "React": 2,
+      "React": 5,
       "Electron": 1,
       "Kubernetes": 2,
       "Docker": 1,
       "Android": 3,
       "C++": 4,
       "Linux": 1,
-      "Go": 4,
-      "Java": 2,
-      "Vue": 1,
+      "Go": 5,
+      "Java": 3,
+      "Vue": 2,
       "Python": 3,
-      "Flutter": 1,
+      "Flutter": 2,
       "iOS": 2,
       "C#": 1,
       "PowerShell": 1,
@@ -9779,23 +9786,36 @@
       "HTML": 1,
       "RPC中间件": 1,
       "CI/CD": 1,
-      "LLM": 1
+      "LLM": 1,
+      "spring全家桶": 1,
+      "JavaScript": 1,
+      "ES6+": 1,
+      "Spring": 1,
+      "MySQL": 1,
+      "node SSR": 1,
+      "Git": 1,
+      "vscode": 1,
+      "eslint": 1,
+      "TypeScript": 1
     },
     "byCategory": {
-      "前端": 4,
-      "后端": 11,
-      "数据": 2,
+      "前端": 10,
+      "后端": 17,
+      "数据": 5,
       "移动端": 4,
-      "产品": 4,
+      "产品": 5,
       "测试": 3,
-      "AI/ML": 1
+      "AI/ML": 1,
+      "全栈": 1,
+      "其他": 2
     },
     "byCompanyType": {
-      "创业": 5,
+      "创业": 11,
       "大厂": 3,
-      "外企": 2
+      "外企": 2,
+      "国企": 1
     },
-    "remoteCount": 0,
+    "remoteCount": 1,
     "overseasCount": 1
   }
 ]

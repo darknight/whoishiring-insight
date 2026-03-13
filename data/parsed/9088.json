@@ -391,6 +391,277 @@
         "后端开发",
         "大模型技术"
       ]
+    },
+    {
+      "id": "9088-4021054744",
+      "issueNumber": 9088,
+      "commentId": 4021054744,
+      "yearMonth": "2026-03",
+      "author": "detongz",
+      "rawContent": "Arcloop.ai 招聘产品、技术实习生\n  我们正在寻找两类实习生：\n\n  - 全栈开发实习生\n  - 产品实习生\n\n  如果你希望大量用 AI 工作、喜欢和 AI 聊天、愿意把 AI 当成工作搭子，甚至你有一个 AI 亲密朋友，或者你养虾，我们都欢迎你来聊聊。\n\n  办公地点在 桂林路，需要 线下实习，至少连续实习 3 个月。\n\n  关于 Arcloop\n  Arcloop 相信，AI 不只是创作工具，而可以成为新型内容创作的入口。\n\n  当内容可以被 Remix，当角色可以被复用与演化，当创作成为共创网络，内容就不再只是被消费的一次性产品，而开始具备生态属性。\n\n  Arcloop 正在尝试把视频从“被观看的内容”升级为“可互动的世界”。\n  用户不只是观看者，也可以通过选择、输入和角色介入，进入一个由 AI 驱动、可持续生长的虚拟叙事宇宙。\n\n  在这里：\n\n  - 对用户，内容不只是看，而是“经历一个世界”\n  - 对创作者，创作不只是做视频，而是设计一个世界\n  - 对平台，核心资产不只是内容，而是“世界本身”\n\n实习申请表：https://tcn557i9d9sx.feishu.cn/share/base/form/shrcnmmyVGgshGJizqtBEnDfMpe\n\n<img width=\"806\" height=\"1216\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0c4b9400-974b-48a5-af55-36518fcec64e\" />\n\n<img width=\"818\" height=\"1114\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/06fbb925-884f-4986-a65c-baf56b00ac93\" />",
+      "company": "Arcloop.ai",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "全栈开发实习生",
+          "category": "全栈"
+        },
+        {
+          "title": "产品实习生",
+          "category": "产品"
+        }
+      ],
+      "location": [
+        "桂林路"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "AI",
+        "全栈开发"
+      ],
+      "experienceReq": "至少连续实习 3 个月",
+      "contact": "https://tcn557i9d9sx.feishu.cn/share/base/form/shrcnmmyVGgshGJizqtBEnDfMpe"
+    },
+    {
+      "id": "9088-4028211404",
+      "issueNumber": 9088,
+      "commentId": 4028211404,
+      "yearMonth": "2026-03",
+      "author": "zlm11",
+      "rawContent": "## 兴业数金招聘内推\n### 工作地：西安/上海/成都/福州\n## 招聘岗位：中高级前端/java后端\n### 岗位职责\n- 负责兴业银行系统前后端开发工作\n- 有较强沟通能力，可以进行需求分析\n- 后端熟悉spring全家桶，前端熟悉js,es6,三大框架任一框架即可\n- 具备3年以上相关工作经验\n### 福利待遇\n- 六险二金，生日福利，节日福利，通讯补贴，免费班车，餐补，带薪年假，加班补贴\n## 联系方式\n- 微信：xiaofengqinyu\n- 邮箱：2219281845@qq.com",
+      "company": "兴业数金",
+      "companyType": "国企",
+      "positions": [
+        {
+          "title": "中高级前端",
+          "category": "前端"
+        },
+        {
+          "title": "java后端",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "西安",
+        "上海",
+        "成都",
+        "福州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "spring全家桶",
+        "js",
+        "es6",
+        "三大框架"
+      ],
+      "experienceReq": "3年以上相关工作经验",
+      "contact": "微信：xiaofengqinyu\n邮箱：2219281845@qq.com"
+    },
+    {
+      "id": "9088-4036729560",
+      "issueNumber": 9088,
+      "commentId": 4036729560,
+      "yearMonth": "2026-03",
+      "author": "chaodongyue",
+      "rawContent": "# 广州南方仕通网络科技有限公司\nBase: 广州\n招聘岗位: 高级Java工程师\n薪资: 15~25K, 14薪\n法定节假日双休，五险一金\n联系方式: chaodongyue@nfstone.com\n\n## 岗位职责\n1.独立完成中大型项目的系统分析、设计，并主导完成详细设计和编码的任务，确保项目的进度和质量\n2.能够在团队中完成Code Review的任务，确保相关代码的有效性和正确性，并能够通过Code Review提供相关性能以及安全的建议\n3.实现高扩展性设计、高性能和高稳定性的研发交付工作\n5.对技术保持好奇心，为团队带来创新性的解决方案\n\n## 任职要求\n1. 本科(强制)，计算机相关专业，5年以上后端开发经验，有良好的代码品味；\n2. 有扎实全面的计算机知识，包括但不限于计算机原理/操作系统原理/HTTP/TCP/Websocket/Docker/Kubernetes/Linux/Windows\n3. Java + Spring + MySQL 栈\n\n\n> 这是偏纯技术岗位, 纯CURD的不考虑",
+      "company": "广州南方仕通网络科技有限公司",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "高级Java工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "广州"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "salaryRange": "15~25K, 14薪",
+      "techStack": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "experienceReq": "5年以上后端开发经验",
+      "educationReq": "本科",
+      "contact": "chaodongyue@nfstone.com"
+    },
+    {
+      "id": "9088-4008967165",
+      "issueNumber": 9088,
+      "commentId": 4008967165,
+      "yearMonth": "2026-03",
+      "author": "Nil-1",
+      "rawContent": "# 滴滴内推，校招扫码即可，社招请联系邮箱zjn66888888@gmail.com\n\n<img width=\"2025\" height=\"3601\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/84916055-f6f1-446e-9871-c6b30ed5e231\" />",
+      "company": "滴滴",
+      "positions": [
+        {
+          "title": "校招",
+          "category": "其他"
+        },
+        {
+          "title": "社招",
+          "category": "其他"
+        }
+      ],
+      "location": [
+        "城市未提及"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "contact": "zjn66888888@gmail.com"
+    },
+    {
+      "id": "9088-4009177119",
+      "issueNumber": 9088,
+      "commentId": 4009177119,
+      "yearMonth": "2026-03",
+      "author": "basicButtons",
+      "rawContent": "【拼多多集团-PDD实习生招聘】内推链接：https://careers.pddglobalhr.com/campus/intern?t=aCNcBV5SN6，内推码：aCNcBV5SN6。期待你的加入！我们一起，无拼不青春！（通过此链接投递计入内推，内推简历优先筛选~）\n\n本次2027届研发实习生招聘的面向对象为：海内外院校2027届应届毕业生（毕业时间：2026年9月-2027年8月）。简历投递的起止时间为：2026年3月4日-2026年6月14日。\n\n2027届研发实习生招聘仅开放校招技术岗，其应聘结果不影响未来2027届秋招各批次的简历投递。同时，参与实习可以帮助同学们积累实战经验，为同学们提供了解公司，提升综合竞争力的实践机会。实习期间表现优秀者，同等条件下可优先拿2027届秋招正式offer！早投递，早安排，大家抓紧时间投递吧~\n\n转正几率超高\n\nQQ: 202775364 可以帮忙跟踪进度。",
+      "company": "拼多多集团",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "研发实习生",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "海内外"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [],
+      "educationReq": "应届毕业生",
+      "contact": "https://careers.pddglobalhr.com/campus/intern?t=aCNcBV5SN6"
+    },
+    {
+      "id": "9088-4010644957",
+      "issueNumber": 9088,
+      "commentId": 4010644957,
+      "yearMonth": "2026-03",
+      "author": "zhaommmmomo",
+      "rawContent": "# 【内推】Aftership 深圳招人\n## 关于我们\nAfterShip 是一家成立于 2012 年的国际电商 SaaS 公司，致力于为全球电商品牌与零售商提供一体化的售后体验解决方案。\n公司围绕消费者下单后的履约与售后流程，将发货与面单打印、物流追踪通知、AI 预计送达时间以及退换货管理整合至统一的售后平台，帮助商家在一个后台完成订单的全生命周期管理。\nAfterShip 已集成了 Shopify、TikTok Shop 等国际电商平台，并对接 1,200+ 物流商，帮助品牌和零售商降低客服与运营成本，提升消费者的售后体验与复购率。目前，AfterShip 已服务包括 Samsung、Yahoo、Shopee、Watsons、GymShark、Fresh 等在内的全球 20,000+ 企业。\n\n## 岗位\nEngineering\n- 高级 React.js 前端工程师 (Shipping)\n- 高级 Go 后端工程师 (Message Platform)\n- Go 后端工程师 (Feed & AI / Growth / Shipping)\n- React.js 前端工程师 (Feed & AI)\n- 高级 Web 逆向研发工程师\n\nData Engineering\n- 高级算法工程师 (Logistic, AI Agent)\n- 高级数据分析师 (Growth, Marketing)\n- 数据开发工程师 (Marketing / Logistics / E-commerce)\n- 后端开发工程师 (AI & Data)\n\n更多岗位见： https://app.mokahr.com/apply/aftership/43117#/jobs?&location=%E6%B7%B1%E5%9C%B3%E5%B8%82\n\n## 福利与待遇\n- AI 工具随便用：Claude、Cursor、Codex、Copilot 等全球最先进的下一代工具\n- 专项学习基金：为深圳的每一位正式员工提供 3,000 元的 AI 专项基金\n- 灵活远程办公 & 额外假期：2026 年在法定年假的基础上，新增年度调休假 & 福利年假共 5 天；2026 年全员除了享有远程办公福利外，额外享有 10 天远程办公天数，减少通勤压力，灵活应对临时安排\n- 每日下午茶\n- ......\n\n## 联系我\nwechat：emhhb21tbW1vbW8=",
+      "company": "Aftership",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "高级 React.js 前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "高级 Go 后端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "Go 后端工程师",
+          "category": "后端"
+        },
+        {
+          "title": "React.js 前端工程师",
+          "category": "前端"
+        },
+        {
+          "title": "高级 Web 逆向研发工程师",
+          "category": "前端"
+        },
+        {
+          "title": "高级算法工程师",
+          "category": "数据"
+        },
+        {
+          "title": "高级数据分析师",
+          "category": "数据"
+        },
+        {
+          "title": "数据开发工程师",
+          "category": "数据"
+        },
+        {
+          "title": "后端开发工程师",
+          "category": "后端"
+        }
+      ],
+      "location": [
+        "深圳市"
+      ],
+      "isRemote": true,
+      "isOverseas": false,
+      "techStack": [
+        "React.js",
+        "Go",
+        "AI",
+        "数据",
+        "Web",
+        "算法"
+      ],
+      "contact": "emhhb21tbW1vbW8="
+    },
+    {
+      "id": "9088-4015384911",
+      "issueNumber": 9088,
+      "commentId": 4015384911,
+      "yearMonth": "2026-03",
+      "author": "ShineKidd",
+      "rawContent": "# [店小秘](https://www.dianxiaomi.com/) 前端开发🔥急招🔥\n\n> 内推 [shinekidd@163.com](mailto:shinekidd@163.com)\n\n## 职位描述【深圳】【海外仓业务】\n* 负责前端技术攻坚、基础建设、团队协同\n* 负责项目UI交互标准化规范落地\n* 负责 AI 辅助开发流程落地\n\n## 任职要求\n* 3年以上前端开发经验（优秀者可放宽年限要求）\n* 精通 vuejs 或 react\n* 主导过大型项目，有项目架构经验\n* 懂 node SSR 加分\n* 懂 flutter 加分\n* 有 AI 提效经验加分\n\n## 其他职位\n![](https://private-user-images.githubusercontent.com/25340861/555093452-8ecd451c-2926-4b68-9398-3c991963abdd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI4NTMxNzEsIm5iZiI6MTc3Mjg1Mjg3MSwicGF0aCI6Ii8yNTM0MDg2MS81NTUwOTM0NTItOGVjZDQ1MWMtMjkyNi00YjY4LTkzOTgtM2M5OTE5NjNhYmRkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA3VDAzMDc1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3Zjc2NDc2MjliYmQ0ZTQ0OTE0NzY1MmMwNGU5YmUwMDkxYjAyZjk2ZTdkNDJiOTY2NDBhMGRlYTE5OTZlOTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.d9LnmJC5mhtMkPTSdAml6JtJh3RjZHoaI_ApZGGmN8Q)\n",
+      "company": "店小秘",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "前端开发",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "深圳市",
+        "海外仓业务"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "vuejs",
+        "react",
+        "AI",
+        "node SSR",
+        "flutter"
+      ],
+      "experienceReq": "3年以上",
+      "contact": "shinekidd@163.com"
+    },
+    {
+      "id": "9088-4018167747",
+      "issueNumber": 9088,
+      "commentId": 4018167747,
+      "yearMonth": "2026-03",
+      "author": "tracer8828",
+      "rawContent": "# [上海]拼多多商家前端 S级紧急社招\n## 我们是谁\n我们是拼多多国内商家端，负责整个国内大几千万商家的店铺运营，支撑着9亿消费者购物的供给与履约服务。\n### 业务层（公司的“核心引擎”）\n核心亮点：\n1. 全链路掌控：从你注册账号、管店铺、发布商品、处理订单到物流送到家，整条业务都是我们支撑。\n2. 大场面：支撑像“百亿补贴”这种超大规模的营销活动与日常商家促销工具，负责公司核心的营销增长。\n\n### 技术基建层（研发的“高速公路”）\n核心亮点：\n1. 构建工具链：开发环境的极速启动及统一发布工具，构建闭环研发链路。\n2. 性能优化框架：我们的渲染技术覆盖SSR/SSG/离线包等，追求体验极致，具备自动降级及服务兜底的强容灾能力。\n3. 标准化组件库：有一套自己的 PC 和手机端组件库，实现视觉与交互的标准化快速交付，效率极高。\n### 创新层（AI 引领的“黑科技”）\n核心亮点：\n1. AI 商品发布：让AI自动帮商家写商品介绍，提升效率。\n2. AI 履约质量：利用AI实现包裹的履约质量治理。\n3. AI 助手：我们在研发流程里也用了大模型（CodeReview），AI 会帮你检查代码，帮你一起写出更优质的代码。\n\n## 岗位介绍（JD）\n### 职责\n1. 开发拼多多商家平台，丰富平台功能、提升商家经营效率。\n2. 和产品、设计一起，优化平台的交互体验，提高网站的性能。\n3. 总结、复用开发经验，开发工具、组件库提高开发效率。\n4. 跟进用户反馈，治理平台错误。\n5. 将AI大语言模型应用到业务中、开发过程中，提高效率和质量。\n### 要求\n1. 有前端开发项目经验，熟悉开发/测试/发布流程。\n2. 能用React.js完成产品需求，符合UI规范，按期上线，且不引入线上问题。\n3. 能使用工具提高开发效率和质量，比如 git/vscode/eslint/Typescript\n4. 善于分析、解决、总结日常碰到的开发、线上问题，乐于分享。\n5. 本科及以上学历；计算机、软件相关专业\n\n目前HC多多，欢迎各位大佬投递。\n📮简历投递：sakihomura@foxmail.com",
+      "company": "拼多多",
+      "companyType": "创业",
+      "positions": [
+        {
+          "title": "商家前端 S级紧急社招",
+          "category": "前端"
+        }
+      ],
+      "location": [
+        "上海市"
+      ],
+      "isRemote": false,
+      "isOverseas": false,
+      "techStack": [
+        "React.js",
+        "AI",
+        "git",
+        "vscode",
+        "eslint",
+        "Typescript"
+      ],
+      "educationReq": "本科及以上学历",
+      "contact": "sakihomura@foxmail.com"
     }
   ],
   "skipped": [],
