@@ -286,7 +286,7 @@
     },
     {
       "yearMonth": "2026-03",
-      "count": 18
+      "count": 22
     }
   ],
   "categoryTrend": {
@@ -577,7 +577,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 7
+        "count": 8
       }
     ],
     "产品": [
@@ -1157,7 +1157,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 12
+        "count": 13
       }
     ],
     "测试": [
@@ -2897,7 +2897,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 1
+        "count": 2
       }
     ],
     "AI/ML": [
@@ -3187,7 +3187,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 1
+        "count": 2
       }
     ],
     "设计": [
@@ -5000,7 +5000,7 @@
     {
       "yearMonth": "2026-03",
       "count": 1,
-      "percentage": 5.56
+      "percentage": 4.55
     }
   ],
   "overseasTrend": [
@@ -5362,7 +5362,7 @@
     {
       "yearMonth": "2026-03",
       "count": 1,
-      "percentage": 5.56
+      "percentage": 4.55
     }
   ],
   "experienceTrend": {
@@ -6233,7 +6233,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 2
+        "count": 3
       }
     ],
     "3-5年": [
@@ -7393,7 +7393,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 5
+        "count": 7
       }
     ]
   },
@@ -8265,7 +8265,7 @@
       },
       {
         "yearMonth": "2026-03",
-        "count": 5
+        "count": 7
       }
     ],
     "硕士及以上": [

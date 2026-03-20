@@ -1,5 +1,5 @@
 {
-  "totalPostings": 1696,
+  "totalPostings": 1700,
   "totalMonths": 72,
   "dateRange": {
     "start": "2019-08",
@@ -8,7 +8,7 @@
   "topCities": [
     {
       "name": "北京",
-      "count": 527
+      "count": 529
     },
     {
       "name": "上海",
@@ -20,11 +20,11 @@
     },
     {
       "name": "深圳",
-      "count": 323
+      "count": 325
     },
     {
       "name": "广州",
-      "count": 173
+      "count": 174
     },
     {
       "name": "南京",
@@ -44,7 +44,7 @@
     },
     {
       "name": "武汉",
-      "count": 54
+      "count": 55
     }
   ],
   "topTechStack": [
@@ -54,7 +54,7 @@
     },
     {
       "name": "React",
-      "count": 644
+      "count": 646
     },
     {
       "name": "JavaScript",
@@ -62,11 +62,11 @@
     },
     {
       "name": "Vue",
-      "count": 464
+      "count": 465
     },
     {
       "name": "Python",
-      "count": 456
+      "count": 458
     },
     {
       "name": "HTML",
@@ -82,11 +82,11 @@
     },
     {
       "name": "Go",
-      "count": 396
+      "count": 397
     },
     {
       "name": "Node.js",
-      "count": 383
+      "count": 384
     }
   ],
   "topCompanies": [
@@ -100,7 +100,7 @@
     },
     {
       "name": "阿里巴巴",
-      "count": 40
+      "count": 41
     },
     {
       "name": "Apifox",
@@ -131,6 +131,6 @@
       "count": 14
     }
   ],
-  "remotePercentage": 9.26,
-  "overseasPercentage": 4.3
+  "remotePercentage": 9.24,
+  "overseasPercentage": 4.29
 }
