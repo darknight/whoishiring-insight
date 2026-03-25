@@ -450,14 +450,32 @@ async function main() {
   const model = resolveModel(modelStr);
   console.log(`使用模型: ${modelStr}\n`);
 
-  const rawKeys = await listKeys("raw/");
-  const files = rawKeys.map(k => k.replace("raw/", ""));
+  const forceAll = process.argv.includes("--all");
+  let files: string[];
+
+  if (forceAll) {
+    console.log("[模式] 全量解析（--all）\n");
+    const rawKeys = await listKeys("raw/");
+    files = rawKeys.map(k => k.replace("raw/", ""));
+  } else {
+    // 尝试读取 fetch 阶段输出的变更清单
+    const meta = await readJSON<{ issueNumbers: number[] }>("meta/changed-issues.json");
+    if (meta?.issueNumbers?.length) {
+      files = meta.issueNumbers.map(n => `${n}.json`);
+      console.log(`[模式] 增量解析 — 变更清单中有 ${files.length} 个 Issue\n`);
+    } else {
+      console.log("[模式] 无变更清单，回退到全量解析\n");
+      const rawKeys = await listKeys("raw/");
+      files = rawKeys.map(k => k.replace("raw/", ""));
+    }
+  }
+
   if (files.length === 0) {
-    console.log("没有找到原始数据文件");
+    console.log("没有需要解析的文件");
     return;
   }
 
-  console.log(`找到 ${files.length} 个 Issue 文件\n`);
+  console.log(`待处理 ${files.length} 个 Issue 文件\n`);
 
   let totalPostings = 0;
   let totalSkipped = 0;

@@ -458,6 +458,7 @@ async function main() {
   let processed = 0;
   const totalToProcess = issuesToProcess.length;
   let totalStats: MergeStats = { added: 0, updated: 0, skipped: 0, removed: 0 };
+  const changedIssues: number[] = [];
 
   for (const issueNumber of issuesToProcess) {
     processed++;
@@ -533,6 +534,7 @@ async function main() {
       };
 
       await saveIssueData(issueData);
+      changedIssues.push(issueNumber);
     } catch (err: any) {
       console.error(`  获取 #${issueNumber} 失败: ${err.message}`);
       // Continue with other issues
@@ -557,6 +559,13 @@ async function main() {
 
   const allRawKeys = await listKeys("raw/");
   console.log(`\n共有 ${allRawKeys.length} 个 Issue 数据文件在 R2 raw/（本次处理 ${totalToProcess} 个）`);
+
+  // 写入变更清单供 parse 阶段使用
+  await writeJSON("meta/changed-issues.json", {
+    updatedAt: new Date().toISOString(),
+    issueNumbers: changedIssues,
+  });
+  console.log(`\n变更清单: ${changedIssues.length} 个 Issue 有变化 → R2: meta/changed-issues.json`);
 }
 
 main().catch((err) => {
