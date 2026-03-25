@@ -8,13 +8,13 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "fetch": "tsx --env-file=.env scripts/fetch.ts",
-    "parse": "tsx --env-file=.env scripts/parse.ts",
-    "aggregate": "tsx --env-file=.env scripts/aggregate.ts",
+    "fetch": "tsx scripts/fetch.ts",
+    "parse": "tsx scripts/parse.ts",
+    "aggregate": "tsx scripts/aggregate.ts",
     "update": "pnpm run fetch && pnpm run parse && pnpm run aggregate",
     "cf:preview": "wrangler pages dev ./dist",
-    "migrate-to-r2": "tsx --env-file=.env scripts/migrate-to-r2.ts",
-    "download-data": "tsx --env-file=.env scripts/download-data.ts"
+    "migrate-to-r2": "tsx scripts/migrate-to-r2.ts",
+    "download-data": "tsx scripts/download-data.ts"
   },
   "dependencies": {
     "@ai-sdk/anthropic": "^3.0.44",
