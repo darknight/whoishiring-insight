@@ -24,8 +24,7 @@ import { generateText, type LanguageModel } from "ai";
 import { createOpenAI } from "@ai-sdk/openai";
 import { createAnthropic } from "@ai-sdk/anthropic";
 import { createGoogleGenerativeAI } from "@ai-sdk/google";
-import { readFileSync, writeFileSync, existsSync, readdirSync, mkdirSync } from "node:fs";
-import { join } from "node:path";
+import { readJSON, writeJSON as writeR2JSON, listKeys } from "./lib/r2.ts";
 import type { JobPosting, Position } from "../src/types/index.ts";
 
 // ── 配置 ──────────────────────────────────────────────
@@ -35,10 +34,6 @@ const BATCH_SIZE = 5;
 const MAX_CONCURRENCY = 2;
 const MAX_RETRIES = 3;
 const BASE_DELAY_MS = 500;
-
-const ROOT = new URL("..", import.meta.url).pathname.replace(/\/$/, "");
-const RAW_DIR = join(ROOT, "data/raw");
-const PARSED_DIR = join(ROOT, "data/parsed");
 
 // ── 类型 ──────────────────────────────────────────────
 
@@ -308,12 +303,7 @@ function sleep(ms: number): Promise<void> {
 
 async function parseIssue(model: LanguageModel, raw: RawIssue): Promise<ParsedIssue> {
   // 加载已有解析结果（增量解析）
-  const parsedPath = join(PARSED_DIR, `${raw.issueNumber}.json`);
-  let existing: ParsedIssue | null = null;
-
-  if (existsSync(parsedPath)) {
-    existing = JSON.parse(readFileSync(parsedPath, "utf-8")) as ParsedIssue;
-  }
+  const existing = await readJSON<ParsedIssue>(`parsed/${raw.issueNumber}.json`);
 
   // 构建已成功解析的 commentId 集合（不包含 errors，使其可自动重试）
   const existingCommentIds = new Set<number>();
@@ -460,17 +450,8 @@ async function main() {
   const model = resolveModel(modelStr);
   console.log(`使用模型: ${modelStr}\n`);
 
-  if (!existsSync(RAW_DIR)) {
-    console.error(`错误: 原始数据目录不存在: ${RAW_DIR}`);
-    console.error("请先运行 pnpm run fetch 获取数据");
-    process.exit(1);
-  }
-
-  if (!existsSync(PARSED_DIR)) {
-    mkdirSync(PARSED_DIR, { recursive: true });
-  }
-
-  const files = readdirSync(RAW_DIR).filter((f) => f.endsWith(".json"));
+  const rawKeys = await listKeys("raw/");
+  const files = rawKeys.map(k => k.replace("raw/", ""));
   if (files.length === 0) {
     console.log("没有找到原始数据文件");
     return;
@@ -483,12 +464,16 @@ async function main() {
   let totalErrors = 0;
 
   for (const file of files) {
-    const raw = JSON.parse(readFileSync(join(RAW_DIR, file), "utf-8")) as RawIssue;
+    const raw = await readJSON<RawIssue>(`raw/${file}`);
+    if (!raw) {
+      console.warn(`跳过: raw/${file} 不存在`);
+      continue;
+    }
     const result = await parseIssue(model, raw);
 
     // 保存结果
-    const outPath = join(PARSED_DIR, `${result.issueNumber}.json`);
-    writeFileSync(outPath, JSON.stringify(result, null, 2), "utf-8");
+    const r2Key = `parsed/${result.issueNumber}.json`;
+    await writeR2JSON(r2Key, result);
 
     const newHiring = result.postings.length;
     const newSkipped = result.skipped.length;
@@ -499,7 +484,7 @@ async function main() {
     totalErrors += newErrors;
 
     console.log(
-      `  ✅ 已保存 → ${outPath} (招聘: ${newHiring}, 跳过: ${newSkipped}, 错误: ${newErrors})\n`,
+      `  ✅ 已保存 → R2:${r2Key} (招聘: ${newHiring}, 跳过: ${newSkipped}, 错误: ${newErrors})\n`,
     );
   }
 

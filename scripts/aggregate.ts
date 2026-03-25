@@ -13,15 +13,8 @@
  * - src/data/trend-stats.json    — 趋势维度
  */
 
-import { readFileSync, writeFileSync, existsSync, readdirSync, mkdirSync } from "node:fs";
-import { join } from "node:path";
+import { readJSON, writeJSON as writeR2JSON, listKeys } from "./lib/r2.ts";
 import type { JobPosting, MonthlyStats } from "../src/types/index.ts";
-
-// ── 路径 ──────────────────────────────────────────────
-
-const ROOT = new URL("..", import.meta.url).pathname.replace(/\/$/, "");
-const PARSED_DIR = join(ROOT, "data/parsed");
-const OUT_DIR = join(ROOT, "src/data");
 
 // ── 技术栈同义词映射（全小写 key → 标准名称）────────
 
@@ -871,22 +864,23 @@ interface ParsedIssue {
   errors: unknown[];
 }
 
-function loadAllPostings(): JobPosting[] {
-  if (!existsSync(PARSED_DIR)) return [];
+async function loadAllPostings(): Promise<JobPosting[]> {
+  const keys = await listKeys("parsed/");
+  if (keys.length === 0) return [];
 
-  const files = readdirSync(PARSED_DIR).filter((f) => f.endsWith(".json"));
   const allPostings: JobPosting[] = [];
 
-  for (const file of files) {
-    try {
-      const data = JSON.parse(
-        readFileSync(join(PARSED_DIR, file), "utf-8"),
-      ) as ParsedIssue;
-      if (data.postings?.length) {
+  // Batch read with concurrency
+  const BATCH = 10;
+  for (let i = 0; i < keys.length; i += BATCH) {
+    const batch = keys.slice(i, i + BATCH);
+    const results = await Promise.all(
+      batch.map(key => readJSON<ParsedIssue>(key))
+    );
+    for (const data of results) {
+      if (data?.postings?.length) {
         allPostings.push(...data.postings);
       }
-    } catch (err) {
-      console.warn(`  跳过无效文件: ${file} — ${err}`);
     }
   }
 
@@ -1345,25 +1339,22 @@ function generateMockPostings(): JobPosting[] {
 
 // ── 输出 ──────────────────────────────────────────────
 
-function writeJSON(filename: string, data: unknown): void {
-  const filePath = join(OUT_DIR, filename);
-  writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
-  console.log(`  -> ${filePath}`);
+async function writeOutput(filename: string, data: unknown): Promise<void> {
+  await writeR2JSON(`aggregated/${filename}`, data);
+  console.log(`  -> R2: aggregated/${filename}`);
 }
 
 // ── 主流程 ────────────────────────────────────────────
 
-function main() {
-  mkdirSync(OUT_DIR, { recursive: true });
-
+async function main() {
   console.log("=== whoishiring-insight 数据聚合 ===\n");
 
   // 加载真实数据
-  let postings = loadAllPostings();
+  let postings = await loadAllPostings();
   let useMock = false;
 
   if (postings.length === 0) {
-    console.log("data/parsed/ 没有数据，生成 mock 数据用于开发...\n");
+    console.log("R2 parsed/ 没有数据，生成 mock 数据用于开发...\n");
     postings = generateMockPostings();
     useMock = true;
   } else {
@@ -1375,12 +1366,12 @@ function main() {
 
   // 写入文件
   console.log("写入聚合数据文件:");
-  writeJSON("monthly-stats.json", result.monthlyStats);
-  writeJSON("overview.json", result.overview);
-  writeJSON("city-stats.json", result.cityStats);
-  writeJSON("tech-stats.json", result.techStats);
-  writeJSON("company-stats.json", result.companyStats);
-  writeJSON("trend-stats.json", result.trendStats);
+  await writeOutput("monthly-stats.json", result.monthlyStats);
+  await writeOutput("overview.json", result.overview);
+  await writeOutput("city-stats.json", result.cityStats);
+  await writeOutput("tech-stats.json", result.techStats);
+  await writeOutput("company-stats.json", result.companyStats);
+  await writeOutput("trend-stats.json", result.trendStats);
 
   // 统计摘要
   console.log(`\n=== 聚合完成 ===`);

@@ -26,3 +26,7 @@ Thumbs.db
 
 # playwright mcp
 .playwright-mcp/
+
+# data (stored in R2)
+data/
+src/data/*.json

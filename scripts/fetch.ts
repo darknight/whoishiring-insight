@@ -12,12 +12,7 @@
  */
 
 import { Octokit } from "@octokit/rest";
-import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from "node:fs";
-import { resolve, dirname } from "node:path";
-import { fileURLToPath } from "node:url";
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const RAW_DIR = resolve(__dirname, "../data/raw");
+import { readJSON, writeJSON, listKeys } from "./lib/r2.ts";
 
 const OWNER = "ruanyf";
 const REPO = "weekly";
@@ -282,33 +277,19 @@ async function searchHiringIssues(octokit: Octokit): Promise<IssueInfo[]> {
 
 // --- Init/Incremental mode detection ---
 
-function isInitMode(): boolean {
-  if (!existsSync(RAW_DIR)) return true;
-  try {
-    const files = readdirSync(RAW_DIR).filter((f) => f.endsWith(".json"));
-    return files.length === 0;
-  } catch {
-    return true;
-  }
+async function isInitMode(): Promise<boolean> {
+  const keys = await listKeys("raw/");
+  return keys.length === 0;
 }
 
 // --- Load / save ---
 
-function loadExistingData(issueNumber: number): IssueData | null {
-  const filePath = resolve(RAW_DIR, `${issueNumber}.json`);
-  if (!existsSync(filePath)) return null;
-  try {
-    const raw = readFileSync(filePath, "utf-8");
-    return JSON.parse(raw) as IssueData;
-  } catch {
-    return null;
-  }
+async function loadExistingData(issueNumber: number): Promise<IssueData | null> {
+  return readJSON<IssueData>(`raw/${issueNumber}.json`);
 }
 
-function saveIssueData(data: IssueData): void {
-  mkdirSync(RAW_DIR, { recursive: true });
-  const filePath = resolve(RAW_DIR, `${data.issueNumber}.json`);
-  writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
+async function saveIssueData(data: IssueData): Promise<void> {
+  await writeJSON(`raw/${data.issueNumber}.json`, data);
 }
 
 // --- Comment-level merge logic ---
@@ -373,7 +354,7 @@ async function main() {
   const octokit = createOctokit();
   await checkRateLimit(octokit);
 
-  const initMode = isInitMode();
+  const initMode = await isInitMode();
   console.log(`[模式] ${initMode ? "初始化模式（data/raw/ 为空）" : "增量模式（data/raw/ 已有数据）"}\n`);
 
   // 1) Search all "谁在招人" issues
@@ -490,7 +471,7 @@ async function main() {
     );
 
     // Load existing data for comment-level merge
-    const existing = loadExistingData(issueNumber);
+    const existing = await loadExistingData(issueNumber);
 
     try {
       // Fetch all comments via GraphQL
@@ -551,7 +532,7 @@ async function main() {
         fetchedAt: new Date().toISOString(),
       };
 
-      saveIssueData(issueData);
+      await saveIssueData(issueData);
     } catch (err: any) {
       console.error(`  获取 #${issueNumber} 失败: ${err.message}`);
       // Continue with other issues
@@ -574,12 +555,8 @@ async function main() {
   console.log(`  跳过（无变化）: ${totalStats.skipped}`);
   console.log(`  删除（不再存在）: ${totalStats.removed}`);
 
-  const allFiles = [...allIssueNumbers]
-    .sort((a, b) => a - b)
-    .filter((n) => existsSync(resolve(RAW_DIR, `${n}.json`)));
-  console.log(
-    `\n共有 ${allFiles.length} 个 Issue 数据文件在 data/raw/（本次处理 ${totalToProcess} 个）`
-  );
+  const allRawKeys = await listKeys("raw/");
+  console.log(`\n共有 ${allRawKeys.length} 个 Issue 数据文件在 R2 raw/（本次处理 ${totalToProcess} 个）`);
 }
 
 main().catch((err) => {

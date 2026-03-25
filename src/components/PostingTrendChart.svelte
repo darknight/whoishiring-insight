@@ -105,28 +105,19 @@
       },
       series: [
         {
-          type: 'line',
+          type: 'bar',
           data: counts,
-          smooth: 0.3,
-          symbol: 'none',
-          lineStyle: {
-            width: 2,
-            color: new echarts.graphic.LinearGradient(0, 0, 1, 0, [
+          barMaxWidth: 24,
+          itemStyle: {
+            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
               { offset: 0, color: '#3b82f6' },
               { offset: 1, color: '#60a5fa' },
             ]),
-          },
-          areaStyle: {
-            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
-              { offset: 0, color: dark ? 'rgba(59,130,246,0.2)' : 'rgba(59,130,246,0.12)' },
-              { offset: 1, color: 'rgba(59,130,246,0)' },
-            ]),
+            borderRadius: [3, 3, 0, 0],
           },
           emphasis: {
             itemStyle: {
-              color: '#3b82f6',
-              borderColor: '#fff',
-              borderWidth: 2,
+              color: '#2563eb',
             },
           },
         },
